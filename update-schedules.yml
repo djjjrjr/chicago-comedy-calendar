@@ -28,9 +28,22 @@ jobs:
         run: playwright install chromium
 
       - name: Run scraper
+        id: scrape
         run: python scraper.py
+        continue-on-error: true
+
+      - name: Check scraper result
+        run: |
+          if [ ${{ steps.scrape.outcome }} == 'failure' ]; then
+            echo "⚠️ Scraper failed - keeping existing shows.json"
+            echo "This prevents the site from showing empty results"
+            exit 0
+          else
+            echo "✓ Scraper succeeded"
+          fi
 
       - name: Commit and push if changed
+        if: steps.scrape.outcome == 'success'
         run: |
           git config --global user.name 'Comedy Calendar Bot'
           git config --global user.email 'bot@github-actions'
