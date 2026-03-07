@@ -85,23 +85,37 @@ function setupEventListeners() {
         });
     }
 
-    // Date range filters
-    const dateFilterStartEl = document.getElementById('dateFilterStart');
-    const dateFilterEndEl = document.getElementById('dateFilterEnd');
-
-    if (dateFilterStartEl) {
-        dateFilterStartEl.addEventListener('change', (e) => {
-            dateFilterStart = e.target.value;
-            filterAndDisplayShows();
+    // Date picker modal
+    const datePickerInput = document.getElementById('datePickerInput');
+    if (datePickerInput) {
+        datePickerInput.addEventListener('click', () => {
+            document.getElementById('datePickerModal').classList.remove('hidden');
         });
     }
 
-    if (dateFilterEndEl) {
-        dateFilterEndEl.addEventListener('change', (e) => {
-            dateFilterEnd = e.target.value;
-            filterAndDisplayShows();
+    // Radio button handling
+    const radioButtons = document.querySelectorAll('input[name="dateMode"]');
+    radioButtons.forEach(radio => {
+        radio.addEventListener('change', (e) => {
+            const singleDate = document.getElementById('singleDate');
+            const rangeStart = document.getElementById('rangeStart');
+            const rangeEnd = document.getElementById('rangeEnd');
+
+            if (e.target.value === 'single') {
+                singleDate.disabled = false;
+                rangeStart.disabled = true;
+                rangeEnd.disabled = true;
+            } else {
+                singleDate.disabled = true;
+                rangeStart.disabled = false;
+                rangeEnd.disabled = false;
+            }
         });
-    }
+    });
+
+    // Initialize - disable range inputs by default
+    document.getElementById('rangeStart').disabled = true;
+    document.getElementById('rangeEnd').disabled = true;
 
     // Venue filter buttons
     const filterBtns = document.querySelectorAll('[data-filter]');
@@ -469,3 +483,94 @@ if (document.readyState === 'loading') {
 } else {
     init();
 }
+
+// Date Picker Modal Functions
+function closeDatePicker() {
+    document.getElementById('datePickerModal').classList.add('hidden');
+}
+
+function clearDateFilter() {
+    dateFilterStart = '';
+    dateFilterEnd = '';
+    document.getElementById('singleDate').value = '';
+    document.getElementById('rangeStart').value = '';
+    document.getElementById('rangeEnd').value = '';
+    document.getElementById('datePickerInput').value = '';
+    closeDatePicker();
+    filterAndDisplayShows();
+}
+
+function applyDateFilter() {
+    const mode = document.querySelector('input[name="dateMode"]:checked').value;
+    const datePickerInput = document.getElementById('datePickerInput');
+
+    if (mode === 'single') {
+        const singleDate = document.getElementById('singleDate').value;
+        if (singleDate) {
+            dateFilterStart = singleDate;
+            dateFilterEnd = singleDate;
+
+            // Format for display
+            const dateObj = new Date(singleDate + 'T00:00:00');
+            const formatted = dateObj.toLocaleDateString('en-US', {
+                month: 'short',
+                day: 'numeric',
+                year: 'numeric'
+            });
+            datePickerInput.value = formatted;
+        }
+    } else {
+        const rangeStart = document.getElementById('rangeStart').value;
+        const rangeEnd = document.getElementById('rangeEnd').value;
+
+        if (rangeStart || rangeEnd) {
+            dateFilterStart = rangeStart;
+            dateFilterEnd = rangeEnd;
+
+            // Format for display
+            let displayText = '';
+            if (rangeStart && rangeEnd) {
+                const startObj = new Date(rangeStart + 'T00:00:00');
+                const endObj = new Date(rangeEnd + 'T00:00:00');
+                const startFormatted = startObj.toLocaleDateString('en-US', {
+                    month: 'short',
+                    day: 'numeric'
+                });
+                const endFormatted = endObj.toLocaleDateString('en-US', {
+                    month: 'short',
+                    day: 'numeric',
+                    year: 'numeric'
+                });
+                displayText = `${startFormatted} - ${endFormatted}`;
+            } else if (rangeStart) {
+                const startObj = new Date(rangeStart + 'T00:00:00');
+                const startFormatted = startObj.toLocaleDateString('en-US', {
+                    month: 'short',
+                    day: 'numeric',
+                    year: 'numeric'
+                });
+                displayText = `From ${startFormatted}`;
+            } else if (rangeEnd) {
+                const endObj = new Date(rangeEnd + 'T00:00:00');
+                const endFormatted = endObj.toLocaleDateString('en-US', {
+                    month: 'short',
+                    day: 'numeric',
+                    year: 'numeric'
+                });
+                displayText = `Until ${endFormatted}`;
+            }
+            datePickerInput.value = displayText;
+        }
+    }
+
+    closeDatePicker();
+    filterAndDisplayShows();
+}
+
+// Close modal when clicking outside
+document.addEventListener('click', (e) => {
+    const modal = document.getElementById('datePickerModal');
+    if (modal && e.target === modal) {
+        closeDatePicker();
+    }
+});

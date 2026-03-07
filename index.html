@@ -27,8 +27,40 @@
         <div class="search-controls">
             <div class="search-bar">
                 <input type="text" id="searchInput" placeholder="Search shows...">
-                <input type="date" id="dateFilterStart" placeholder="From date">
-                <input type="date" id="dateFilterEnd" placeholder="To date">
+                <input type="text" id="datePickerInput" placeholder="Filter by date or date range..." readonly>
+            </div>
+
+            <div id="datePickerModal" class="date-modal hidden">
+                <div class="date-modal-content">
+                    <div class="date-modal-header">
+                        <h3>Select Date or Date Range</h3>
+                        <button class="close-modal" onclick="closeDatePicker()">✕</button>
+                    </div>
+                    <div class="date-modal-body">
+                        <div class="date-option">
+                            <label>
+                                <input type="radio" name="dateMode" value="single" checked>
+                                Single Date
+                            </label>
+                            <input type="date" id="singleDate">
+                        </div>
+                        <div class="date-option">
+                            <label>
+                                <input type="radio" name="dateMode" value="range">
+                                Date Range
+                            </label>
+                            <div class="date-range-inputs">
+                                <input type="date" id="rangeStart" placeholder="From">
+                                <span>to</span>
+                                <input type="date" id="rangeEnd" placeholder="To">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="date-modal-footer">
+                        <button class="btn-secondary" onclick="clearDateFilter()">Clear</button>
+                        <button class="btn-primary" onclick="applyDateFilter()">Apply</button>
+                    </div>
+                </div>
             </div>
 
             <div class="filter-section">
