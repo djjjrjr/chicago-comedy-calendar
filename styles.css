@@ -107,7 +107,7 @@ body {
     flex-wrap: wrap;
 }
 
-#searchInput, #dateFilter {
+#searchInput, #dateFilterStart, #dateFilterEnd {
     flex: 1;
     min-width: 200px;
     padding: 16px 20px;
@@ -120,12 +120,15 @@ body {
     text-transform: uppercase;
 }
 
-#dateFilter {
+#dateFilterStart, #dateFilterEnd {
     color-scheme: light;
     cursor: pointer;
+    text-transform: none;
+    font-weight: 600;
 }
 
-#dateFilter::-webkit-calendar-picker-indicator {
+#dateFilterStart::-webkit-calendar-picker-indicator,
+#dateFilterEnd::-webkit-calendar-picker-indicator {
     filter: invert(0);
     cursor: pointer;
     background: var(--black);
@@ -133,7 +136,33 @@ body {
     border-radius: 2px;
 }
 
-#searchInput:focus, #dateFilter:focus {
+/* Make date inputs more visible when empty */
+#dateFilterStart::-webkit-datetime-edit,
+#dateFilterEnd::-webkit-datetime-edit {
+    color: var(--black);
+}
+
+#dateFilterStart::-webkit-datetime-edit-fields-wrapper,
+#dateFilterEnd::-webkit-datetime-edit-fields-wrapper {
+    padding: 0;
+}
+
+/* Show placeholder-style text when empty */
+#dateFilterStart[value=""]::-webkit-datetime-edit,
+#dateFilterEnd[value=""]::-webkit-datetime-edit {
+    color: rgba(0, 0, 0, 0.4);
+}
+
+#dateFilterStart::-webkit-datetime-edit-month-field:not([value]),
+#dateFilterStart::-webkit-datetime-edit-day-field:not([value]),
+#dateFilterStart::-webkit-datetime-edit-year-field:not([value]),
+#dateFilterEnd::-webkit-datetime-edit-month-field:not([value]),
+#dateFilterEnd::-webkit-datetime-edit-day-field:not([value]),
+#dateFilterEnd::-webkit-datetime-edit-year-field:not([value]) {
+    color: rgba(0, 0, 0, 0.4);
+}
+
+#searchInput:focus, #dateFilterStart:focus, #dateFilterEnd:focus {
     outline: none;
     border-color: var(--chicago-red);
 }

@@ -5,7 +5,8 @@ let currentFilter = 'all';
 let currentView = 'date';
 let currentTypeFilter = 'all';
 let searchTerm = '';
-let selectedDate = '';
+let dateFilterStart = '';
+let dateFilterEnd = '';
 
 // Venue configurations with location data
 const venues = {
@@ -84,11 +85,20 @@ function setupEventListeners() {
         });
     }
 
-    // Date filter
-    const dateFilter = document.getElementById('dateFilter');
-    if (dateFilter) {
-        dateFilter.addEventListener('change', (e) => {
-            selectedDate = e.target.value;
+    // Date range filters
+    const dateFilterStartEl = document.getElementById('dateFilterStart');
+    const dateFilterEndEl = document.getElementById('dateFilterEnd');
+
+    if (dateFilterStartEl) {
+        dateFilterStartEl.addEventListener('change', (e) => {
+            dateFilterStart = e.target.value;
+            filterAndDisplayShows();
+        });
+    }
+
+    if (dateFilterEndEl) {
+        dateFilterEndEl.addEventListener('change', (e) => {
+            dateFilterEnd = e.target.value;
             filterAndDisplayShows();
         });
     }
@@ -242,11 +252,25 @@ function filterAndDisplayShows() {
         );
     }
 
-    // Filter by date
-    if (selectedDate) {
+    // Filter by date range
+    if (dateFilterStart || dateFilterEnd) {
         filteredShows = filteredShows.filter(show => {
             const showDate = new Date(show.date).toISOString().split('T')[0];
-            return showDate === selectedDate;
+
+            // If both dates set, check if show is in range
+            if (dateFilterStart && dateFilterEnd) {
+                return showDate >= dateFilterStart && showDate <= dateFilterEnd;
+            }
+            // If only start date, show dates on or after
+            else if (dateFilterStart) {
+                return showDate >= dateFilterStart;
+            }
+            // If only end date, show dates on or before
+            else if (dateFilterEnd) {
+                return showDate <= dateFilterEnd;
+            }
+
+            return true;
         });
     }
 
