@@ -22,7 +22,8 @@ Your GitHub token doesn't have `workflow` permission, so you need to manually ad
 **The workflow will:**
 - Run daily at midnight Chicago time
 - Scrape all 7 venues from Do312
-- Update `shows.json` automatically
+- Update `shows.json` automatically (only if scraping succeeds)
+- Keep existing data if scraping fails (prevents empty results)
 - Deploy to GitHub Pages
 
 ### Step 2: Test the Scraper Locally (Optional)
