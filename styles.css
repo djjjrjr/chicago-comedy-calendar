@@ -268,18 +268,6 @@ body {
     box-shadow: 5px 5px 0 var(--black);
 }
 
-.show-card[data-comedy-type*="sketch"] {
-    border-left: 8px solid var(--chicago-blue);
-}
-
-.show-card[data-comedy-type*="standup"] {
-    border-left: 8px solid var(--chicago-red);
-}
-
-.show-card[data-comedy-type*="improv"] {
-    border-left: 8px solid var(--chicago-light-blue);
-}
-
 .venue-tag {
     display: inline-block;
     padding: 8px 16px;
