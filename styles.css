@@ -115,8 +115,19 @@ body {
     color: var(--black);
     font-size: 1rem;
     font-family: 'Archivo', sans-serif;
-    font-weight: 600;
+    font-weight: 700;
     box-shadow: 6px 6px 0 var(--black);
+    text-transform: uppercase;
+}
+
+#dateFilter {
+    color-scheme: light;
+    cursor: pointer;
+}
+
+#dateFilter::-webkit-calendar-picker-indicator {
+    filter: invert(0);
+    cursor: pointer;
 }
 
 #searchInput:focus, #dateFilter:focus {
@@ -127,6 +138,8 @@ body {
 
 #searchInput::placeholder {
     color: rgba(0, 0, 0, 0.4);
+    text-transform: none;
+    font-weight: 600;
 }
 
 .view-controls {

@@ -93,13 +93,13 @@ function setupEventListeners() {
         });
     }
 
-    // View toggle buttons
-    const viewBtns = document.querySelectorAll('.view-btn[data-view]');
-    viewBtns.forEach(btn => {
+    // Venue filter buttons
+    const filterBtns = document.querySelectorAll('[data-filter]');
+    filterBtns.forEach(btn => {
         btn.addEventListener('click', () => {
-            viewBtns.forEach(b => b.classList.remove('active'));
+            filterBtns.forEach(b => b.classList.remove('active'));
             btn.classList.add('active');
-            currentView = btn.dataset.view;
+            currentFilter = btn.dataset.filter;
             filterAndDisplayShows();
         });
     });
@@ -111,6 +111,17 @@ function setupEventListeners() {
             typeFilterBtns.forEach(b => b.classList.remove('active'));
             btn.classList.add('active');
             currentTypeFilter = btn.dataset.typeFilter;
+            filterAndDisplayShows();
+        });
+    });
+
+    // View toggle buttons
+    const viewBtns = document.querySelectorAll('.view-btn[data-view]');
+    viewBtns.forEach(btn => {
+        btn.addEventListener('click', () => {
+            viewBtns.forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            currentView = btn.dataset.view;
             filterAndDisplayShows();
         });
     });

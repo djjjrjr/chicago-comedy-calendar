@@ -30,10 +30,18 @@
                 <input type="date" id="dateFilter" placeholder="Filter by date">
             </div>
 
-            <div class="view-controls">
-                <button class="view-btn active" data-view="date">Group by Date</button>
-                <button class="view-btn" data-view="venue">Group by Venue</button>
-                <button class="view-btn" data-view="list">List View</button>
+            <div class="filter-section">
+                <span class="filter-label">Venues</span>
+                <div class="view-controls">
+                    <button class="filter-btn active" data-filter="all">All Venues</button>
+                    <button class="filter-btn" data-filter="second-city">Second City</button>
+                    <button class="filter-btn" data-filter="io-theater">iO Theater</button>
+                    <button class="filter-btn" data-filter="annoyance">Annoyance Theatre</button>
+                    <button class="filter-btn" data-filter="zanies">Zanies</button>
+                    <button class="filter-btn" data-filter="laugh-factory">Laugh Factory</button>
+                    <button class="filter-btn" data-filter="lincoln-lodge">Lincoln Lodge</button>
+                    <button class="filter-btn" data-filter="den-theatre">Den Theatre</button>
+                </div>
             </div>
 
             <div class="filter-section">
@@ -43,6 +51,15 @@
                     <button class="filter-btn" data-type-filter="improv">Improv</button>
                     <button class="filter-btn" data-type-filter="standup">Standup</button>
                     <button class="filter-btn" data-type-filter="sketch">Sketch</button>
+                </div>
+            </div>
+
+            <div class="filter-section">
+                <span class="filter-label">View</span>
+                <div class="view-controls">
+                    <button class="view-btn active" data-view="date">Group by Date</button>
+                    <button class="view-btn" data-view="venue">Group by Venue</button>
+                    <button class="view-btn" data-view="list">List View</button>
                 </div>
             </div>
         </div>
