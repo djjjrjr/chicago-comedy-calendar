@@ -240,6 +240,8 @@ body {
     margin-bottom: 40px;
 }
 
+.date-group-header,
+.venue-group-header,
 .group-header {
     background: var(--black);
     color: var(--chicago-light-blue);
@@ -248,16 +250,43 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-bottom: 24px;
+    margin-bottom: 0;
     transition: all 0.1s ease;
-    border: none;
+    border: 6px solid var(--black);
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 1.25rem;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: -2px;
 }
 
+.date-group-header:hover,
+.venue-group-header:hover,
 .group-header:hover {
     background: var(--chicago-red);
     color: var(--white);
     transform: translate(-3px, -3px);
     box-shadow: 6px 6px 0 var(--black);
+}
+
+.date-group-header.collapsed .arrow,
+.venue-group-header.collapsed .arrow {
+    transform: rotate(-90deg);
+}
+
+.arrow {
+    transition: transform 0.2s ease;
+    font-size: 1.5rem;
+}
+
+.date-group-shows,
+.venue-group-shows {
+    padding-top: 24px;
+}
+
+.date-group-shows.hidden,
+.venue-group-shows.hidden {
+    display: none;
 }
 
 .group-header h2 {
