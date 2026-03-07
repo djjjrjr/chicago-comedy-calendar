@@ -90,8 +90,8 @@ def scrape_do312_venue(page, venue_id: str, venue_config: Dict) -> List[Dict]:
 
                 eventElements.forEach((el, index) => {
                     try {
-                        // Do312 structure: h3 for title
-                        const titleEl = el.querySelector('h3');
+                        // Do312 structure: .ds-listing-event-title-text for title
+                        const titleEl = el.querySelector('.ds-listing-event-title-text');
                         const title = titleEl ? titleEl.textContent.trim() : '';
 
                         if (!title) {
@@ -99,12 +99,18 @@ def scrape_do312_venue(page, venue_id: str, venue_config: Dict) -> List[Dict]:
                             return;
                         }
 
-                        // Extract date from .ds-listing-date (just day number)
-                        const dateEl = el.querySelector('.ds-listing-date');
-                        const dateStr = dateEl ? dateEl.textContent.trim() : '';
+                        // Extract date from URL path (e.g., /events/2026/3/7/...)
+                        const linkEl = el.querySelector('a[href*="/events/"]');
+                        let dateStr = '';
+                        if (linkEl) {
+                            const match = linkEl.href.match(/\/events\/(\d{4})\/(\d{1,2})\/(\d{1,2})\//);
+                            if (match) {
+                                dateStr = `${match[1]}-${match[2].padStart(2, '0')}-${match[3].padStart(2, '0')}`;
+                            }
+                        }
 
-                        // Extract time from .ds-listing-time
-                        const timeEl = el.querySelector('.ds-listing-time');
+                        // Extract time from .ds-event-time
+                        const timeEl = el.querySelector('.ds-event-time');
                         const time = timeEl ? timeEl.textContent.trim() : '';
 
                         // Extract link from main <a> tag or data-permalink
@@ -142,13 +148,19 @@ def scrape_do312_venue(page, venue_id: str, venue_config: Dict) -> List[Dict]:
                 print(f"    Event {i}: Skipped (no title)")
                 continue
 
-            # Parse date - Do312 typically uses dates like "Today Mar 6" or actual dates
+            # Parse date from URL format (YYYY-MM-DD)
             date_str = event.get('dateStr', '')
             time_str = event.get('time', '')
 
-            # For now, use a placeholder date if we can't parse it
-            # In production, you'd want proper date parsing
-            date_iso = datetime.now().isoformat()
+            # Convert to ISO format with time
+            if date_str:
+                try:
+                    date_obj = datetime.strptime(date_str, '%Y-%m-%d')
+                    date_iso = date_obj.isoformat() + 'Z'
+                except ValueError:
+                    date_iso = datetime.now().isoformat() + 'Z'
+            else:
+                date_iso = datetime.now().isoformat() + 'Z'
 
             show = {
                 'venue': venue_id,
