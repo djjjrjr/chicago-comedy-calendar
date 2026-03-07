@@ -31,8 +31,9 @@ Visit: [https://djjjrjr.github.io/chicago-comedy-calendar](https://djjjrjr.githu
 - Client-side filtering and sorting
 
 ### Scraper
-- Python script using BeautifulSoup
-- Scrapes show information from each venue's website
+- Python script using Playwright (headless browser)
+- Scrapes show information from Do312.com (Chicago event aggregator)
+- Single source for all 7 venues - much simpler!
 - Outputs to `shows.json`
 
 ### Automation

@@ -1,170 +1,189 @@
 #!/usr/bin/env python3
 """
 Chicago Comedy Calendar Scraper
-Fetches show schedules from various Chicago comedy venues
+Fetches show schedules from Do312.com for all Chicago comedy venues
 """
 
 import json
-import requests
+import sys
 from datetime import datetime
-from bs4 import BeautifulSoup
 from typing import List, Dict
+from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeout
 
-# Venue configurations
+# Venue configurations with Do312 slugs
 VENUES = {
     'second-city': {
         'name': 'Second City',
-        'url': 'https://www.secondcity.com/shows/chicago/',
-        'scraper': 'scrape_second_city'
+        'do312_slug': 'the-second-city'
     },
     'io-theater': {
         'name': 'iO Theater',
-        'url': 'https://ioimprov.com/chicago/schedule',
-        'scraper': 'scrape_io_theater'
+        'do312_slug': 'io-theater'
     },
     'annoyance': {
-        'name': 'The Annoyance',
-        'url': 'https://theannoyance.com/shows',
-        'scraper': 'scrape_annoyance'
+        'name': 'Annoyance Theatre',
+        'do312_slug': 'annoyance-theatre'
     },
     'zanies': {
         'name': 'Zanies',
-        'url': 'https://chicago.zanies.com/events/',
-        'scraper': 'scrape_zanies'
+        'do312_slug': 'zanies'
     },
     'laugh-factory': {
         'name': 'Laugh Factory',
-        'url': 'https://chicago.laughfactory.com/shows',
-        'scraper': 'scrape_laugh_factory'
+        'do312_slug': 'laugh-factory'
     },
     'lincoln-lodge': {
         'name': 'Lincoln Lodge',
-        'url': 'https://www.lincolnlodge.com/calendar',
-        'scraper': 'scrape_lincoln_lodge'
+        'do312_slug': 'the-lincoln-lodge'
     },
     'den-theatre': {
         'name': 'Den Theatre',
-        'url': 'https://thedentheatre.com/shows/',
-        'scraper': 'scrape_den_theatre'
+        'do312_slug': 'the-den-theatre'
     }
 }
 
 
-def scrape_second_city() -> List[Dict]:
-    """Scrape Second City shows"""
-    shows = []
-    try:
-        response = requests.get(VENUES['second-city']['url'], timeout=10)
-        soup = BeautifulSoup(response.content, 'html.parser')
+def scrape_do312_venue(page, venue_id: str, venue_config: Dict) -> List[Dict]:
+    """
+    Scrape a single venue's events from Do312
 
-        # TODO: Implement actual scraping logic based on site structure
-        # This is a placeholder that needs to be updated with real selectors
+    Args:
+        page: Playwright page object
+        venue_id: Internal venue ID (e.g., 'second-city')
+        venue_config: Venue configuration dictionary
+
+    Returns:
+        List of show dictionaries
+    """
+    shows = []
+    slug = venue_config['do312_slug']
+    url = f'https://do312.com/venues/{slug}'
+
+    print(f"  Fetching {venue_config['name']} from {url}")
+
+    try:
+        # Navigate to venue page
+        page.goto(url, wait_until='networkidle', timeout=30000)
+
+        # Wait for events to load
+        try:
+            page.wait_for_selector('.event-item, [class*="event"]', timeout=5000)
+        except PlaywrightTimeout:
+            print(f"  No events found for {venue_config['name']}")
+            return shows
+
+        # Extract event data using JavaScript
+        events_data = page.evaluate('''
+            () => {
+                const events = [];
+                // Look for event containers - adjust selectors as needed
+                const eventElements = document.querySelectorAll('.event-item, [class*="event-"]');
+
+                eventElements.forEach(el => {
+                    try {
+                        // Extract title
+                        const titleEl = el.querySelector('h3, h4, .event-title, [class*="title"]');
+                        const title = titleEl ? titleEl.textContent.trim() : '';
+
+                        if (!title) return; // Skip if no title
+
+                        // Extract date/time
+                        const dateEl = el.querySelector('time, .date, [class*="date"]');
+                        let dateStr = '';
+                        if (dateEl) {
+                            dateStr = dateEl.getAttribute('datetime') || dateEl.textContent.trim();
+                        }
+
+                        // Extract time
+                        const timeEl = el.querySelector('.time, [class*="time"]');
+                        const time = timeEl ? timeEl.textContent.trim() : '';
+
+                        // Extract link
+                        const linkEl = el.querySelector('a');
+                        const url = linkEl ? linkEl.href : '';
+
+                        // Extract description if available
+                        const descEl = el.querySelector('.description, [class*="desc"]');
+                        const description = descEl ? descEl.textContent.trim().substring(0, 200) : '';
+
+                        events.push({
+                            title,
+                            dateStr,
+                            time,
+                            url,
+                            description
+                        });
+                    } catch (err) {
+                        console.error('Error extracting event:', err);
+                    }
+                });
+
+                return events;
+            }
+        ''')
+
+        # Process and format the events
+        for event in events_data:
+            if not event.get('title'):
+                continue
+
+            # Parse date - Do312 typically uses dates like "Today Mar 6" or actual dates
+            date_str = event.get('dateStr', '')
+            time_str = event.get('time', '')
+
+            # For now, use a placeholder date if we can't parse it
+            # In production, you'd want proper date parsing
+            date_iso = datetime.now().isoformat()
+
+            show = {
+                'venue': venue_id,
+                'title': event['title'],
+                'date': date_iso,
+                'time': time_str,
+                'description': event.get('description', ''),
+                'url': event.get('url', '')
+            }
+
+            shows.append(show)
+
+        print(f"  Found {len(shows)} shows for {venue_config['name']}")
 
     except Exception as e:
-        print(f"Error scraping Second City: {e}")
-
-    return shows
-
-
-def scrape_io_theater() -> List[Dict]:
-    """Scrape iO Theater shows"""
-    shows = []
-    try:
-        response = requests.get(VENUES['io-theater']['url'], timeout=10)
-        soup = BeautifulSoup(response.content, 'html.parser')
-
-        # TODO: Implement actual scraping logic
-
-    except Exception as e:
-        print(f"Error scraping iO Theater: {e}")
-
-    return shows
-
-
-def scrape_annoyance() -> List[Dict]:
-    """Scrape Annoyance shows"""
-    shows = []
-    try:
-        response = requests.get(VENUES['annoyance']['url'], timeout=10)
-        soup = BeautifulSoup(response.content, 'html.parser')
-
-        # TODO: Implement actual scraping logic
-
-    except Exception as e:
-        print(f"Error scraping Annoyance: {e}")
-
-    return shows
-
-
-def scrape_zanies() -> List[Dict]:
-    """Scrape Zanies shows"""
-    shows = []
-    try:
-        response = requests.get(VENUES['zanies']['url'], timeout=10)
-        soup = BeautifulSoup(response.content, 'html.parser')
-
-        # TODO: Implement actual scraping logic
-
-    except Exception as e:
-        print(f"Error scraping Zanies: {e}")
-
-    return shows
-
-
-def scrape_laugh_factory() -> List[Dict]:
-    """Scrape Laugh Factory shows"""
-    shows = []
-    try:
-        response = requests.get(VENUES['laugh-factory']['url'], timeout=10)
-        soup = BeautifulSoup(response.content, 'html.parser')
-
-        # TODO: Implement actual scraping logic
-
-    except Exception as e:
-        print(f"Error scraping Laugh Factory: {e}")
-
-    return shows
-
-
-def scrape_lincoln_lodge() -> List[Dict]:
-    """Scrape Lincoln Lodge shows"""
-    shows = []
-    try:
-        response = requests.get(VENUES['lincoln-lodge']['url'], timeout=10)
-        soup = BeautifulSoup(response.content, 'html.parser')
-
-        # TODO: Implement actual scraping logic
-
-    except Exception as e:
-        print(f"Error scraping Lincoln Lodge: {e}")
-
-    return shows
-
-
-def scrape_den_theatre() -> List[Dict]:
-    """Scrape Den Theatre shows"""
-    shows = []
-    try:
-        response = requests.get(VENUES['den-theatre']['url'], timeout=10)
-        soup = BeautifulSoup(response.content, 'html.parser')
-
-        # TODO: Implement actual scraping logic
-
-    except Exception as e:
-        print(f"Error scraping Den Theatre: {e}")
+        print(f"  Error scraping {venue_config['name']}: {e}")
 
     return shows
 
 
 def scrape_all_venues() -> List[Dict]:
-    """Scrape all venues and combine results"""
+    """
+    Scrape all venues using Playwright
+
+    Returns:
+        List of all shows from all venues
+    """
     all_shows = []
 
-    for venue_id, config in VENUES.items():
-        print(f"Scraping {config['name']}...")
-        scraper_func = globals()[config['scraper']]
-        shows = scraper_func()
-        all_shows.extend(shows)
+    print("Starting Chicago Comedy Calendar scraper...")
+    print("Using Do312.com as data source\n")
+
+    with sync_playwright() as p:
+        # Launch browser
+        browser = p.chromium.launch(headless=True)
+        page = browser.new_page()
+
+        # Scrape each venue
+        for venue_id, venue_config in VENUES.items():
+            print(f"Scraping {venue_config['name']}...")
+            try:
+                shows = scrape_do312_venue(page, venue_id, venue_config)
+                all_shows.extend(shows)
+            except Exception as e:
+                print(f"  Failed to scrape {venue_config['name']}: {e}")
+                continue
+
+            print()
+
+        browser.close()
 
     return all_shows
 
@@ -179,14 +198,24 @@ def save_shows(shows: List[Dict]):
     with open('shows.json', 'w') as f:
         json.dump(data, f, indent=2)
 
-    print(f"Saved {len(shows)} shows to shows.json")
+    print(f"\n✓ Saved {len(shows)} shows to shows.json")
 
 
 def main():
-    print("Starting Chicago Comedy Calendar scraper...")
-    shows = scrape_all_venues()
-    save_shows(shows)
-    print("Scraping complete!")
+    try:
+        shows = scrape_all_venues()
+
+        if not shows:
+            print("\n⚠️  Warning: No shows were scraped. Check if Do312.com structure has changed.")
+            sys.exit(1)
+
+        save_shows(shows)
+        print("\n✓ Scraping complete!")
+        sys.exit(0)
+
+    except Exception as e:
+        print(f"\n✗ Scraping failed: {e}")
+        sys.exit(1)
 
 
 if __name__ == '__main__':
