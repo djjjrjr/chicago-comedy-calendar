@@ -6,6 +6,7 @@ Fetches show schedules from Do312.com for all Chicago comedy venues
 
 import json
 import sys
+import time
 from datetime import datetime
 from typing import List, Dict
 from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeout
@@ -62,21 +63,38 @@ def scrape_do312_venue(page, venue_id: str, venue_config: Dict) -> List[Dict]:
     print(f"  Fetching {venue_config['name']} from {url}")
 
     try:
-        # Navigate to venue page
+        # Navigate to venue page with extended timeout
         print(f"  Navigating to {url}")
-        page.goto(url, wait_until='networkidle', timeout=30000)
-        print(f"  Page loaded successfully")
+        page.goto(url, wait_until='domcontentloaded', timeout=30000)
+        print(f"  Initial page load complete")
+
+        # Wait for network to be idle (page fully loaded)
+        print(f"  Waiting for network idle...")
+        page.wait_for_load_state('networkidle', timeout=30000)
+        print(f"  Network idle - page fully loaded")
+
+        # Extra buffer for JavaScript execution
+        time.sleep(2)
+        print(f"  Buffer wait complete")
 
         # Wait for events to load - Do312 uses .ds-listing.event-card
+        print(f"  Waiting for event cards selector '.ds-listing.event-card'...")
         try:
-            page.wait_for_selector('.ds-listing.event-card', timeout=5000)
-            print(f"  Event cards found on page")
+            page.wait_for_selector('.ds-listing.event-card', timeout=15000)
+            card_count = len(page.query_selector_all('.ds-listing.event-card'))
+            print(f"  ✓ Found {card_count} event cards on page")
         except PlaywrightTimeout:
-            print(f"  ⚠️  Timeout waiting for event cards")
-            print(f"  Checking page HTML...")
+            print(f"  ⚠️  Timeout waiting for event cards after 15 seconds")
+            print(f"  Debugging page state...")
             page_content = page.content()
-            print(f"  Page length: {len(page_content)} chars")
-            print(f"  Contains 'event-card': {'event-card' in page_content}")
+            print(f"  - Page length: {len(page_content)} chars")
+            print(f"  - Contains 'event-card': {'event-card' in page_content}")
+            print(f"  - Page title: {page.title()}")
+
+            # Take screenshot for debugging
+            screenshot_path = f"debug_{venue_id}.png"
+            page.screenshot(path=screenshot_path)
+            print(f"  - Screenshot saved to {screenshot_path}")
             return shows
 
         # Extract event data using JavaScript with Do312-specific selectors
@@ -195,23 +213,60 @@ def scrape_all_venues() -> List[Dict]:
     print("Using Do312.com as data source\n")
 
     with sync_playwright() as p:
-        # Launch browser
-        browser = p.chromium.launch(headless=True)
+        # Launch browser with extra args for stability
+        print("Launching Chromium browser...")
+        browser = p.chromium.launch(
+            headless=True,
+            args=[
+                '--no-sandbox',
+                '--disable-setuid-sandbox',
+                '--disable-dev-shm-usage',
+                '--disable-gpu'
+            ]
+        )
         page = browser.new_page()
+        print("✓ Browser launched successfully\n")
 
-        # Scrape each venue
+        # Scrape each venue with retry logic
         for venue_id, venue_config in VENUES.items():
+            print(f"{'='*60}")
             print(f"Scraping {venue_config['name']}...")
-            try:
-                shows = scrape_do312_venue(page, venue_id, venue_config)
-                all_shows.extend(shows)
-            except Exception as e:
-                print(f"  Failed to scrape {venue_config['name']}: {e}")
-                continue
+            print(f"{'='*60}")
 
+            max_retries = 2
+            shows = []
+
+            for attempt in range(max_retries):
+                try:
+                    if attempt > 0:
+                        print(f"  Retry attempt {attempt + 1}/{max_retries}")
+                        time.sleep(3)  # Wait before retry
+
+                    shows = scrape_do312_venue(page, venue_id, venue_config)
+
+                    if shows:
+                        print(f"  ✓ Successfully scraped {len(shows)} shows")
+                        break
+                    elif attempt < max_retries - 1:
+                        print(f"  No shows found, retrying...")
+                    else:
+                        print(f"  ⚠️  No shows found after {max_retries} attempts")
+
+                except Exception as e:
+                    print(f"  ✗ Error on attempt {attempt + 1}: {e}")
+                    if attempt < max_retries - 1:
+                        print(f"  Retrying in 3 seconds...")
+                    else:
+                        print(f"  ✗ Failed after {max_retries} attempts")
+                        import traceback
+                        traceback.print_exc()
+
+            all_shows.extend(shows)
             print()
 
+        print("Closing browser...")
         browser.close()
+        print("✓ Browser closed\n")
 
     return all_shows
 
@@ -230,13 +285,21 @@ def save_shows(shows: List[Dict]):
 
 
 def main():
+    start_time = time.time()
+    print(f"{'='*60}")
+    print(f"Chicago Comedy Calendar Scraper")
+    print(f"Started at: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    print(f"{'='*60}\n")
+
     try:
         shows = scrape_all_venues()
 
+        elapsed = time.time() - start_time
         print(f"\n{'='*60}")
         print(f"SCRAPING SUMMARY")
         print(f"{'='*60}")
         print(f"Total shows scraped: {len(shows)}")
+        print(f"Time elapsed: {elapsed:.1f} seconds")
 
         if shows:
             # Group by venue for summary
