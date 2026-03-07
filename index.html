@@ -24,29 +24,26 @@
             </div>
         </header>
 
-        <div class="controls">
+        <div class="search-controls">
             <div class="search-bar">
-                <input type="text" id="searchInput" placeholder="Search shows..." class="search-input">
-                <input type="date" id="dateFilter" class="date-input" placeholder="Filter by date">
+                <input type="text" id="searchInput" placeholder="Search shows...">
+                <input type="date" id="dateFilter" placeholder="Filter by date">
             </div>
 
-            <div class="filters">
-                <div class="filter-group">
-                    <button class="filter-btn active" data-filter="all">All Venues</button>
-                    <button class="filter-btn" data-filter="second-city">Second City</button>
-                    <button class="filter-btn" data-filter="io-theater">iO Theater</button>
-                    <button class="filter-btn" data-filter="annoyance">Annoyance Theatre</button>
-                    <button class="filter-btn" data-filter="zanies">Zanies</button>
-                    <button class="filter-btn" data-filter="laugh-factory">Laugh Factory</button>
-                    <button class="filter-btn" data-filter="lincoln-lodge">Lincoln Lodge</button>
-                    <button class="filter-btn" data-filter="den-theatre">Den Theatre</button>
+            <div class="view-controls">
+                <button class="view-btn active" data-view="date">Group by Date</button>
+                <button class="view-btn" data-view="venue">Group by Venue</button>
+                <button class="view-btn" data-view="list">List View</button>
+            </div>
+
+            <div class="filter-section">
+                <span class="filter-label">Comedy Type</span>
+                <div class="view-controls">
+                    <button class="filter-btn active" data-type-filter="all">All Types</button>
+                    <button class="filter-btn" data-type-filter="improv">Improv</button>
+                    <button class="filter-btn" data-type-filter="standup">Standup</button>
+                    <button class="filter-btn" data-type-filter="sketch">Sketch</button>
                 </div>
-            </div>
-
-            <div class="view-toggle">
-                <button class="toggle-btn active" data-view="date">Group by Date</button>
-                <button class="toggle-btn" data-view="venue">Group by Venue</button>
-                <button class="toggle-btn" data-view="list">List View</button>
             </div>
         </div>
 

@@ -3,6 +3,7 @@ let allShows = [];
 let filteredShows = [];
 let currentFilter = 'all';
 let currentView = 'date';
+let currentTypeFilter = 'all';
 let searchTerm = '';
 let selectedDate = '';
 
@@ -92,24 +93,24 @@ function setupEventListeners() {
         });
     }
 
-    // Venue filter buttons
-    const filterBtns = document.querySelectorAll('.filter-btn');
-    filterBtns.forEach(btn => {
+    // View toggle buttons
+    const viewBtns = document.querySelectorAll('.view-btn[data-view]');
+    viewBtns.forEach(btn => {
         btn.addEventListener('click', () => {
-            filterBtns.forEach(b => b.classList.remove('active'));
+            viewBtns.forEach(b => b.classList.remove('active'));
             btn.classList.add('active');
-            currentFilter = btn.dataset.filter;
+            currentView = btn.dataset.view;
             filterAndDisplayShows();
         });
     });
 
-    // View toggle buttons
-    const toggleBtns = document.querySelectorAll('.toggle-btn');
-    toggleBtns.forEach(btn => {
+    // Comedy type filter buttons
+    const typeFilterBtns = document.querySelectorAll('[data-type-filter]');
+    typeFilterBtns.forEach(btn => {
         btn.addEventListener('click', () => {
-            toggleBtns.forEach(b => b.classList.remove('active'));
+            typeFilterBtns.forEach(b => b.classList.remove('active'));
             btn.classList.add('active');
-            currentView = btn.dataset.view;
+            currentTypeFilter = btn.dataset.typeFilter;
             filterAndDisplayShows();
         });
     });
@@ -133,6 +134,34 @@ function setupEventListeners() {
     }
 }
 
+// Detect comedy type from show title and description
+function detectComedyType(show) {
+    const text = `${show.title} ${show.description || ''}`.toLowerCase();
+    const types = [];
+
+    // Check for improv keywords
+    if (text.match(/improv|improvisation|harold|longform|shortform|whose line/i)) {
+        types.push('improv');
+    }
+
+    // Check for standup keywords
+    if (text.match(/standup|stand-up|stand up|comedian|comic|comedy night|open mic|showcase/i)) {
+        types.push('standup');
+    }
+
+    // Check for sketch keywords
+    if (text.match(/sketch|revue|skit|musical|parody|satire/i)) {
+        types.push('sketch');
+    }
+
+    // Default to standup if no type detected
+    if (types.length === 0) {
+        types.push('standup');
+    }
+
+    return types;
+}
+
 // Load shows from JSON file
 async function loadShows() {
     try {
@@ -140,6 +169,12 @@ async function loadShows() {
         const data = await response.json();
 
         allShows = data.shows || [];
+
+        // Add comedy type to each show
+        allShows = allShows.map(show => ({
+            ...show,
+            comedyTypes: detectComedyType(show)
+        }));
 
         // Update last updated time
         if (data.lastUpdated) {
@@ -172,11 +207,19 @@ async function loadShows() {
 
 // Filter and sort shows
 function filterAndDisplayShows() {
+    // Start with all shows
+    filteredShows = [...allShows];
+
     // Filter by venue
-    if (currentFilter === 'all') {
-        filteredShows = [...allShows];
-    } else {
-        filteredShows = allShows.filter(show => show.venue === currentFilter);
+    if (currentFilter !== 'all') {
+        filteredShows = filteredShows.filter(show => show.venue === currentFilter);
+    }
+
+    // Filter by comedy type
+    if (currentTypeFilter !== 'all') {
+        filteredShows = filteredShows.filter(show =>
+            show.comedyTypes && show.comedyTypes.includes(currentTypeFilter)
+        );
     }
 
     // Filter by search term
@@ -329,8 +372,11 @@ function createShowCard(show) {
         year: 'numeric'
     });
 
+    // Join comedy types for data attribute
+    const comedyTypes = show.comedyTypes ? show.comedyTypes.join(' ') : '';
+
     return `
-        <div class="show-card venue-${show.venue}">
+        <div class="show-card venue-${show.venue}" data-comedy-type="${comedyTypes}">
             <span class="venue-tag" onclick="showVenueInfo('${show.venue}')" style="cursor: pointer;">
                 ${venueInfo.name}
             </span>
