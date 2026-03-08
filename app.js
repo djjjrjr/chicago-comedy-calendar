@@ -242,8 +242,14 @@ async function loadShows() {
 
 // Filter and sort shows
 function filterAndDisplayShows() {
-    // Start with all shows
-    filteredShows = [...allShows];
+    // Start with all shows, filtering out past events
+    const today = new Date();
+    today.setHours(0, 0, 0, 0); // Start of today
+
+    filteredShows = allShows.filter(show => {
+        const showDate = new Date(show.date);
+        return showDate >= today; // Only show today and future events
+    });
 
     // Filter by venue
     if (currentFilter !== 'all') {
