@@ -224,7 +224,19 @@ def scrape_all_venues() -> List[Dict]:
                 '--disable-gpu'
             ]
         )
-        page = browser.new_page()
+
+        # Create page with realistic user agent to avoid bot detection
+        page = browser.new_page(
+            user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
+            viewport={'width': 1920, 'height': 1080}
+        )
+
+        # Set additional headers to look more like a real browser
+        page.set_extra_http_headers({
+            'Accept-Language': 'en-US,en;q=0.9',
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+        })
+
         print("✓ Browser launched successfully\n")
 
         # Scrape each venue with retry logic
