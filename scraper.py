@@ -229,7 +229,32 @@ def scrape_do312_venue(page, venue_id: str, venue_config: Dict) -> List[Dict]:
         print(f"  ✓ Found {len(shows)} shows for {venue_config['name']}")
 
     except Exception as e:
-        print(f"  Error scraping {venue_config['name']}: {e}")
+        print(f"  ✗ Error scraping {venue_config['name']}: {e}")
+        print(f"  Saving debug artifacts...")
+
+        # Try to save page state for debugging
+        try:
+            page_content = page.content()
+            page_title = page.title()
+            page_url = page.url
+
+            print(f"  - URL: {page_url}")
+            print(f"  - Page title: {page_title}")
+            print(f"  - Page length: {len(page_content)} chars")
+
+            # Save HTML
+            html_file = f"debug_{venue_id}_page.html"
+            with open(html_file, 'w', encoding='utf-8') as f:
+                f.write(page_content)
+            print(f"  - Saved page HTML to {html_file}")
+
+            # Save screenshot
+            screenshot_path = f"debug_{venue_id}.png"
+            page.screenshot(path=screenshot_path, full_page=True)
+            print(f"  - Screenshot saved to {screenshot_path}")
+        except Exception as debug_error:
+            print(f"  - Could not save debug artifacts: {debug_error}")
+
         # Re-raise the exception so retry logic can handle it
         raise
 
