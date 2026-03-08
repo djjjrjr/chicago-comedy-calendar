@@ -151,8 +151,10 @@ def scrape_do312_venue(page, venue_id: str, venue_config: Dict) -> List[Dict]:
                             return;
                         }
 
-                        // Extract date from URL path (e.g., /events/2026/3/7/...)
+                        // Extract link element (used for both date and URL)
                         const linkEl = el.querySelector('a[href*="/events/"]');
+
+                        // Extract date from URL path (e.g., /events/2026/3/7/...)
                         let dateStr = '';
                         if (linkEl) {
                             const match = linkEl.href.match(/\/events\/(\d{4})\/(\d{1,2})\/(\d{1,2})\//);
@@ -165,9 +167,8 @@ def scrape_do312_venue(page, venue_id: str, venue_config: Dict) -> List[Dict]:
                         const timeEl = el.querySelector('.ds-event-time');
                         const time = timeEl ? timeEl.textContent.trim() : '';
 
-                        // Extract link from main <a> tag or data-permalink
+                        // Extract URL from link element or data-permalink
                         let url = '';
-                        const linkEl = el.querySelector('a[href*="/events/"]');
                         if (linkEl) {
                             url = linkEl.href;
                         } else if (el.hasAttribute('data-permalink')) {
