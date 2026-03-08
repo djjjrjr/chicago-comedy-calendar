@@ -77,6 +77,26 @@ def scrape_do312_venue(page, venue_id: str, venue_config: Dict) -> List[Dict]:
         time.sleep(2)
         print(f"  Buffer wait complete")
 
+        # Evaluate page state before waiting for selector
+        print(f"  Evaluating page state...")
+        page_state = page.evaluate('''() => {
+            return {
+                cards: document.querySelectorAll('.ds-listing.event-card').length,
+                url: window.location.href,
+                title: document.title,
+                bodyText: document.body.innerText.substring(0, 500)
+            };
+        }''')
+        print(f"  Page state: {page_state['cards']} cards, title='{page_state['title']}'")
+        print(f"  Body preview: {page_state['bodyText'][:100]}...")
+
+        # If no cards, wait longer and try again
+        if page_state['cards'] == 0:
+            print(f"  No cards initially, waiting additional 5 seconds...")
+            time.sleep(5)
+            card_count = page.evaluate('() => document.querySelectorAll(".ds-listing.event-card").length')
+            print(f"  Cards after extra wait: {card_count}")
+
         # Wait for events to load - Do312 uses .ds-listing.event-card
         print(f"  Waiting for event cards selector '.ds-listing.event-card'...")
         try:
@@ -86,16 +106,30 @@ def scrape_do312_venue(page, venue_id: str, venue_config: Dict) -> List[Dict]:
         except PlaywrightTimeout:
             print(f"  ⚠️  Timeout waiting for event cards after 15 seconds")
             print(f"  Debugging page state...")
+
+            # Get full page state
             page_content = page.content()
+            page_title = page.title()
+            page_url = page.url
+
+            print(f"  - URL: {page_url}")
+            print(f"  - Page title: {page_title}")
             print(f"  - Page length: {len(page_content)} chars")
             print(f"  - Contains 'event-card': {'event-card' in page_content}")
-            print(f"  - Page title: {page.title()}")
+
+            # Save HTML for inspection
+            html_file = f"debug_{venue_id}_page.html"
+            with open(html_file, 'w', encoding='utf-8') as f:
+                f.write(page_content)
+            print(f"  - Saved page HTML to {html_file}")
 
             # Take screenshot for debugging
             screenshot_path = f"debug_{venue_id}.png"
-            page.screenshot(path=screenshot_path)
+            page.screenshot(path=screenshot_path, full_page=True)
             print(f"  - Screenshot saved to {screenshot_path}")
-            return shows
+
+            # Don't return empty - let retry logic handle it
+            raise Exception(f"Selector timeout for {venue_config['name']}")
 
         # Extract event data using JavaScript with Do312-specific selectors
         events_data = page.evaluate('''
