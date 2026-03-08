@@ -230,6 +230,8 @@ def scrape_do312_venue(page, venue_id: str, venue_config: Dict) -> List[Dict]:
 
     except Exception as e:
         print(f"  Error scraping {venue_config['name']}: {e}")
+        # Re-raise the exception so retry logic can handle it
+        raise
 
     return shows
 
