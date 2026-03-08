@@ -63,14 +63,14 @@ def scrape_do312_venue(page, venue_id: str, venue_config: Dict) -> List[Dict]:
     print(f"  Fetching {venue_config['name']} from {url}")
 
     try:
-        # Navigate to venue page with extended timeout
+        # Navigate to venue page with extended timeout (60s for slow venues)
         print(f"  Navigating to {url}")
-        page.goto(url, wait_until='domcontentloaded', timeout=30000)
+        page.goto(url, wait_until='domcontentloaded', timeout=60000)
         print(f"  Initial page load complete")
 
-        # Wait for network to be idle (page fully loaded)
+        # Wait for network to be idle (page fully loaded) - 60s for slow venues
         print(f"  Waiting for network idle...")
-        page.wait_for_load_state('networkidle', timeout=30000)
+        page.wait_for_load_state('networkidle', timeout=60000)
         print(f"  Network idle - page fully loaded")
 
         # Extra buffer for JavaScript execution
