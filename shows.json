@@ -1,19 +1,11 @@
 {
-  "lastUpdated": "2026-03-14T06:37:09.420162Z",
+  "lastUpdated": "2026-03-15T06:49:16.635303Z",
   "shows": [
-    {
-      "venue": "second-city",
-      "title": "The Second City Mainstage 114th Revue",
-      "date": "2026-03-13T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/13/the-second-city-mainstage-114th-revue-tickets"
-    },
     {
       "venue": "second-city",
       "title": "Best of The Second City",
       "date": "2026-03-14T00:00:00Z",
-      "time": "3:00PM",
+      "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/3/14/best-of-the-second-city-tickets"
     },
@@ -21,7 +13,7 @@
       "venue": "second-city",
       "title": "The Second City Mainstage 114th Revue",
       "date": "2026-03-14T00:00:00Z",
-      "time": "6:30PM",
+      "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/3/14/the-second-city-mainstage-114th-revue-tickets"
     },
@@ -107,57 +99,9 @@
     },
     {
       "venue": "io-theater",
-      "title": "ComedySportz",
-      "date": "2026-03-13T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/13/comedysportz-tickets"
-    },
-    {
-      "venue": "io-theater",
-      "title": "Improvised Shakespeare Chicago",
-      "date": "2026-03-13T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/13/improvised-shakespeare-chicago-tickets"
-    },
-    {
-      "venue": "io-theater",
-      "title": "Honk!",
-      "date": "2026-03-13T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/13/honk-tickets"
-    },
-    {
-      "venue": "io-theater",
-      "title": "Secret Sketch Show",
-      "date": "2026-03-13T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/13/secret-sketch-show-tickets"
-    },
-    {
-      "venue": "io-theater",
-      "title": "Kohl's Cash: TGIF (That's Good Improv Fridays)",
-      "date": "2026-03-13T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/13/kohl-s-cash-tgif-that-s-good-improv-fridays-tickets"
-    },
-    {
-      "venue": "io-theater",
-      "title": "Improvised Jane Austen",
-      "date": "2026-03-14T06:36:39.805898Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://do312.com/events/weeklies/2026/03/14"
-    },
-    {
-      "venue": "io-theater",
       "title": "Riff City",
       "date": "2026-03-14T00:00:00Z",
-      "time": "12:00PM",
+      "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/3/14/riff-city-tickets"
     },
@@ -165,7 +109,7 @@
       "venue": "io-theater",
       "title": "The Early Bird Special Jam",
       "date": "2026-03-14T00:00:00Z",
-      "time": "3:30PM",
+      "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/3/14/the-early-bird-special-jam-tickets"
     },
@@ -173,7 +117,7 @@
       "venue": "io-theater",
       "title": "Dad's Records Presents: Saturday Supper",
       "date": "2026-03-14T00:00:00Z",
-      "time": "6:00PM",
+      "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/3/14/dad-s-records-presents-saturday-supper-tickets"
     },
@@ -181,7 +125,7 @@
       "venue": "io-theater",
       "title": "Best of iO Improv",
       "date": "2026-03-14T00:00:00Z",
-      "time": "6:00PM",
+      "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/3/14/best-of-io-improv-tickets"
     },
@@ -189,7 +133,7 @@
       "venue": "io-theater",
       "title": "ComedySportz",
       "date": "2026-03-14T00:00:00Z",
-      "time": "6:00PM",
+      "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/3/14/comedysportz-tickets"
     },
@@ -197,7 +141,7 @@
       "venue": "io-theater",
       "title": "Improvised Shakespeare Chicago",
       "date": "2026-03-14T00:00:00Z",
-      "time": "7:30PM",
+      "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/3/14/improvised-shakespeare-chicago-tickets"
     },
@@ -205,7 +149,7 @@
       "venue": "io-theater",
       "title": "Improvised Jane Austen",
       "date": "2026-03-14T00:00:00Z",
-      "time": "7:30PM",
+      "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/3/14/improvised-jane-austen-tickets"
     },
@@ -213,14 +157,14 @@
       "venue": "io-theater",
       "title": "D.A.R.E. Dropouts Presents: After School Special",
       "date": "2026-03-14T00:00:00Z",
-      "time": "9:30PM",
+      "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/3/14/d-a-r-e-dropouts-presents-after-school-special-tickets"
     },
     {
       "venue": "io-theater",
       "title": "Main Character Syndrome: A Solo Character Showcase",
-      "date": "2026-03-14T06:36:39.805958Z",
+      "date": "2026-03-15T06:45:32.092007Z",
       "time": "6:00PM",
       "description": "",
       "url": "https://do312.com/events/weeklies/2026/03/15"
@@ -260,7 +204,7 @@
     {
       "venue": "io-theater",
       "title": "Loose Four - A Stand-up Open Mic",
-      "date": "2026-03-14T06:36:39.805988Z",
+      "date": "2026-03-15T06:45:32.092037Z",
       "time": "6:00PM",
       "description": "",
       "url": "https://do312.com/events/weeklies/2026/03/18"
@@ -330,42 +274,58 @@
       "url": "https://do312.com/events/2026/3/19/blueprint-tickets"
     },
     {
-      "venue": "annoyance",
-      "title": "Missed Call",
-      "date": "2026-03-13T00:00:00Z",
-      "time": "",
+      "venue": "io-theater",
+      "title": "ComedySportz",
+      "date": "2026-03-20T00:00:00Z",
+      "time": "7:00PM",
       "description": "",
-      "url": "https://do312.com/events/2026/3/13/missed-call-tickets"
+      "url": "https://do312.com/events/2026/3/20/comedysportz-tickets"
     },
     {
-      "venue": "annoyance",
-      "title": "Beverly: A Bevy Show",
-      "date": "2026-03-13T00:00:00Z",
-      "time": "",
+      "venue": "io-theater",
+      "title": "Improvised Shakespeare Chicago",
+      "date": "2026-03-20T00:00:00Z",
+      "time": "7:30PM",
       "description": "",
-      "url": "https://do312.com/events/2026/3/13/beverly-a-bevy-show-tickets"
+      "url": "https://do312.com/events/2026/3/20/improvised-shakespeare-chicago-tickets"
     },
     {
-      "venue": "annoyance",
-      "title": "Hitch*Cocktails",
-      "date": "2026-03-13T00:00:00Z",
-      "time": "",
+      "venue": "io-theater",
+      "title": "Bren Tran - Consider My Heart Stopped: A Stand Up Comedy Solo Show",
+      "date": "2026-03-20T00:00:00Z",
+      "time": "7:30PM",
       "description": "",
-      "url": "https://do312.com/events/2026/3/13/hitch-cocktails-tickets"
+      "url": "https://do312.com/events/2026/3/20/bren-tran-consider-my-heart-stopped-a-stand-up-comedy-solo-show-tickets"
     },
     {
-      "venue": "annoyance",
-      "title": "Holy Fuck Comedy Hour",
-      "date": "2026-03-13T00:00:00Z",
-      "time": "",
+      "venue": "io-theater",
+      "title": "Honk!",
+      "date": "2026-03-20T00:00:00Z",
+      "time": "9:00PM",
       "description": "",
-      "url": "https://do312.com/events/2026/3/13/holy-fuck-comedy-hour-tickets"
+      "url": "https://do312.com/events/2026/3/20/honk-tickets"
+    },
+    {
+      "venue": "io-theater",
+      "title": "Secret Sketch Show",
+      "date": "2026-03-20T00:00:00Z",
+      "time": "9:30PM",
+      "description": "",
+      "url": "https://do312.com/events/2026/3/20/secret-sketch-show-tickets"
+    },
+    {
+      "venue": "io-theater",
+      "title": "Improvised Jane Austen",
+      "date": "2026-03-15T06:45:32.092128Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://do312.com/events/weeklies/2026/03/21"
     },
     {
       "venue": "annoyance",
       "title": "Trigger Happy: Annoyance's Signature Improv Show",
       "date": "2026-03-14T00:00:00Z",
-      "time": "7:00PM",
+      "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/3/14/trigger-happy-annoyance-s-signature-improv-show-tickets"
     },
@@ -373,7 +333,7 @@
       "venue": "annoyance",
       "title": "Duluth: An Improvised Midwest Murder",
       "date": "2026-03-14T00:00:00Z",
-      "time": "8:00PM",
+      "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/3/14/duluth-an-improvised-midwest-murder-tickets"
     },
@@ -381,7 +341,7 @@
       "venue": "annoyance",
       "title": "Fire & Beer",
       "date": "2026-03-14T00:00:00Z",
-      "time": "8:00PM",
+      "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/3/14/fire-beer-tickets"
     },
@@ -389,7 +349,7 @@
       "venue": "annoyance",
       "title": "Best of Annoyance Sketch",
       "date": "2026-03-14T00:00:00Z",
-      "time": "9:30PM",
+      "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/3/14/best-of-annoyance-sketch-tickets"
     },
@@ -397,7 +357,7 @@
       "venue": "annoyance",
       "title": "We Took Edibles an Hour Ago",
       "date": "2026-03-14T00:00:00Z",
-      "time": "11:59PM",
+      "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/3/14/we-took-edibles-an-hour-ago-tickets"
     },
@@ -484,7 +444,7 @@
     {
       "venue": "annoyance",
       "title": "Annoyance Theatre Drag Race Viewing Party",
-      "date": "2026-03-14T06:36:46.044758Z",
+      "date": "2026-03-15T06:45:38.541497Z",
       "time": "7:30PM",
       "description": "",
       "url": "https://do312.com/events/weeklies/2026/03/20"
@@ -538,212 +498,52 @@
       "url": "https://do312.com/events/2026/3/21/trigger-happy-annoyance-s-signature-improv-show-tickets"
     },
     {
-      "venue": "zanies",
-      "title": "Radel Ortiz",
-      "date": "2026-03-13T00:00:00Z",
-      "time": "",
+      "venue": "annoyance",
+      "title": "Father Figures",
+      "date": "2026-03-21T00:00:00Z",
+      "time": "8:00PM",
       "description": "",
-      "url": "https://do312.com/events/2026/3/13/2026-radel-ortiz-tickets"
+      "url": "https://do312.com/events/2026/3/21/father-figures-tickets"
     },
     {
-      "venue": "zanies",
-      "title": "Katie Boyle *Special Event*",
-      "date": "2026-03-13T00:00:00Z",
-      "time": "",
+      "venue": "annoyance",
+      "title": "Duluth: An Improvised Midwest Murder",
+      "date": "2026-03-21T00:00:00Z",
+      "time": "8:00PM",
       "description": "",
-      "url": "https://do312.com/events/2026/3/13/katie-boyle-special-event-tickets"
+      "url": "https://do312.com/events/2026/3/21/duluth-an-improvised-midwest-murder-tickets"
     },
     {
-      "venue": "zanies",
-      "title": "Radel Ortiz",
-      "date": "2026-03-13T00:00:00Z",
-      "time": "",
+      "venue": "annoyance",
+      "title": "Father Figures",
+      "date": "2026-03-21T00:00:00Z",
+      "time": "8:00PM",
       "description": "",
-      "url": "https://do312.com/events/2026/3/13/2026-radel-ortiz-tickets-b9zvnem"
+      "url": "https://do312.com/events/2026/3/21/father-figures-tickets"
     },
     {
-      "venue": "zanies",
-      "title": "Katie Boyle *Special Event*",
-      "date": "2026-03-13T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/13/katie-boyle-special-event-tickets-6z5m5zd"
-    },
-    {
-      "venue": "zanies",
-      "title": "Radel Ortiz",
-      "date": "2026-03-14T00:00:00Z",
-      "time": "7:00PM",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/14/2026-radel-ortiz-tickets"
-    },
-    {
-      "venue": "zanies",
-      "title": "Katie Boyle *Special Event*",
-      "date": "2026-03-14T00:00:00Z",
-      "time": "7:00PM",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/14/katie-boyle-special-event-tickets"
-    },
-    {
-      "venue": "zanies",
-      "title": "Radel Ortiz",
-      "date": "2026-03-14T00:00:00Z",
-      "time": "9:15PM",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/14/2026-radel-ortiz-tickets-70oonxm"
-    },
-    {
-      "venue": "zanies",
-      "title": "Katie Boyle *Special Event*",
-      "date": "2026-03-14T00:00:00Z",
-      "time": "9:15PM",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/14/katie-boyle-special-event-tickets-w1kzkbm"
-    },
-    {
-      "venue": "zanies",
-      "title": "After Hours",
-      "date": "2026-03-14T00:00:00Z",
-      "time": "11:15PM",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/14/after-hours-with-calvin-evans-tickets"
-    },
-    {
-      "venue": "zanies",
-      "title": "Katie Boyle *Special Event*",
-      "date": "2026-03-15T00:00:00Z",
-      "time": "7:00PM",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/15/katie-boyle-special-event-tickets"
-    },
-    {
-      "venue": "zanies",
-      "title": "DePaul Standup Finals Show",
-      "date": "2026-03-16T00:00:00Z",
-      "time": "6:00PM",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/16/depaul-standup-finals-show-tickets"
-    },
-    {
-      "venue": "zanies",
-      "title": "Super Six Showcase",
-      "date": "2026-03-16T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/16/super-six-showcase-tickets"
-    },
-    {
-      "venue": "zanies",
-      "title": "Audrey Stewart",
-      "date": "2026-03-17T00:00:00Z",
-      "time": "7:00PM",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/17/audrey-stewart-tickets"
-    },
-    {
-      "venue": "zanies",
-      "title": "Just for Laughs \u2013 New Faces",
-      "date": "2026-03-18T00:00:00Z",
-      "time": "7:00PM",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/18/just-for-laughs-new-faces-tickets"
-    },
-    {
-      "venue": "zanies",
-      "title": "2026 Best of Chicago",
-      "date": "2026-03-18T00:00:00Z",
-      "time": "7:00PM",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/18/2026-best-of-chicago-tickets"
-    },
-    {
-      "venue": "zanies",
-      "title": "Just for Laughs \u2013 New Faces",
-      "date": "2026-03-18T00:00:00Z",
-      "time": "9:15PM",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/18/just-for-laughs-new-faces-tickets-qeqp0zw"
-    },
-    {
-      "venue": "zanies",
-      "title": "Dedrick Flynn *Special Event*",
-      "date": "2026-03-19T00:00:00Z",
-      "time": "7:00PM",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/19/dedrick-flynn-special-event-tickets"
-    },
-    {
-      "venue": "zanies",
-      "title": "Dale Jones",
-      "date": "2026-03-19T00:00:00Z",
-      "time": "7:00PM",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/19/2026-dale-jones-tickets"
-    },
-    {
-      "venue": "zanies",
-      "title": "Roast Battle Chicago",
-      "date": "2026-03-19T00:00:00Z",
+      "venue": "annoyance",
+      "title": "Best of Annoyance Sketch",
+      "date": "2026-03-21T00:00:00Z",
       "time": "9:30PM",
       "description": "",
-      "url": "https://do312.com/events/2026/3/19/roast-battle-chicago-tickets"
-    },
-    {
-      "venue": "zanies",
-      "title": "Dedrick Flynn *Special Event*",
-      "date": "2026-03-20T00:00:00Z",
-      "time": "7:00PM",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/20/dedrick-flynn-special-event-tickets"
-    },
-    {
-      "venue": "zanies",
-      "title": "Dale Jones",
-      "date": "2026-03-20T00:00:00Z",
-      "time": "7:00PM",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/20/2026-dale-jones-tickets"
-    },
-    {
-      "venue": "zanies",
-      "title": "Dedrick Flynn *Special Event*",
-      "date": "2026-03-20T00:00:00Z",
-      "time": "9:15PM",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/20/dedrick-flynn-special-event-tickets-d0oqkvr"
-    },
-    {
-      "venue": "zanies",
-      "title": "Dale Jones",
-      "date": "2026-03-20T00:00:00Z",
-      "time": "9:15PM",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/20/2026-dale-jones-tickets-ebkb9xy"
-    },
-    {
-      "venue": "zanies",
-      "title": "Dale Jones",
-      "date": "2026-03-21T00:00:00Z",
-      "time": "6:30PM",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/21/2026-dale-jones-tickets"
-    },
-    {
-      "venue": "zanies",
-      "title": "Dedrick Flynn *Special Event*",
-      "date": "2026-03-21T00:00:00Z",
-      "time": "7:00PM",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/21/dedrick-flynn-special-event-tickets"
+      "url": "https://do312.com/events/2026/3/21/best-of-annoyance-sketch-tickets"
     },
     {
       "venue": "laugh-factory",
-      "title": "Friday Night Stand Up Comedy at Laugh Factory Chicago",
-      "date": "2026-03-13T00:00:00Z",
+      "title": "Saturday Night Stand Up Comedy at Laugh Factory Chicago",
+      "date": "2026-03-14T00:00:00Z",
       "time": "",
       "description": "",
-      "url": "https://do312.com/events/2026/3/13/friday-night-stand-up-comedy-at-laugh-factory-chicago-tickets"
+      "url": "https://do312.com/events/2026/3/14/saturday-night-stand-up-comedy-at-laugh-factory-chicago-tickets"
+    },
+    {
+      "venue": "laugh-factory",
+      "title": "Saturday Night Stand Up Comedy at Laugh Factory Chicago",
+      "date": "2026-03-14T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/3/14/copy-of-saturday-night-stand-up-comedy-at-laugh-factory-chicago-tickets"
     },
     {
       "venue": "laugh-factory",
@@ -752,22 +552,6 @@
       "time": "7:00PM",
       "description": "",
       "url": "https://do312.com/events/2025/5/1/laugh-your-ass-off-at-laugh-factory-tickets"
-    },
-    {
-      "venue": "laugh-factory",
-      "title": "Saturday Night Stand Up Comedy at Laugh Factory Chicago",
-      "date": "2026-03-14T00:00:00Z",
-      "time": "7:00PM",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/14/saturday-night-stand-up-comedy-at-laugh-factory-chicago-tickets"
-    },
-    {
-      "venue": "laugh-factory",
-      "title": "Saturday Night Stand Up Comedy at Laugh Factory Chicago",
-      "date": "2026-03-14T00:00:00Z",
-      "time": "11:30PM",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/14/copy-of-saturday-night-stand-up-comedy-at-laugh-factory-chicago-tickets"
     },
     {
       "venue": "laugh-factory",
@@ -938,74 +722,18 @@
       "url": "https://do312.com/events/2026/3/30/monday-night-stand-up-comedy-at-laugh-factory-chicago-tickets"
     },
     {
-      "venue": "lincoln-lodge",
-      "title": "Lip Service: A Fem Com Alumni Showcase",
-      "date": "2026-03-13T00:00:00Z",
-      "time": "",
+      "venue": "laugh-factory",
+      "title": "Tuesday Night Stand Up Comedy at Laugh Factory Chicago",
+      "date": "2026-03-31T00:00:00Z",
+      "time": "7:30PM",
       "description": "",
-      "url": "https://do312.com/events/2026/3/13/lip-service-a-fem-com-alumni-showcase-tickets"
-    },
-    {
-      "venue": "lincoln-lodge",
-      "title": "Braided Comedy Show",
-      "date": "2026-03-13T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/13/braided-comedy-show-tickets"
-    },
-    {
-      "venue": "lincoln-lodge",
-      "title": "The Lincoln Lodge Comedy Showcase",
-      "date": "2026-03-13T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/13/the-lincoln-lodge-comedy-showcase-tickets"
-    },
-    {
-      "venue": "lincoln-lodge",
-      "title": "Demon Hour Comedy - Chicago\u2019s Raw and Untamed Confessions!",
-      "date": "2026-03-13T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/13/demon-hour-comedy-chicago-s-raw-and-untamed-confessions-tickets"
-    },
-    {
-      "venue": "lincoln-lodge",
-      "title": "The F U Comedy Showcase",
-      "date": "2026-03-13T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/13/the-f-u-comedy-showcase-tickets"
-    },
-    {
-      "venue": "lincoln-lodge",
-      "title": "Blackout Diaries",
-      "date": "2026-03-13T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/13/blackout-diaries-tickets"
-    },
-    {
-      "venue": "lincoln-lodge",
-      "title": "Maddy Kelly LIVE LIVE LIVE",
-      "date": "2026-03-13T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/13/maddy-kelly-live-live-live-tickets"
-    },
-    {
-      "venue": "lincoln-lodge",
-      "title": "Laughter Hours: Late Night Jazzy-Themed Comedy Show",
-      "date": "2026-03-13T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/13/laughter-hours-late-night-jazzy-themed-comedy-show-tickets"
+      "url": "https://do312.com/events/2026/3/31/tuesday-night-stand-up-comedy-at-laugh-factory-chicago-tickets"
     },
     {
       "venue": "lincoln-lodge",
       "title": "Brown Noise - A Kinda Brown Comedy Show",
       "date": "2026-03-14T00:00:00Z",
-      "time": "6:00PM",
+      "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/3/14/brown-noise-a-kinda-brown-comedy-show-tickets"
     },
@@ -1013,7 +741,7 @@
       "venue": "lincoln-lodge",
       "title": "Hecklers\u2019 Happy Hour Comedy Show",
       "date": "2026-03-14T00:00:00Z",
-      "time": "6:00PM",
+      "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/3/14/hecklers-happy-hour-comedy-show-tickets"
     },
@@ -1021,7 +749,7 @@
       "venue": "lincoln-lodge",
       "title": "Comedians That Are Gay",
       "date": "2026-03-14T00:00:00Z",
-      "time": "7:00PM",
+      "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/3/14/comedians-that-are-gay-tickets"
     },
@@ -1029,7 +757,7 @@
       "venue": "lincoln-lodge",
       "title": "Hecklers\u2019 Happy Hour Comedy Show",
       "date": "2026-03-14T00:00:00Z",
-      "time": "7:30PM",
+      "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/3/14/hecklers-happy-hour-comedy-show-tickets-lwmxaxe"
     },
@@ -1037,7 +765,7 @@
       "venue": "lincoln-lodge",
       "title": "Limelight - Chicago\u2019s most exciting Comedy Showcase",
       "date": "2026-03-14T00:00:00Z",
-      "time": "7:30PM",
+      "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/3/14/limelight-chicago-s-most-exciting-comedy-showcase-tickets"
     },
@@ -1045,7 +773,7 @@
       "venue": "lincoln-lodge",
       "title": "The Lincoln Lodge Comedy Showcase",
       "date": "2026-03-14T00:00:00Z",
-      "time": "8:00PM",
+      "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/3/14/the-lincoln-lodge-comedy-showcase-tickets"
     },
@@ -1053,7 +781,7 @@
       "venue": "lincoln-lodge",
       "title": "Prime Time - Chicago's hottest comedy showcase",
       "date": "2026-03-14T00:00:00Z",
-      "time": "9:00PM",
+      "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/3/14/prime-time-chicago-s-hottest-comedy-showcase-tickets"
     },
@@ -1061,7 +789,7 @@
       "venue": "lincoln-lodge",
       "title": "Gems of Chicago Comedy: Live Stand-Up Showcase",
       "date": "2026-03-14T00:00:00Z",
-      "time": "9:30PM",
+      "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/3/14/gems-of-chicago-comedy-live-stand-up-showcase-tickets"
     },
@@ -1069,7 +797,7 @@
       "venue": "lincoln-lodge",
       "title": "Down & Dirty: A Filthy Standup Showcase",
       "date": "2026-03-14T00:00:00Z",
-      "time": "10:00PM",
+      "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/3/14/down-dirty-a-filthy-standup-showcase-tickets"
     },
@@ -1139,57 +867,81 @@
     },
     {
       "venue": "lincoln-lodge",
+      "title": "Lil Weenieprov",
+      "date": "2026-03-18T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://do312.com/events/2026/3/18/lil-weenieprov-tickets"
+    },
+    {
+      "venue": "lincoln-lodge",
+      "title": "Chicago Poet Laureate Mayda Del Valle joins Chicago\u2019s Late Night Talk Show",
+      "date": "2026-03-18T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://do312.com/events/2026/3/18/chicago-s-late-night-talk-show-tickets"
+    },
+    {
+      "venue": "lincoln-lodge",
+      "title": "Chicago's Late Night Talk Show: The Not That Late Show",
+      "date": "2026-03-18T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://do312.com/events/2026/3/18/chicago-s-late-night-talk-show-the-not-that-late-show-tickets"
+    },
+    {
+      "venue": "lincoln-lodge",
+      "title": "Werk; Chicago\u2019s Premier Queer Comedy Show",
+      "date": "2026-03-18T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://do312.com/events/2026/3/18/werk-chicago-s-premier-queer-comedy-show-tickets"
+    },
+    {
+      "venue": "lincoln-lodge",
+      "title": "Hush Hush Comedy Hour",
+      "date": "2026-03-18T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://do312.com/events/2026/3/18/hush-hush-comedy-hour-tickets"
+    },
+    {
+      "venue": "lincoln-lodge",
       "title": "Late Night at The Lodge",
-      "date": "2026-03-14T06:37:04.414069Z",
+      "date": "2026-03-15T06:49:09.774216Z",
       "time": "9:00PM",
       "description": "",
       "url": "https://do312.com/events/weeklies/2026/03/19"
     },
     {
-      "venue": "den-theatre",
-      "title": "Late Night Sapphics",
-      "date": "2026-03-13T00:00:00Z",
-      "time": "",
+      "venue": "lincoln-lodge",
+      "title": "The Thursday Show: Chicago's Funniest Comedians with New Jokes!",
+      "date": "2026-03-19T00:00:00Z",
+      "time": "7:00PM",
       "description": "",
-      "url": "https://do312.com/events/2026/3/13/late-night-sapphics-tickets"
+      "url": "https://do312.com/events/2026/3/19/the-thursday-show-chicago-s-funniest-comedians-with-new-jokes-tickets"
     },
     {
-      "venue": "den-theatre",
-      "title": "Jacqueline Novak: 2026 Tour",
-      "date": "2026-03-13T00:00:00Z",
-      "time": "",
+      "venue": "lincoln-lodge",
+      "title": "East of LA: A Midwest Asian Comedy Show",
+      "date": "2026-03-19T00:00:00Z",
+      "time": "8:00PM",
       "description": "",
-      "url": "https://do312.com/events/2026/3/13/jacqueline-novak-2026-tour-tickets"
+      "url": "https://do312.com/events/2026/3/19/east-of-la-a-midwest-asian-comedy-show-tickets"
     },
     {
-      "venue": "den-theatre",
-      "title": "Fully Committed",
-      "date": "2026-03-13T00:00:00Z",
-      "time": "",
+      "venue": "lincoln-lodge",
+      "title": "Class! With Chad the Bird and Sara Benincasa",
+      "date": "2026-03-19T00:00:00Z",
+      "time": "8:00PM",
       "description": "",
-      "url": "https://do312.com/events/2026/3/13/fully-committed-tickets"
-    },
-    {
-      "venue": "den-theatre",
-      "title": "Jacqueline Novak: 2026 Tour",
-      "date": "2026-03-13T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/13/jacqueline-novak-2026-tour-tickets-x6dqjmn"
-    },
-    {
-      "venue": "den-theatre",
-      "title": "Late Night Sapphics",
-      "date": "2026-03-13T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/13/late-night-sapphics-tickets-rep1aqo"
+      "url": "https://do312.com/events/2026/3/19/class-with-chad-the-bird-and-sara-benincasa-tickets"
     },
     {
       "venue": "den-theatre",
       "title": "Rafi Bastos",
       "date": "2026-03-14T00:00:00Z",
-      "time": "7:15PM",
+      "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/3/14/rafi-bastos-tickets"
     },
@@ -1197,7 +949,7 @@
       "venue": "den-theatre",
       "title": "Fully Committed",
       "date": "2026-03-14T00:00:00Z",
-      "time": "7:30PM",
+      "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/3/14/fully-committed-tickets"
     },
@@ -1205,7 +957,7 @@
       "venue": "den-theatre",
       "title": "Rafi Bastos",
       "date": "2026-03-14T00:00:00Z",
-      "time": "9:30PM",
+      "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/3/14/rafi-bastos-tickets-5lbm1ar"
     },
@@ -1344,6 +1096,46 @@
       "time": "8:00PM",
       "description": "",
       "url": "https://do312.com/events/2026/3/27/the-posthumous-trial-of-giulia-tofana-tickets"
+    },
+    {
+      "venue": "den-theatre",
+      "title": "Christina P.",
+      "date": "2026-03-27T00:00:00Z",
+      "time": "9:30PM",
+      "description": "",
+      "url": "https://do312.com/events/2026/3/27/christina-p-tickets-b3rwxxe"
+    },
+    {
+      "venue": "den-theatre",
+      "title": "Mo Amer",
+      "date": "2026-03-27T00:00:00Z",
+      "time": "9:30PM",
+      "description": "",
+      "url": "https://do312.com/events/2026/3/27/mo-amer-tickets-jej65nk"
+    },
+    {
+      "venue": "den-theatre",
+      "title": "Christina P.",
+      "date": "2026-03-28T00:00:00Z",
+      "time": "7:15PM",
+      "description": "",
+      "url": "https://do312.com/events/2026/3/28/christina-p-tickets"
+    },
+    {
+      "venue": "den-theatre",
+      "title": "Mo Amer",
+      "date": "2026-03-28T00:00:00Z",
+      "time": "7:15PM",
+      "description": "",
+      "url": "https://do312.com/events/2026/3/28/mo-amer-tickets"
+    },
+    {
+      "venue": "den-theatre",
+      "title": "Fully Committed",
+      "date": "2026-03-28T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://do312.com/events/2026/3/28/fully-committed-tickets"
     }
   ]
 }
