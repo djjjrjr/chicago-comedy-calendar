@@ -4,6 +4,7 @@ let filteredShows = [];
 let currentFilter = 'all';
 let currentView = 'date';
 let currentTypeFilter = 'all';
+let currentBoroughFilter = 'all';
 let searchTerm = '';
 let dateFilterStart = '';
 let dateFilterEnd = '';
@@ -189,6 +190,17 @@ function setupEventListeners() {
         });
     });
 
+    // Borough filter buttons
+    const boroughFilterBtns = document.querySelectorAll('[data-borough-filter]');
+    boroughFilterBtns.forEach(btn => {
+        btn.addEventListener('click', () => {
+            boroughFilterBtns.forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            currentBoroughFilter = btn.dataset.boroughFilter;
+            filterAndDisplayShows();
+        });
+    });
+
     // View toggle buttons
     const viewBtns = document.querySelectorAll('.view-btn[data-view]');
     viewBtns.forEach(btn => {
@@ -320,6 +332,13 @@ function filterAndDisplayShows() {
         );
     }
 
+    // Filter by borough
+    if (currentBoroughFilter !== 'all') {
+        filteredShows = filteredShows.filter(show =>
+            show.borough === currentBoroughFilter
+        );
+    }
+
     // Filter by search term
     if (searchTerm) {
         filteredShows = filteredShows.filter(show => {
@@ -372,8 +391,6 @@ function displayShows() {
         displayByDate(container);
     } else if (currentView === 'venue') {
         displayByVenue(container);
-    } else if (currentView === 'borough') {
-        displayByBorough(container);
     } else {
         displayList(container);
     }
