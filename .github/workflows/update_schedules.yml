@@ -47,9 +47,17 @@ jobs:
       - name: Install Playwright browsers
         run: playwright install chromium
 
-      - name: Run scraper
-        id: scrape
+       - name: Run Chicago scraper
+        id: scrape-chicago
         run: python scraper.py
+        continue-on-error: true
+      - name: Run New York scraper
+        id: scrape-ny
+        run: python ny-scraper.py
+        continue-on-error: true
+      - name: Run Los Angeles scraper
+        id: scrape-la
+        run: python la-scraper.py
         continue-on-error: true
 
       - name: Upload debug artifacts
@@ -62,20 +70,26 @@ jobs:
             debug_*.html
           retention-days: 7
 
-      - name: Check scraper result
+      - name: Check scraper results
         run: |
-          if [ ${{ steps.scrape.outcome }} == 'failure' ]; then
-            echo "⚠️ Scraper failed - keeping existing shows.json"
-            echo "This prevents the site from showing empty results"
-            exit 0
-          else
-            echo "✓ Scraper succeeded"
+          echo "Chicago scraper: ${{ steps.scrape-chicago.outcome }}"
+          echo "New York scraper: ${{ steps.scrape-ny.outcome }}"
+          echo "Los Angeles scraper: ${{ steps.scrape-la.outcome }}"
+          if [ ${{ steps.scrape-chicago.outcome }} == 'failure' ]; then
+            echo "⚠️ Chicago scraper failed - keeping existing shows.json"
           fi
+          if [ ${{ steps.scrape-ny.outcome }} == 'failure' ]; then
+            echo "⚠️ New York scraper failed - keeping existing ny-shows.json"
+          fi
+          if [ ${{ steps.scrape-la.outcome }} == 'failure' ]; then
+            echo "⚠️ Los Angeles scraper failed - keeping existing la-shows.json"
+          fi
+          # Exit successfully to allow commit if any scraper succeeded
+          exit 0
 
       - name: Commit and push if changed
-        if: steps.scrape.outcome == 'success'
         run: |
           git config --global user.name 'Comedy Calendar Bot'
           git config --global user.email 'bot@github-actions'
-          git add shows.json
+          git add shows.json ny-shows.json la-shows.json
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update show schedules - $(date +'%Y-%m-%d')" && git push)
