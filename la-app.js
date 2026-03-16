@@ -8,12 +8,12 @@ let searchTerm = '';
 let dateFilterStart = '';
 let dateFilterEnd = '';
 
-// Preferred venues list - these are the main comedy venues
+// Preferred venues list - these match the exact venue names from DoLA
 const PREFERRED_VENUES = [
     'The Comedy Store',
-    'Laugh Factory Hollywood',
-    'The Hollywood Improv',
-    'UCB Theatre LA',
+    'The Laugh Factory',
+    'Hollywood Improv',
+    'UCB FRANKLIN',
     'Dynasty Typewriter',
     'Largo at the Coronet',
     'The Groundlings Theatre'
@@ -29,24 +29,24 @@ const venues = {
         website: 'https://www.thecomedystore.com',
         mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3304.5!2d-118.3754!3d34.0974!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bf0f0f0f0f0f%3A0x1f1f1f1f1f1f1f1f!2sThe%20Comedy%20Store!5e0!3m2!1sen!2sus!4v1234567890'
     },
-    'Laugh Factory Hollywood': {
-        name: 'Laugh Factory Hollywood',
+    'The Laugh Factory': {
+        name: 'The Laugh Factory',
         color: '#DC143C',
         address: '8001 Sunset Blvd, Los Angeles, CA 90046',
         phone: '(323) 656-1336',
         website: 'https://www.laughfactory.com',
         mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3304.8!2d-118.3686!3d34.0968!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bf1a1a1a1a1a%3A0x2f2f2f2f2f2f2f2f!2sLaugh%20Factory!5e0!3m2!1sen!2sus!4v1234567890'
     },
-    'The Hollywood Improv': {
-        name: 'The Hollywood Improv',
+    'Hollywood Improv': {
+        name: 'Hollywood Improv',
         color: '#FF4500',
         address: '8162 Melrose Ave, Los Angeles, CA 90046',
         phone: '(323) 651-2583',
         website: 'https://www.improv.com/hollywood',
         mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3305.2!2d-118.3700!3d34.0837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bf2b2b2b2b2b%3A0x3f3f3f3f3f3f3f3f!2sThe%20Hollywood%20Improv!5e0!3m2!1sen!2sus!4v1234567890'
     },
-    'UCB Theatre LA': {
-        name: 'UCB Theatre LA',
+    'UCB FRANKLIN': {
+        name: 'UCB FRANKLIN',
         color: '#006400',
         address: '5919 Franklin Ave, Los Angeles, CA 90028',
         phone: '(323) 908-8702',
@@ -501,18 +501,13 @@ function createShowCard(show, showVenueOnCard = false) {
     const shouldShowVenueOnCard = showVenueOnCard || !isPreferred;
 
     if (shouldShowVenueOnCard) {
-        // Non-preferred venue: show venue name with clickable filter option
+        // Non-preferred venue: show venue name with info button (like preferred venues)
         const escapedVenue = show.venue.replace(/'/g, "\\'");
         return `
             <div class="show-card ${venueClass}" data-comedy-type="${comedyTypes}">
-                <div class="venue-tag-container">
-                    <span class="venue-tag clickable" onclick="filterToVenue('${escapedVenue}', true)">
-                        ${show.venue}
-                    </span>
-                    <button class="see-all-venue-btn" onclick="filterToVenue('${escapedVenue}', true)" title="See all events at ${show.venue}">
-                        See all events →
-                    </button>
-                </div>
+                <span class="venue-tag" onclick="showOtherVenueInfo('${escapedVenue}')" style="cursor: pointer;">
+                    ${show.venue}
+                </span>
                 <h3 class="show-title">${show.title}</h3>
                 <div class="show-date">
                     📅 ${dateStr}
@@ -557,6 +552,7 @@ function toggleVenueGroup(header) {
 }
 
 // Show venue info modal
+// Show venue info modal for preferred venues
 function showVenueInfo(venueName) {
     const venueInfo = venues[venueName];
     if (!venueInfo) return; // Only show modal for preferred venues
@@ -579,6 +575,34 @@ function showVenueInfo(venueName) {
 
     // Show modal
     modal.classList.add('active');
+}
+
+// Show venue info modal for other (non-preferred) venues
+function showOtherVenueInfo(venueName) {
+    const modal = document.getElementById('venueModal');
+
+    // Populate modal with venue name and "See all events" button
+    document.getElementById('modalVenueName').textContent = venueName;
+
+    const detailsHtml = `
+        <p class="venue-address">Venue information not available</p>
+        <button class="see-all-venue-btn-modal" onclick="filterToVenue('${venueName.replace(/'/g, "\\'")}', true); closeVenueModal();">
+            See all events at this venue →
+        </button>
+    `;
+    document.querySelector('.venue-details').innerHTML = detailsHtml;
+
+    // Clear map
+    document.getElementById('mapContainer').innerHTML = '';
+
+    // Show modal
+    modal.classList.add('active');
+}
+
+// Close venue modal
+function closeVenueModal() {
+    const modal = document.getElementById('venueModal');
+    modal.classList.remove('active');
 }
 
 // Initialize when DOM is ready

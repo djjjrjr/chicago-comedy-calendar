@@ -72,7 +72,7 @@ body {
 .header {
     background: var(--black);
     padding: 60px 40px;
-    border-bottom: 16px solid var(--la-orange);
+    border-bottom: 16px solid var(--la-purple);
     position: relative;
 }
 
@@ -85,7 +85,7 @@ body {
     height: 16px;
     background: linear-gradient(
         90deg,
-        var(--la-orange) 0%,
+        var(--la-purple) 0%,
         var(--la-pink) 50%,
         var(--la-purple) 100%
     );
@@ -167,7 +167,7 @@ body {
 
 #searchInput:focus, #datePickerInput:focus {
     outline: none;
-    border-color: var(--la-orange);
+    border-color: var(--la-purple);
 }
 
 /* Date Picker Modal */
@@ -229,7 +229,7 @@ body {
 }
 
 .close-modal:hover {
-    color: var(--la-orange);
+    color: var(--la-purple);
     transform: scale(1.2);
 }
 
@@ -319,7 +319,7 @@ body {
 }
 
 .btn-primary:hover {
-    background: var(--la-orange);
+    background: var(--la-purple);
     color: var(--white);
     transform: translate(-2px, -2px);
     box-shadow: 4px 4px 0 var(--black);
@@ -433,41 +433,24 @@ body {
     color: var(--la-yellow);
 }
 
-/* Clickable venue tags for "other venues" */
-.venue-tag-container {
-    display: flex;
-    flex-direction: column;
-    gap: 6px;
-    margin-bottom: 12px;
-}
-
-.venue-tag.clickable {
-    cursor: pointer;
-    transition: background-color 0.2s, transform 0.1s;
-}
-
-.venue-tag.clickable:hover {
-    background-color: var(--la-purple);
-    transform: translateY(-1px);
-}
-
-.see-all-venue-btn {
-    background: none;
+/* Modal "See all events" button */
+.see-all-venue-btn-modal {
+    background: var(--la-purple);
+    color: var(--white);
     border: none;
-    color: var(--la-pink);
+    padding: 12px 24px;
     font-weight: 700;
-    font-size: 0.85rem;
-    text-transform: uppercase;
+    font-size: 0.95rem;
     cursor: pointer;
-    padding: 4px 0;
-    text-align: left;
-    transition: color 0.2s;
+    font-family: 'Space Grotesk', sans-serif;
+    transition: background-color 0.2s;
     letter-spacing: 0.5px;
+    margin-top: 16px;
+    border-radius: 4px;
 }
 
-.see-all-venue-btn:hover {
-    color: var(--la-purple);
-    text-decoration: underline;
+.see-all-venue-btn-modal:hover {
+    background-color: var(--la-pink);
 }
 
 /* Shows Container */
@@ -504,7 +487,7 @@ body {
 .date-group-header:hover,
 .venue-group-header:hover,
 .group-header:hover {
-    background: var(--la-orange);
+    background: var(--la-purple);
     color: var(--white);
     transform: translate(-3px, -3px);
     box-shadow: 6px 6px 0 var(--black);
@@ -539,7 +522,7 @@ body {
 }
 
 .group-count {
-    background: var(--la-orange);
+    background: var(--la-purple);
     color: var(--white);
     padding: 8px 20px;
     font-weight: 900;
@@ -603,7 +586,7 @@ body {
 }
 
 .venue-tag:hover {
-    background: var(--la-orange);
+    background: var(--la-purple);
     color: var(--white);
 }
 
@@ -637,7 +620,7 @@ body {
 .show-link {
     display: inline-block;
     padding: 16px 36px;
-    background: var(--la-orange);
+    background: var(--la-purple);
     color: var(--white);
     text-decoration: none;
     border: 4px solid var(--black);
@@ -656,7 +639,7 @@ body {
 
 /* List View */
 .show-card.list-view {
-    border-left: 12px solid var(--la-orange);
+    border-left: 12px solid var(--la-purple);
 }
 
 /* Modal */
@@ -685,7 +668,7 @@ body {
     width: 90%;
     max-height: 90vh;
     overflow: hidden;
-    box-shadow: 12px 12px 0 var(--la-orange);
+    box-shadow: 12px 12px 0 var(--la-purple);
 }
 
 .modal-close {
@@ -695,7 +678,7 @@ body {
     font-size: 2.5rem;
     font-weight: 900;
     cursor: pointer;
-    background: var(--la-orange);
+    background: var(--la-purple);
     color: var(--white);
     width: 60px;
     height: 60px;
@@ -720,7 +703,7 @@ body {
     color: var(--white);
     background: var(--black);
     padding: 32px 40px;
-    border-bottom: 8px solid var(--la-orange);
+    border-bottom: 8px solid var(--la-purple);
     text-transform: uppercase;
     letter-spacing: -1px;
 }
@@ -745,14 +728,14 @@ body {
 }
 
 .venue-info a {
-    color: var(--la-orange);
+    color: var(--la-purple);
     text-decoration: none;
     font-weight: 900;
-    border-bottom: 3px solid var(--la-orange);
+    border-bottom: 3px solid var(--la-purple);
 }
 
 .venue-info a:hover {
-    background: var(--la-orange);
+    background: var(--la-purple);
     color: var(--white);
     padding: 0 4px;
 }
@@ -774,7 +757,7 @@ body {
     width: 70px;
     height: 70px;
     border: 8px solid var(--light-gray);
-    border-top: 8px solid var(--la-orange);
+    border-top: 8px solid var(--la-purple);
     margin: 0 auto 24px;
     animation: spin 1s linear infinite;
 }
@@ -814,7 +797,7 @@ body {
     color: var(--white);
     font-size: 1rem;
     font-weight: 700;
-    border-top: 8px solid var(--la-orange);
+    border-top: 8px solid var(--la-purple);
 }
 
 .footer-note {
@@ -839,7 +822,7 @@ body {
 .venue-info-btn {
     margin-left: 12px;
     padding: 6px 12px;
-    background: var(--la-orange);
+    background: var(--la-purple);
     color: var(--white);
     border: 3px solid var(--black);
     cursor: pointer;

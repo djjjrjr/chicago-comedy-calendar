@@ -587,18 +587,13 @@ function createShowCard(show, showVenueOnCard = false) {
     const shouldShowVenueOnCard = showVenueOnCard || !isPreferred;
 
     if (shouldShowVenueOnCard) {
-        // Non-preferred venue: show venue name with clickable filter option
+        // Non-preferred venue: show venue name with info button (like preferred venues)
         const escapedVenue = show.venue.replace(/'/g, "\\'");
         return `
             <div class="show-card ${venueClass}" data-comedy-type="${comedyTypes}">
-                <div class="venue-tag-container">
-                    <span class="venue-tag clickable" onclick="filterToVenue('${escapedVenue}', true)">
-                        ${show.venue}
-                    </span>
-                    <button class="see-all-venue-btn" onclick="filterToVenue('${escapedVenue}', true)" title="See all events at ${show.venue}">
-                        See all events →
-                    </button>
-                </div>
+                <span class="venue-tag" onclick="showOtherVenueInfo('${escapedVenue}')" style="cursor: pointer;">
+                    ${show.venue}
+                </span>
                 <h3 class="show-title">${show.title}</h3>
                 <div class="show-date">
                     📅 ${dateStr}
@@ -643,6 +638,7 @@ function toggleVenueGroup(header) {
 }
 
 // Show venue info modal
+// Show venue info modal for preferred venues
 function showVenueInfo(venueName) {
     const venueInfo = venues[venueName];
     if (!venueInfo) return; // Only show modal for preferred venues
@@ -665,6 +661,34 @@ function showVenueInfo(venueName) {
 
     // Show modal
     modal.classList.add('active');
+}
+
+// Show venue info modal for other (non-preferred) venues
+function showOtherVenueInfo(venueName) {
+    const modal = document.getElementById('venueModal');
+
+    // Populate modal with venue name and "See all events" button
+    document.getElementById('modalVenueName').textContent = venueName;
+
+    const detailsHtml = `
+        <p class="venue-address">Venue information not available</p>
+        <button class="see-all-venue-btn-modal" onclick="filterToVenue('${venueName.replace(/'/g, "\\'")}', true); closeVenueModal();">
+            See all events at this venue →
+        </button>
+    `;
+    document.querySelector('.venue-details').innerHTML = detailsHtml;
+
+    // Clear map
+    document.getElementById('mapContainer').innerHTML = '';
+
+    // Show modal
+    modal.classList.add('active');
+}
+
+// Close venue modal
+function closeVenueModal() {
+    const modal = document.getElementById('venueModal');
+    modal.classList.remove('active');
 }
 
 // Initialize when DOM is ready

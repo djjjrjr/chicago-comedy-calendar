@@ -433,41 +433,25 @@ body {
     color: var(--ny-yellow);
 }
 
-/* Clickable venue tags for "other venues" */
-.venue-tag-container {
-    display: flex;
-    flex-direction: column;
-    gap: 6px;
-    margin-bottom: 12px;
-}
-
-.venue-tag.clickable {
-    cursor: pointer;
-    transition: background-color 0.2s, transform 0.1s;
-}
-
-.venue-tag.clickable:hover {
-    background-color: var(--ny-black);
-    transform: translateY(-1px);
-}
-
-.see-all-venue-btn {
-    background: none;
-    border: none;
-    color: var(--ny-yellow);
-    font-weight: 700;
-    font-size: 0.85rem;
-    text-transform: uppercase;
-    cursor: pointer;
-    padding: 4px 0;
-    text-align: left;
-    transition: color 0.2s;
-    letter-spacing: 0.5px;
-}
-
-.see-all-venue-btn:hover {
+/* Modal "See all events" button */
+.see-all-venue-btn-modal {
+    background: var(--ny-yellow);
     color: var(--ny-black);
-    text-decoration: underline;
+    border: none;
+    padding: 12px 24px;
+    font-weight: 700;
+    font-size: 0.95rem;
+    cursor: pointer;
+    font-family: 'Space Grotesk', sans-serif;
+    transition: background-color 0.2s;
+    letter-spacing: 0.5px;
+    margin-top: 16px;
+    border-radius: 4px;
+}
+
+.see-all-venue-btn-modal:hover {
+    background-color: var(--ny-black);
+    color: var(--ny-yellow);
 }
 
 /* Shows Container */
