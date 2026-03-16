@@ -114,10 +114,24 @@ function detectBorough(venueName) {
     return 'Manhattan';
 }
 
+// Load venue information database
+async function loadVenueInfo() {
+    try {
+        const response = await fetch('venue-info.json');
+        if (response.ok) {
+            window.venueInfoData = await response.json();
+            console.log(`✓ Loaded info for ${Object.keys(window.venueInfoData.venues || {}).length} venues`);
+        }
+    } catch (error) {
+        console.log('ℹ️ No venue info database found yet (will be created on first scrape)');
+        window.venueInfoData = { venues: {} };
+    }
+}
+
 // Initialize app
 async function init() {
     setupEventListeners();
-    await loadShows();
+    await Promise.all([loadShows(), loadVenueInfo()]);
 }
 
 // Setup event listeners
@@ -667,18 +681,37 @@ function showVenueInfo(venueName) {
 function showOtherVenueInfo(venueName) {
     const modal = document.getElementById('venueModal');
 
-    // Populate modal with venue name and "See all events" button
+    // Populate modal with venue name
     document.getElementById('modalVenueName').textContent = venueName;
 
-    const detailsHtml = `
-        <p class="venue-address">Venue information not available</p>
+    // Check if we have scraped venue info
+    const venueInfo = window.venueInfoData?.venues?.[venueName];
+
+    let detailsHtml = '';
+
+    if (venueInfo) {
+        // Show available venue information
+        if (venueInfo.address) {
+            detailsHtml += `<p class="venue-address">📍 ${venueInfo.address}</p>`;
+        }
+        if (venueInfo.phone) {
+            detailsHtml += `<p class="venue-phone">📞 ${venueInfo.phone}</p>`;
+        }
+        if (venueInfo.website) {
+            detailsHtml += `<p class="venue-website">🌐 <a href="${venueInfo.website}" target="_blank">${venueInfo.website}</a></p>`;
+        }
+    }
+
+    // Always add "See all events" button
+    detailsHtml += `
         <button class="see-all-venue-btn-modal" onclick="filterToVenue('${venueName.replace(/'/g, "\\'")}', true); closeVenueModal();">
             See all events at this venue →
         </button>
     `;
+
     document.querySelector('.venue-details').innerHTML = detailsHtml;
 
-    // Clear map
+    // Clear map (we don't have coordinates for scraped venues yet)
     document.getElementById('mapContainer').innerHTML = '';
 
     // Show modal
