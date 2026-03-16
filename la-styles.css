@@ -85,7 +85,7 @@ body {
     height: 16px;
     background: linear-gradient(
         90deg,
-        var(--la-purple) 0%,
+        var(--la-orange) 0%,
         var(--la-pink) 50%,
         var(--la-purple) 100%
     );
