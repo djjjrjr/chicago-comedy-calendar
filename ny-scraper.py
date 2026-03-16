@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Chicago Comedy Calendar Scraper
-Fetches ALL comedy show schedules from Do312.com
+New York Comedy Calendar Scraper
+Fetches ALL comedy show schedules from DoNYC.com
 """
 
 import json
@@ -12,23 +12,23 @@ from typing import List, Dict, Set, Tuple
 from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeout
 
 
-def scrape_do312_comedy_events(page) -> List[Dict]:
+def scrape_donyc_comedy_events(page) -> List[Dict]:
     """
-    Scrape all comedy events from Do312's comedy category page
+    Scrape all comedy events from DoNYC's comedy category page
 
     Args:
         page: Playwright page object
 
     Returns:
-        List of show dictionaries with venue information from Do312
+        List of show dictionaries with venue information from DoNYC
     """
     all_events = []
     seen_events: Set[Tuple[str, str, str]] = set()  # For deduplication (title, date, venue)
     page_num = 1
 
-    base_url = 'https://do312.com/events/comedy'
+    base_url = 'https://donyc.com/events/comedy'
 
-    print(f"Fetching comedy events from Do312...")
+    print(f"Fetching comedy events from DoNYC...")
     print(f"Starting URL: {base_url}\n")
 
     while True:
@@ -106,7 +106,7 @@ def scrape_do312_comedy_events(page) -> List[Dict]:
                             if (linkEl) {
                                 url = linkEl.href;
                             } else if (el.hasAttribute('data-permalink')) {
-                                url = 'https://do312.com' + el.getAttribute('data-permalink');
+                                url = 'https://donyc.com' + el.getAttribute('data-permalink');
                             }
 
                             events.push({
@@ -159,7 +159,7 @@ def scrape_do312_comedy_events(page) -> List[Dict]:
                     date_iso = datetime.now().isoformat() + 'Z'
 
                 show = {
-                    'venue': event['venue'],  # Now this is the venue name from Do312, not our ID
+                    'venue': event['venue'],  # Venue name from DoNYC
                     'title': event['title'],
                     'date': date_iso,
                     'time': event.get('time', ''),
@@ -204,12 +204,12 @@ def scrape_all_events() -> List[Dict]:
     Scrape all comedy events using Playwright
 
     Returns:
-        List of all comedy shows from Do312
+        List of all comedy shows from DoNYC
     """
     all_shows = []
 
-    print("Starting Chicago Comedy Calendar scraper...")
-    print("Scraping ALL comedy events from Do312.com\n")
+    print("Starting New York Comedy Calendar scraper...")
+    print("Scraping ALL comedy events from DoNYC.com\n")
 
     with sync_playwright() as p:
         # Launch browser
@@ -238,7 +238,7 @@ def scrape_all_events() -> List[Dict]:
         print("✓ Browser launched successfully\n")
 
         try:
-            all_shows = scrape_do312_comedy_events(page)
+            all_shows = scrape_donyc_comedy_events(page)
             print(f"\n✓ Successfully scraped {len(all_shows)} total comedy events")
         except Exception as e:
             print(f"\n✗ Error during scraping: {e}")
@@ -259,16 +259,16 @@ def save_shows(shows: List[Dict]):
         'shows': shows
     }
 
-    with open('shows.json', 'w') as f:
+    with open('ny-shows.json', 'w') as f:
         json.dump(data, f, indent=2)
 
-    print(f"\n✓ Saved {len(shows)} shows to shows.json")
+    print(f"\n✓ Saved {len(shows)} shows to ny-shows.json")
 
 
 def main():
     start_time = time.time()
     print(f"{'='*60}")
-    print(f"Chicago Comedy Calendar Scraper")
+    print(f"New York Comedy Calendar Scraper")
     print(f"Started at: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print(f"{'='*60}\n")
 
@@ -298,7 +298,7 @@ def main():
                 print(f"  ... and {len(sorted_venues) - 10} more venues")
 
         if not shows:
-            print("\n⚠️  Warning: No shows were scraped. Check if Do312.com structure has changed.")
+            print("\n⚠️  Warning: No shows were scraped. Check if DoNYC.com structure has changed.")
             print("Exiting with code 1 to indicate failure.")
             sys.exit(1)
 

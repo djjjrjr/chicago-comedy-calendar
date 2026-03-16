@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chicago Comedy Calendar</title>
-    <link rel="stylesheet" href="styles.css">
+    <title>Los Angeles Comedy Calendar</title>
+    <link rel="stylesheet" href="la-styles.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -12,20 +12,20 @@
 <body>
     <div class="container">
         <nav class="city-nav">
-            <a href="index.html" class="city-link active">Chicago</a>
+            <a href="index.html" class="city-link">Chicago</a>
             <span class="city-divider">|</span>
             <a href="ny.html" class="city-link">New York</a>
             <span class="city-divider">|</span>
-            <a href="la.html" class="city-link">Los Angeles</a>
+            <a href="la.html" class="city-link active">Los Angeles</a>
         </nav>
 
         <header class="header">
             <div class="header-content">
                 <h1 class="title">
                     <span class="emoji">🎭</span>
-                    <span class="title-text">Chicago Comedy Calendar</span>
+                    <span class="title-text">Los Angeles Comedy Calendar</span>
                 </h1>
-                <p class="subtitle">Your one-stop shop for all the laughs in the city</p>
+                <p class="subtitle">Your guide to all the laughs in the City of Angels</p>
                 <div class="last-updated" id="lastUpdated">
                     Last updated: <span id="updateTime">Loading...</span>
                 </div>
@@ -75,13 +75,13 @@
                 <span class="filter-label">Venues</span>
                 <div class="view-controls">
                     <button class="filter-btn active" data-filter="all">All Venues</button>
-                    <button class="filter-btn" data-filter="Second City">Second City</button>
-                    <button class="filter-btn" data-filter="iO Theater">iO Theater</button>
-                    <button class="filter-btn" data-filter="Annoyance Theatre">Annoyance Theatre</button>
-                    <button class="filter-btn" data-filter="Zanies">Zanies</button>
-                    <button class="filter-btn" data-filter="Laugh Factory">Laugh Factory</button>
-                    <button class="filter-btn" data-filter="Lincoln Lodge">Lincoln Lodge</button>
-                    <button class="filter-btn" data-filter="Den Theatre">Den Theatre</button>
+                    <button class="filter-btn" data-filter="The Comedy Store">The Comedy Store</button>
+                    <button class="filter-btn" data-filter="Laugh Factory Hollywood">Laugh Factory Hollywood</button>
+                    <button class="filter-btn" data-filter="The Hollywood Improv">The Hollywood Improv</button>
+                    <button class="filter-btn" data-filter="UCB Theatre LA">UCB Theatre LA</button>
+                    <button class="filter-btn" data-filter="Dynasty Typewriter">Dynasty Typewriter</button>
+                    <button class="filter-btn" data-filter="Largo at the Coronet">Largo at the Coronet</button>
+                    <button class="filter-btn" data-filter="The Groundlings Theatre">The Groundlings Theatre</button>
                     <button class="filter-btn" data-filter="other">Other Venues</button>
                 </div>
                 <div id="activeFilterPill" class="active-filter-pill hidden">
@@ -144,10 +144,10 @@
     </div>
 
     <footer class="footer">
-        <p>Made with ❤️ for Chicago comedy lovers</p>
+        <p>Made with ❤️ for Los Angeles comedy lovers</p>
         <p class="footer-note">Show times and availability subject to change. Please verify on venue websites.</p>
     </footer>
 
-    <script src="app.js"></script>
+    <script src="la-app.js"></script>
 </body>
 </html>

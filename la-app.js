@@ -10,72 +10,72 @@ let dateFilterEnd = '';
 
 // Preferred venues list - these are the main comedy venues
 const PREFERRED_VENUES = [
-    'Second City',
-    'iO Theater',
-    'Annoyance Theatre',
-    'Zanies',
-    'Laugh Factory',
-    'Lincoln Lodge',
-    'Den Theatre'
+    'The Comedy Store',
+    'Laugh Factory Hollywood',
+    'The Hollywood Improv',
+    'UCB Theatre LA',
+    'Dynasty Typewriter',
+    'Largo at the Coronet',
+    'The Groundlings Theatre'
 ];
 
 // Venue configurations with location data (for preferred venues only)
 const venues = {
-    'Second City': {
-        name: 'Second City',
-        color: '#003E7E',
-        address: '1616 N Wells St, Chicago, IL 60614',
-        phone: '(312) 337-3992',
-        website: 'https://www.secondcity.com',
-        mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2968.8!2d-87.6348!3d41.9126!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd2ed1d7dc75f%3A0x3e7f7f4dfc4d3e8e!2sThe%20Second%20City!5e0!3m2!1sen!2sus!4v1234567890'
+    'The Comedy Store': {
+        name: 'The Comedy Store',
+        color: '#8B0000',
+        address: '8433 Sunset Blvd, West Hollywood, CA 90069',
+        phone: '(323) 650-6268',
+        website: 'https://www.thecomedystore.com',
+        mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3304.5!2d-118.3754!3d34.0974!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bf0f0f0f0f0f%3A0x1f1f1f1f1f1f1f1f!2sThe%20Comedy%20Store!5e0!3m2!1sen!2sus!4v1234567890'
     },
-    'iO Theater': {
-        name: 'iO Theater',
-        color: '#C8102E',
-        address: '1501 N Kingsbury St, Chicago, IL 60642',
-        phone: '(312) 929-2401',
-        website: 'https://ioimprov.com/chicago',
-        mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2969.2!2d-87.6535!3d41.9095!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd2ef1f7f7f7f%3A0x7f7f7f7f7f7f7f7f!2siO%20Theater!5e0!3m2!1sen!2sus!4v1234567890'
+    'Laugh Factory Hollywood': {
+        name: 'Laugh Factory Hollywood',
+        color: '#DC143C',
+        address: '8001 Sunset Blvd, Los Angeles, CA 90046',
+        phone: '(323) 656-1336',
+        website: 'https://www.laughfactory.com',
+        mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3304.8!2d-118.3686!3d34.0968!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bf1a1a1a1a1a%3A0x2f2f2f2f2f2f2f2f!2sLaugh%20Factory!5e0!3m2!1sen!2sus!4v1234567890'
     },
-    'Annoyance Theatre': {
-        name: 'Annoyance Theatre',
-        color: '#000000',
-        address: '851 W Belmont Ave, Chicago, IL 60657',
-        phone: '(773) 697-9693',
-        website: 'https://theannoyance.com',
-        mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2968.1!2d-87.6495!3d41.9395!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd2f1f7f7f7f7%3A0x8f8f8f8f8f8f8f8f!2sThe%20Annoyance%20Theatre!5e0!3m2!1sen!2sus!4v1234567890'
+    'The Hollywood Improv': {
+        name: 'The Hollywood Improv',
+        color: '#FF4500',
+        address: '8162 Melrose Ave, Los Angeles, CA 90046',
+        phone: '(323) 651-2583',
+        website: 'https://www.improv.com/hollywood',
+        mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3305.2!2d-118.3700!3d34.0837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bf2b2b2b2b2b%3A0x3f3f3f3f3f3f3f3f!2sThe%20Hollywood%20Improv!5e0!3m2!1sen!2sus!4v1234567890'
     },
-    'Zanies': {
-        name: 'Zanies',
-        color: '#D2691E',
-        address: '1548 N Wells St, Chicago, IL 60610',
-        phone: '(312) 337-4027',
-        website: 'https://chicago.zanies.com',
-        mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2969.0!2d-87.6345!3d41.9108!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd2ed1f7f7f7f%3A0x9f9f9f9f9f9f9f9f!2sZanies%20Comedy%20Club!5e0!3m2!1sen!2sus!4v1234567890'
+    'UCB Theatre LA': {
+        name: 'UCB Theatre LA',
+        color: '#006400',
+        address: '5919 Franklin Ave, Los Angeles, CA 90028',
+        phone: '(323) 908-8702',
+        website: 'https://losangeles.ucbtheatre.com',
+        mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3304.0!2d-118.3098!3d34.1045!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bf3c3c3c3c3c%3A0x4f4f4f4f4f4f4f4f!2sUCB%20Theatre%20LA!5e0!3m2!1sen!2sus!4v1234567890'
     },
-    'Laugh Factory': {
-        name: 'Laugh Factory',
-        color: '#8B4513',
-        address: '3175 N Broadway, Chicago, IL 60657',
-        phone: '(773) 327-3175',
-        website: 'https://chicago.laughfactory.com',
-        mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2967.5!2d-87.6450!3d41.9425!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd2f3f7f7f7f7%3A0xa0a0a0a0a0a0a0a0!2sLaugh%20Factory%20Chicago!5e0!3m2!1sen!2sus!4v1234567890'
-    },
-    'Lincoln Lodge': {
-        name: 'Lincoln Lodge',
-        color: '#2F4F4F',
-        address: '2424 N Lincoln Ave, Chicago, IL 60614',
-        phone: '(773) 868-0608',
-        website: 'https://www.lincolnlodge.com',
-        mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2968.5!2d-87.6530!3d41.9265!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd2f0f7f7f7f7%3A0xb0b0b0b0b0b0b0b0!2sLincoln%20Lodge!5e0!3m2!1sen!2sus!4v1234567890'
-    },
-    'Den Theatre': {
-        name: 'Den Theatre',
+    'Dynasty Typewriter': {
+        name: 'Dynasty Typewriter',
         color: '#4B0082',
-        address: '1331 N Milwaukee Ave, Chicago, IL 60622',
-        phone: '(773) 697-3830',
-        website: 'https://thedentheatre.com',
-        mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2969.8!2d-87.6655!3d41.9055!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd2f2f7f7f7f7%3A0xc0c0c0c0c0c0c0c0!2sDen%20Theatre!5e0!3m2!1sen!2sus!4v1234567890'
+        address: '2511 Wilshire Blvd, Los Angeles, CA 90057',
+        phone: '(213) 381-2345',
+        website: 'https://www.dynastytypewriter.com',
+        mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3305.8!2d-118.2775!3d34.0617!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c63d5d5d5d5d%3A0x5f5f5f5f5f5f5f5f!2sDynasty%20Typewriter!5e0!3m2!1sen!2sus!4v1234567890'
+    },
+    'Largo at the Coronet': {
+        name: 'Largo at the Coronet',
+        color: '#800080',
+        address: '366 N La Cienega Blvd, Los Angeles, CA 90048',
+        phone: '(310) 855-0350',
+        website: 'https://www.largo-la.com',
+        mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3305.5!2d-118.3754!3d34.0753!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2b94e4e4e4e4e%3A0x6f6f6f6f6f6f6f6f!2sLargo%20at%20the%20Coronet!5e0!3m2!1sen!2sus!4v1234567890'
+    },
+    'The Groundlings Theatre': {
+        name: 'The Groundlings Theatre',
+        color: '#2F4F4F',
+        address: '7307 Melrose Ave, Los Angeles, CA 90046',
+        phone: '(323) 934-4747',
+        website: 'https://www.groundlings.com',
+        mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3305.3!2d-118.3512!3d34.0835!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bf5f5f5f5f5f%3A0x7f7f7f7f7f7f7f7f!2sThe%20Groundlings%20Theatre!5e0!3m2!1sen!2sus!4v1234567890'
     }
 };
 
@@ -221,7 +221,7 @@ function detectComedyType(show) {
 // Load shows from JSON file
 async function loadShows() {
     try {
-        const response = await fetch('shows.json');
+        const response = await fetch('la-shows.json');
         const data = await response.json();
 
         allShows = data.shows || [];
@@ -688,13 +688,11 @@ function filterToVenue(venueName, isOtherVenue = false) {
     const filterBtns = document.querySelectorAll('[data-filter]');
     filterBtns.forEach(b => b.classList.remove('active'));
 
-    // If it's an "other venue", show active state on "Other Venues" button
-    // If it's a preferred venue, show active state on that venue's button
+    // Find and activate the matching button, or activate "Other" button
     const matchingBtn = Array.from(filterBtns).find(btn => btn.dataset.filter === venueName);
     if (matchingBtn) {
         matchingBtn.classList.add('active');
     } else if (isOtherVenue) {
-        // Activate "Other Venues" button to show we're filtering other venues
         const otherBtn = Array.from(filterBtns).find(btn => btn.dataset.filter === 'other');
         if (otherBtn) otherBtn.classList.add('active');
     }
@@ -712,9 +710,8 @@ function showActiveFilterPill(venueName) {
 
     if (!pill || !text) return;
 
-    // Only show pill for venues not in the static buttons
+    // Only show pill for non-static-button filters
     const isStaticButton = document.querySelector(`[data-filter="${venueName}"]`);
-
     if (!isStaticButton) {
         text.textContent = `Showing: ${venueName}`;
         pill.classList.remove('hidden');

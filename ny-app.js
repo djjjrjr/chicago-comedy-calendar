@@ -10,78 +10,107 @@ let dateFilterEnd = '';
 
 // Preferred venues list - these are the main comedy venues
 const PREFERRED_VENUES = [
-    'Second City',
-    'iO Theater',
-    'Annoyance Theatre',
-    'Zanies',
-    'Laugh Factory',
-    'Lincoln Lodge',
-    'Den Theatre'
+    'Comedy Cellar',
+    'Gotham Comedy Club',
+    'The Stand',
+    'The Bell House',
+    'Union Hall',
+    'Carolines on Broadway',
+    'UCB Theatre'
 ];
+
+// Borough mapping for NY venues
+const BOROUGH_MAP = {
+    'Comedy Cellar': 'Manhattan',
+    'Gotham Comedy Club': 'Manhattan',
+    'The Stand': 'Manhattan',
+    'Carolines on Broadway': 'Manhattan',
+    'UCB Theatre': 'Manhattan',
+    'The Bell House': 'Brooklyn',
+    'Union Hall': 'Brooklyn'
+};
 
 // Venue configurations with location data (for preferred venues only)
 const venues = {
-    'Second City': {
-        name: 'Second City',
-        color: '#003E7E',
-        address: '1616 N Wells St, Chicago, IL 60614',
-        phone: '(312) 337-3992',
-        website: 'https://www.secondcity.com',
-        mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2968.8!2d-87.6348!3d41.9126!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd2ed1d7dc75f%3A0x3e7f7f4dfc4d3e8e!2sThe%20Second%20City!5e0!3m2!1sen!2sus!4v1234567890'
+    'Comedy Cellar': {
+        name: 'Comedy Cellar',
+        color: '#8B0000',
+        address: '117 MacDougal St, New York, NY 10012',
+        phone: '(212) 254-3480',
+        website: 'https://www.comedycellar.com',
+        mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3024.2!2d-74.0011!3d40.7295!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2598f0f0f0f0f%3A0x1f1f1f1f1f1f1f1f!2sComedy%20Cellar!5e0!3m2!1sen!2sus!4v1234567890'
     },
-    'iO Theater': {
-        name: 'iO Theater',
-        color: '#C8102E',
-        address: '1501 N Kingsbury St, Chicago, IL 60642',
-        phone: '(312) 929-2401',
-        website: 'https://ioimprov.com/chicago',
-        mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2969.2!2d-87.6535!3d41.9095!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd2ef1f7f7f7f%3A0x7f7f7f7f7f7f7f7f!2siO%20Theater!5e0!3m2!1sen!2sus!4v1234567890'
+    'Gotham Comedy Club': {
+        name: 'Gotham Comedy Club',
+        color: '#000080',
+        address: '208 W 23rd St, New York, NY 10011',
+        phone: '(212) 367-9000',
+        website: 'https://www.gothamcomedyclub.com',
+        mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.8!2d-73.9955!3d40.7438!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a0a0a0a0a0%3A0x2f2f2f2f2f2f2f2f!2sGotham%20Comedy%20Club!5e0!3m2!1sen!2sus!4v1234567890'
     },
-    'Annoyance Theatre': {
-        name: 'Annoyance Theatre',
-        color: '#000000',
-        address: '851 W Belmont Ave, Chicago, IL 60657',
-        phone: '(773) 697-9693',
-        website: 'https://theannoyance.com',
-        mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2968.1!2d-87.6495!3d41.9395!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd2f1f7f7f7f7%3A0x8f8f8f8f8f8f8f8f!2sThe%20Annoyance%20Theatre!5e0!3m2!1sen!2sus!4v1234567890'
+    'The Stand': {
+        name: 'The Stand',
+        color: '#DC143C',
+        address: '239 3rd Ave, New York, NY 10003',
+        phone: '(212) 933-3029',
+        website: 'https://thestandnyc.com',
+        mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.5!2d-73.9843!3d40.7356!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259b1b1b1b1b1%3A0x3f3f3f3f3f3f3f3f!2sThe%20Stand!5e0!3m2!1sen!2sus!4v1234567890'
     },
-    'Zanies': {
-        name: 'Zanies',
-        color: '#D2691E',
-        address: '1548 N Wells St, Chicago, IL 60610',
-        phone: '(312) 337-4027',
-        website: 'https://chicago.zanies.com',
-        mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2969.0!2d-87.6345!3d41.9108!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd2ed1f7f7f7f%3A0x9f9f9f9f9f9f9f9f!2sZanies%20Comedy%20Club!5e0!3m2!1sen!2sus!4v1234567890'
-    },
-    'Laugh Factory': {
-        name: 'Laugh Factory',
-        color: '#8B4513',
-        address: '3175 N Broadway, Chicago, IL 60657',
-        phone: '(773) 327-3175',
-        website: 'https://chicago.laughfactory.com',
-        mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2967.5!2d-87.6450!3d41.9425!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd2f3f7f7f7f7%3A0xa0a0a0a0a0a0a0a0!2sLaugh%20Factory%20Chicago!5e0!3m2!1sen!2sus!4v1234567890'
-    },
-    'Lincoln Lodge': {
-        name: 'Lincoln Lodge',
+    'The Bell House': {
+        name: 'The Bell House',
         color: '#2F4F4F',
-        address: '2424 N Lincoln Ave, Chicago, IL 60614',
-        phone: '(773) 868-0608',
-        website: 'https://www.lincolnlodge.com',
-        mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2968.5!2d-87.6530!3d41.9265!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd2f0f7f7f7f7%3A0xb0b0b0b0b0b0b0b0!2sLincoln%20Lodge!5e0!3m2!1sen!2sus!4v1234567890'
+        address: '149 7th St, Brooklyn, NY 11215',
+        phone: '(718) 643-6510',
+        website: 'https://www.thebellhouseny.com',
+        mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3025.2!2d-73.9801!3d40.6708!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a0c0c0c0c0c%3A0x4f4f4f4f4f4f4f4f!2sThe%20Bell%20House!5e0!3m2!1sen!2sus!4v1234567890'
     },
-    'Den Theatre': {
-        name: 'Den Theatre',
+    'Union Hall': {
+        name: 'Union Hall',
+        color: '#8B4513',
+        address: '702 Union St, Brooklyn, NY 11215',
+        phone: '(718) 638-4400',
+        website: 'https://www.unionhallny.com',
+        mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3025.5!2d-73.9834!3d40.6755!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a1d1d1d1d1d%3A0x5f5f5f5f5f5f5f5f!2sUnion%20Hall!5e0!3m2!1sen!2sus!4v1234567890'
+    },
+    'Carolines on Broadway': {
+        name: 'Carolines on Broadway',
         color: '#4B0082',
-        address: '1331 N Milwaukee Ave, Chicago, IL 60622',
-        phone: '(773) 697-3830',
-        website: 'https://thedentheatre.com',
-        mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2969.8!2d-87.6655!3d41.9055!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd2f2f7f7f7f7%3A0xc0c0c0c0c0c0c0c0!2sDen%20Theatre!5e0!3m2!1sen!2sus!4v1234567890'
+        address: '1626 Broadway, New York, NY 10019',
+        phone: '(212) 757-4100',
+        website: 'https://www.carolines.com',
+        mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.1!2d-73.9832!3d40.7614!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c258e2e2e2e2e2%3A0x6f6f6f6f6f6f6f6f!2sCarolines%20on%20Broadway!5e0!3m2!1sen!2sus!4v1234567890'
+    },
+    'UCB Theatre': {
+        name: 'UCB Theatre',
+        color: '#006400',
+        address: '555 W 42nd St, New York, NY 10036',
+        phone: '(212) 366-9176',
+        website: 'https://newyork.ucbtheatre.com',
+        mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.3!2d-73.9905!3d40.7582!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259f3f3f3f3f3%3A0x7f7f7f7f7f7f7f7f!2sUCB%20Theatre!5e0!3m2!1sen!2sus!4v1234567890'
     }
 };
 
 // Helper function to check if a venue is preferred
 function isPreferredVenue(venueName) {
     return PREFERRED_VENUES.includes(venueName);
+}
+
+// Helper function to detect borough from venue name
+function detectBorough(venueName) {
+    // First check if it's in our borough map
+    if (BOROUGH_MAP[venueName]) {
+        return BOROUGH_MAP[venueName];
+    }
+
+    // Try to detect from venue name keywords
+    const lowerName = venueName.toLowerCase();
+    if (lowerName.includes('brooklyn')) return 'Brooklyn';
+    if (lowerName.includes('queens')) return 'Queens';
+    if (lowerName.includes('bronx')) return 'Bronx';
+    if (lowerName.includes('staten island')) return 'Staten Island';
+
+    // Default to Manhattan if we can't determine
+    return 'Manhattan';
 }
 
 // Initialize app
@@ -221,15 +250,16 @@ function detectComedyType(show) {
 // Load shows from JSON file
 async function loadShows() {
     try {
-        const response = await fetch('shows.json');
+        const response = await fetch('ny-shows.json');
         const data = await response.json();
 
         allShows = data.shows || [];
 
-        // Add comedy type to each show
+        // Add comedy type and borough to each show
         allShows = allShows.map(show => ({
             ...show,
-            comedyTypes: detectComedyType(show)
+            comedyTypes: detectComedyType(show),
+            borough: detectBorough(show.venue)
         }));
 
         // Update last updated time
@@ -342,6 +372,8 @@ function displayShows() {
         displayByDate(container);
     } else if (currentView === 'venue') {
         displayByVenue(container);
+    } else if (currentView === 'borough') {
+        displayByBorough(container);
     } else {
         displayList(container);
     }
@@ -459,6 +491,43 @@ function displayByVenue(container) {
                 </div>
             `;
         }
+    }).join('');
+}
+
+// Display shows grouped by borough
+function displayByBorough(container) {
+    // Group shows by borough
+    const groupedByBorough = {};
+    filteredShows.forEach(show => {
+        const borough = show.borough || 'Manhattan';
+        if (!groupedByBorough[borough]) {
+            groupedByBorough[borough] = [];
+        }
+        groupedByBorough[borough].push(show);
+    });
+
+    // Sort boroughs by priority (Manhattan, Brooklyn, Queens, Bronx, Staten Island)
+    const boroughOrder = ['Manhattan', 'Brooklyn', 'Queens', 'Bronx', 'Staten Island'];
+    const sortedBoroughs = boroughOrder.filter(b => groupedByBorough[b]);
+
+    // Create HTML
+    container.innerHTML = sortedBoroughs.map(borough => {
+        const shows = groupedByBorough[borough];
+        const showsHtml = shows.map(show => createShowCard(show, true)).join('');
+
+        return `
+            <div class="venue-group">
+                <div class="venue-group-header" onclick="toggleVenueGroup(this)">
+                    <span>
+                        ${borough} (${shows.length} show${shows.length > 1 ? 's' : ''})
+                    </span>
+                    <span class="arrow">▼</span>
+                </div>
+                <div class="venue-group-shows">
+                    ${showsHtml}
+                </div>
+            </div>
+        `;
     }).join('');
 }
 
@@ -688,13 +757,11 @@ function filterToVenue(venueName, isOtherVenue = false) {
     const filterBtns = document.querySelectorAll('[data-filter]');
     filterBtns.forEach(b => b.classList.remove('active'));
 
-    // If it's an "other venue", show active state on "Other Venues" button
-    // If it's a preferred venue, show active state on that venue's button
+    // Find and activate the matching button, or activate "Other" button
     const matchingBtn = Array.from(filterBtns).find(btn => btn.dataset.filter === venueName);
     if (matchingBtn) {
         matchingBtn.classList.add('active');
     } else if (isOtherVenue) {
-        // Activate "Other Venues" button to show we're filtering other venues
         const otherBtn = Array.from(filterBtns).find(btn => btn.dataset.filter === 'other');
         if (otherBtn) otherBtn.classList.add('active');
     }
@@ -712,9 +779,8 @@ function showActiveFilterPill(venueName) {
 
     if (!pill || !text) return;
 
-    // Only show pill for venues not in the static buttons
+    // Only show pill for non-static-button filters
     const isStaticButton = document.querySelector(`[data-filter="${venueName}"]`);
-
     if (!isStaticButton) {
         text.textContent = `Showing: ${venueName}`;
         pill.classList.remove('hidden');
