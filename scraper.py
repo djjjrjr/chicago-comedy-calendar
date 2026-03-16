@@ -176,7 +176,18 @@ def scrape_do312_comedy_events(page) -> List[Dict]:
             # Check if there's a next page
             has_next = page.evaluate('''
                 () => {
-                    const nextButton = document.querySelector('button[aria-label*="next"], a[aria-label*="next"], a:has-text("Next"), button:has-text("Next")');
+                    // Try aria-label selectors first
+                    let nextButton = document.querySelector('button[aria-label*="next" i], a[aria-label*="next" i]');
+
+                    // If not found, search for buttons/links with "Next" text
+                    if (!nextButton) {
+                        const buttons = Array.from(document.querySelectorAll('button, a'));
+                        nextButton = buttons.find(btn =>
+                            btn.textContent.trim().toLowerCase().includes('next') ||
+                            btn.getAttribute('aria-label')?.toLowerCase().includes('next')
+                        );
+                    }
+
                     return nextButton !== null && !nextButton.disabled && !nextButton.classList.contains('disabled');
                 }
             ''')
