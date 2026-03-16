@@ -47,7 +47,7 @@ jobs:
       - name: Install Playwright browsers
         run: playwright install chromium
 
-       - name: Run Chicago scraper
+      - name: Run Chicago scraper
         id: scrape-chicago
         run: python scraper.py
         continue-on-error: true
