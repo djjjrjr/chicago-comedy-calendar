@@ -51,12 +51,10 @@ jobs:
         id: scrape-chicago
         run: python scraper.py
         continue-on-error: true
-
       - name: Run New York scraper
         id: scrape-ny
         run: python ny-scraper.py
         continue-on-error: true
-
       - name: Run Los Angeles scraper
         id: scrape-la
         run: python la-scraper.py
@@ -77,19 +75,15 @@ jobs:
           echo "Chicago scraper: ${{ steps.scrape-chicago.outcome }}"
           echo "New York scraper: ${{ steps.scrape-ny.outcome }}"
           echo "Los Angeles scraper: ${{ steps.scrape-la.outcome }}"
-
           if [ ${{ steps.scrape-chicago.outcome }} == 'failure' ]; then
             echo "⚠️ Chicago scraper failed - keeping existing shows.json"
           fi
-
           if [ ${{ steps.scrape-ny.outcome }} == 'failure' ]; then
             echo "⚠️ New York scraper failed - keeping existing ny-shows.json"
           fi
-
           if [ ${{ steps.scrape-la.outcome }} == 'failure' ]; then
             echo "⚠️ Los Angeles scraper failed - keeping existing la-shows.json"
           fi
-
           # Exit successfully to allow commit if any scraper succeeded
           exit 0
 
