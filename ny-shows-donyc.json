@@ -1,0 +1,597 @@
+{
+  "lastUpdated": "2026-03-17T06:58:35.079500Z",
+  "shows": [
+    {
+      "venue": "The Stand",
+      "title": "TaTa Sherise, Ian Lara, Emil Wakim & More!",
+      "date": "2026-03-17T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/17/tata-sherise-ian-lara-emil-wakim-more-tickets"
+    },
+    {
+      "venue": "The Stand",
+      "title": "Brittany Brave, Sean Patton, Emil Wakim & More!",
+      "date": "2026-03-17T00:00:00Z",
+      "time": "10:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/17/brittany-brave-sean-patton-emil-wakim-more-tickets"
+    },
+    {
+      "venue": "The Bell House",
+      "title": "Irish Culture Night with Katie Boyle",
+      "date": "2026-03-17T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/17/irish-culture-night-with-katie-boyle-tickets"
+    },
+    {
+      "venue": "Liz's Book Bar",
+      "title": "Drink 'N Draft",
+      "date": "2025-12-14T00:00:00Z",
+      "time": "7:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/2025/12/14/drink-n-draft-tickets"
+    },
+    {
+      "venue": "Shake Shack Meatpacking District",
+      "title": "High Line Date Walk (Singles Stroll)",
+      "date": "2026-01-14T00:00:00Z",
+      "time": "6:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/1/14/high-line-date-walk-singles-stroll-tickets"
+    },
+    {
+      "venue": "Sour Mouse",
+      "title": "Fun & Games Singles Social Event In NYC",
+      "date": "2026-01-14T00:00:00Z",
+      "time": "6:30PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/1/14/fun-games-singles-social-event-in-nyc-tickets"
+    },
+    {
+      "venue": "449 LA",
+      "title": "Brunch Not! Live Jazz/Soul",
+      "date": "2023-09-29T00:00:00Z",
+      "time": "1:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/2023/9/29/brunch-not-live-jazz-soul-tickets"
+    },
+    {
+      "venue": "The Tiny Cupboard",
+      "title": "Board Game Meetup Every Sunday",
+      "date": "2026-01-12T00:00:00Z",
+      "time": "6:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/1/12/board-game-meetup-every-sunday-tickets"
+    },
+    {
+      "venue": "Sustainable Fashion Community Center",
+      "title": "Mon. Swap Shop Pass - EAST HARLEM",
+      "date": "2023-11-14T00:00:00Z",
+      "time": "12:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/2023/11/14/mon-swap-shop-pass-east-harlem-tickets"
+    },
+    {
+      "venue": "Secret Venue",
+      "title": "Dinner with Strangers: NYC (Female Bosses Edition)",
+      "date": "2024-10-05T00:00:00Z",
+      "time": "7:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/2024/10/5/dinner-with-strangers-nyc-female-bosses-edition-tickets"
+    },
+    {
+      "venue": "Jersey City",
+      "title": "Check-in-Chats with Seniors",
+      "date": "2024-10-18T00:00:00Z",
+      "time": "12:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/2024/10/18/check-in-chats-with-seniors-tickets"
+    },
+    {
+      "venue": "The Irish American Pub",
+      "title": "New York City Meet People Social + Language Exchange - Make New Friends!",
+      "date": "2025-06-01T00:00:00Z",
+      "time": "6:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/2025/6/1/new-york-city-meet-people-social-language-exchange-make-new-friends-tickets"
+    },
+    {
+      "venue": "West 19th Street",
+      "title": "Cheyenne's Guided Ghosts Audio Walking Tour",
+      "date": "2025-06-23T00:00:00Z",
+      "time": "10:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/2025/6/23/cheyenne-s-guided-ghosts-audio-walking-tour-tickets"
+    },
+    {
+      "venue": "29 Washington Pl",
+      "title": "Amazing Scavenger Hunt! - Greenwich Ghost Hunt",
+      "date": "2025-06-28T00:00:00Z",
+      "time": "8:00AM",
+      "description": "",
+      "url": "https://donyc.com/events/2025/6/28/amazing-scavenger-hunt-greenwich-ghost-hunt-tickets"
+    },
+    {
+      "venue": "Cafe of the Day",
+      "title": "Breakfast with the Bros | Jersey City",
+      "date": "2025-10-26T00:00:00Z",
+      "time": "10:00AM",
+      "description": "",
+      "url": "https://donyc.com/events/2025/10/26/breakfast-with-the-bros-jersey-city-tickets"
+    },
+    {
+      "venue": "\u200bPLANTED CAFE",
+      "title": "Speed Dating: Cougars and Cubs",
+      "date": "2025-10-26T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://donyc.com/events/2025/10/26/speed-dating-cougars-and-cubs-tickets"
+    },
+    {
+      "venue": "VIP DINER",
+      "title": "Awaken Jersey City Open Mic",
+      "date": "2025-11-06T00:00:00Z",
+      "time": "6:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/2025/11/6/awaken-jersey-city-open-mic-tickets"
+    },
+    {
+      "venue": "The Great Lawn",
+      "title": "Central Park The Amazing Race Experience Hosted by Reality Rush Games",
+      "date": "2025-11-08T00:00:00Z",
+      "time": "10:30AM",
+      "description": "",
+      "url": "https://donyc.com/events/2025/11/8/central-park-the-amazing-race-experience-hosted-by-reality-rush-games-tickets"
+    },
+    {
+      "venue": "Focal Point Beer Co",
+      "title": "INT'L CAF\u00c9 Queens",
+      "date": "2025-11-08T00:00:00Z",
+      "time": "6:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/2025/11/8/int-l-cafe-queens-tickets"
+    },
+    {
+      "venue": "Near Herald Square",
+      "title": "Poly Connections: Intimacy Lab",
+      "date": "2025-11-14T00:00:00Z",
+      "time": "7:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/2025/11/14/poly-connections-intimacy-lab-tickets"
+    },
+    {
+      "venue": "Whitehall Terminal",
+      "title": "Twilight Tour: Death in New York (Lower Manhattan)",
+      "date": "2025-11-14T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://donyc.com/events/2025/11/14/twilight-tour-death-in-new-york-lower-manhattan-tickets"
+    },
+    {
+      "venue": "Gotham Park",
+      "title": "Stewardship Saturday at Gotham Park (Garden & Clean Up)",
+      "date": "2025-11-22T00:00:00Z",
+      "time": "10:00AM",
+      "description": "",
+      "url": "https://donyc.com/events/2025/11/22/stewardship-saturday-at-gotham-park-garden-clean-up-tickets"
+    },
+    {
+      "venue": "The Irish American Pub",
+      "title": "New York Language Exchange Friday | Make Friends, Learn Languages & Culture",
+      "date": "2025-11-23T00:00:00Z",
+      "time": "5:30PM",
+      "description": "",
+      "url": "https://donyc.com/events/2025/11/23/new-york-language-exchange-friday-make-friends-learn-languages-culture-tickets"
+    },
+    {
+      "venue": "El Barrio Artspace PS109",
+      "title": "Thisability: Let's Create Together Series",
+      "date": "2025-11-27T00:00:00Z",
+      "time": "12:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/2025/11/27/thisability-let-s-create-together-series-tickets"
+    },
+    {
+      "venue": "Shake Shack Meatpacking District",
+      "title": "High Line Date Walk (Singles Stroll) Sold Out For Men",
+      "date": "2025-11-27T00:00:00Z",
+      "time": "6:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/2025/11/27/high-line-date-walk-singles-stroll-sold-out-for-men-tickets"
+    },
+    {
+      "venue": "Starbucks",
+      "title": "Underground NYC Tour (AKA Empire Beneath The Streets)",
+      "date": "2025-11-30T00:00:00Z",
+      "time": "10:00AM",
+      "description": "",
+      "url": "https://donyc.com/events/2025/11/30/underground-nyc-tour-aka-empire-beneath-the-streets-tickets"
+    },
+    {
+      "venue": "MOCA - Museum of Chinese in America",
+      "title": "Museum Admission",
+      "date": "2025-12-12T00:00:00Z",
+      "time": "11:00AM",
+      "description": "",
+      "url": "https://donyc.com/events/2025/12/12/museum-admission-tickets"
+    },
+    {
+      "venue": "Near Grove PATH Entrance at Northeast corner of Marin Blvd + Columbus Drive",
+      "title": "Save the Powerhouse Historic Neighborhood Walking Tour",
+      "date": "2025-12-12T00:00:00Z",
+      "time": "12:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/2025/12/12/save-the-powerhouse-historic-neighborhood-walking-tour-tickets"
+    },
+    {
+      "venue": "The Stand",
+      "title": "Kitty Reynolds, Oscar Aydin, Emil Wakim & More!",
+      "date": "2026-03-17T00:00:00Z",
+      "time": "9:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/17/kitty-reynolds-oscar-aydin-emil-wakim-more-tickets"
+    },
+    {
+      "venue": "Comic Strip Live NYC",
+      "title": "Tobin Miller, Jason Choi, Sheba Mason, Dan Naturman, Matt Pavich, & more!",
+      "date": "2026-03-17T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/17/tobin-miller-jason-choi-sheba-mason-dan-naturman-matt-pavich-more-tickets"
+    },
+    {
+      "venue": "The Stand",
+      "title": "Mary Santora, Reggie Conquest, Andre Kim & More!",
+      "date": "2026-03-17T00:00:00Z",
+      "time": "7:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/17/mary-santora-reggie-conquest-andre-kim-more-tickets"
+    },
+    {
+      "venue": "St. Marks Comedy Club",
+      "title": "Daniela Mora (TUBI and TIKTOK), Danny Hallinan (COMEDY FEST WINNER), Alexis Carabano (MAXHBO), Macy Kwok (NYComedy FEST)",
+      "date": "2026-03-17T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/17/daniela-mora-tubi-and-tiktok-danny-hallinan-comedy-fest-winner-alexis-carabano-maxhbo-macy-kwok-nycomedy-fest-tickets"
+    },
+    {
+      "venue": "St. Marks Comedy Club",
+      "title": "Daniela Mora (TUBI and TIKTOK), Macy Kwok (NYComedy FEST), Alexis Carabano (MAXHBO), Danny Hallinan (NYComedy FEST WINNER)",
+      "date": "2026-03-17T00:00:00Z",
+      "time": "9:30PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/17/daniela-mora-tubi-and-tiktok-macy-kwok-nycomedy-fest-alexis-carabano-maxhbo-danny-hallinan-nycomedy-fest-winner-tickets"
+    },
+    {
+      "venue": "Gotham Comedy Club",
+      "title": "The Gotham All-Stars",
+      "date": "2026-03-17T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/17/the-gotham-all-stars-tickets"
+    },
+    {
+      "venue": "Eastville Comedy Club",
+      "title": "Eastville Open Mic",
+      "date": "2026-03-17T00:00:00Z",
+      "time": "5:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/17/eastville-open-mic-tickets"
+    },
+    {
+      "venue": "Eastville Comedy Club",
+      "title": "Mecca Mic",
+      "date": "2026-03-17T00:00:00Z",
+      "time": "6:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/17/mecca-mic-tickets"
+    },
+    {
+      "venue": "Eris Deep Space",
+      "title": "Home Teams",
+      "date": "2026-03-17T00:00:00Z",
+      "time": "6:30PM\n              \n                (doors)",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/17/home-teams-tickets"
+    },
+    {
+      "venue": "New York Comedy Club Midtown",
+      "title": "Just for Laughs \"New Faces\" Showcase",
+      "date": "2026-03-17T00:00:00Z",
+      "time": "7:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/17/just-for-laughs-new-faces-showcase-tickets"
+    },
+    {
+      "venue": "NEW YORK COMEDY CLUB EAST VILLAGE",
+      "title": "Nice Try",
+      "date": "2026-03-17T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/17/nice-try-tickets"
+    },
+    {
+      "venue": "The PIT Loft",
+      "title": "Weekly Special Presents: The Brave and Present Jam",
+      "date": "2026-03-17T00:00:00Z",
+      "time": "8:30PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/17/weekly-special-presents-the-brave-and-present-jam-tickets"
+    },
+    {
+      "venue": "Eris Mainstage",
+      "title": "BCC Open Ass Mic",
+      "date": "2026-03-17T00:00:00Z",
+      "time": "8:30PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/17/bcc-open-ass-mic-tickets"
+    },
+    {
+      "venue": "NEW YORK COMEDY CLUB EAST VILLAGE",
+      "title": "New York Comedy Club Presents",
+      "date": "2026-03-17T00:00:00Z",
+      "time": "10:30PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/17/new-york-comedy-club-presents-tickets-peawd6e"
+    },
+    {
+      "venue": "Pangea",
+      "title": "THE IDEASMYTH SALON: Stories on Stage 17",
+      "date": "2026-03-17T00:00:00Z",
+      "time": "6:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/17/the-ideasmyth-salon-stories-on-stage-17-tickets"
+    },
+    {
+      "venue": "Center for Jewish History",
+      "title": "Was New York like Vienna? with Marsha Rozenblit",
+      "date": "2026-03-17T00:00:00Z",
+      "time": "6:30PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/17/was-new-york-like-vienna-with-marsha-rozenblit-tickets"
+    },
+    {
+      "venue": "Latitude 39 Restaurant & Bar",
+      "title": "St. Patrick's Day Speed Dating (20s & 30s)",
+      "date": "2026-03-17T00:00:00Z",
+      "time": "6:30PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/17/st-patrick-s-day-speed-dating-20s-30s-tickets"
+    },
+    {
+      "venue": "Parkside Lounge",
+      "title": "Summary of the Internet LIVE",
+      "date": "2026-03-17T00:00:00Z",
+      "time": "7:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/17/summary-of-the-internet-live-tickets"
+    },
+    {
+      "venue": "75 S 9th St",
+      "title": "Feeling Into ed 22: love in the time of I.C.E.",
+      "date": "2026-03-17T00:00:00Z",
+      "time": "7:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/17/feeling-into-ed-22-love-in-the-time-of-i-c-e-tickets"
+    },
+    {
+      "venue": "New York Comedy Club Upper West Side",
+      "title": "New York Comedy Club Presents",
+      "date": "2026-03-17T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/17/new-york-comedy-club-presents-tickets"
+    },
+    {
+      "venue": "West Side Comedy Club NYC",
+      "title": "Not Ripe Bananas",
+      "date": "2026-03-17T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/17/not-ripe-bananas-tickets"
+    },
+    {
+      "venue": "30Love",
+      "title": "30Love Comedy",
+      "date": "2026-03-17T06:55:02.778861Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/weeklies/2026/03/17"
+    },
+    {
+      "venue": "New York Comedy Club Upper West Side",
+      "title": "The Boy Friends w/ Matt Lopes, Corey B, Marcus Monroe",
+      "date": "2026-03-18T00:00:00Z",
+      "time": "7:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/18/the-boy-friends-w-matt-lopes-corey-b-marcus-monroe-tickets"
+    },
+    {
+      "venue": "Comic Strip Live NYC",
+      "title": "Sheba Mason, Subah Agarwal, Chris Roach, Michael Harrison, Eagle Witt, more",
+      "date": "2026-03-18T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/18/sheba-mason-subah-agarwal-chris-roach-michael-harrison-eagle-witt-more-tickets"
+    },
+    {
+      "venue": "Littlefield",
+      "title": "PUNDERDOME\u00ae: NYC\u2019s Comedy PUN-SLAM Compuntition is",
+      "date": "2026-03-18T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/18/punderdome-nyc-s-comedy-pun-slam-compuntition-is-tickets"
+    },
+    {
+      "venue": "Eris Mainstage",
+      "title": "Frat Boyz",
+      "date": "2026-03-18T00:00:00Z",
+      "time": "6:30PM\n              \n                (doors)",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/18/frat-boyz-tickets"
+    },
+    {
+      "venue": "Gotham Comedy Club",
+      "title": "The Gotham All-Stars",
+      "date": "2026-03-18T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/18/the-gotham-all-stars-tickets"
+    },
+    {
+      "venue": "Eastville Comedy Club",
+      "title": "Comedy Loves Ya",
+      "date": "2026-03-18T00:00:00Z",
+      "time": "6:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/18/comedy-loves-ya-tickets"
+    },
+    {
+      "venue": "Eastville Comedy Club",
+      "title": "Comedy Spotlight",
+      "date": "2026-03-18T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/18/comedy-spotlight-tickets"
+    },
+    {
+      "venue": "Eastville Comedy Club",
+      "title": "Try New Sh*t Open Mic",
+      "date": "2026-03-18T00:00:00Z",
+      "time": "9:45PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/18/try-new-sh-t-open-mic-tickets"
+    },
+    {
+      "venue": "Eastville Comedy Club",
+      "title": "Guy'z Nite Comedy",
+      "date": "2026-03-18T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/18/guy-z-nite-comedy-tickets"
+    },
+    {
+      "venue": "Eris Deep Space",
+      "title": "Chicken Big",
+      "date": "2026-03-18T00:00:00Z",
+      "time": "8:15PM\n              \n                (doors)",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/18/chicken-big-tickets"
+    },
+    {
+      "venue": "The PIT Loft",
+      "title": "Torn Alfredo: The Story of Pop-Punk Legends",
+      "date": "2026-03-18T00:00:00Z",
+      "time": "7:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/18/torn-alfredo-the-story-of-pop-punk-legends-tickets"
+    },
+    {
+      "venue": "The PIT Loft",
+      "title": "The Wednesday Show MIC",
+      "date": "2026-03-18T00:00:00Z",
+      "time": "4:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/18/the-wednesday-show-mic-tickets"
+    },
+    {
+      "venue": "NEW YORK COMEDY CLUB EAST VILLAGE",
+      "title": "Good Eggs Presented by Mark Normand, Gary Vider, Matt Ruby",
+      "date": "2026-03-18T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/18/good-eggs-presented-by-mark-normand-gary-vider-matt-ruby-tickets"
+    },
+    {
+      "venue": "New York Comedy Club Midtown",
+      "title": "New York Comedy Club Presents",
+      "date": "2026-03-18T00:00:00Z",
+      "time": "10:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/18/new-york-comedy-club-presents-tickets-3e8ozeb"
+    },
+    {
+      "venue": "NEW YORK COMEDY CLUB EAST VILLAGE",
+      "title": "New York Comedy Club Presents",
+      "date": "2026-03-18T00:00:00Z",
+      "time": "10:30PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/18/new-york-comedy-club-presents-tickets-ymkoxer"
+    },
+    {
+      "venue": "The PIT Loft",
+      "title": "Wednesday Night Scene Jam!",
+      "date": "2026-03-18T00:00:00Z",
+      "time": "10:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/18/wednesday-night-scene-jam-tickets"
+    },
+    {
+      "venue": "Hekate Caf\u00e9 & Elixir Lounge",
+      "title": "California Sober: Psychedelic Ladies Night",
+      "date": "2026-03-18T00:00:00Z",
+      "time": "7:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/18/california-sober-psychedelic-ladies-night-tickets"
+    },
+    {
+      "venue": "Oliver\u2019s Astoria",
+      "title": "- Music Lovers Speed Dating",
+      "date": "2026-03-18T00:00:00Z",
+      "time": "6:30PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/18/music-lovers-speed-dating-tickets"
+    },
+    {
+      "venue": "Hive Mind Books",
+      "title": "Author Event: Eli Erlick & Harron Walker In Conversation",
+      "date": "2026-03-18T00:00:00Z",
+      "time": "7:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/18/author-event-eli-erlick-harron-walker-in-conversation-tickets"
+    },
+    {
+      "venue": "New York Comedy Club Upper West Side",
+      "title": "New York Comedy Club Presents",
+      "date": "2026-03-18T00:00:00Z",
+      "time": "7:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/18/new-york-comedy-club-presents-tickets"
+    },
+    {
+      "venue": "VERS",
+      "title": "NetWERK! with NYC Pride & nglccNY",
+      "date": "2026-03-18T00:00:00Z",
+      "time": "5:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/18/netwerk-with-nyc-pride-nglccny-tickets"
+    },
+    {
+      "venue": "Love & Legends Books",
+      "title": "Drink 'N Draft",
+      "date": "2026-03-18T00:00:00Z",
+      "time": "7:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/18/drink-n-draft-tickets"
+    },
+    {
+      "venue": "The Stand",
+      "title": "TaTa Sherise, Janeane Garofalo, Emil Wakim & More!",
+      "date": "2026-03-18T00:00:00Z",
+      "time": "8:30PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/18/tata-sherise-janeane-garofalo-emil-wakim-more-tickets"
+    },
+    {
+      "venue": "The Stand",
+      "title": "Marito Lopez, Sienna Hubert-Ross, Chris Riggins & More!",
+      "date": "2026-03-18T00:00:00Z",
+      "time": "7:00PM",
+      "description": "",
+      "url": "https://donyc.com/events/2026/3/18/marito-lopez-sienna-hubert-ross-chris-riggins-more-tickets"
+    }
+  ]
+}
