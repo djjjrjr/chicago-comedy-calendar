@@ -16,7 +16,7 @@ const PREFERRED_VENUES = [
     'The Stand',
     'The Bell House',
     'Union Hall',
-    'Carolines on Broadway',
+    'Comic Strip Live NYC',
     'UCB Theatre'
 ];
 
@@ -25,7 +25,7 @@ const BOROUGH_MAP = {
     'Comedy Cellar': 'Manhattan',
     'Gotham Comedy Club': 'Manhattan',
     'The Stand': 'Manhattan',
-    'Carolines on Broadway': 'Manhattan',
+    'Comic Strip Live NYC': 'Manhattan',
     'UCB Theatre': 'Manhattan',
     'The Bell House': 'Brooklyn',
     'Union Hall': 'Brooklyn'
@@ -73,13 +73,13 @@ const venues = {
         website: 'https://www.unionhallny.com',
         mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3025.5!2d-73.9834!3d40.6755!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a1d1d1d1d1d%3A0x5f5f5f5f5f5f5f5f!2sUnion%20Hall!5e0!3m2!1sen!2sus!4v1234567890'
     },
-    'Carolines on Broadway': {
-        name: 'Carolines on Broadway',
-        color: '#4B0082',
-        address: '1626 Broadway, New York, NY 10019',
-        phone: '(212) 757-4100',
-        website: 'https://www.carolines.com',
-        mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.1!2d-73.9832!3d40.7614!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c258e2e2e2e2e2%3A0x6f6f6f6f6f6f6f6f!2sCarolines%20on%20Broadway!5e0!3m2!1sen!2sus!4v1234567890'
+    'Comic Strip Live NYC': {
+        name: 'Comic Strip Live NYC',
+        color: '#FF6347',
+        address: '1568 2nd Ave, New York, NY 10028',
+        phone: '(212) 861-9386',
+        website: 'https://www.comicstriplive.com',
+        mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3021.5!2d-73.9544!3d40.7757!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c258c5c5c5c5c5%3A0x8f8f8f8f8f8f8f8f!2sComic%20Strip%20Live!5e0!3m2!1sen!2sus!4v1234567890'
     },
     'UCB Theatre': {
         name: 'UCB Theatre',
