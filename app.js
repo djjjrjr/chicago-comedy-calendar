@@ -8,21 +8,21 @@ let searchTerm = '';
 let dateFilterStart = '';
 let dateFilterEnd = '';
 
-// Preferred venues list - these are the main comedy venues
+// Preferred venues list - these match the exact venue names from Do312
 const PREFERRED_VENUES = [
-    'Second City',
+    'The Second City',
     'iO Theater',
     'Annoyance Theatre',
-    'Zanies',
+    'Zanies Comedy Club',
     'Laugh Factory',
-    'Lincoln Lodge',
-    'Den Theatre'
+    'The Lincoln Lodge',
+    'Reggies - Comedy Shack'  // Replaced Den Theatre (not in Do312 data)
 ];
 
 // Venue configurations with location data (for preferred venues only)
 const venues = {
-    'Second City': {
-        name: 'Second City',
+    'The Second City': {
+        name: 'The Second City',
         color: '#003E7E',
         address: '1616 N Wells St, Chicago, IL 60614',
         phone: '(312) 337-3992',
@@ -45,8 +45,8 @@ const venues = {
         website: 'https://theannoyance.com',
         mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2968.1!2d-87.6495!3d41.9395!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd2f1f7f7f7f7%3A0x8f8f8f8f8f8f8f8f!2sThe%20Annoyance%20Theatre!5e0!3m2!1sen!2sus!4v1234567890'
     },
-    'Zanies': {
-        name: 'Zanies',
+    'Zanies Comedy Club': {
+        name: 'Zanies Comedy Club',
         color: '#D2691E',
         address: '1548 N Wells St, Chicago, IL 60610',
         phone: '(312) 337-4027',
@@ -61,21 +61,21 @@ const venues = {
         website: 'https://chicago.laughfactory.com',
         mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2967.5!2d-87.6450!3d41.9425!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd2f3f7f7f7f7%3A0xa0a0a0a0a0a0a0a0!2sLaugh%20Factory%20Chicago!5e0!3m2!1sen!2sus!4v1234567890'
     },
-    'Lincoln Lodge': {
-        name: 'Lincoln Lodge',
+    'The Lincoln Lodge': {
+        name: 'The Lincoln Lodge',
         color: '#2F4F4F',
         address: '2424 N Lincoln Ave, Chicago, IL 60614',
         phone: '(773) 868-0608',
         website: 'https://www.lincolnlodge.com',
         mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2968.5!2d-87.6530!3d41.9265!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd2f0f7f7f7f7%3A0xb0b0b0b0b0b0b0b0!2sLincoln%20Lodge!5e0!3m2!1sen!2sus!4v1234567890'
     },
-    'Den Theatre': {
-        name: 'Den Theatre',
+    'Reggies - Comedy Shack': {
+        name: 'Reggies - Comedy Shack',
         color: '#4B0082',
-        address: '1331 N Milwaukee Ave, Chicago, IL 60622',
-        phone: '(773) 697-3830',
-        website: 'https://thedentheatre.com',
-        mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2969.8!2d-87.6655!3d41.9055!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd2f2f7f7f7f7%3A0xc0c0c0c0c0c0c0c0!2sDen%20Theatre!5e0!3m2!1sen!2sus!4v1234567890'
+        address: '2105 S State St, Chicago, IL 60616',
+        phone: '(312) 949-0121',
+        website: 'https://www.reggieslive.com',
+        mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2972.0!2d-87.6269!3d41.8537!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2ca55555!2sReggies!5e0!3m2!1sen!2sus!4v1234567890'
     }
 };
 

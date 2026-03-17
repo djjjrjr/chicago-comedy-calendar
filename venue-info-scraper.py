@@ -72,24 +72,34 @@ def scrape_venue_from_do_site(page, venue_name, base_url, site_name):
                     found: false
                 };
 
-                // Try to find address
-                const addressEl = document.querySelector('[class*="address"], [class*="location"]');
-                if (addressEl) {
-                    info.address = addressEl.textContent.trim();
+                // Find address - link that contains a street address (with "Street", "Avenue", etc.)
+                const addressLink = Array.from(document.querySelectorAll('a')).find(a => {
+                    const text = a.textContent.trim();
+                    return (text.includes('Street') || text.includes('Avenue') || text.includes('Boulevard') ||
+                            text.includes('Road') || text.includes('Drive') || text.includes('Lane')) &&
+                           /\d+/.test(text); // Contains a number
+                });
+                if (addressLink) {
+                    info.address = addressLink.textContent.trim();
                     info.found = true;
                 }
 
-                // Try to find phone
-                const phoneEl = document.querySelector('[href^="tel:"]');
-                if (phoneEl) {
-                    info.phone = phoneEl.textContent.trim();
+                // Find phone - link with tel: protocol
+                const phoneLink = document.querySelector('a[href^="tel:"]');
+                if (phoneLink) {
+                    info.phone = phoneLink.textContent.trim();
                     info.found = true;
                 }
 
-                // Try to find website
-                const websiteEl = document.querySelector('a[href*="http"]:not([href*="do312"]):not([href*="donyc"]):not([href*="dolosangeles"])');
-                if (websiteEl && websiteEl.href) {
-                    info.website = websiteEl.href;
+                // Find website - link with text "Official Website"
+                const websiteLink = Array.from(document.querySelectorAll('a')).find(a =>
+                    a.textContent.includes('Official Website') || a.textContent.includes('Website')
+                );
+                if (websiteLink && websiteLink.href &&
+                    !websiteLink.href.includes('do312') &&
+                    !websiteLink.href.includes('donyc') &&
+                    !websiteLink.href.includes('dolosangeles')) {
+                    info.website = websiteLink.href;
                     info.found = true;
                 }
 
