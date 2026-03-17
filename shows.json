@@ -1,37 +1,29 @@
 {
-  "lastUpdated": "2026-03-16T19:47:21.761205Z",
+  "lastUpdated": "2026-03-17T06:54:49.633823Z",
   "shows": [
     {
       "venue": "The Second City",
-      "title": "Best of The Second City",
-      "date": "2026-03-16T00:00:00Z",
-      "time": "7:00PM",
+      "title": "The Second City Mainstage 114th Revue",
+      "date": "2026-03-17T00:00:00Z",
+      "time": "8:00PM",
       "description": "",
-      "url": "https://do312.com/events/2026/3/16/best-of-the-second-city-tickets"
+      "url": "https://do312.com/events/2026/3/17/the-second-city-mainstage-114th-revue-tickets"
     },
     {
       "venue": "Annoyance Theatre",
       "title": "TRAINING CENTER: Annoyance Student Jam",
-      "date": "2026-03-16T19:47:21.695482Z",
+      "date": "2026-03-17T06:53:45.034045Z",
       "time": "7:00PM",
       "description": "",
       "url": "https://do312.com/events/weeklies/2025/12/29"
     },
     {
-      "venue": "Annoyance Theatre",
-      "title": "It's Funny Cuz I'm From _____",
-      "date": "2026-03-16T00:00:00Z",
-      "time": "6:30PM",
+      "venue": "Zanies Comedy Club",
+      "title": "Audrey Stewart",
+      "date": "2026-03-17T00:00:00Z",
+      "time": "7:00PM",
       "description": "",
-      "url": "https://do312.com/events/2026/3/16/it-s-funny-cuz-i-m-from-_____-tickets"
-    },
-    {
-      "venue": "Butch McGuire's",
-      "title": "Jokes on Division at Butch McGuire's",
-      "date": "2026-03-16T19:47:21.695514Z",
-      "time": "9:00PM",
-      "description": "",
-      "url": "https://do312.com/events/weeklies/2026/03/16"
+      "url": "https://do312.com/events/2026/3/17/audrey-stewart-tickets"
     },
     {
       "venue": "Laugh Factory",
@@ -42,100 +34,28 @@
       "url": "https://do312.com/events/2025/5/1/laugh-your-ass-off-at-laugh-factory-tickets"
     },
     {
+      "venue": "The Western Bar & Kitchen",
+      "title": "Tuesday Good Show",
+      "date": "2026-03-17T06:53:45.034085Z",
+      "time": "7:00PM",
+      "description": "",
+      "url": "https://do312.com/events/weeklies/2026/03/17"
+    },
+    {
       "venue": "iO Theater",
       "title": "Best of iO Improv",
-      "date": "2026-03-16T19:47:21.695529Z",
+      "date": "2026-03-17T06:53:45.034088Z",
       "time": "6:00PM",
       "description": "",
       "url": "https://do312.com/events/weeklies/2026/02/28"
     },
     {
-      "venue": "The Comedy Bar",
-      "title": "Late Nite Mic With Vik Pandya",
-      "date": "2026-03-16T00:00:00Z",
-      "time": "7:00PM",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/16/late-nite-mic-with-vik-pandya-tickets"
-    },
-    {
-      "venue": "Zanies Comedy Club",
-      "title": "DePaul Standup Finals Show",
-      "date": "2026-03-16T00:00:00Z",
-      "time": "6:00PM",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/16/depaul-standup-finals-show-tickets"
-    },
-    {
-      "venue": "Zanies Comedy Club",
-      "title": "Super Six Showcase",
-      "date": "2026-03-16T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/16/super-six-showcase-tickets"
-    },
-    {
-      "venue": "Reggies - Comedy Shack",
-      "title": "South Loop Standup",
-      "date": "2026-03-16T00:00:00Z",
-      "time": "7:00PM",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/16/south-loop-standup-tickets"
-    },
-    {
-      "venue": "Laugh Factory",
-      "title": "Monday Night Stand Up Comedy at Laugh Factory Chicago",
-      "date": "2026-03-16T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/16/monday-night-stand-up-comedy-at-laugh-factory-chicago-tickets"
-    },
-    {
-      "venue": "iO Theater",
-      "title": "Magic Mondays",
-      "date": "2026-03-16T00:00:00Z",
-      "time": "7:00PM",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/16/magic-mondays-tickets"
-    },
-    {
-      "venue": "iO Theater",
-      "title": "The Armando Diaz Experience",
-      "date": "2026-03-16T00:00:00Z",
-      "time": "7:00PM",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/16/the-armando-diaz-experience-tickets"
-    },
-    {
-      "venue": "Donny's Skybox Theater",
-      "title": "The Stand-up Show",
-      "date": "2026-03-16T00:00:00Z",
-      "time": "7:00PM",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/16/the-stand-up-show-tickets"
-    },
-    {
-      "venue": "The Second City",
-      "title": "The Second City Mainstage 114th Revue",
-      "date": "2026-03-17T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/17/the-second-city-mainstage-114th-revue-tickets"
-    },
-    {
       "venue": "Lotties Pub",
       "title": "Comedy Night!",
-      "date": "2026-03-16T19:47:21.695611Z",
+      "date": "2026-03-17T06:53:45.034090Z",
       "time": "8:30PM",
       "description": "",
       "url": "https://do312.com/events/weeklies/2026/03/17"
-    },
-    {
-      "venue": "Zanies Comedy Club",
-      "title": "Audrey Stewart",
-      "date": "2026-03-17T00:00:00Z",
-      "time": "7:00PM",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/17/audrey-stewart-tickets"
     },
     {
       "venue": "Laugh Factory",
@@ -154,14 +74,6 @@
       "url": "https://do312.com/events/2026/3/17/free-tuesday-night-stand-up-comedy-at-laugh-factory-chicago-tickets"
     },
     {
-      "venue": "The Western Bar & Kitchen",
-      "title": "Tuesday Good Show",
-      "date": "2026-03-16T19:47:21.695634Z",
-      "time": "7:00PM",
-      "description": "",
-      "url": "https://do312.com/events/weeklies/2026/03/17"
-    },
-    {
       "venue": "The Comedy Bar",
       "title": "Tomato Throw Show",
       "date": "2026-03-17T00:00:00Z",
@@ -171,19 +83,19 @@
     },
     {
       "venue": "The Lincoln Lodge",
-      "title": "Clever Comedy Show",
-      "date": "2026-03-17T00:00:00Z",
-      "time": "9:00PM",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/17/clever-comedy-show-tickets"
-    },
-    {
-      "venue": "The Lincoln Lodge",
       "title": "Read the Room: A Literary Competition Comedy Show",
       "date": "2026-03-17T00:00:00Z",
       "time": "7:00PM",
       "description": "",
       "url": "https://do312.com/events/2026/3/17/read-the-room-a-literary-competition-comedy-show-tickets"
+    },
+    {
+      "venue": "The Lincoln Lodge",
+      "title": "Best Night Ever",
+      "date": "2026-03-17T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://do312.com/events/2026/3/17/best-night-ever-tickets"
     },
     {
       "venue": "Judy's Beat Lounge",
@@ -195,11 +107,11 @@
     },
     {
       "venue": "The Lincoln Lodge",
-      "title": "Best Night Ever",
+      "title": "Clever Comedy Show",
       "date": "2026-03-17T00:00:00Z",
-      "time": "8:00PM",
+      "time": "9:00PM",
       "description": "",
-      "url": "https://do312.com/events/2026/3/17/best-night-ever-tickets"
+      "url": "https://do312.com/events/2026/3/17/clever-comedy-show-tickets"
     },
     {
       "venue": "The Lincoln Lodge",
@@ -218,12 +130,100 @@
       "url": "https://do312.com/events/2026/3/18/the-second-city-mainstage-114th-revue-tickets"
     },
     {
+      "venue": "Zanies Comedy Club",
+      "title": "Just for Laughs \u2013 New Faces",
+      "date": "2026-03-18T00:00:00Z",
+      "time": "7:00PM",
+      "description": "",
+      "url": "https://do312.com/events/2026/3/18/just-for-laughs-new-faces-tickets"
+    },
+    {
+      "venue": "Annoyance Theatre",
+      "title": "Slip Dress: Dressed Up",
+      "date": "2026-03-18T00:00:00Z",
+      "time": "7:00PM",
+      "description": "",
+      "url": "https://do312.com/events/2026/3/18/slip-dress-dressed-up-tickets"
+    },
+    {
+      "venue": "Annoyance Theatre",
+      "title": "Juicy",
+      "date": "2026-03-18T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://do312.com/events/2026/3/18/juicy-tickets"
+    },
+    {
+      "venue": "Annoyance Theatre",
+      "title": "Jury Duty",
+      "date": "2026-03-18T00:00:00Z",
+      "time": "9:30PM",
+      "description": "",
+      "url": "https://do312.com/events/2026/3/18/jury-duty-tickets"
+    },
+    {
+      "venue": "Zanies Comedy Club",
+      "title": "2026 Best of Chicago",
+      "date": "2026-03-18T00:00:00Z",
+      "time": "7:00PM",
+      "description": "",
+      "url": "https://do312.com/events/2026/3/18/2026-best-of-chicago-tickets"
+    },
+    {
+      "venue": "iO Theater",
+      "title": "The FREE WEDNESDAY SHOW feat Dumb John and Birdlady",
+      "date": "2026-03-18T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://do312.com/events/2026/3/18/the-free-wednesday-show-feat-dumb-john-and-birdlady-tickets"
+    },
+    {
+      "venue": "iO Theater",
+      "title": "The Fizz Show: Carbonated Chicago Comedy",
+      "date": "2026-03-18T00:00:00Z",
+      "time": "10:00PM",
+      "description": "",
+      "url": "https://do312.com/events/2026/3/18/fizz-tickets"
+    },
+    {
+      "venue": "iO Theater",
+      "title": "Green Room - An Improv Jam",
+      "date": "2026-03-18T00:00:00Z",
+      "time": "9:00PM",
+      "description": "",
+      "url": "https://do312.com/events/2026/3/18/green-room-an-improv-jam-tickets"
+    },
+    {
+      "venue": "The Comedy Bar",
+      "title": "Crowd Work Wednesday",
+      "date": "2026-03-18T00:00:00Z",
+      "time": "7:00PM",
+      "description": "",
+      "url": "https://do312.com/events/2026/3/18/crowd-work-wednesday-tickets"
+    },
+    {
+      "venue": "The Lincoln Lodge",
+      "title": "Show & Tell for Grown-Ups: Audience Top Pick Presenters!",
+      "date": "2026-03-18T00:00:00Z",
+      "time": "5:00PM",
+      "description": "",
+      "url": "https://do312.com/events/2026/3/18/show-tell-for-grown-ups-audience-top-pick-presenters-tickets"
+    },
+    {
       "venue": "National Hellenic Museum",
       "title": "Ancient Greek Comedy",
       "date": "2026-03-18T00:00:00Z",
       "time": "7:00PM",
       "description": "",
       "url": "https://do312.com/events/2026/3/18/ancient-greek-comedy-tickets"
+    },
+    {
+      "venue": "The Lincoln Lodge",
+      "title": "Chicago's Late Night Talk Show: The Not That Late Show",
+      "date": "2026-03-18T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://do312.com/events/2026/3/18/chicago-s-late-night-talk-show-the-not-that-late-show-tickets"
     }
   ]
 }
