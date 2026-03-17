@@ -74,7 +74,8 @@ def main():
         'ny-shows-donyc.json',
         'caveat-shows.json',
         'union-hall-shows.json',
-        'comedy-cellar-shows.json'
+        'comedy-cellar-shows.json',
+        'ucb-ny-shows.json'
     ]
 
     all_shows = []
@@ -100,7 +101,7 @@ def main():
     output = {
         'shows': all_shows,
         'lastUpdated': datetime.now().isoformat() + 'Z',
-        'sources': ['DoNYC', 'Caveat', 'Union Hall', 'Comedy Cellar'],
+        'sources': ['DoNYC', 'Caveat', 'Union Hall', 'Comedy Cellar', 'UCB Theatre'],
         'totalShows': len(all_shows)
     }
 
