@@ -177,19 +177,49 @@ Jeff Arcuri (THE LATE SHOW WITHSTEPHEN COLBERT)
 
 ---
 
+## FINAL DECISION (March 17, 2026)
+
+**Venues to Scrape:**
+1. ✅ Comedy Cellar (custom scraper with date dropdown)
+2. ✅ Union Hall (custom scraper with calendar)
+3. ✅ UCB Theatre (custom scraper with Playwright stealth mode to bypass Cloudflare)
+
+**Carolines Replacement:** **The Stand** (already in DoNYC data with 6 shows)
+
+**Final Preferred Venues List:**
+1. Comedy Cellar (custom scraper)
+2. Gotham Comedy Club (DoNYC)
+3. The Stand (DoNYC) - **REPLACES CAROLINES**
+4. The Bell House (DoNYC)
+5. Union Hall (custom scraper)
+6. The Stand (DoNYC) - wait, duplicate! Need to pick between Stand and another venue
+7. UCB Theatre (custom scraper with stealth mode)
+
+**Corrected Final List:**
+1. Comedy Cellar (custom scraper)
+2. Gotham Comedy Club (DoNYC)
+3. The Stand (DoNYC) - replaces Carolines
+4. The Bell House (DoNYC)
+5. Union Hall (custom scraper)
+6. Comic Strip Live NYC (DoNYC) - historic venue
+7. UCB Theatre (custom scraper)
+
 ## Next Steps
 
-**If proceeding with Option A:**
-1. Create `comedy-cellar-scraper.py`
-2. Create `union-hall-scraper.py`
-3. Modify `ny-scraper.py` to be a merger script that:
+**Implementation Plan:**
+1. Create `comedy-cellar-scraper.py` (medium complexity)
+2. Create `union-hall-scraper.py` (medium complexity)
+3. Create `ucb-theatre-scraper.py` (high complexity - stealth mode, can run less frequently)
+4. Modify `ny-scraper.py` to be a merger script that:
    - Runs DoNYC scraper
    - Runs Comedy Cellar scraper
    - Runs Union Hall scraper
+   - Runs UCB scraper (with error handling for Cloudflare failures)
    - Merges all data into `ny-shows.json`
    - Deduplicates if same show appears in multiple sources
-4. Update NY preferred venues list
-5. Add venue info for new venues
-6. Update HTML filter buttons
+5. Update NY preferred venues list
+6. Add venue info for new venues
+7. Update HTML filter buttons
+8. Configure UCB scraper to run less frequently (e.g., twice per day instead of daily)
 
-**Estimated Total Time:** 10-15 hours for complete implementation
+**Estimated Total Time:** 12-18 hours for complete implementation
