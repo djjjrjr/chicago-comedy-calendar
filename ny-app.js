@@ -16,7 +16,7 @@ const PREFERRED_VENUES = [
     'The Stand',
     'The Bell House',
     'Union Hall',
-    'Comic Strip Live NYC',
+    'Caveat',
     'UCB Theatre'
 ];
 
@@ -25,7 +25,7 @@ const BOROUGH_MAP = {
     'Comedy Cellar': 'Manhattan',
     'Gotham Comedy Club': 'Manhattan',
     'The Stand': 'Manhattan',
-    'Comic Strip Live NYC': 'Manhattan',
+    'Caveat': 'Manhattan',
     'UCB Theatre': 'Manhattan',
     'The Bell House': 'Brooklyn',
     'Union Hall': 'Brooklyn'
@@ -73,13 +73,13 @@ const venues = {
         website: 'https://www.unionhallny.com',
         mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3025.5!2d-73.9834!3d40.6755!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a1d1d1d1d1d%3A0x5f5f5f5f5f5f5f5f!2sUnion%20Hall!5e0!3m2!1sen!2sus!4v1234567890'
     },
-    'Comic Strip Live NYC': {
-        name: 'Comic Strip Live NYC',
-        color: '#FF6347',
-        address: '1568 2nd Ave, New York, NY 10028',
-        phone: '(212) 861-9386',
-        website: 'https://www.comicstriplive.com',
-        mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3021.5!2d-73.9544!3d40.7757!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c258c5c5c5c5c5%3A0x8f8f8f8f8f8f8f8f!2sComic%20Strip%20Live!5e0!3m2!1sen!2sus!4v1234567890'
+    'Caveat': {
+        name: 'Caveat',
+        color: '#9B59B6',
+        address: '21 A Clinton St, New York, NY 10002',
+        phone: '(212) 228-2100',
+        website: 'https://caveat.nyc',
+        mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3024.5!2d-73.9838!3d40.7215!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25990a0a0a0a0%3A0x1f1f1f1f1f1f1f1f!2sCaveat!5e0!3m2!1sen!2sus!4v1234567890'
     },
     'UCB Theatre': {
         name: 'UCB Theatre',
