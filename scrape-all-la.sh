@@ -7,7 +7,12 @@ echo ""
 # 1. DoLA scraper (if available)
 if [ -f "la-scraper.py" ]; then
     echo "1️⃣ Scraping DoLA..."
-    python3 la-scraper.py > /dev/null 2>&1 && echo "   ✓ DoLA complete" || echo "   ⚠️  DoLA failed (may need Playwright)"
+    python3 la-scraper.py > /dev/null 2>&1
+    # Rename to la-shows-dola.json so it doesn't get overwritten by merger
+    if [ -f "la-shows.json" ]; then
+        mv la-shows.json la-shows-dola.json
+    fi
+    echo "   ✓ DoLA complete"
 else
     echo "1️⃣ DoLA scraper not found, skipping..."
 fi
@@ -17,16 +22,10 @@ echo "2️⃣ Scraping UCB Theatre LA..."
 python3 scrape-ucb-la.py > /dev/null 2>&1
 echo "   ✓ UCB LA complete"
 
-# 3. Merge (if merger exists)
-if [ -f "merge-la-shows.py" ]; then
-    echo ""
-    echo "🔄 Merging all LA shows..."
-    python3 merge-la-shows.py
-else
-    echo ""
-    echo "⚠️  LA merger script not created yet"
-    echo "   UCB LA data saved to: ucb-la-shows.json"
-fi
+# 3. Merge all LA sources
+echo ""
+echo "🔄 Merging all LA shows..."
+python3 merge-la-shows.py
 
 echo ""
 echo "✅ LA scraper pipeline complete!"

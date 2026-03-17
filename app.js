@@ -16,7 +16,7 @@ const PREFERRED_VENUES = [
     'Zanies Comedy Club',
     'Laugh Factory',
     'The Lincoln Lodge',
-    'Reggies - Comedy Shack'  // Replaced Den Theatre (not in Do312 data)
+    'Den Theatre'
 ];
 
 // Venue configurations with location data (for preferred venues only)
@@ -69,13 +69,13 @@ const venues = {
         website: 'https://www.lincolnlodge.com',
         mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2968.5!2d-87.6530!3d41.9265!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd2f0f7f7f7f7%3A0xb0b0b0b0b0b0b0b0!2sLincoln%20Lodge!5e0!3m2!1sen!2sus!4v1234567890'
     },
-    'Reggies - Comedy Shack': {
-        name: 'Reggies - Comedy Shack',
+    'Den Theatre': {
+        name: 'Den Theatre',
         color: '#4B0082',
-        address: '2105 S State St, Chicago, IL 60616',
-        phone: '(312) 949-0121',
-        website: 'https://www.reggieslive.com',
-        mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2972.0!2d-87.6269!3d41.8537!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2ca55555!2sReggies!5e0!3m2!1sen!2sus!4v1234567890'
+        address: '1331 N Milwaukee Ave, Chicago, IL 60622',
+        phone: '(773) 697-3830',
+        website: 'https://www.dentheatre.com',
+        mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2969.2!2d-87.6656!3d41.9080!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fcda8e8e8e8e8%3A0xa0a0a0a0a0a0a0a0!2sDen%20Theatre!5e0!3m2!1sen!2sus!4v1234567890'
     }
 };
 
