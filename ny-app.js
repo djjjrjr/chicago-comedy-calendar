@@ -9,15 +9,15 @@ let searchTerm = '';
 let dateFilterStart = '';
 let dateFilterEnd = '';
 
-// Preferred venues list - these match the actual venue names from DoNYC
+// Preferred venues list - these are the main comedy venues
 const PREFERRED_VENUES = [
-    'The Stand',
+    'Comedy Cellar',
     'Gotham Comedy Club',
-    'Eastville Comedy Club',
-    'NEW YORK COMEDY CLUB EAST VILLAGE',
-    'The PIT Loft',
-    'Comic Strip Live NYC',
-    'The Bell House'
+    'The Stand',
+    'The Bell House',
+    'Union Hall',
+    'Carolines on Broadway',
+    'UCB Theatre'
 ];
 
 // Borough mapping for NY venues
