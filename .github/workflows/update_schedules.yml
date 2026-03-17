@@ -49,17 +49,20 @@ jobs:
       - name: Install Playwright browsers
         run: playwright install chromium
 
+      - name: Install agent-browser
+        run: npm install -g agent-browser
+
       - name: Run Chicago scraper
         id: scrape-chicago
         run: python scraper.py
         continue-on-error: true
       - name: Run New York scraper
         id: scrape-ny
-        run: python ny-scraper.py
+        run: ./scrape-all-ny.sh
         continue-on-error: true
       - name: Run Los Angeles scraper
         id: scrape-la
-        run: python la-scraper.py
+        run: ./scrape-all-la.sh
         continue-on-error: true
 
       - name: Upload debug artifacts
