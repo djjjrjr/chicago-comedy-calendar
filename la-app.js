@@ -50,7 +50,7 @@ const venues = {
         color: '#006400',
         address: '5919 Franklin Ave, Los Angeles, CA 90028',
         phone: '(323) 908-8702',
-        website: 'https://losangeles.ucbtheatre.com',
+        website: 'https://ucbcomedy.com/shows/los-angeles/',
         mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3304.0!2d-118.3098!3d34.1045!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2bf3c3c3c3c3c%3A0x4f4f4f4f4f4f4f4f!2sUCB%20Theatre%20LA!5e0!3m2!1sen!2sus!4v1234567890'
     },
     'Dynasty Typewriter': {

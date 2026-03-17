@@ -84,10 +84,10 @@ const venues = {
     'UCB Theatre': {
         name: 'UCB Theatre',
         color: '#006400',
-        address: '555 W 42nd St, New York, NY 10036',
-        phone: '(212) 366-9176',
-        website: 'https://newyork.ucbtheatre.com',
-        mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.3!2d-73.9905!3d40.7582!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259f3f3f3f3f3%3A0x7f7f7f7f7f7f7f7f!2sUCB%20Theatre!5e0!3m2!1sen!2sus!4v1234567890'
+        address: '242 E 14th St, New York, NY 10003',
+        phone: '(212) 366-9231',
+        website: 'https://ucbcomedy.com/shows/new-york/',
+        mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.5!2d-73.9843!3d40.7315!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25990b0b0b0b0%3A0x2e2e2e2e2e2e2e2e!2sUCB%20Theatre!5e0!3m2!1sen!2sus!4v1234567890'
     }
 };
 
