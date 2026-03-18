@@ -151,17 +151,39 @@ def main():
     print("🎭 Venue Information Scraper Starting...")
     print("=" * 60)
 
+    # PROTECTED VENUES - Never scrape or overwrite (managed manually in app.js)
+    PROTECTED_VENUES = {
+        'The Second City', 'iO Theater', 'Annoyance Theatre', 'Zanies Comedy Club',
+        'Laugh Factory', 'The Lincoln Lodge', 'Den Theatre',
+        'Comedy Cellar', 'Gotham Comedy Club', 'The Stand', 'The Bell House',
+        'Union Hall', 'Caveat', 'UCB Theatre',
+        'The Comedy Store', 'The Laugh Factory', 'Hollywood Improv', 'UCB FRANKLIN',
+        'Dynasty Typewriter', 'Largo at the Coronet', 'The Groundlings Theatre'
+    }
+
+    # REMOVE - Bad/incorrect venues
+    REMOVE_VENUES = {'Reggies - Comedy Shack'}
+
     # Load existing venue info
     venue_data = load_existing_venue_info()
     existing_venues = venue_data.get('venues', {})
+
+    # Remove bad venues
+    for bad in REMOVE_VENUES:
+        if bad in existing_venues:
+            print(f"🗑️  Removing bad venue: {bad}")
+            del existing_venues[bad]
 
     # Get all unique venue names from show data
     all_venues = get_all_venue_names()
     print(f"\n📊 Found {len(all_venues)} unique venues across all cities")
     print(f"📚 Already have info for {len(existing_venues)} venues")
 
-    # Determine which venues need scraping
-    venues_to_scrape = [v for v in all_venues if v not in existing_venues]
+    # Determine which venues need scraping (exclude protected)
+    venues_to_scrape = [v for v in all_venues if v not in existing_venues and v not in PROTECTED_VENUES and v not in REMOVE_VENUES]
+
+    protected_count = len([v for v in all_venues if v in PROTECTED_VENUES])
+    print(f"🔒 {protected_count} protected venues (won't scrape)")
     print(f"🔍 Need to scrape {len(venues_to_scrape)} new venues")
 
     if not venues_to_scrape:
