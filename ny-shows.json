@@ -513,30 +513,6 @@
       "url": "https://donyc.com/events/weeklies/2026/03/17"
     },
     {
-      "title": "Sam Taggart: So Pretty Much Here's What's Been Going On With Me",
-      "venue": "Union Hall",
-      "date": "2026-03-18T00:00:00.000Z",
-      "time": null,
-      "description": null,
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "PITCH ROAST LIVE",
-      "venue": "Caveat",
-      "date": "2026-03-18T00:00:00.000Z",
-      "time": "7:00 PM",
-      "description": "​Pitch Roast Live️‍ brings comedy, startups, and venture capital together.",
-      "url": "https://caveat.nyc/events/pitch-roast-live-3-18-2026"
-    },
-    {
-      "title": "FACEBOOK MARKETPLACE LIVE!: THE GAME SHOW",
-      "venue": "Caveat",
-      "date": "2026-03-18T00:00:00.000Z",
-      "time": "9:30 PM",
-      "description": "Calling All Thrifters! Win free stuff at NYC's funniest comedy show.",
-      "url": "https://caveat.nyc/events/facebook-marketplace-live-3-18-2026"
-    },
-    {
       "venue": "New York Comedy Club Midtown",
       "title": "New York Comedy Club Presents",
       "date": "2026-03-18T00:00:00Z",
@@ -1663,9 +1639,33 @@
       "time": "9:30 PM",
       "description": "Part karaoke, part confessional. Share a story about a song… then sing the hell out of it.",
       "url": "https://caveat.nyc/events/story-oke-sing-and-tell-3-17-2026"
+    },
+    {
+      "title": "Sam Taggart: So Pretty Much Here's What's Been Going On With Me",
+      "venue": "Union Hall",
+      "date": "2027-03-18T00:00:00.000Z",
+      "time": null,
+      "description": null,
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "PITCH ROAST LIVE",
+      "venue": "Caveat",
+      "date": "2027-03-18T00:00:00.000Z",
+      "time": "7:00 PM",
+      "description": "​Pitch Roast Live️‍ brings comedy, startups, and venture capital together.",
+      "url": "https://caveat.nyc/events/pitch-roast-live-3-18-2026"
+    },
+    {
+      "title": "FACEBOOK MARKETPLACE LIVE!: THE GAME SHOW",
+      "venue": "Caveat",
+      "date": "2027-03-18T00:00:00.000Z",
+      "time": "9:30 PM",
+      "description": "Calling All Thrifters! Win free stuff at NYC's funniest comedy show.",
+      "url": "https://caveat.nyc/events/facebook-marketplace-live-3-18-2026"
     }
   ],
-  "lastUpdated": "2026-03-17T23:05:40.943565Z",
+  "lastUpdated": "2026-03-18T00:17:24.214415Z",
   "sources": [
     "DoNYC",
     "Caveat",
