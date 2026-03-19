@@ -79,9 +79,21 @@ const venues = {
     }
 };
 
+// Normalize venue names to group sub-venues under parent
+function normalizeVenueName(venueName) {
+    if (!venueName) return venueName;
+
+    // Comedy Store rooms → The Comedy Store
+    if (venueName.includes('Comedy Store')) {
+        return 'The Comedy Store';
+    }
+    return venueName;
+}
+
 // Helper function to check if a venue is preferred
 function isPreferredVenue(venueName) {
-    return PREFERRED_VENUES.includes(venueName);
+    const normalized = normalizeVenueName(venueName);
+    return PREFERRED_VENUES.includes(normalized);
 }
 
 // Load venue information database

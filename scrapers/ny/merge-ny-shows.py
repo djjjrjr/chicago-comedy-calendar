@@ -34,7 +34,7 @@ def filter_stale_shows(shows):
 def load_shows(filename):
     """Load shows, handling JSON-as-string issue"""
     if not os.path.exists(filename):
-        print(f"  ⚠️  {filename} not found")
+        print(f"  ⚠️  {filename} not found, skipping")
         return []
 
     try:

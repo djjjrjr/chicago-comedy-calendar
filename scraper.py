@@ -284,7 +284,7 @@ def save_shows(shows: List[Dict], existing_shows: List[Dict]):
         existing_shows: Previously saved shows
     """
     # Determine if new scrape is good enough to save
-    MIN_SHOWS_THRESHOLD = 20  # Require at least 20 shows
+    MIN_SHOWS_THRESHOLD = 10  # Require at least 10 shows (lowered from 20)
 
     if len(shows) < MIN_SHOWS_THRESHOLD:
         if len(existing_shows) > 0:
@@ -298,7 +298,7 @@ def save_shows(shows: List[Dict], existing_shows: List[Dict]):
 
     # If new scrape is significantly worse than existing, warn but don't save
     if len(existing_shows) > 0:
-        loss_threshold = 0.5  # Don't save if we lose more than 50% of shows
+        loss_threshold = 0.3  # Don't save if we lose more than 70% of shows (lowered from 50%)
         if len(shows) < len(existing_shows) * loss_threshold:
             print(f"\n⚠️  WARNING: New scrape has {len(shows)} shows vs {len(existing_shows)} existing (>{100-loss_threshold*100}% loss)")
             print(f"   Keeping existing shows to avoid data loss")

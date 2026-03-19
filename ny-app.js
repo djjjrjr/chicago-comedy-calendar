@@ -91,9 +91,21 @@ const venues = {
     }
 };
 
+// Normalize venue names to group sub-venues under parent
+function normalizeVenueName(venueName) {
+    if (!venueName) return venueName;
+
+    // Comedy Cellar rooms → Comedy Cellar
+    if (venueName.includes('Comedy Cellar')) {
+        return 'Comedy Cellar';
+    }
+    return venueName;
+}
+
 // Helper function to check if a venue is preferred
 function isPreferredVenue(venueName) {
-    return PREFERRED_VENUES.includes(venueName);
+    const normalized = normalizeVenueName(venueName);
+    return PREFERRED_VENUES.includes(normalized);
 }
 
 // Helper function to detect borough from venue name

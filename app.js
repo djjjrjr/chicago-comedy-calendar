@@ -16,7 +16,7 @@ const PREFERRED_VENUES = [
     'Zanies Comedy Club',
     'Laugh Factory',
     'The Lincoln Lodge',
-    'Den Theatre'
+    'The Den Theatre'
 ];
 
 // Venue configurations with location data (for preferred venues only)
@@ -79,9 +79,25 @@ const venues = {
     }
 };
 
+// Normalize venue names to group sub-venues under parent
+function normalizeVenueName(venueName) {
+    if (!venueName) return venueName;
+
+    // Comedy Store rooms → The Comedy Store
+    if (venueName.includes('Comedy Store')) {
+        return 'The Comedy Store';
+    }
+    // Comedy Cellar rooms → Comedy Cellar
+    if (venueName.includes('Comedy Cellar')) {
+        return 'Comedy Cellar';
+    }
+    return venueName;
+}
+
 // Helper function to check if a venue is preferred
 function isPreferredVenue(venueName) {
-    return PREFERRED_VENUES.includes(venueName);
+    const normalized = normalizeVenueName(venueName);
+    return PREFERRED_VENUES.includes(normalized);
 }
 
 // Load venue information database
