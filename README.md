@@ -13,34 +13,30 @@ A comprehensive comedy show aggregator for three cities, using a dual-scraping a
 
 ```
 .
-├── ROOT DIRECTORY (GitHub Pages serves from here)
-│   ├── index.html         # Chicago main page
-│   ├── app.js, styles.css # Chicago assets
+├── ROOT (GitHub Pages serves from here)
+│   ├── index.html, app.js, styles.css     # Chicago site
 │   ├── ny.html, ny-app.js, ny-styles.css  # NY site
 │   ├── la.html, la-app.js, la-styles.css  # LA site
 │   ├── shows.json, venue-info.json        # Chicago data
-│   ├── ny-shows.json, la-shows.json       # NY & LA data
+│   └── ny-shows.json, la-shows.json       # NY/LA data
 │
-├── scrapers/          # Backend: All scraping scripts
-│   ├── chicago/       # Chicago scrapers (Do312)
-│   ├── ny/            # NY scrapers (DoNYC + venues)
-│   └── la/            # LA scrapers (DoLA + venues)
+├── scrapers/          # Scraping scripts by city
+│   ├── chicago/       # Do312 scrapers
+│   ├── ny/            # DoNYC + custom scrapers
+│   └── la/            # DoLA + custom scrapers
 │
-├── data/              # Backend: JSON data outputs
-│   ├── chicago/       # Source data files
-│   ├── ny/            # Source data files
-│   └── la/            # Source data files
-│
-├── public/            # Backend: Organized website files
-│   ├── chicago/       # Chicago site (mirrored to root)
-│   ├── ny/            # NY site (mirrored to root)
-│   └── la/            # LA site (mirrored to root)
+├── data/              # Source of truth (scrapers write here)
+│   ├── chicago/
+│   ├── ny/
+│   └── la/
 │
 ├── docs/              # Documentation
-├── archive/           # Deprecated/old files
+├── archive/           # Deprecated files
 └── design-options/    # Alternative CSS themes
 
 ```
+
+**Note**: Deploy script copies from `data/` → root for GitHub Pages.
 
 ## 🚀 Quick Start
 
