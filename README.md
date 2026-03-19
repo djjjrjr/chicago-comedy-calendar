@@ -13,18 +13,29 @@ A comprehensive comedy show aggregator for three cities, using a dual-scraping a
 
 ```
 .
-├── scrapers/          # All scraping scripts
+├── ROOT DIRECTORY (GitHub Pages serves from here)
+│   ├── index.html         # Chicago main page
+│   ├── app.js, styles.css # Chicago assets
+│   ├── ny.html, ny-app.js, ny-styles.css  # NY site
+│   ├── la.html, la-app.js, la-styles.css  # LA site
+│   ├── shows.json, venue-info.json        # Chicago data
+│   ├── ny-shows.json, la-shows.json       # NY & LA data
+│
+├── scrapers/          # Backend: All scraping scripts
 │   ├── chicago/       # Chicago scrapers (Do312)
 │   ├── ny/            # NY scrapers (DoNYC + venues)
 │   └── la/            # LA scrapers (DoLA + venues)
-├── data/              # JSON data outputs
-│   ├── chicago/       # shows.json, venue-info.json
-│   ├── ny/            # ny-shows.json + venue files
-│   └── la/            # la-shows.json + venue files
-├── public/            # Static website files
-│   ├── chicago/       # index.html, app.js, styles.css
-│   ├── ny/            # index.html, app.js, styles.css
-│   └── la/            # index.html, app.js, styles.css
+│
+├── data/              # Backend: JSON data outputs
+│   ├── chicago/       # Source data files
+│   ├── ny/            # Source data files
+│   └── la/            # Source data files
+│
+├── public/            # Backend: Organized website files
+│   ├── chicago/       # Chicago site (mirrored to root)
+│   ├── ny/            # NY site (mirrored to root)
+│   └── la/            # LA site (mirrored to root)
+│
 ├── docs/              # Documentation
 ├── archive/           # Deprecated/old files
 └── design-options/    # Alternative CSS themes
@@ -33,25 +44,24 @@ A comprehensive comedy show aggregator for three cities, using a dual-scraping a
 
 ## 🚀 Quick Start
 
-### Scrape All Cities
+### Update All Data
 
 ```bash
-# Chicago
-./scrapers/chicago/scrape-all.sh
-
-# New York
-./scrapers/ny/scrape-all-ny.sh
-
-# Los Angeles
-./scrapers/la/scrape-all-la.sh
+# Run all scrapers and deploy
+./deploy.sh
 ```
 
 ### View the Sites
 
-Open the HTML files in your browser:
-- Chicago: `public/chicago/index.html`
-- New York: `public/ny/index.html`
-- Los Angeles: `public/la/index.html`
+**Live (GitHub Pages):**
+- Chicago: https://djjjrjr.github.io/chicago-comedy-calendar/
+- New York: https://djjjrjr.github.io/chicago-comedy-calendar/ny.html
+- Los Angeles: https://djjjrjr.github.io/chicago-comedy-calendar/la.html
+
+**Local:**
+- Chicago: Open `index.html`
+- New York: Open `ny.html`
+- Los Angeles: Open `la.html`
 
 ## 🎯 Dual Scraping Approach
 
