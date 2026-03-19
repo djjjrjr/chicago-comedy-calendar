@@ -33,20 +33,12 @@ echo ""
 echo "🔄 Merging all LA shows..."
 python3 merge-la-shows.py
 
-# 6. Move output to data directory
-DATA_DIR="../../data/la"
+# 6. Move output to root (for GitHub Pages)
 if [ -f "la-shows.json" ]; then
-    mv la-shows.json "$DATA_DIR/"
-    echo "📦 Moved la-shows.json to $DATA_DIR"
+    mv la-shows.json ../../
+    echo "📦 Moved la-shows.json to root"
 fi
-
-# Move individual venue files too
-for file in *-shows.json; do
-    if [ -f "$file" ] && [ "$file" != "la-shows.json" ]; then
-        mv "$file" "$DATA_DIR/"
-    fi
-done
 
 echo ""
 echo "✅ LA scraper pipeline complete!"
-echo "📊 Final data: $DATA_DIR/la-shows.json"
+echo "📊 Final data: ../../la-shows.json"

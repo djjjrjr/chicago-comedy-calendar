@@ -39,20 +39,12 @@ echo ""
 echo "🔄 Merging all NY shows..."
 python3 merge-ny-shows.py
 
-# 8. Move output to data directory
-DATA_DIR="../../data/ny"
+# 8. Move output to root (for GitHub Pages)
 if [ -f "ny-shows.json" ]; then
-    mv ny-shows.json "$DATA_DIR/"
-    echo "📦 Moved ny-shows.json to $DATA_DIR"
+    mv ny-shows.json ../../
+    echo "📦 Moved ny-shows.json to root"
 fi
-
-# Move individual venue files too
-for file in *-shows.json; do
-    if [ -f "$file" ] && [ "$file" != "ny-shows.json" ]; then
-        mv "$file" "$DATA_DIR/"
-    fi
-done
 
 echo ""
 echo "✅ NY scraper pipeline complete!"
-echo "📊 Final data: $DATA_DIR/ny-shows.json"
+echo "📊 Final data: ../../ny-shows.json"
