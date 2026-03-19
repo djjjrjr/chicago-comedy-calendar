@@ -37,7 +37,22 @@ echo "   ✓ The Bell House complete"
 # 7. Merge all sources
 echo ""
 echo "🔄 Merging all NY shows..."
-python3 merge-ny-shows-v2.py
+python3 merge-ny-shows.py
+
+# 8. Move output to data directory
+DATA_DIR="../../data/ny"
+if [ -f "ny-shows.json" ]; then
+    mv ny-shows.json "$DATA_DIR/"
+    echo "📦 Moved ny-shows.json to $DATA_DIR"
+fi
+
+# Move individual venue files too
+for file in *-shows.json; do
+    if [ -f "$file" ] && [ "$file" != "ny-shows.json" ]; then
+        mv "$file" "$DATA_DIR/"
+    fi
+done
 
 echo ""
 echo "✅ NY scraper pipeline complete!"
+echo "📊 Final data: $DATA_DIR/ny-shows.json"

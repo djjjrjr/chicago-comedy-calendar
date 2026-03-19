@@ -4,18 +4,14 @@
 echo "🚀 Starting LA comedy show scraper pipeline..."
 echo ""
 
-# 1. DoLA scraper (if available)
-if [ -f "la-scraper.py" ]; then
-    echo "1️⃣ Scraping DoLA..."
-    python3 la-scraper.py > /dev/null 2>&1
-    # Rename to la-shows-dola.json so it doesn't get overwritten by merger
-    if [ -f "la-shows.json" ]; then
-        mv la-shows.json la-shows-dola.json
-    fi
-    echo "   ✓ DoLA complete"
-else
-    echo "1️⃣ DoLA scraper not found, skipping..."
+# 1. DoLA category scraper
+echo "1️⃣ Scraping DoLA category..."
+python3 scrape-category.py > /dev/null 2>&1
+# Rename to la-shows-dola.json so it doesn't get overwritten by merger
+if [ -f "la-shows.json" ]; then
+    mv la-shows.json la-shows-dola.json
 fi
+echo "   ✓ DoLA complete"
 
 # 2. UCB LA (cloudscraper)
 echo "2️⃣ Scraping UCB Theatre LA..."
@@ -37,5 +33,20 @@ echo ""
 echo "🔄 Merging all LA shows..."
 python3 merge-la-shows.py
 
+# 6. Move output to data directory
+DATA_DIR="../../data/la"
+if [ -f "la-shows.json" ]; then
+    mv la-shows.json "$DATA_DIR/"
+    echo "📦 Moved la-shows.json to $DATA_DIR"
+fi
+
+# Move individual venue files too
+for file in *-shows.json; do
+    if [ -f "$file" ] && [ "$file" != "la-shows.json" ]; then
+        mv "$file" "$DATA_DIR/"
+    fi
+done
+
 echo ""
 echo "✅ LA scraper pipeline complete!"
+echo "📊 Final data: $DATA_DIR/la-shows.json"
