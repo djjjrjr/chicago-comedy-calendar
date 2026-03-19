@@ -421,7 +421,7 @@
       "venue": "UCB Theatre",
       "date": "2026-03-20T00:00:00Z",
       "time": "7:00 PM",
-      "description": "Friday, March 20, 2026 @ 7:00 PMLivestreamNY - 14TH ST. MainstageThe StepfathersWatch your favorite improvisers, Shannon O’Neill, Connor Ratliff, Alex Dickson, Sebastian Conelli, Zach Cherry, and Shane Nielsen make all the sad things funny. The legendary improv group The Stepfathers has survived 2 decades performing in NYC. Born in the basement…Buy Now",
+      "description": "Friday, March 20, 2026 @ 7:00 PMLivestreamNY - 14TH ST. MainstageThe StepfathersWatch your favorite improvisers, Shannon O’Neill, Connor Ratliff, Alexandra Dickson, Sebastian Conelli, Zach Cherry, and Shane Nielsen make all the sad things funny. The legendary improv group The Stepfathers has survived 2 decades performing in NYC. Born in the basement…Buy Now",
       "url": "https://ucbcomedy.com/show/the-stepfathers-03-20-26/"
     },
     {
@@ -1194,6 +1194,14 @@
     },
     {
       "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Fat Black Pussycat",
+      "date": "2026-03-25T00:00:00.000Z",
+      "time": "10:30 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
       "venue": "Comedy Cellar - MacDougal Street",
       "date": "2026-03-25T00:00:00.000Z",
       "time": "10:45 pm",
@@ -1325,6 +1333,14 @@
       "venue": "Comedy Cellar - MacDougal Street",
       "date": "2026-03-26T00:00:00.000Z",
       "time": "10:45 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Fat Black Pussycat",
+      "date": "2026-03-26T00:00:00.000Z",
+      "time": "11:00 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
@@ -2033,6 +2049,14 @@
       "url": "https://ucbcomedy.com/show/the-telephone-show-04-05-26/"
     },
     {
+      "title": "Shamilton, the Improvised Hip-Hop Musical",
+      "venue": "UCB Theatre",
+      "date": "2026-04-05T00:00:00Z",
+      "time": "8:30 PM",
+      "description": "Sunday, April 5, 2026 @ 8:30 PMLivestreamNY - 14TH ST. MainstageShamilton, the Improvised Hip-Hop MusicalImprovised hip-hop homage to Hamilton. You shout the celebrity, we make up the musical! Baby Wants Candy’s improvised hit Hamilton-inspired hip hop homage returns to UCBNY! New York Times “One of the Top 5 Comedy’s to Catch”. Ever heard of…Buy Now",
+      "url": "https://ucbcomedy.com/show/shamilton-the-improvised-hip-hop-musical-04-05-26/"
+    },
+    {
       "title": "Frankenstein's Baby",
       "venue": "Union Hall",
       "date": "2026-04-06T00:00:00.000Z",
@@ -2071,6 +2095,14 @@
       "time": "9:00 PM",
       "description": "Monday, April 6, 2026 @ 9:00 PMNY - 14TH ST. UpstairsImprovised The OfficeA new episode of “The Office” that is completely improvised based on what you the audience wants to see!   Calling all fans of The Office and all members of \"Michael Scott's Dunder Mifflin Scranton Meredith Palmer Memorial Celebrity Rabies…Buy Now",
       "url": "https://ucbcomedy.com/show/improvised-the-office-04-06-26/"
+    },
+    {
+      "title": "Larry Owens: New New (A Night of New Material)",
+      "venue": "Union Hall",
+      "date": "2026-04-07T00:00:00.000Z",
+      "time": null,
+      "description": "Larry Owens: New New (A Night of New Material)",
+      "url": "https://unionhallny.com/calendar"
     },
     {
       "title": "**cancelled** Jaboukie & Friends",
@@ -2353,18 +2385,10 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "Robert Kelly",
-      "venue": "Comedy Cellar",
-      "date": "2026-04-14T00:00:00.000Z",
-      "time": "7:00 pm",
-      "description": "Robert Kelly: A One Man Show: Final Fat",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
       "title": "Comedy Showcase",
       "venue": "Comedy Cellar",
       "date": "2026-04-14T00:00:00.000Z",
-      "time": "7:31 pm",
+      "time": "7:00 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
@@ -2375,14 +2399,6 @@
       "time": "5:30 PM",
       "description": "Tuesday, April 14, 2026 @ 5:30 PMNY - 14TH ST. MainstageThe Improv JamGet up on stage and get reps at The Improv Jam - Every Other Tuesday @ 5:30pm! Students of all levels are welcome and it is FREE! A free, inclusive improv jam for UCB students, performers, and fans! All levels…Read more",
       "url": "https://ucbcomedy.com/show/the-improv-jam-04-14-26/"
-    },
-    {
-      "title": "Harold Night: SNAIL! & Bruv & Hot FM & Tiptoe",
-      "venue": "UCB Theatre",
-      "date": "2026-04-14T00:00:00Z",
-      "time": "7:00 PM",
-      "description": "Tuesday, April 14, 2026 @ 7:00 PMLivestreamNY - 14TH ST. MainstageHarold Night: SNAIL! & Bruv & Hot FM & TiptoeYour one-stop shop to see UCB’s house improv ensembles perform every Tuesday! Harold Night is UCB’s long-running weekly improv show featuring homegrown teams at the top of their game performing, you guessed it, The Harold.   Featuring: SNAIL! & Bruv…Buy Now",
-      "url": "https://ucbcomedy.com/show/harold-night-snail-bruv-hotfm-tiptoe-04-14-26/"
     },
     {
       "title": "Phoebe Robinson: New Stuff.",
@@ -2473,6 +2489,230 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "Hear Me Out: Hosted by Nick Smith",
+      "venue": "Union Hall",
+      "date": "2026-04-21T00:00:00.000Z",
+      "time": null,
+      "description": "Hear Me Out: Hosted by Nick Smith",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Molly Kearney and Their Talented Friends",
+      "venue": "Union Hall",
+      "date": "2026-04-23T00:00:00.000Z",
+      "time": null,
+      "description": "Molly Kearney and Their Talented Friends",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "LAUGH",
+      "venue": "Union Hall",
+      "date": "2026-04-23T00:00:00.000Z",
+      "time": null,
+      "description": "LAUGH",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Girl Church hosted by Amelia Ritthaler",
+      "venue": "Union Hall",
+      "date": "2026-04-24T00:00:00.000Z",
+      "time": null,
+      "description": "Girl Church hosted by Amelia Ritthaler",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Sureni & Lovers",
+      "venue": "Union Hall",
+      "date": "2026-04-25T00:00:00.000Z",
+      "time": null,
+      "description": "Sureni & Lovers",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Shaunak Does Improvised Standup",
+      "venue": "Union Hall",
+      "date": "2026-04-25T00:00:00.000Z",
+      "time": null,
+      "description": "Shaunak Does Improvised Standup",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "David Cross: Shootin’ the Shit, Seein’ What Sticks",
+      "venue": "Union Hall",
+      "date": "2026-04-27T00:00:00.000Z",
+      "time": null,
+      "description": "David Cross: Shootin’ the Shit, Seein’ What Sticks",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "PRETTY MAJOR Hosted by Jay Jurden",
+      "venue": "Union Hall",
+      "date": "2026-04-28T00:00:00.000Z",
+      "time": null,
+      "description": "PRETTY MAJOR Hosted by Jay Jurden",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Wyatt Cenac | Works in Progress",
+      "venue": "Union Hall",
+      "date": "2026-04-29T00:00:00.000Z",
+      "time": null,
+      "description": "Wyatt Cenac | Works in Progress",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Standup for Planned Parenthood Hosted by Maddy Kelly",
+      "venue": "Union Hall",
+      "date": "2026-04-30T00:00:00.000Z",
+      "time": null,
+      "description": "Standup for Planned Parenthood Hosted by Maddy Kelly",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Jordan Klepper: New Goods",
+      "venue": "Union Hall",
+      "date": "2026-04-30T00:00:00.000Z",
+      "time": null,
+      "description": "Jordan Klepper: New Goods",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Courtney O'Donnell: Planet Courtney",
+      "venue": "Union Hall",
+      "date": "2026-05-02T00:00:00.000Z",
+      "time": null,
+      "description": "Courtney O'Donnell: Planet Courtney",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "The Portal",
+      "venue": "Union Hall",
+      "date": "2026-05-02T00:00:00.000Z",
+      "time": null,
+      "description": "The Portal",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Young Adult Friction: an indie + alt dance party",
+      "venue": "Union Hall",
+      "date": "2026-05-02T00:00:00.000Z",
+      "time": null,
+      "description": "Young Adult Friction: an indie + alt dance party",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Jaboukie & Friends",
+      "venue": "Union Hall",
+      "date": "2026-05-03T00:00:00.000Z",
+      "time": null,
+      "description": "Jaboukie & Friends",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Greta Titelman: Hot! Fresh! New!",
+      "venue": "Union Hall",
+      "date": "2026-05-06T00:00:00.000Z",
+      "time": null,
+      "description": "Greta Titelman: Hot! Fresh! New!",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "LizaBanks Campagna",
+      "venue": "Union Hall",
+      "date": "2026-05-07T00:00:00.000Z",
+      "time": null,
+      "description": "LizaBanks Campagna",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Rachel Tokar",
+      "venue": "Union Hall",
+      "date": "2026-05-09T00:00:00.000Z",
+      "time": null,
+      "description": "Rachel Tokar",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "DeliaDelia! And Friends!",
+      "venue": "Union Hall",
+      "date": "2026-05-14T00:00:00.000Z",
+      "time": null,
+      "description": "DeliaDelia! And Friends!",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Jamie Wolf: Psycho",
+      "venue": "Union Hall",
+      "date": "2026-05-16T00:00:00.000Z",
+      "time": null,
+      "description": "Jamie Wolf: Psycho",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Jordan Klepper: New Goods",
+      "venue": "Union Hall",
+      "date": "2026-05-21T00:00:00.000Z",
+      "time": null,
+      "description": "Jordan Klepper: New Goods",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Katie Garcia: Live in New York",
+      "venue": "Union Hall",
+      "date": "2026-06-11T00:00:00.000Z",
+      "time": null,
+      "description": "Katie Garcia: Live in New York",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Malik Elassal",
+      "venue": "Union Hall",
+      "date": "2026-07-21T00:00:00.000Z",
+      "time": null,
+      "description": "Malik Elassal",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Malik Elassal",
+      "venue": "Union Hall",
+      "date": "2026-07-22T00:00:00.000Z",
+      "time": null,
+      "description": "Malik Elassal",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Malik Elassal",
+      "venue": "Union Hall",
+      "date": "2026-07-23T00:00:00.000Z",
+      "time": null,
+      "description": "Malik Elassal",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Malik Elassal",
+      "venue": "Union Hall",
+      "date": "2026-07-24T00:00:00.000Z",
+      "time": null,
+      "description": "Malik Elassal",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Malik Elassal",
+      "venue": "Union Hall",
+      "date": "2026-07-25T00:00:00.000Z",
+      "time": null,
+      "description": "Malik Elassal",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Chris Gethard And Dave Ross Leave For Fest",
+      "venue": "Union Hall",
+      "date": "2026-10-17T00:00:00.000Z",
+      "time": null,
+      "description": "Chris Gethard And Dave Ross Leave For Fest",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
       "title": "FACTS MACHINE: SCIENCE, COMEDY & TRIVIA!",
       "venue": "Caveat",
       "date": "2027-03-19T00:00:00.000Z",
@@ -2489,7 +2729,7 @@
       "url": "https://caveat.nyc/events/three-day-champion-3-19-2026"
     }
   ],
-  "lastUpdated": "2026-03-19T14:42:49.886356Z",
+  "lastUpdated": "2026-03-19T18:05:56.453834Z",
   "sources": [
     "DoNYC",
     "Caveat",
@@ -2499,5 +2739,5 @@
     "UCB Theatre",
     "The Bell House"
   ],
-  "totalShows": 311
+  "totalShows": 341
 }
