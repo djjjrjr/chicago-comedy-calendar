@@ -48,6 +48,13 @@ except Exception as e:
     print(f"  Error reading data: {e}")
 PYEOF
 
+# Copy data files to public directories (for web deployment)
+echo "📦 Copying data to public directories..."
+cp data/chicago/shows.json public/chicago/
+cp data/chicago/venue-info.json public/chicago/
+cp data/ny/ny-shows.json public/ny/shows.json
+cp data/la/la-shows.json public/la/shows.json
+
 echo ""
 echo "✅ Deployment complete!"
 echo "🌐 Open public/{city}/index.html to view sites"
