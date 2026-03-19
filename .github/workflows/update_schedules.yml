@@ -54,25 +54,16 @@ jobs:
 
       - name: Run Chicago scraper
         id: scrape-chicago
-        run: cd scrapers/chicago && ./scrape-all.sh
+        run: python scraper.py
         continue-on-error: true
-
       - name: Run New York scraper
         id: scrape-ny
-        run: cd scrapers/ny && ./scrape-all-ny.sh
+        run: ./scrape-all-ny.sh
         continue-on-error: true
-
       - name: Run Los Angeles scraper
         id: scrape-la
-        run: cd scrapers/la && ./scrape-all-la.sh
+        run: ./scrape-all-la.sh
         continue-on-error: true
-
-      - name: Deploy data to root
-        run: |
-          cp data/chicago/shows.json ./
-          cp data/chicago/venue-info.json ./
-          cp data/ny/ny-shows.json ./ny-shows.json
-          cp data/la/la-shows.json ./la-shows.json
 
       - name: Upload debug artifacts
         if: always()
@@ -105,5 +96,5 @@ jobs:
         run: |
           git config --global user.name 'Comedy Calendar Bot'
           git config --global user.email 'bot@github-actions'
-          git add shows.json ny-shows.json la-shows.json venue-info.json
+          git add shows.json ny-shows.json la-shows.json
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update show schedules - $(date +'%Y-%m-%d')" && git push)
