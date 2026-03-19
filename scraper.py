@@ -31,7 +31,7 @@ def scrape_do312_comedy_events(page) -> List[Dict]:
     page_num = 1
     consecutive_failures = 0
     MAX_FAILURES = 2  # Stop after 2 consecutive page failures
-    MAX_PAGES = 10  # Limit to 10 pages (typically ~200 shows)
+    MAX_PAGES = 30  # Limit to 30 pages (~20 shows/page = ~600 shows, covering 30-60 days)
 
     base_url = 'https://do312.com/events/comedy'
 
