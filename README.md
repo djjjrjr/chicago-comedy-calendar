@@ -16,13 +16,6 @@ Beautiful, aggregated schedule viewers for comedy venues in three cities - all i
 - **New York**: [https://djjjrjr.github.io/chicago-comedy-calendar/ny.html](https://djjjrjr.github.io/chicago-comedy-calendar/ny.html)
 - **Los Angeles**: [https://djjjrjr.github.io/chicago-comedy-calendar/la.html](https://djjjrjr.github.io/chicago-comedy-calendar/la.html)
 
-## 📊 Current Coverage
-
-- Chicago: 159 shows
-- New York: 316 shows
-- Los Angeles: 321 shows
-- **Total: 796 comedy shows**
-
 ## 🛠️ How It Works
 
 ### Frontend
