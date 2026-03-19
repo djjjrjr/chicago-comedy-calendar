@@ -1,0 +1,887 @@
+{
+  "shows": [
+    {
+      "title": "Today",
+      "venue": "Dynasty Typewriter",
+      "date": "2026-03-19T01:33:47.878712Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/today"
+    },
+    {
+      "title": "Tomorrow",
+      "venue": "Dynasty Typewriter",
+      "date": "2026-03-19T01:33:47.878758Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/tomorrow"
+    },
+    {
+      "title": "Add Event",
+      "venue": "Dynasty Typewriter",
+      "date": "2026-03-19T01:33:47.878784Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/new"
+    },
+    {
+      "title": "TodayMar 18",
+      "venue": "Dynasty Typewriter",
+      "date": "2026-03-19T01:33:47.878811Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/03/18"
+    },
+    {
+      "title": "Dungeons & Shakespeare",
+      "venue": "Dynasty Typewriter",
+      "date": "2026-03-19T01:33:47.878847Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/3/18/dungeons-shakespeare-tickets"
+    },
+    {
+      "title": "TomorrowMar 19",
+      "venue": "Dynasty Typewriter",
+      "date": "2026-03-19T01:33:47.878869Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/03/19"
+    },
+    {
+      "title": "Tig Notaro",
+      "venue": "Dynasty Typewriter",
+      "date": "2026-03-19T01:33:47.878903Z",
+      "time": "7:00PM",
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/3/19/tig-notaro-tickets"
+    },
+    {
+      "title": "Buy",
+      "venue": "Dynasty Typewriter",
+      "date": "2026-03-19T01:33:47.878940Z",
+      "time": null,
+      "description": null,
+      "url": "https://squadup.com/events/tig-notaro-18"
+    },
+    {
+      "title": "FridayMar 20",
+      "venue": "Dynasty Typewriter",
+      "date": "2026-03-19T01:33:47.878961Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/03/20"
+    },
+    {
+      "title": "Honey Pluton & Spike Einbinder Take The Country",
+      "venue": "Dynasty Typewriter",
+      "date": "2026-03-19T01:33:47.878993Z",
+      "time": "7:30PM",
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/3/20/honey-pluton-spike-einbinder-take-the-country-tickets"
+    },
+    {
+      "title": "SaturdayMar 21",
+      "venue": "Dynasty Typewriter",
+      "date": "2026-03-19T01:33:47.879030Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/03/21"
+    },
+    {
+      "title": "Black Out Loud Book Launch!",
+      "venue": "Dynasty Typewriter",
+      "date": "2026-03-19T01:33:47.879058Z",
+      "time": "4:00PM",
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/3/21/black-out-loud-book-launch-tickets"
+    },
+    {
+      "title": "SundayMar 22",
+      "venue": "Dynasty Typewriter",
+      "date": "2026-03-19T01:33:47.879094Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/03/22"
+    },
+    {
+      "title": "Bitchuation Room LIVE",
+      "venue": "Dynasty Typewriter",
+      "date": "2026-03-19T01:33:47.879121Z",
+      "time": "3:30PM",
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/3/22/bitchuation-room-live-tickets"
+    },
+    {
+      "title": "MondayMar 23",
+      "venue": "Dynasty Typewriter",
+      "date": "2026-03-19T01:33:47.879156Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/03/23"
+    },
+    {
+      "title": "The Glass Cannon Network Presents Call of Cthulhu Live!",
+      "venue": "Dynasty Typewriter",
+      "date": "2026-03-19T01:33:47.879185Z",
+      "time": "8:00PM",
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/3/23/the-glass-cannon-network-presents-call-of-cthulhu-live-tickets"
+    },
+    {
+      "title": "TuesdayMar 24",
+      "venue": "Dynasty Typewriter",
+      "date": "2026-03-19T01:33:47.879220Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/03/24"
+    },
+    {
+      "title": "WednesdayMar 25",
+      "venue": "Dynasty Typewriter",
+      "date": "2026-03-19T01:33:47.879283Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/03/25"
+    },
+    {
+      "title": "Joanne McNally: Pinotphile",
+      "venue": "Dynasty Typewriter",
+      "date": "2026-03-19T01:33:47.879311Z",
+      "time": "7:30PM",
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/3/25/joanne-mcnally-pinotphile-tickets"
+    },
+    {
+      "title": "ThursdayMar 26",
+      "venue": "Dynasty Typewriter",
+      "date": "2026-03-19T01:33:47.879348Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/03/26"
+    },
+    {
+      "title": "Lovett Or Leave It: Live in LA",
+      "venue": "Dynasty Typewriter",
+      "date": "2026-03-19T01:33:47.879375Z",
+      "time": "7:00PM",
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/3/26/lovett-or-leave-it-live-in-la-tickets"
+    },
+    {
+      "title": "SaturdayMar 28",
+      "venue": "Dynasty Typewriter",
+      "date": "2026-03-19T01:33:47.879409Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/03/28"
+    },
+    {
+      "title": "Melissa Auf der Maur's EVEN THE GOOD GIRLS WILL CRY Book Launch Event!",
+      "venue": "Dynasty Typewriter",
+      "date": "2026-03-19T01:33:47.879440Z",
+      "time": "7:30PM",
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/3/28/melissa-auf-der-maur-s-even-the-good-girls-will-cry-book-launch-event-tickets"
+    },
+    {
+      "title": "SundayMar 29",
+      "venue": "Dynasty Typewriter",
+      "date": "2026-03-19T01:33:47.879475Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/03/29"
+    },
+    {
+      "title": "Broadway Barbara Live!",
+      "venue": "Dynasty Typewriter",
+      "date": "2026-03-19T01:33:47.879502Z",
+      "time": "7:30PM",
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/3/29/broadway-barbara-live-tickets"
+    },
+    {
+      "title": "MondayMar 30",
+      "venue": "Dynasty Typewriter",
+      "date": "2026-03-19T01:33:47.879535Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/03/30"
+    },
+    {
+      "title": "Lindy West's ADULT BRACES Book Launch Event!",
+      "venue": "Dynasty Typewriter",
+      "date": "2026-03-19T01:33:47.879563Z",
+      "time": "7:00PM",
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/3/30/lindy-west-s-adult-braces-book-launch-event-tickets"
+    },
+    {
+      "title": "TuesdayMar 31",
+      "venue": "Dynasty Typewriter",
+      "date": "2026-03-19T01:33:47.879597Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/03/31"
+    },
+    {
+      "title": "Gentlemen's Club: A Fancy Trans Comedy Show",
+      "venue": "Dynasty Typewriter",
+      "date": "2026-03-19T01:33:47.879625Z",
+      "time": "7:30PM",
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/3/31/gentlemen-s-club-a-fancy-trans-comedy-show-tickets"
+    },
+    {
+      "title": "WednesdayApr 1",
+      "venue": "Dynasty Typewriter",
+      "date": "2026-03-19T01:33:47.879660Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/04/1"
+    },
+    {
+      "title": "Theater Idiot",
+      "venue": "Dynasty Typewriter",
+      "date": "2026-03-19T01:33:47.879686Z",
+      "time": "7:00PM",
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/4/1/theater-idiot-tickets"
+    },
+    {
+      "title": "ThursdayApr 2",
+      "venue": "Dynasty Typewriter",
+      "date": "2026-03-19T01:33:47.879721Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/04/2"
+    },
+    {
+      "title": "FridayApr 3",
+      "venue": "Dynasty Typewriter",
+      "date": "2026-03-19T01:33:47.879786Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/04/3"
+    },
+    {
+      "title": "COMPLETELY DATEABLE with Marty & Missy",
+      "venue": "Dynasty Typewriter",
+      "date": "2026-03-19T01:33:47.879814Z",
+      "time": "7:00PM",
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/4/3/completely-dateable-with-marty-missy-tickets"
+    },
+    {
+      "title": "SaturdayApr 4",
+      "venue": "Dynasty Typewriter",
+      "date": "2026-03-19T01:33:47.879848Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/04/4"
+    },
+    {
+      "title": "Nataly Aukar",
+      "venue": "Dynasty Typewriter",
+      "date": "2026-03-19T01:33:47.879873Z",
+      "time": "7:00PM",
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/4/4/nataly-aukar-tickets"
+    },
+    {
+      "title": "FridayApr 10",
+      "venue": "Dynasty Typewriter",
+      "date": "2026-03-19T01:33:47.879956Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/04/10"
+    },
+    {
+      "title": "Show And Tell presents Nish Kumar",
+      "venue": "Dynasty Typewriter",
+      "date": "2026-03-19T01:33:47.879984Z",
+      "time": "7:00PM",
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/4/10/show-and-tell-presents-nish-kumar-tickets"
+    },
+    {
+      "title": "SundayApr 12",
+      "venue": "Dynasty Typewriter",
+      "date": "2026-03-19T01:33:47.880018Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/04/12"
+    },
+    {
+      "title": "TuesdayApr 14",
+      "venue": "Dynasty Typewriter",
+      "date": "2026-03-19T01:33:47.880077Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/04/14"
+    },
+    {
+      "title": "Taskmistress",
+      "venue": "Dynasty Typewriter",
+      "date": "2026-03-19T01:33:47.880103Z",
+      "time": "7:30PM",
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/4/14/taskmistress-tickets"
+    },
+    {
+      "title": "FridayApr 17",
+      "venue": "Dynasty Typewriter",
+      "date": "2026-03-19T01:33:47.880137Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/04/17"
+    },
+    {
+      "title": "Phoebe Robinson",
+      "venue": "Dynasty Typewriter",
+      "date": "2026-03-19T01:33:47.880163Z",
+      "time": "7:30PM",
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/4/17/phoebe-robinson-tickets"
+    },
+    {
+      "title": "SaturdayApr 18",
+      "venue": "Dynasty Typewriter",
+      "date": "2026-03-19T01:33:47.880240Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/04/18"
+    },
+    {
+      "title": "Mortified",
+      "venue": "Dynasty Typewriter",
+      "date": "2026-03-19T01:33:47.880267Z",
+      "time": "7:30PM",
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/4/18/mortified-tickets"
+    },
+    {
+      "title": "ThursdayApr 23",
+      "venue": "Dynasty Typewriter",
+      "date": "2026-03-19T01:33:47.880302Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/04/23"
+    },
+    {
+      "title": "Heated Rivalry Comedy Show",
+      "venue": "Dynasty Typewriter",
+      "date": "2026-03-19T01:33:47.880329Z",
+      "time": "9:30PM",
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/4/23/heated-rivalry-comedy-show-tickets"
+    },
+    {
+      "title": "Today",
+      "venue": "Hollywood Improv",
+      "date": "2026-03-19T01:33:52.434605Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/today"
+    },
+    {
+      "title": "Tomorrow",
+      "venue": "Hollywood Improv",
+      "date": "2026-03-19T01:33:52.434632Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/tomorrow"
+    },
+    {
+      "title": "Add Event",
+      "venue": "Hollywood Improv",
+      "date": "2026-03-19T01:33:52.434649Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/new"
+    },
+    {
+      "title": "TodayMar 18",
+      "venue": "Hollywood Improv",
+      "date": "2026-03-19T01:33:52.434670Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/03/18"
+    },
+    {
+      "title": "Rachel Scanlon",
+      "venue": "Hollywood Improv",
+      "date": "2026-03-19T01:33:52.434696Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/3/18/rachel-scanlon-tickets"
+    },
+    {
+      "title": "TomorrowMar 19",
+      "venue": "Hollywood Improv",
+      "date": "2026-03-19T01:33:52.434714Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/03/19"
+    },
+    {
+      "title": "Tonight at The Improv Ft. Brian Monarch and More Tba!",
+      "venue": "Hollywood Improv",
+      "date": "2026-03-19T01:33:52.434745Z",
+      "time": "7:30PM",
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/3/19/tonight-at-the-improv-ft-brian-monarch-and-more-tba-tickets"
+    },
+    {
+      "title": "FridayMar 20",
+      "venue": "Hollywood Improv",
+      "date": "2026-03-19T01:33:52.434762Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/03/20"
+    },
+    {
+      "title": "Tonight at The Improv",
+      "venue": "Hollywood Improv",
+      "date": "2026-03-19T01:33:52.434791Z",
+      "time": "7:30PM",
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/3/20/tonight-at-the-improv-tickets"
+    },
+    {
+      "title": "La Vs. Transplants",
+      "venue": "Hollywood Improv",
+      "date": "2026-03-19T01:33:52.434821Z",
+      "time": "9:15PM",
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/3/20/la-vs-transplants-1772413697"
+    },
+    {
+      "title": "SaturdayMar 21",
+      "venue": "Hollywood Improv",
+      "date": "2026-03-19T01:33:52.434867Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/03/21"
+    },
+    {
+      "title": "Santi Espinosa - Espanglish (English/Spanish Show)",
+      "venue": "Hollywood Improv",
+      "date": "2026-03-19T01:33:52.434899Z",
+      "time": "4:00PM",
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/3/21/santi-espinosa-espanglish-english-spanish-show-tickets"
+    },
+    {
+      "title": "VIBE CHECK COMEDY SHOW @ Hollywood Improv",
+      "venue": "Hollywood Improv",
+      "date": "2026-03-19T01:33:52.434940Z",
+      "time": "9:30PM",
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/3/21/vibe-check-comedy-show-hollywood-improv-tickets"
+    },
+    {
+      "title": "SundayMar 22",
+      "venue": "Hollywood Improv",
+      "date": "2026-03-19T01:33:52.434959Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/03/22"
+    },
+    {
+      "title": "Stuart B. Thompson & Friends",
+      "venue": "Hollywood Improv",
+      "date": "2026-03-19T01:33:52.434989Z",
+      "time": "7:00PM",
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/3/22/stuart-b-thompson-friends-tickets"
+    },
+    {
+      "title": "MondayMar 23",
+      "venue": "Hollywood Improv",
+      "date": "2026-03-19T01:33:52.435005Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/03/23"
+    },
+    {
+      "title": "Tonight at The Improv! Ft. Chris Millhouse and More Tba!",
+      "venue": "Hollywood Improv",
+      "date": "2026-03-19T01:33:52.435036Z",
+      "time": "7:15PM",
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/3/23/tonight-at-the-improv-ft-chris-millhouse-and-more-tba-tickets"
+    },
+    {
+      "title": "TuesdayMar 24",
+      "venue": "Hollywood Improv",
+      "date": "2026-03-19T01:33:52.435054Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/03/24"
+    },
+    {
+      "title": "John Campanelli & Special Guests!",
+      "venue": "Hollywood Improv",
+      "date": "2026-03-19T01:33:52.435083Z",
+      "time": "9:30PM",
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/3/24/john-campanelli-special-guests-tickets"
+    },
+    {
+      "title": "WednesdayMar 25",
+      "venue": "Hollywood Improv",
+      "date": "2026-03-19T01:33:52.435100Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/03/25"
+    },
+    {
+      "title": "Lab Work!",
+      "venue": "Hollywood Improv",
+      "date": "2026-03-19T01:33:52.435128Z",
+      "time": "6:00PM",
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/3/25/lab-work-tickets"
+    },
+    {
+      "title": "ThursdayMar 26",
+      "venue": "Hollywood Improv",
+      "date": "2026-03-19T01:33:52.435145Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/03/26"
+    },
+    {
+      "title": "FridayMar 27",
+      "venue": "Hollywood Improv",
+      "date": "2026-03-19T01:33:52.435192Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/03/27"
+    },
+    {
+      "title": "Nicole Tran & Friends",
+      "venue": "Hollywood Improv",
+      "date": "2026-03-19T01:33:52.435220Z",
+      "time": "9:45PM",
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/3/27/nicole-tran-friends-tickets"
+    },
+    {
+      "title": "SaturdayMar 28",
+      "venue": "Hollywood Improv",
+      "date": "2026-03-19T01:33:52.435237Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/03/28"
+    },
+    {
+      "title": "No Vamos a Resolver Nada Ft. Alex Quiroz, Ivan Mendoza",
+      "venue": "Hollywood Improv",
+      "date": "2026-03-19T01:33:52.435268Z",
+      "time": "4:00PM",
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/3/28/no-vamos-a-resolver-nada-ft-alex-quiroz-ivan-mendoza-tickets"
+    },
+    {
+      "title": "SundayMar 29",
+      "venue": "Hollywood Improv",
+      "date": "2026-03-19T01:33:52.435284Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/03/29"
+    },
+    {
+      "title": "Never Ending Comedy Ft. Devyn Perry, Avry Ross and More Tba!",
+      "venue": "Hollywood Improv",
+      "date": "2026-03-19T01:33:52.435314Z",
+      "time": "7:00PM",
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/3/29/never-ending-comedy-ft-devyn-perry-avry-ross-and-more-tba-tickets"
+    },
+    {
+      "title": "MondayMar 30",
+      "venue": "Hollywood Improv",
+      "date": "2026-03-19T01:33:52.435331Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/03/30"
+    },
+    {
+      "title": "TuesdayMar 31",
+      "venue": "Hollywood Improv",
+      "date": "2026-03-19T01:33:52.435377Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/03/31"
+    },
+    {
+      "title": "FridayApr 3",
+      "venue": "Hollywood Improv",
+      "date": "2026-03-19T01:33:52.435424Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/04/3"
+    },
+    {
+      "title": "Reid The Room Ft. Reid Brackenbury and More Tba!",
+      "venue": "Hollywood Improv",
+      "date": "2026-03-19T01:33:52.435453Z",
+      "time": "9:45PM",
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/4/3/reid-the-room-ft-reid-brackenbury-and-more-tba-tickets"
+    },
+    {
+      "title": "SaturdayApr 4",
+      "venue": "Hollywood Improv",
+      "date": "2026-03-19T01:33:52.435469Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/04/4"
+    },
+    {
+      "title": "SundayApr 5",
+      "venue": "Hollywood Improv",
+      "date": "2026-03-19T01:33:52.435543Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/04/5"
+    },
+    {
+      "title": "Jay Jurden",
+      "venue": "Hollywood Improv",
+      "date": "2026-03-19T01:33:52.435570Z",
+      "time": "7:00PM",
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/4/5/jay-jurden-tickets"
+    },
+    {
+      "title": "MondayApr 6",
+      "venue": "Hollywood Improv",
+      "date": "2026-03-19T01:33:52.435614Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/04/6"
+    },
+    {
+      "title": "Legends",
+      "venue": "Hollywood Improv",
+      "date": "2026-03-19T01:33:52.435641Z",
+      "time": "7:15PM",
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/4/6/legends-tickets"
+    },
+    {
+      "title": "TuesdayApr 7",
+      "venue": "Hollywood Improv",
+      "date": "2026-03-19T01:33:52.435657Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/04/7"
+    },
+    {
+      "title": "WednesdayApr 8",
+      "venue": "Hollywood Improv",
+      "date": "2026-03-19T01:33:52.435702Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/04/8"
+    },
+    {
+      "title": "Clown Medicine",
+      "venue": "Hollywood Improv",
+      "date": "2026-03-19T01:33:52.435730Z",
+      "time": "8:30PM",
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/4/8/clown-medicine-tickets"
+    },
+    {
+      "title": "Today",
+      "venue": "The Laugh Factory",
+      "date": "2026-03-19T01:33:53.525002Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/today"
+    },
+    {
+      "title": "Tomorrow",
+      "venue": "The Laugh Factory",
+      "date": "2026-03-19T01:33:53.525029Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/tomorrow"
+    },
+    {
+      "title": "Add Event",
+      "venue": "The Laugh Factory",
+      "date": "2026-03-19T01:33:53.525048Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/new"
+    },
+    {
+      "title": "TodayMar 18",
+      "venue": "The Laugh Factory",
+      "date": "2026-03-19T01:33:53.525074Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/03/18"
+    },
+    {
+      "title": "Hollywood All-stars",
+      "venue": "The Laugh Factory",
+      "date": "2026-03-19T01:33:53.525108Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/3/18/hollywood-all-stars-tickets"
+    },
+    {
+      "title": "TomorrowMar 19",
+      "venue": "The Laugh Factory",
+      "date": "2026-03-19T01:33:53.525160Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/03/19"
+    },
+    {
+      "title": "Hollywood All-Stars",
+      "venue": "The Laugh Factory",
+      "date": "2026-03-19T01:33:53.525195Z",
+      "time": "7:30PM",
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/3/19/hollywood-all-stars-tickets"
+    },
+    {
+      "title": "FridayMar 20",
+      "venue": "The Laugh Factory",
+      "date": "2026-03-19T01:33:53.525247Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/03/20"
+    },
+    {
+      "title": "SaturdayMar 21",
+      "venue": "The Laugh Factory",
+      "date": "2026-03-19T01:33:53.525327Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/03/21"
+    },
+    {
+      "title": "SundayMar 22",
+      "venue": "The Laugh Factory",
+      "date": "2026-03-19T01:33:53.525406Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/03/22"
+    },
+    {
+      "title": "Chocolate Sundaes",
+      "venue": "The Laugh Factory",
+      "date": "2026-03-19T01:33:53.525437Z",
+      "time": "7:00PM",
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/3/22/chocolate-sundaes-tickets"
+    },
+    {
+      "title": "MondayMar 23",
+      "venue": "The Laugh Factory",
+      "date": "2026-03-19T01:33:53.525486Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/03/23"
+    },
+    {
+      "title": "Walter Masterson Trolls America",
+      "venue": "The Laugh Factory",
+      "date": "2026-03-19T01:33:53.525518Z",
+      "time": "8:00PM",
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/3/23/walter-masterson-trolls-america-tickets"
+    },
+    {
+      "title": "TuesdayMar 24",
+      "venue": "The Laugh Factory",
+      "date": "2026-03-19T01:33:53.525536Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/03/24"
+    },
+    {
+      "title": "Rubee Tuesdays",
+      "venue": "The Laugh Factory",
+      "date": "2026-03-19T01:33:53.525566Z",
+      "time": "7:45PM",
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/3/24/rubee-tuesdays-tickets"
+    },
+    {
+      "title": "WednesdayMar 25",
+      "venue": "The Laugh Factory",
+      "date": "2026-03-19T01:33:53.525584Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/03/25"
+    },
+    {
+      "title": "ThursdayMar 26",
+      "venue": "The Laugh Factory",
+      "date": "2026-03-19T01:33:53.525696Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/03/26"
+    },
+    {
+      "title": "FridayMar 27",
+      "venue": "The Laugh Factory",
+      "date": "2026-03-19T01:33:53.525774Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/03/27"
+    },
+    {
+      "title": "SaturdayMar 28",
+      "venue": "The Laugh Factory",
+      "date": "2026-03-19T01:33:53.525855Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/03/28"
+    },
+    {
+      "title": "SundayMar 29",
+      "venue": "The Laugh Factory",
+      "date": "2026-03-19T01:33:53.525948Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/03/29"
+    },
+    {
+      "title": "MondayMar 30",
+      "venue": "The Laugh Factory",
+      "date": "2026-03-19T01:33:53.526027Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/03/30"
+    },
+    {
+      "title": "TuesdayMar 31",
+      "venue": "The Laugh Factory",
+      "date": "2026-03-19T01:33:53.526074Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/03/31"
+    },
+    {
+      "title": "WednesdayApr 1",
+      "venue": "The Laugh Factory",
+      "date": "2026-03-19T01:33:53.526121Z",
+      "time": null,
+      "description": null,
+      "url": "https://dolosangeles.com/events/2026/04/1"
+    }
+  ],
+  "lastUpdated": "2026-03-19T01:33:53.526214Z",
+  "totalShows": 110,
+  "source": "DoLA Venue Pages"
+}

@@ -1,212 +1,197 @@
-# 🎭 Comedy Calendar - Chicago, New York & Los Angeles
+# Comedy Calendar - Chicago, NY & LA
 
-A beautiful, aggregated schedule viewer for comedy venues across three major cities - all in one place!
+A comprehensive comedy show aggregator for three cities, using a dual-scraping approach for maximum coverage.
 
-## 🌆 Cities
+## 📊 Current Show Counts
 
-**[Chicago](index.html)** | **[New York](ny.html)** | **[Los Angeles](la.html)**
+- **Chicago**: 159 shows
+- **New York**: 316 shows
+- **Los Angeles**: 321 shows
+- **Total**: 796 comedy shows
 
-## 🌟 Features
+## 🏗️ Project Structure
 
-- **ALL Comedy Events** - Aggregates all comedy shows from Do312, DoNYC, and DoLosAngeles
-- **Preferred Venues** - Quick access to 7 curated venues per city
-- **Other Venues** - Discover new comedy spots beyond the well-known venues
-- **Auto-Updated** - Schedules refresh daily via GitHub Actions
-- **Beautiful Design** - Brutalist design with unique color scheme for each city
-- **Smart Filtering** - Filter by venue, comedy type (improv/standup/sketch), and date
-- **Multiple Views** - Group by date, venue, or see a simple list
-- **NYC Borough Grouping** - New York includes borough-based grouping
-- **Direct Tickets** - Links to buy tickets on event pages
+```
+.
+├── scrapers/          # All scraping scripts
+│   ├── chicago/       # Chicago scrapers (Do312)
+│   ├── ny/            # NY scrapers (DoNYC + venues)
+│   └── la/            # LA scrapers (DoLA + venues)
+├── data/              # JSON data outputs
+│   ├── chicago/       # shows.json, venue-info.json
+│   ├── ny/            # ny-shows.json + venue files
+│   └── la/            # la-shows.json + venue files
+├── public/            # Static website files
+│   ├── chicago/       # index.html, app.js, styles.css
+│   ├── ny/            # index.html, app.js, styles.css
+│   └── la/            # index.html, app.js, styles.css
+├── docs/              # Documentation
+├── archive/           # Deprecated/old files
+└── design-options/    # Alternative CSS themes
 
-## 🎨 Design
+```
 
-Each city has a unique brutalist design with distinctive colors:
+## 🚀 Quick Start
 
-- **Chicago**: Red & Blue (Chicago flag colors)
-- **New York**: Orange & Blue (Mets/Knicks colors)
-- **Los Angeles**: Sunset Gradient (Orange → Pink → Purple)
+### Scrape All Cities
 
-Features:
-- Bold, high-contrast brutalist aesthetic
-- City-specific color palettes
-- Responsive mobile design
-- Clean, readable typography
+```bash
+# Chicago
+./scrapers/chicago/scrape-all.sh
 
-## 📍 Featured Venues
+# New York
+./scrapers/ny/scrape-all-ny.sh
 
-### Chicago (7 venues)
-- Second City
+# Los Angeles
+./scrapers/la/scrape-all-la.sh
+```
+
+### View the Sites
+
+Open the HTML files in your browser:
+- Chicago: `public/chicago/index.html`
+- New York: `public/ny/index.html`
+- Los Angeles: `public/la/index.html`
+
+## 🎯 Dual Scraping Approach
+
+Each city uses a **dual approach** for comprehensive coverage:
+
+### 1. Category Scraping (Broad Discovery)
+- Scrapes the main comedy category page (Do312/DoNYC/DoLA)
+- Captures shows at both preferred and other venues
+- Good for discovering new venues
+
+### 2. Custom Scrapers (Deep Coverage)
+- Dedicated scrapers for preferred venues
+- Handles venue-specific quirks (lazy loading, date selectors, etc.)
+- Ensures we get ALL shows from key venues
+
+### 3. Deduplication
+- Merges both sources
+- Removes duplicates based on (venue, date, time, title)
+- Filters out stale shows (before today)
+
+## 📋 Scrapers by City
+
+### Chicago (Do312)
+- **Category**: `scrape-category.py` - Comedy category page
+- **Venues**: `scrape-do312-venues.py` - All 7 preferred venue pages
+- **Merge**: `merge-chicago-shows.py`
+
+**Preferred Venues**:
+- The Second City
 - iO Theater
 - Annoyance Theatre
-- Zanies
+- Zanies Comedy Club
 - Laugh Factory
-- Lincoln Lodge
+- The Lincoln Lodge
 - Den Theatre
 
-### New York (7 venues)
-- Comedy Cellar (Manhattan)
-- Gotham Comedy Club (Manhattan)
-- The Stand (Manhattan)
-- The Bell House (Brooklyn)
-- Union Hall (Brooklyn)
-- Carolines on Broadway (Manhattan)
-- UCB Theatre (Manhattan)
+### New York (DoNYC + Custom)
+- **Category**: `scrape-category.py` - DoNYC comedy category
+- **Custom Scrapers**:
+  - `scrape-caveat.sh` - Caveat calendar
+  - `scrape-union-hall.sh` - Union Hall (with lazy loading)
+  - `scrape-comedy-cellar.sh` - Comedy Cellar (multi-date)
+  - `scrape-the-stand.sh` - The Stand
+  - `scrape-ucb-ny.py` - UCB Theatre
+  - `scrape-bell-house.sh` - The Bell House
+  - `scrape-gotham.sh` - Gotham Comedy Club
+- **Merge**: `merge-ny-shows.py`
 
-### Los Angeles (7 venues)
-- The Comedy Store
-- Laugh Factory Hollywood
-- The Hollywood Improv
-- UCB Theatre LA
-- Dynasty Typewriter
+**Preferred Venues**:
+- UCB Theatre
+- Comedy Cellar (all rooms)
+- Union Hall
+- Caveat
+- The Stand
+- The Bell House
+- Gotham Comedy Club
+
+### Los Angeles (DoLA + Custom)
+- **Category**: `scrape-category.py` - DoLA comedy category
+- **Venue Pages**: `scrape-dola-venues.py` - Dynasty, Hollywood Improv, Laugh Factory
+- **Custom Scrapers**:
+  - `scrape-ucb-la.py` - UCB Franklin
+  - `scrape-largo.sh` - Largo at the Coronet
+  - `scrape-comedy-store.py` - The Comedy Store (all rooms)
+  - `scrape-dynasty-typewriter.py` - Dynasty Typewriter
+- **Merge**: `merge-la-shows.py`
+
+**Preferred Venues**:
+- UCB FRANKLIN
+- The Comedy Store (all rooms)
 - Largo at the Coronet
+- Dynasty Typewriter
+- Hollywood Improv
+- The Laugh Factory
 - The Groundlings Theatre
 
-## 🚀 Live Site
+## 🛠️ Technologies Used
 
-Visit: [https://djjjrjr.github.io/chicago-comedy-calendar](https://djjjrjr.github.io/chicago-comedy-calendar)
+- **Python**: Main scraping language
+- **agent-browser**: CLI browser automation for JS-heavy sites
+- **cloudscraper**: Bypass Cloudflare protection
+- **BeautifulSoup**: HTML parsing
+- **Playwright**: Dynamic site scraping
+- **Bash**: Orchestration scripts
 
-## 🛠️ How It Works
+## 📦 Data Format
 
-### Frontend
-- Pure HTML/CSS/JavaScript (no frameworks!)
-- Each city has its own page: `index.html` (Chicago), `ny.html` (New York), `la.html` (Los Angeles)
-- Navigation bar to switch between cities
-- Client-side filtering and sorting
+All data files follow this structure:
 
-### Scrapers
-- Python scripts using Playwright (headless browser)
-- **Chicago**: Scrapes ALL comedy events from Do312.com
-- **New York**: Scrapes ALL comedy events from DoNYC.com
-- **Los Angeles**: Scrapes ALL comedy events from DoLosAngeles.com
-- Outputs to `shows.json`, `ny-shows.json`, `la-shows.json`
-- Includes deduplication logic
-
-### Data Strategy
-Instead of scraping individual venue websites, we use event aggregator sites:
-- **Do312.com** - Chicago event aggregator
-- **DoNYC.com** - New York event aggregator
-- **DoLosAngeles.com** - Los Angeles event aggregator
-
-This approach is simpler, more maintainable, and captures MORE events including smaller venues!
-
-### Automation
-- GitHub Actions workflow runs daily at 6 AM UTC
-- Runs all three scrapers in parallel
-- Automatically commits updated schedules
-- Fail-safe: keeps existing data if scraper fails
-- GitHub Pages serves the latest version
-
-## 📁 Project Structure
-
-```
-chicago-comedy-calendar/
-├── index.html              # Chicago main page
-├── app.js                  # Chicago JavaScript
-├── styles.css              # Chicago styles
-├── shows.json              # Chicago show data (auto-generated)
-├── scraper.py              # Chicago scraper
-│
-├── ny.html                 # New York main page
-├── ny-app.js               # New York JavaScript (with borough grouping)
-├── ny-styles.css           # New York styles (orange/blue theme)
-├── ny-shows.json           # New York show data (auto-generated)
-├── ny-scraper.py           # New York scraper
-│
-├── la.html                 # Los Angeles main page
-├── la-app.js               # Los Angeles JavaScript
-├── la-styles.css           # Los Angeles styles (sunset gradient)
-├── la-shows.json           # Los Angeles show data (auto-generated)
-├── la-scraper.py           # Los Angeles scraper
-│
-├── requirements.txt        # Python dependencies
-├── .github/
-│   └── workflows/
-│       └── update_schedules.yml  # GitHub Actions workflow
-└── README.md
+```json
+{
+  "shows": [
+    {
+      "title": "Show Name",
+      "venue": "Venue Name",
+      "date": "2026-03-19T19:00:00Z",
+      "time": "7:00 PM",
+      "description": "Show description...",
+      "url": "https://..."
+    }
+  ],
+  "lastUpdated": "2026-03-19T10:30:00Z",
+  "totalShows": 159,
+  "sources": ["Do312 Comedy Category", "Do312 Venue Pages"]
+}
 ```
 
-## 🔧 Development
+## 🔧 Maintenance
 
-### Running Locally
+### Add a New Venue
 
-1. Clone the repository:
-```bash
-git clone https://github.com/djjjrjr/chicago-comedy-calendar.git
-cd chicago-comedy-calendar
-```
+1. Create a scraper in `scrapers/{city}/`
+2. Add it to `scrape-all-{city}.sh`
+3. Add the venue to `merge-{city}-shows.py` sources
+4. Update the preferred venues list in the frontend
 
-2. Open `index.html`, `ny.html`, or `la.html` in your browser
+### Update Scraping Schedule
 
-### Running the Scrapers
+Recommended: Run scrapers daily to keep data fresh.
 
-1. Install Python dependencies:
-```bash
-pip install -r requirements.txt
-playwright install chromium
-```
+### Troubleshooting
 
-2. Run the scrapers:
-```bash
-python scraper.py      # Chicago
-python ny-scraper.py   # New York
-python la-scraper.py   # Los Angeles
-```
+**"No shows found"**: Check if the website structure changed
+**"Stale data"**: Run the merge script to filter old shows
+**"Missing venue"**: Verify venue name matches exactly in the scraper
 
-### Customization
+## 📝 Notes
 
-**Change preferred venues:**
-1. Edit `PREFERRED_VENUES` array in the respective `app.js` file
-2. Update the `venues` config object with venue details
+- All dates are stored in ISO format with timezone
+- Stale shows (before today) are automatically filtered during merge
+- Venue sub-rooms (e.g., Comedy Cellar rooms) are preserved for user clarity
+- Data protection: Scrapers won't overwrite good data with empty results
 
-**Change colors:**
-- Edit CSS variables in `:root` selector in the respective `styles.css` file
+## 🎨 Design Options
 
-**Change update frequency:**
-- Modify cron schedule in `.github/workflows/update_schedules.yml`
-
-## 🎯 Key Features by City
-
-### Chicago
-- Standard date/venue/list views
-- Filter by preferred venues or "Other Venues"
-- Chicago flag color scheme (red & blue)
-
-### New York
-- **Borough Grouping** - Unique view to group shows by Manhattan, Brooklyn, Queens, Bronx, Staten Island
-- Date/venue/borough/list views
-- NYC-inspired color scheme (orange & blue)
-
-### Los Angeles
-- Standard date/venue/list views
-- Sunset gradient theme (orange → pink → purple)
-- LA-specific venue curation
-
-## 📝 Technical Notes
-
-- Scrapers use Playwright to handle JavaScript-rendered pages
-- Pagination support to capture all events (not just first page)
-- Deduplication prevents duplicate events
-- Venue name normalization for consistent grouping
-- "Other Venues" displays venue name on each card since it's not in group header
-- Borough detection uses keyword matching for non-preferred venues in NYC
-- Fail-safe GitHub Actions: keeps existing data if scraper fails
-
-## 🔮 Future Ideas
-
-- [ ] More cities (SF, Austin, Seattle, etc.)
-- [ ] Price range indicators
-- [ ] Calendar export (iCal)
-- [ ] Email/SMS notifications
-- [ ] Performer information
-- [ ] Reviews and ratings
-- [ ] Map view
+Alternative CSS themes are available in `design-options/`:
+- Dark club theme
+- Minimalist Chicago
+- Retro poster style
 
 ## 📄 License
 
-MIT License - feel free to use and modify!
-
-## 🙏 Acknowledgments
-
-Made with ❤️ for comedy lovers everywhere
-
-Data sourced from Do312.com, DoNYC.com, and DoLosAngeles.com
+This is a personal project for aggregating publicly available comedy show listings.

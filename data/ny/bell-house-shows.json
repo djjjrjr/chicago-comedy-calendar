@@ -1,0 +1,399 @@
+{
+  "shows": [
+    {
+      "title": "Today",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.367842Z",
+      "time": null,
+      "description": null,
+      "url": "https://donyc.com/events/today"
+    },
+    {
+      "title": "Tomorrow",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.367886Z",
+      "time": null,
+      "description": null,
+      "url": "https://donyc.com/events/tomorrow"
+    },
+    {
+      "title": "Add Event",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.367911Z",
+      "time": null,
+      "description": null,
+      "url": "https://donyc.com/events/new"
+    },
+    {
+      "title": "TodayMar 18",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.367939Z",
+      "time": null,
+      "description": null,
+      "url": "https://donyc.com/events/2026/03/18"
+    },
+    {
+      "title": "A Comedy Show for Lebanon: Hosted by Emil Wakim & Nataly Aukar",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.367984Z",
+      "time": "7:30PM",
+      "description": null,
+      "url": "https://donyc.com/events/2026/3/18/a-comedy-show-for-lebanon-hosted-by-emil-wakim-nataly-aukar-tickets"
+    },
+    {
+      "title": "TomorrowMar 19",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.368006Z",
+      "time": null,
+      "description": null,
+      "url": "https://donyc.com/events/2026/03/19"
+    },
+    {
+      "title": "The Sporkful Live With Dan Pashman And Special Guests",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.368046Z",
+      "time": "7:30PM",
+      "description": null,
+      "url": "https://donyc.com/events/2026/3/19/the-sporkful-live-with-dan-pashman-and-special-guests-tickets"
+    },
+    {
+      "title": "FridayMar 20",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.368072Z",
+      "time": null,
+      "description": null,
+      "url": "https://donyc.com/events/2026/03/20"
+    },
+    {
+      "title": "Mohanad Elshieky",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.368105Z",
+      "time": "7:30PM",
+      "description": null,
+      "url": "https://donyc.com/events/2026/3/20/mohanad-elshieky-tickets"
+    },
+    {
+      "title": "The Bell House Stand Up Showcase",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.368138Z",
+      "time": "9:45PM",
+      "description": null,
+      "url": "https://donyc.com/events/2026/3/20/the-bell-house-stand-up-showcase-tickets"
+    },
+    {
+      "title": "SaturdayMar 21",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.368158Z",
+      "time": null,
+      "description": null,
+      "url": "https://donyc.com/events/2026/03/21"
+    },
+    {
+      "title": "A Drinking Game Nyc: The Parent Trap",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.368192Z",
+      "time": "7:00PM",
+      "description": null,
+      "url": "https://donyc.com/events/2026/3/21/a-drinking-game-nyc-the-parent-trap-tickets"
+    },
+    {
+      "title": "SundayMar 22",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.368210Z",
+      "time": null,
+      "description": null,
+      "url": "https://donyc.com/events/2026/03/22"
+    },
+    {
+      "title": "Josh Sharp: An Hour Of Crowd Work In The Round",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.368244Z",
+      "time": "3:30PM",
+      "description": null,
+      "url": "https://donyc.com/events/2026/3/22/josh-sharp-an-hour-of-crowd-work-in-the-round-tickets"
+    },
+    {
+      "title": "Desi Comedy Fest",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.368275Z",
+      "time": "7:30PM",
+      "description": null,
+      "url": "https://donyc.com/events/2026/3/22/desi-comedy-fest-tickets"
+    },
+    {
+      "title": "MondayMar 23",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.368293Z",
+      "time": null,
+      "description": null,
+      "url": "https://donyc.com/events/2026/03/23"
+    },
+    {
+      "title": "Heated Rivalry: The Unauthorized Musical Parody",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.368326Z",
+      "time": "7:30PM",
+      "description": null,
+      "url": "https://donyc.com/events/2026/3/23/heated-rivalry-the-unauthorized-musical-parody-tickets"
+    },
+    {
+      "title": "TuesdayMar 24",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.368350Z",
+      "time": null,
+      "description": null,
+      "url": "https://donyc.com/events/2026/03/24"
+    },
+    {
+      "title": "Heated Rivalry: The Unauthorized Musical Parody",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.368383Z",
+      "time": "7:30PM",
+      "description": null,
+      "url": "https://donyc.com/events/2026/3/24/heated-rivalry-the-unauthorized-musical-parody-tickets"
+    },
+    {
+      "title": "WednesdayMar 25",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.368402Z",
+      "time": null,
+      "description": null,
+      "url": "https://donyc.com/events/2026/03/25"
+    },
+    {
+      "title": "The Moth Storyslam",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.368432Z",
+      "time": "8:00PM",
+      "description": null,
+      "url": "https://donyc.com/events/2026/3/25/the-moth-storyslam-tickets"
+    },
+    {
+      "title": "ThursdayMar 26",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.368450Z",
+      "time": null,
+      "description": null,
+      "url": "https://donyc.com/events/2026/03/26"
+    },
+    {
+      "title": "UpDating",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.368479Z",
+      "time": "7:30PM",
+      "description": null,
+      "url": "https://donyc.com/events/2026/3/26/updating-tickets"
+    },
+    {
+      "title": "FridayMar 27",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.368496Z",
+      "time": null,
+      "description": null,
+      "url": "https://donyc.com/events/2026/03/27"
+    },
+    {
+      "title": "Kyle Kinane",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.368525Z",
+      "time": "7:30PM",
+      "description": null,
+      "url": "https://donyc.com/events/2026/3/27/kyle-kinane-tickets"
+    },
+    {
+      "title": "Kyle Kinane",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.368554Z",
+      "time": "10:00PM",
+      "description": null,
+      "url": "https://donyc.com/events/2026/3/27/kyle-kinane-tickets-rmqovl8"
+    },
+    {
+      "title": "SaturdayMar 28",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.368571Z",
+      "time": null,
+      "description": null,
+      "url": "https://donyc.com/events/2026/03/28"
+    },
+    {
+      "title": "Dan Mintz",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.368600Z",
+      "time": "7:30PM",
+      "description": null,
+      "url": "https://donyc.com/events/2026/3/28/dan-mintz-tickets"
+    },
+    {
+      "title": "Exploration: LIVE!",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.368632Z",
+      "time": "10:00PM",
+      "description": null,
+      "url": "https://donyc.com/events/2026/3/28/exploration-live-tickets"
+    },
+    {
+      "title": "SundayMar 29",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.368649Z",
+      "time": null,
+      "description": null,
+      "url": "https://donyc.com/events/2026/03/29"
+    },
+    {
+      "title": "Joel Kim Booster: Chose This Way",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.368680Z",
+      "time": "7:00PM",
+      "description": null,
+      "url": "https://donyc.com/events/2026/3/29/joel-kim-booster-choose-this-way-tickets"
+    },
+    {
+      "title": "MondayMar 30",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.368698Z",
+      "time": null,
+      "description": null,
+      "url": "https://donyc.com/events/2026/03/30"
+    },
+    {
+      "title": "Richard Perez: For One Night (with a Band) Okay",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.368731Z",
+      "time": "7:30PM",
+      "description": null,
+      "url": "https://donyc.com/events/2026/3/30/richard-perez-for-one-night-with-a-band-okay-tickets"
+    },
+    {
+      "title": "TuesdayMar 31",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.368749Z",
+      "time": null,
+      "description": null,
+      "url": "https://donyc.com/events/2026/03/31"
+    },
+    {
+      "title": "Remi Cruz Parsons: Let's Get Cooking",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.368780Z",
+      "time": "7:30PM",
+      "description": null,
+      "url": "https://donyc.com/events/2026/3/31/remi-cruz-parsons-let-s-get-cooking-tickets"
+    },
+    {
+      "title": "WednesdayApr 1",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.368797Z",
+      "time": null,
+      "description": null,
+      "url": "https://donyc.com/events/2026/04/1"
+    },
+    {
+      "title": "One Liner Madness",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.368826Z",
+      "time": "8:00PM",
+      "description": null,
+      "url": "https://donyc.com/events/2026/4/1/one-liner-madness-tickets"
+    },
+    {
+      "title": "ThursdayApr 2",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.368843Z",
+      "time": null,
+      "description": null,
+      "url": "https://donyc.com/events/2026/04/2"
+    },
+    {
+      "title": "Why Are You Single? A Singles Game Show with Marie Faustin",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.368875Z",
+      "time": "8:00PM",
+      "description": null,
+      "url": "https://donyc.com/events/2026/4/2/why-are-you-single-tickets"
+    },
+    {
+      "title": "FridayApr 3",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.368892Z",
+      "time": null,
+      "description": null,
+      "url": "https://donyc.com/events/2026/04/3"
+    },
+    {
+      "title": "Jacqueline Novak: 2026 Tour",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.368922Z",
+      "time": "7:00PM",
+      "description": null,
+      "url": "https://donyc.com/events/2026/4/3/jacqueline-novak-2026-tour-tickets"
+    },
+    {
+      "title": "SaturdayApr 4",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.368939Z",
+      "time": null,
+      "description": null,
+      "url": "https://donyc.com/events/2026/04/4"
+    },
+    {
+      "title": "Jacqueline Novak: 2026 Tour",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.368970Z",
+      "time": "9:30PM",
+      "description": null,
+      "url": "https://donyc.com/events/2026/4/4/jacqueline-novak-2026-tour-tickets"
+    },
+    {
+      "title": "SundayApr 5",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.368987Z",
+      "time": null,
+      "description": null,
+      "url": "https://donyc.com/events/2026/04/5"
+    },
+    {
+      "title": "Jacqueline Novak: 2026 Tour",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.369017Z",
+      "time": "7:00PM",
+      "description": null,
+      "url": "https://donyc.com/events/2026/4/5/jacqueline-novak-2026-tour-tickets"
+    },
+    {
+      "title": "MondayApr 6",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.369034Z",
+      "time": null,
+      "description": null,
+      "url": "https://donyc.com/events/2026/04/6"
+    },
+    {
+      "title": "The Moth Storyslam",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.369063Z",
+      "time": "8:00PM",
+      "description": null,
+      "url": "https://donyc.com/events/2026/4/6/the-moth-storyslam-tickets"
+    },
+    {
+      "title": "TuesdayApr 7",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.369080Z",
+      "time": null,
+      "description": null,
+      "url": "https://donyc.com/events/2026/04/7"
+    },
+    {
+      "title": "Atsuko Okatsuka Adds to her Hour",
+      "venue": "The Bell House",
+      "date": "2026-03-18T23:40:01.369111Z",
+      "time": "7:30PM",
+      "description": null,
+      "url": "https://donyc.com/events/2026/4/7/atsuko-okatsuka-adds-to-her-hour-tickets"
+    }
+  ],
+  "lastUpdated": "2026-03-18T23:40:01.369112Z",
+  "venue": "The Bell House",
+  "totalShows": 49
+}

@@ -1,0 +1,503 @@
+{
+  "shows": [
+    {
+      "title": "Set of the Night",
+      "venue": "The Comedy Store - Belly Room",
+      "date": "2026-03-22T00:00:00Z",
+      "time": "9:00 PM",
+      "description": "Lineup: Fahim Anwar, Fahim Anwar, Sebastian Maniscalco, David Spade, Jay Leno, Pauly Shore, Andrew Santino, Sebastian Maniscalco, David Spade, Jay Leno",
+      "url": "https://thecomedystore.com/calendar/show/2261/2026-03-18t220000-0700-set-of-the-night"
+    },
+    {
+      "title": "Set of the Night",
+      "venue": "The Comedy Store - Belly Room",
+      "date": "2026-03-18T00:00:00Z",
+      "time": "10:00 PM",
+      "description": "Comedy showcase",
+      "url": "https://thecomedystore.com/calendar/show/2261/2026-03-18t220000-0700-set-of-the-night"
+    },
+    {
+      "title": "Late Night at The Store",
+      "venue": "The Comedy Store - Original Room",
+      "date": "2026-03-18T00:00:00Z",
+      "time": "11:30 PM",
+      "description": "Comedy showcase",
+      "url": "https://thecomedystore.com/calendar/show/2102/2026-03-18t233000-0700-late-night-legends"
+    },
+    {
+      "title": "Fahim Works On Stuff and His Friends Drop By",
+      "venue": "The Comedy Store",
+      "date": "2026-03-19T00:00:00Z",
+      "time": "8:00 PM",
+      "description": "Lineup: Fahim Anwar, Fahim Anwar",
+      "url": "https://thecomedystore.com/calendar/show/2739/2026-03-19t200000-0700-fahim-works-on-stuff-and-his-friends-drop-by"
+    },
+    {
+      "title": "Horribly Funny",
+      "venue": "The Comedy Store",
+      "date": "2026-03-19T00:00:00Z",
+      "time": "8:00 PM",
+      "description": "Lineup: Sebastian Maniscalco, David Spade, Jay Leno, Pauly Shore, Andrew Santino, Sebastian Maniscalco, David Spade, Jay Leno, Pauly Shore, Andrew Santino",
+      "url": "https://thecomedystore.com/calendar/show/2627/2026-03-19t200000-0700-horribly-funny"
+    },
+    {
+      "title": "The Originals",
+      "venue": "The Comedy Store",
+      "date": "2026-03-19T00:00:00Z",
+      "time": "9:00 PM",
+      "description": "Lineup: Ron Funches, Sarah Tiana, Debra DiGiovanni, Blair Socci, Stephen Furey, Ron Funches, Sarah Tiana, Debra DiGiovanni, Blair Socci, Stephen Furey",
+      "url": "https://thecomedystore.com/calendar/show/2070/2026-03-19t210000-0700-the-originals"
+    },
+    {
+      "title": "Crack'Em Up Thursdays",
+      "venue": "The Comedy Store - Belly Room",
+      "date": "2026-03-19T00:00:00Z",
+      "time": "10:00 PM",
+      "description": "Lineup: T Barb, T Barb",
+      "url": "https://thecomedystore.com/calendar/show/2245/2026-03-19t220000-0700-crackem-up-thursdays"
+    },
+    {
+      "title": "Late Night at The Store",
+      "venue": "The Comedy Store - Original Room",
+      "date": "2026-03-19T00:00:00Z",
+      "time": "11:30 PM",
+      "description": "Comedy showcase",
+      "url": "https://thecomedystore.com/calendar/show/2086/2026-03-19t233000-0700-late-night-legends"
+    },
+    {
+      "title": "Keys to  the Store w/ Avery Pearson",
+      "venue": "The Comedy Store",
+      "date": "2026-03-20T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Lineup: Avery Pearson, Iliza Shlesinger, Pete Lee, Jeff Ross, Craig Robinson, Avery Pearson, Iliza Shlesinger, Pete Lee, Jeff Ross, Craig Robinson",
+      "url": "https://thecomedystore.com/calendar/show/2368/2026-03-20t190000-0700-keys-to-the-store"
+    },
+    {
+      "title": "Best of the Store XL",
+      "venue": "The Comedy Store - Main Room",
+      "date": "2026-03-20T00:00:00Z",
+      "time": "7:30 PM",
+      "description": "Lineup: Iliza Shlesinger, Asif Ali, Sarah Tiana, Rick Ingraham, Pauly Shore, Iliza Shlesinger, Asif Ali, Sarah Tiana, Rick Ingraham, Pauly Shore",
+      "url": "https://thecomedystore.com/calendar/show/2199/2026-03-20t193000-0700-best-of-the-store-xl"
+    },
+    {
+      "title": "Secretly Trashed",
+      "venue": "The Comedy Store - Belly Room",
+      "date": "2026-03-20T00:00:00Z",
+      "time": "8:00 PM",
+      "description": "Lineup: Michael Blaustein, Rick Glassman, Monty Geer, Sam Mamaghani, Michael Blaustein, Rick Glassman, Monty Geer, Sam Mamaghani",
+      "url": "https://thecomedystore.com/calendar/show/2688/2026-03-20t200000-0700-secretly-trashed"
+    },
+    {
+      "title": "Headliners of the OR Late Night",
+      "venue": "The Comedy Store",
+      "date": "2026-03-20T00:00:00Z",
+      "time": "9:30 PM",
+      "description": "Lineup: Ali Macofsky, Kelly Ryan, Kirk Fox, Debra DiGiovanni, Eddie Pepitone, Ali Macofsky, Kelly Ryan, Kirk Fox, Debra DiGiovanni, Eddie Pepitone",
+      "url": "https://thecomedystore.com/calendar/show/2040/2026-03-20t213000-0700-headliners-of-the-or-late-night"
+    },
+    {
+      "title": "Facial Recognition Comedy",
+      "venue": "The Comedy Store - Belly Room",
+      "date": "2026-03-20T00:00:00Z",
+      "time": "10:00 PM",
+      "description": "Lineup: Fizaa Dosani, Pallavi Gunalan, Zahra Ali, Fizaa Dosani, Pallavi Gunalan, Zahra Ali",
+      "url": "https://thecomedystore.com/calendar/show/2689/2026-03-20t220000-0700-facial-recognition-comedy"
+    },
+    {
+      "title": "Late Night at The Store",
+      "venue": "The Comedy Store",
+      "date": "2026-03-20T00:00:00Z",
+      "time": "11:59 PM",
+      "description": "Comedy showcase",
+      "url": "https://thecomedystore.com/calendar/show/2055/2026-03-20t235900-0700-late-night-legends"
+    },
+    {
+      "title": "Best of the Store",
+      "venue": "The Comedy Store",
+      "date": "2026-03-21T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Lineup: Mark Normand, Lara Beitz, Pauly Shore, Argus Hamilton, Ian Edwards, Mark Normand, Lara Beitz, Pauly Shore, Argus Hamilton, Ian Edwards",
+      "url": "https://thecomedystore.com/calendar/show/2184/2026-03-21t190000-0700-best-of-the-store"
+    },
+    {
+      "title": "Headliners of the OR",
+      "venue": "The Comedy Store - Original Room",
+      "date": "2026-03-21T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Lineup: Mark Ellis, Jay Larson, Shawn Pelofsky, Jesus Trejo, Dave Helem, Mark Ellis, Jay Larson, Shawn Pelofsky, Jesus Trejo, Dave Helem",
+      "url": "https://thecomedystore.com/calendar/show/1869/2026-03-21t190000-0700-headliners-of-the-or"
+    },
+    {
+      "title": "New Material Show",
+      "venue": "The Comedy Store - Belly Room",
+      "date": "2026-03-21T00:00:00Z",
+      "time": "7:30 PM",
+      "description": "Lineup: Whitney Cummings, Ali Macofsky, Fahim Anwar, Whitney Cummings, Ali Macofsky, Fahim Anwar",
+      "url": "https://thecomedystore.com/calendar/show/2319/2026-03-21t193000-0700-new-material-show-with-dan-levy-more"
+    },
+    {
+      "title": "Headliners of the OR Late Night",
+      "venue": "The Comedy Store",
+      "date": "2026-03-21T00:00:00Z",
+      "time": "9:30 PM",
+      "description": "Lineup: Mark Normand, Blair Socci, Owen Smith, Saul Trujillo, Byron Bowers, Mark Normand, Blair Socci, Owen Smith, Saul Trujillo, Byron Bowers",
+      "url": "https://thecomedystore.com/calendar/show/2027/2026-03-21t213000-0700-headliners-of-the-or-late-night"
+    },
+    {
+      "title": "Live from the Belly Room (Free Entry)",
+      "venue": "The Comedy Store",
+      "date": "2026-03-21T00:00:00Z",
+      "time": "9:30 PM",
+      "description": "Comedy showcase",
+      "url": "https://thecomedystore.com/calendar/show/2277/2026-03-21t213000-0700-live-from-the-belly-room"
+    },
+    {
+      "title": "Late Night in the Main Room",
+      "venue": "The Comedy Store - Main Room",
+      "date": "2026-03-21T00:00:00Z",
+      "time": "10:30 PM",
+      "description": "Lineup: Taylor Williamson, Jessie “Jetski” Johnson, Eleanor Kerrigan, Asif Ali, Chris Spencer, Taylor Williamson, Jessie “Jetski” Johnson, Eleanor Kerrigan, Asif Ali, Chris Spencer",
+      "url": "https://thecomedystore.com/calendar/show/2170/2026-03-21t223000-0700-late-night-in-the-main-room"
+    },
+    {
+      "title": "Midnight Special (Free Entry)",
+      "venue": "The Comedy Store",
+      "date": "2026-03-21T00:00:00Z",
+      "time": "11:59 PM",
+      "description": "Lineup: Nicole Becannon, Lucas Hirl, Cooper Lyden, Steven Garza, Don Barris, Nicole Becannon, Lucas Hirl, Cooper Lyden, Steven Garza, Don Barris",
+      "url": "https://thecomedystore.com/calendar/show/1983/2026-03-21t235900-0700-midnight-special-50-off-drinks"
+    },
+    {
+      "title": "Sunday Potluck",
+      "venue": "The Comedy Store - Original Room",
+      "date": "2026-03-22T00:00:00Z",
+      "time": "6:00 PM",
+      "description": "Lineup: Angie Stroud, Angie Stroud",
+      "url": "https://thecomedystore.com/calendar/show/1823/2026-03-22t180000-0700-sunday-potluck"
+    },
+    {
+      "title": "Gigi Debussy Presents: Dragged Up",
+      "venue": "The Comedy Store - Belly Room",
+      "date": "2026-03-22T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Lineup: Dulce Sloan, Nicky Paris, Omid Singh, Dulce Sloan, Nicky Paris, Omid Singh",
+      "url": "https://thecomedystore.com/calendar/show/2669/2026-03-22t190000-0700-gigi-debussy-presents-dragged-up"
+    },
+    {
+      "title": "Sunday Headliners",
+      "venue": "The Comedy Store - Original Room",
+      "date": "2026-03-22T00:00:00Z",
+      "time": "8:00 PM",
+      "description": "Lineup: Mark Normand, Torio Van Grol, Bruce Gray, Eleanor Kerrigan, Ian Edwards, Mark Normand, Torio Van Grol, Bruce Gray, Eleanor Kerrigan, Ian Edwards",
+      "url": "https://thecomedystore.com/calendar/show/1838/2026-03-22t200000-0700-sunday-headliners"
+    },
+    {
+      "title": "Acoustic Comedy",
+      "venue": "The Comedy Store",
+      "date": "2026-03-22T00:00:00Z",
+      "time": "9:00 PM",
+      "description": "Comedy showcase",
+      "url": "https://thecomedystore.com/calendar/show/2685/2026-03-22t210000-0700-acoustic-comedy"
+    },
+    {
+      "title": "Monday Potluck",
+      "venue": "The Comedy Store - Original Room",
+      "date": "2026-03-29T00:00:00Z",
+      "time": "9:00 PM",
+      "description": "SOLD OUT - Lineup: Joe Marrese, Joe Marrese, Joe Marrese, Joe Marrese, Nick Swardson, David Spade, Iliza Shlesinger, Patton Oswalt, Rick Ingraham, Nick Swardson",
+      "url": "https://thecomedystore.com/calendar/show/1998/2026-03-23t180000-0700-monday-potluck"
+    },
+    {
+      "title": "Monday Potluck",
+      "venue": "The Comedy Store - Original Room",
+      "date": "2026-03-23T00:00:00Z",
+      "time": "6:00 PM",
+      "description": "Lineup: Joe Marrese, Joe Marrese",
+      "url": "https://thecomedystore.com/calendar/show/1998/2026-03-23t180000-0700-monday-potluck"
+    },
+    {
+      "title": "Potluck: Friends & Family",
+      "venue": "The Comedy Store - Original Room",
+      "date": "2026-03-23T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Lineup: Joe Marrese, Joe Marrese",
+      "url": "https://thecomedystore.com/calendar/show/2013/2026-03-23t190000-0700-friends-family-with-40-comics-huge-surprise-guests"
+    },
+    {
+      "title": "Nacya Marreiro Live",
+      "venue": "The Comedy Store - Belly Room",
+      "date": "2026-03-23T00:00:00Z",
+      "time": "8:00 PM",
+      "description": "Comedy showcase",
+      "url": "https://thecomedystore.com/calendar/show/2601/2026-03-23t200000-0700-nacya-marreiro-live"
+    },
+    {
+      "title": "The Comedy Store Presents...",
+      "venue": "The Comedy Store - Main Room",
+      "date": "2026-03-23T00:00:00Z",
+      "time": "8:00 PM",
+      "description": "Lineup: Nick Swardson, David Spade, Iliza Shlesinger, Patton Oswalt, Rick Ingraham, Nick Swardson, David Spade, Iliza Shlesinger, Patton Oswalt, Rick Ingraham",
+      "url": "https://thecomedystore.com/calendar/show/2344/2026-03-23t200000-0700-the-comedy-store-presents"
+    },
+    {
+      "title": "Potluck: Pop-Ins Continued! Hosted by Frazer Smith",
+      "venue": "The Comedy Store - Original Room",
+      "date": "2026-03-23T00:00:00Z",
+      "time": "9:30 PM",
+      "description": "Lineup: Frazer Smith, Frazer Smith",
+      "url": "https://thecomedystore.com/calendar/show/1854/2026-03-23t213000-0700-pop-ins-continued-hosted-by-frazer-smith"
+    },
+    {
+      "title": "The Ding Dong Show",
+      "venue": "The Comedy Store - Belly Room",
+      "date": "2026-03-23T00:00:00Z",
+      "time": "10:30 PM",
+      "description": "Lineup: Don Barris, Don Barris",
+      "url": "https://thecomedystore.com/calendar/show/2214/2026-03-23t223000-0700-the-ding-dong-show-with-don-barris"
+    },
+    {
+      "title": "Steve Furey & Cronies",
+      "venue": "The Comedy Store - Main Room",
+      "date": "2026-03-24T00:00:00Z",
+      "time": "8:00 PM",
+      "description": "Lineup: Stephen Furey, David Spade, Kam Patterson, Iliza Shlesinger, Andrew Santino, Stephen Furey, David Spade, Kam Patterson, Iliza Shlesinger, Andrew Santino",
+      "url": "https://thecomedystore.com/calendar/show/2682/2026-03-31t200000-0700-steve-furey-cronies"
+    },
+    {
+      "title": "Willie Simon & Friends",
+      "venue": "The Comedy Store - Belly Room",
+      "date": "2026-03-24T00:00:00Z",
+      "time": "8:00 PM",
+      "description": "Lineup: Willie Simon, Kelly Ryan, Al Madrigal, Willie Simon, Kelly Ryan, Al Madrigal",
+      "url": "https://thecomedystore.com/calendar/show/2550/2026-03-24t200000-0700-willie-simon-friends"
+    },
+    {
+      "title": "Headliners of the OR",
+      "venue": "The Comedy Store - Original Room",
+      "date": "2026-03-24T00:00:00Z",
+      "time": "9:00 PM",
+      "description": "Comedy showcase",
+      "url": "https://thecomedystore.com/calendar/show/2135/2026-03-24t210000-0700-headliners-of-the-or"
+    },
+    {
+      "title": "Roast Battle",
+      "venue": "The Comedy Store - Belly Room",
+      "date": "2026-03-24T00:00:00Z",
+      "time": "10:30 PM",
+      "description": "Lineup: Brian Moses, Jeff Ross, Brian Moses, Jeff Ross",
+      "url": "https://thecomedystore.com/calendar/show/2230/2026-03-24t223000-0700-roast-battle"
+    },
+    {
+      "title": "Late Night at The Store",
+      "venue": "The Comedy Store - Original Room",
+      "date": "2026-03-24T00:00:00Z",
+      "time": "11:30 PM",
+      "description": "Comedy showcase",
+      "url": "https://thecomedystore.com/calendar/show/2119/2026-03-24t233000-0700-late-night-legends"
+    },
+    {
+      "title": "Tippy Top Tier Comedy",
+      "venue": "The Comedy Store - Main Room",
+      "date": "2026-03-25T00:00:00Z",
+      "time": "8:00 PM",
+      "description": "Comedy showcase",
+      "url": "https://thecomedystore.com/calendar/show/2772/2026-03-25t200000-0700-tippy-top-tier-comedy"
+    },
+    {
+      "title": "Bassem & Friends hosted by Paul Elia",
+      "venue": "The Comedy Store",
+      "date": "2026-03-25T00:00:00Z",
+      "time": "8:00 PM",
+      "description": "SOLD OUT - Lineup: Paul Elia, Paul Elia",
+      "url": "https://thecomedystore.com/calendar/show/2529/2026-03-25t200000-0700-bassem-friends-hosted-by-paul-elia"
+    },
+    {
+      "title": "Headliners of the OR",
+      "venue": "The Comedy Store - Original Room",
+      "date": "2026-03-25T00:00:00Z",
+      "time": "9:00 PM",
+      "description": "Comedy showcase",
+      "url": "https://thecomedystore.com/calendar/show/2150/2026-03-25t210000-0700-headliners-of-the-or"
+    },
+    {
+      "title": "Set of the Night",
+      "venue": "The Comedy Store - Belly Room",
+      "date": "2026-03-25T00:00:00Z",
+      "time": "10:00 PM",
+      "description": "Comedy showcase",
+      "url": "https://thecomedystore.com/calendar/show/2262/2026-03-25t220000-0700-set-of-the-night"
+    },
+    {
+      "title": "Late Night at The Store",
+      "venue": "The Comedy Store - Original Room",
+      "date": "2026-03-25T00:00:00Z",
+      "time": "11:30 PM",
+      "description": "Comedy showcase",
+      "url": "https://thecomedystore.com/calendar/show/2103/2026-03-25t233000-0700-late-night-legends"
+    },
+    {
+      "title": "Kevin Sullivan & Friends",
+      "venue": "The Comedy Store",
+      "date": "2026-03-26T00:00:00Z",
+      "time": "8:00 PM",
+      "description": "SOLD OUT - Lineup: Kevin Sullivan, Kevin Sullivan",
+      "url": "https://thecomedystore.com/calendar/show/2547/2026-03-26t200000-0700-kevin-sullivan-friends"
+    },
+    {
+      "title": "The Comedy Store Presents...",
+      "venue": "The Comedy Store - Main Room",
+      "date": "2026-03-26T00:00:00Z",
+      "time": "8:00 PM",
+      "description": "Comedy showcase",
+      "url": "https://thecomedystore.com/calendar/show/2716/2026-03-26t200000-0700-the-comedy-store-presents"
+    },
+    {
+      "title": "The Originals",
+      "venue": "The Comedy Store - Original Room",
+      "date": "2026-03-26T00:00:00Z",
+      "time": "9:00 PM",
+      "description": "Comedy showcase",
+      "url": "https://thecomedystore.com/calendar/show/2071/2026-03-26t210000-0700-the-originals"
+    },
+    {
+      "title": "Crack'Em Up Thursdays",
+      "venue": "The Comedy Store - Belly Room",
+      "date": "2026-03-26T00:00:00Z",
+      "time": "10:00 PM",
+      "description": "Comedy showcase",
+      "url": "https://thecomedystore.com/calendar/show/2246/2026-03-26t220000-0700-crackem-up-thursdays"
+    },
+    {
+      "title": "Late Night at The Store",
+      "venue": "The Comedy Store - Original Room",
+      "date": "2026-03-26T00:00:00Z",
+      "time": "11:30 PM",
+      "description": "Comedy showcase",
+      "url": "https://thecomedystore.com/calendar/show/2087/2026-03-26t233000-0700-late-night-legends"
+    },
+    {
+      "title": "Best of the Store XL",
+      "venue": "The Comedy Store - Main Room",
+      "date": "2026-03-27T00:00:00Z",
+      "time": "7:30 PM",
+      "description": "Comedy showcase",
+      "url": "https://thecomedystore.com/calendar/show/2200/2026-03-27t193000-0700-best-of-the-store-xl"
+    },
+    {
+      "title": "Fiona Cauley",
+      "venue": "The Comedy Store",
+      "date": "2026-03-27T00:00:00Z",
+      "time": "8:00 PM",
+      "description": "Comedy showcase",
+      "url": "https://thecomedystore.com/calendar/show/2590/2026-03-27t200000-0700-fiona-cauley"
+    },
+    {
+      "title": "Headliners of the OR Late Night",
+      "venue": "The Comedy Store - Original Room",
+      "date": "2026-03-27T00:00:00Z",
+      "time": "9:30 PM",
+      "description": "Comedy showcase",
+      "url": "https://thecomedystore.com/calendar/show/2041/2026-03-27t213000-0700-headliners-of-the-or-late-night"
+    },
+    {
+      "title": "Late Night at The Store",
+      "venue": "The Comedy Store - Original Room",
+      "date": "2026-03-27T00:00:00Z",
+      "time": "11:59 PM",
+      "description": "Comedy showcase",
+      "url": "https://thecomedystore.com/calendar/show/2056/2026-03-27t235900-0700-late-night-legends"
+    },
+    {
+      "title": "Best of the Store",
+      "venue": "The Comedy Store - Main Room",
+      "date": "2026-03-28T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Comedy showcase",
+      "url": "https://thecomedystore.com/calendar/show/2185/2026-03-28t190000-0700-best-of-the-store"
+    },
+    {
+      "title": "Headliners of the OR",
+      "venue": "The Comedy Store - Original Room",
+      "date": "2026-03-28T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Comedy showcase",
+      "url": "https://thecomedystore.com/calendar/show/1870/2026-03-28t190000-0700-headliners-of-the-or"
+    },
+    {
+      "title": "Comedy Confidential",
+      "venue": "The Comedy Store - Belly Room",
+      "date": "2026-03-28T00:00:00Z",
+      "time": "7:30 PM",
+      "description": "Lineup: Stephen Furey, Stephen Furey",
+      "url": "https://thecomedystore.com/calendar/show/2690/2026-03-28t193000-0700-comedy-confidential-with-stephen-furey"
+    },
+    {
+      "title": "Live from the Belly Room",
+      "venue": "The Comedy Store - Belly Room",
+      "date": "2026-03-28T00:00:00Z",
+      "time": "9:30 PM",
+      "description": "Comedy showcase",
+      "url": "https://thecomedystore.com/calendar/show/2278/2026-03-28t213000-0700-live-from-the-belly-room"
+    },
+    {
+      "title": "Headliners of the OR Late Night",
+      "venue": "The Comedy Store - Original Room",
+      "date": "2026-03-28T00:00:00Z",
+      "time": "9:30 PM",
+      "description": "Comedy showcase",
+      "url": "https://thecomedystore.com/calendar/show/2028/2026-03-28t213000-0700-headliners-of-the-or-late-night"
+    },
+    {
+      "title": "Late Night in the Main Room",
+      "venue": "The Comedy Store - Main Room",
+      "date": "2026-03-28T00:00:00Z",
+      "time": "10:30 PM",
+      "description": "Comedy showcase",
+      "url": "https://thecomedystore.com/calendar/show/2171/2026-03-28t223000-0700-late-night-in-the-main-room"
+    },
+    {
+      "title": "Midnight Special (Free Entry)",
+      "venue": "The Comedy Store - Original Room",
+      "date": "2026-03-28T00:00:00Z",
+      "time": "11:59 PM",
+      "description": "Comedy showcase",
+      "url": "https://thecomedystore.com/calendar/show/1984/2026-03-28t235900-0700-midnight-special-50-off-drinks"
+    },
+    {
+      "title": "Sunday Potluck",
+      "venue": "The Comedy Store - Original Room",
+      "date": "2026-03-29T00:00:00Z",
+      "time": "6:00 PM",
+      "description": "Comedy showcase",
+      "url": "https://thecomedystore.com/calendar/show/1825/2026-03-29t180000-0700-sunday-potluck"
+    },
+    {
+      "title": "Francisco, Daniela y Amigos con Daniela Calvo & Francisco Ramos",
+      "venue": "The Comedy Store - Belly Room",
+      "date": "2026-03-29T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Lineup: Daniela Calvo, Francisco Ramos, Daniela Calvo, Francisco Ramos",
+      "url": "https://thecomedystore.com/calendar/show/2697/2026-03-29t190000-0700-francisco-daniela-y-amigos-con-daniela-calvo-francisco-ramos"
+    },
+    {
+      "title": "Sunday Headliners",
+      "venue": "The Comedy Store - Original Room",
+      "date": "2026-03-29T00:00:00Z",
+      "time": "8:00 PM",
+      "description": "Comedy showcase",
+      "url": "https://thecomedystore.com/calendar/show/1839/2026-03-29t200000-0700-sunday-headliners"
+    },
+    {
+      "title": "Cooper Lyden and Friends",
+      "venue": "The Comedy Store - Belly Room",
+      "date": "2026-03-29T00:00:00Z",
+      "time": "9:00 PM",
+      "description": "Lineup: Cooper Lyden, Cooper Lyden",
+      "url": "https://thecomedystore.com/calendar/show/2721/2026-03-29t210000-0700-cooper-lyden-and-friends"
+    }
+  ],
+  "lastUpdated": "2026-03-18T23:40:25.268789Z",
+  "venue": "The Comedy Store",
+  "totalShows": 62
+}

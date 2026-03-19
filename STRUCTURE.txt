@@ -1,0 +1,92 @@
+comedy-calendar/
+│
+├── 📂 scrapers/               # All scraping scripts
+│   ├── chicago/
+│   │   ├── scrape-category.py           # Do312 comedy category
+│   │   ├── scrape-do312-venues.py       # All 7 venue pages
+│   │   ├── merge-chicago-shows.py       # Combine + dedupe
+│   │   └── scrape-all.sh                # Master script
+│   ├── ny/
+│   │   ├── scrape-category.py           # DoNYC comedy category
+│   │   ├── scrape-caveat.sh             # Caveat calendar
+│   │   ├── scrape-union-hall.sh         # Union Hall (lazy loading)
+│   │   ├── scrape-comedy-cellar.sh      # Multi-date (28 days)
+│   │   ├── scrape-the-stand.sh          # The Stand
+│   │   ├── scrape-ucb-ny.py             # UCB (Cloudflare)
+│   │   ├── scrape-bell-house.sh         # Bell House
+│   │   ├── scrape-gotham.sh             # Gotham Comedy Club
+│   │   ├── merge-ny-shows.py            # Combine + dedupe
+│   │   └── scrape-all-ny.sh             # Master script
+│   └── la/
+│       ├── scrape-category.py           # DoLA comedy category
+│       ├── scrape-dola-venues.py        # Dynasty/Improv/Laugh Factory
+│       ├── scrape-ucb-la.py             # UCB Franklin
+│       ├── scrape-comedy-store.py       # All Comedy Store rooms
+│       ├── scrape-largo.sh              # Largo at Coronet
+│       ├── scrape-dynasty-typewriter.py # Dynasty (Squarespace)
+│       ├── merge-la-shows.py            # Combine + dedupe
+│       └── scrape-all-la.sh             # Master script
+│
+├── 📂 data/                   # JSON data files
+│   ├── chicago/
+│   │   ├── shows.json                   # Final merged data (159 shows)
+│   │   ├── do312-venues-shows.json      # Venue page data
+│   │   └── venue-info.json              # Venue metadata
+│   ├── ny/
+│   │   ├── ny-shows.json                # Final merged data (316 shows)
+│   │   ├── ny-shows-donyc.json          # Category data
+│   │   ├── caveat-shows.json
+│   │   ├── union-hall-shows.json
+│   │   ├── comedy-cellar-shows.json
+│   │   ├── the-stand-shows.json
+│   │   ├── ucb-ny-shows.json
+│   │   ├── bell-house-shows.json
+│   │   └── gotham-shows.json
+│   └── la/
+│       ├── la-shows.json                # Final merged data (321 shows)
+│       ├── la-shows-dola.json           # Category data
+│       ├── ucb-la-shows.json
+│       ├── largo-shows.json
+│       ├── comedy-store-shows.json
+│       ├── dola-venues-shows.json
+│       └── dynasty-typewriter-shows.json
+│
+├── 📂 public/                 # Static websites
+│   ├── chicago/
+│   │   ├── index.html                   # Main page
+│   │   ├── app.js                       # Frontend logic
+│   │   ├── styles.css                   # Chicago theme
+│   │   ├── shows.json -> ../../data/chicago/shows.json
+│   │   └── venue-info.json -> ../../data/chicago/venue-info.json
+│   ├── ny/
+│   │   ├── index.html
+│   │   ├── app.js
+│   │   ├── styles.css                   # NY theme
+│   │   └── shows.json -> ../../data/ny/ny-shows.json
+│   └── la/
+│       ├── index.html
+│       ├── app.js
+│       ├── styles.css                   # LA theme
+│       └── shows.json -> ../../data/la/la-shows.json
+│
+├── 📂 docs/                   # Documentation
+│   └── GUIDE.md                         # Complete guide
+│
+├── 📂 archive/                # Old/deprecated files
+│   ├── old-docs/                        # Historical docs
+│   ├── scraper-old.py
+│   ├── scraper-improved.py
+│   └── *.json backups
+│
+├── 📂 design-options/         # Alternative CSS themes
+│   ├── dark-club.css
+│   ├── minimalist-chicago.css
+│   └── retro-poster.css
+│
+├── 📄 README.md               # Quick overview
+├── 📄 deploy.sh               # Run all scrapers
+├── 📄 requirements.txt        # Python dependencies
+├── 📄 fix-venue-info.py       # Utility: Fix venue data
+└── 📄 venue-info-scraper.py   # Utility: Scrape venue info
+
+TOTAL: 796 comedy shows across 3 cities
