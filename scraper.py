@@ -105,7 +105,8 @@ def scrape_date_page(page, date_str: str, seen_events: Set[Tuple[str, str, str]]
 
                             let dateStr = '';
                             if (linkEl) {
-                                const match = linkEl.href.match(/\/events\/(\d{4})\/(\d{1,2})\/(\d{1,2})\//);
+                                // Match both /events/YYYY/MM/DD/ and /events/weeklies/YYYY/MM/DD/
+                                const match = linkEl.href.match(/\/events\/(?:weeklies\/)?(\d{4})\/(\d{1,2})\/(\d{1,2})\//);
                                 if (match) {
                                     dateStr = `${match[1]}-${match[2].padStart(2, '0')}-${match[3].padStart(2, '0')}`;
                                 }
@@ -151,16 +152,18 @@ def scrape_date_page(page, date_str: str, seen_events: Set[Tuple[str, str, str]]
 
                 seen_events.add(event_key)
 
-                # Parse date
+                # Parse date - skip shows without valid dates
                 date_str_parsed = event.get('dateStr', '')
-                if date_str_parsed:
-                    try:
-                        date_obj = datetime.strptime(date_str_parsed, '%Y-%m-%d')
-                        date_iso = date_obj.isoformat() + 'Z'
-                    except ValueError:
-                        date_iso = datetime.now().isoformat() + 'Z'
-                else:
-                    date_iso = datetime.now().isoformat() + 'Z'
+                if not date_str_parsed:
+                    # Skip events without dates
+                    continue
+
+                try:
+                    date_obj = datetime.strptime(date_str_parsed, '%Y-%m-%d')
+                    date_iso = date_obj.isoformat() + 'Z'
+                except ValueError:
+                    # Skip events with unparseable dates
+                    continue
 
                 show = {
                     'venue': event['venue'],
