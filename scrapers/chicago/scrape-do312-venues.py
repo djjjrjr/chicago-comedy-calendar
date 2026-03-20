@@ -51,7 +51,8 @@ def scrape_venue(venue_name, venue_slug):
                 const linkEl = card.querySelector('a[href*="/events/"]');
                 let dateStr = '';
                 if (linkEl) {
-                    const match = linkEl.href.match(/\\/events\\/(\\d{4})\\/(\\d{1,2})\\/(\\d{1,2})\\//);
+                    // Match both /events/YYYY/MM/DD/ and /events/weeklies/YYYY/MM/DD/
+                    const match = linkEl.href.match(/\\/events\\/(?:weeklies\\/)?(\\d{4})\\/(\\d{1,2})\\/(\\d{1,2})\\//);
                     if (match) {
                         dateStr = `${match[1]}-${match[2].padStart(2, '0')}-${match[3].padStart(2, '0')}`;
                     }
@@ -93,17 +94,23 @@ def scrape_venue(venue_name, venue_slug):
 
         shows = json.loads(output)
 
-        # Convert dates to ISO format
+        # Convert dates to ISO format and filter out shows without valid dates
+        valid_shows = []
         for show in shows:
-            if show['date']:
-                try:
-                    date_obj = datetime.strptime(show['date'], '%Y-%m-%d')
-                    show['date'] = date_obj.isoformat() + 'Z'
-                except:
-                    pass
+            if not show['date']:
+                # Skip shows without dates
+                continue
 
-        print(f"     ✓ {len(shows)} events")
-        return shows
+            try:
+                date_obj = datetime.strptime(show['date'], '%Y-%m-%d')
+                show['date'] = date_obj.isoformat() + 'Z'
+                valid_shows.append(show)
+            except:
+                # Skip shows with unparseable dates
+                continue
+
+        print(f"     ✓ {len(valid_shows)} events")
+        return valid_shows
 
     except subprocess.TimeoutExpired:
         print(f"     ⚠️  Timeout")
