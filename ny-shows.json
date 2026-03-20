@@ -153,11 +153,11 @@
       "url": "https://donyc.com/events/2026/3/20/mohanad-elshieky-tickets"
     },
     {
-      "title": "The Stand Presents: Kyle Dunnigan, Matthew Broussard, Marina Franklin, & More!",
+      "title": "The Stand Presents: Matthew Broussard, Marina Franklin, Aaron Berg, & More!",
       "venue": "The Stand - Main room",
       "date": "2026-03-20T00:00:00.000Z",
       "time": "8:00 PM",
-      "description": "The Stand Presents: Kyle Dunnigan, Matthew Broussard, Marina Franklin, & More!",
+      "description": "The Stand Presents: Matthew Broussard, Marina Franklin, Aaron Berg, & More!",
       "url": "https://thestandnyc.com//shows/show/12660/2026-03-20-200000-the-stand-presents"
     },
     {
@@ -845,7 +845,7 @@
       "venue": "UCB Theatre",
       "date": "2026-03-23T00:00:00Z",
       "time": "10:00 PM",
-      "description": "Monday, March 23, 2026 @ 10:00 PMNY - 14TH ST. MainstagePost-WarA stand up comedy show with James Austin Johnson and Neel Ghosh and Wally Baram and Dave Ross featuring some of NYC's best comedians.   Full lineup: TBA — In-person tickets are $15 All sales are final. The show starts at…Buy Now",
+      "description": "Monday, March 23, 2026 @ 10:00 PMNY - 14TH ST. MainstagePost-WarA stand up comedy show with James Austin Johnson and Neel Ghosh and Wally Baram and Dave Ross featuring some of NYC's best comedians.   Full lineup: Alison Leiby  Justin Catchens Courtney Maginnis Goldie Gareza — In-person tickets are $15 All…Buy Now",
       "url": "https://ucbcomedy.com/show/post-war-03-23-26/"
     },
     {
@@ -893,6 +893,14 @@
       "venue": "Comedy Cellar - Village Underground",
       "date": "2026-03-24T00:00:00.000Z",
       "time": "10:00 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Fat Black Pussycat",
+      "date": "2026-03-24T00:00:00.000Z",
+      "time": "10:30 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
@@ -1145,11 +1153,11 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "David Cross: Shootin’ the Shit, Seein’ What Sticks",
+      "title": "**cancelled** David Cross: Shootin’ the Shit, Seein’ What Sticks",
       "venue": "Union Hall",
       "date": "2026-03-26T00:00:00.000Z",
       "time": null,
-      "description": "David Cross: Shootin’ the Shit, Seein’ What Sticks",
+      "description": "**cancelled** David Cross: Shootin’ the Shit, Seein’ What Sticks",
       "url": "https://unionhallny.com/calendar"
     },
     {
@@ -1385,6 +1393,14 @@
       "url": "https://ucbcomedy.com/show/asssscat-ny-03-27-26/"
     },
     {
+      "title": "Estonian Improv Masterclass",
+      "venue": "UCB Theatre",
+      "date": "2026-03-27T00:00:00Z",
+      "time": "9:00 PM",
+      "description": "Friday, March 27, 2026 @ 9:00 PMNY - 14TH ST. UpstairsEstonian Improv MasterclassHaley Hepworth and Graham Techler present an evening of two-prov in preparation for an imminent show in Estonia.   Veteran character performers and longtime improv duo Haley Hepworth and Graham Techler are taking a show to Estonia next month. In…Buy Now",
+      "url": "https://ucbcomedy.com/show/estonian-improv-masterclass-03-27-26/"
+    },
+    {
       "title": "A Luscious Life with Rachel Pegram",
       "venue": "Union Hall",
       "date": "2026-03-28T00:00:00.000Z",
@@ -1567,14 +1583,6 @@
       "time": "7:30PM",
       "description": null,
       "url": "https://donyc.com/events/2026/3/30/richard-perez-for-one-night-with-a-band-okay-tickets"
-    },
-    {
-      "title": "Post-War",
-      "venue": "UCB Theatre",
-      "date": "2026-03-30T00:00:00Z",
-      "time": "10:00 PM",
-      "description": "Monday, March 30, 2026 @ 10:00 PMNY - 14TH ST. MainstagePost-WarA stand up comedy show with James Austin Johnson and Neel Ghosh and Wally Baram and Dave Ross featuring some of NYC's best comedians.   Full lineup: TBA — In-person tickets are $15 All sales are final. The show starts at…Buy Now",
-      "url": "https://ucbcomedy.com/show/post-war-03-30-26/"
     },
     {
       "title": "Gravid Water",
@@ -1953,14 +1961,6 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "**cancelled** Jaboukie & Friends",
-      "venue": "Union Hall",
-      "date": "2026-04-07T00:00:00.000Z",
-      "time": null,
-      "description": "**cancelled** Jaboukie & Friends",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
       "title": "Robert Kelly",
       "venue": "Comedy Cellar",
       "date": "2026-04-07T00:00:00.000Z",
@@ -2031,6 +2031,14 @@
       "time": null,
       "description": "LATE BLOOMERS a lineup of unexpected solo characters",
       "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Patti Harrison: New York City Is The Hottest Place!",
+      "venue": "The Bell House",
+      "date": "2026-04-09T00:00:00.000Z",
+      "time": "8:00PM",
+      "description": null,
+      "url": "https://donyc.com/events/2026/4/9/patti-harrison-new-york-city-is-the-hottest-place-tickets"
     },
     {
       "title": "Cage Match: TBD vs. Hot FM",
@@ -2433,6 +2441,14 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "Isabel Hagen and Friends",
+      "venue": "Union Hall",
+      "date": "2026-04-26T00:00:00.000Z",
+      "time": null,
+      "description": "Isabel Hagen and Friends",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
       "title": "David Cross: Shootin’ the Shit, Seein’ What Sticks",
       "venue": "Union Hall",
       "date": "2026-04-27T00:00:00.000Z",
@@ -2617,14 +2633,6 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "The Sporkful Live With Dan Pashman And Special Guests",
-      "venue": "The Bell House",
-      "date": "2027-03-19T00:00:00.000Z",
-      "time": "7:30PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/3/19/the-sporkful-live-with-dan-pashman-and-special-guests-tickets"
-    },
-    {
       "title": "NICK AT NIGHT! - NICKELODEON MUSICAL TRIVIA",
       "venue": "Caveat",
       "date": "2027-03-20T00:00:00.000Z",
@@ -2641,7 +2649,7 @@
       "url": "https://caveat.nyc/events/laughmasters-3-20-2026"
     }
   ],
-  "lastUpdated": "2026-03-20T07:14:51.785609Z",
+  "lastUpdated": "2026-03-20T22:59:09.194027Z",
   "sources": [
     "DoNYC",
     "Caveat",
@@ -2651,5 +2659,5 @@
     "UCB Theatre",
     "The Bell House"
   ],
-  "totalShows": 330
+  "totalShows": 331
 }
