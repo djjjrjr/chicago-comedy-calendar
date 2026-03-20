@@ -58,11 +58,11 @@ jobs:
         continue-on-error: true
       - name: Run New York scraper
         id: scrape-ny
-        run: ./scrape-all-ny.sh
+        run: cd scrapers/ny && ./scrape-all-ny.sh
         continue-on-error: true
       - name: Run Los Angeles scraper
         id: scrape-la
-        run: ./scrape-all-la.sh
+        run: cd scrapers/la && ./scrape-all-la.sh
         continue-on-error: true
 
       - name: Upload debug artifacts

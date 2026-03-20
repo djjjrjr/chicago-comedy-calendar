@@ -3,18 +3,17 @@
 
 cd "$(dirname "$0")"
 SCRIPT_DIR="$(pwd)"
-DATA_DIR="../../data/chicago"
 
 echo "🎭 Starting Chicago comedy scraper..."
 echo ""
 
-# Scrape comedy category
-echo "📋 Scraping Do312 comedy category..."
+# Scrape comedy category (now uses date-based scraping to fix broken pagination)
+echo "📋 Scraping Do312 comedy by date..."
 python3 scrape-category.py
 if [ $? -eq 0 ]; then
-    echo "✅ Category scraping complete"
+    echo "✅ Date-based scraping complete"
 else
-    echo "⚠️  Category scraping failed"
+    echo "⚠️  Date-based scraping failed"
 fi
 echo ""
 
@@ -38,16 +37,16 @@ else
 fi
 echo ""
 
-# Move final output to data directory
+# Move final output to root (where GitHub Pages serves from)
 if [ -f "shows.json" ]; then
-    mv shows.json "$DATA_DIR/"
-    echo "📦 Moved shows.json to $DATA_DIR"
+    mv shows.json ../../
+    echo "📦 Moved shows.json to root"
 fi
 
 if [ -f "do312-venues-shows.json" ]; then
-    mv do312-venues-shows.json "$DATA_DIR/"
+    mv do312-venues-shows.json ../../
 fi
 
 echo ""
 echo "✅ Chicago scraping complete!"
-echo "📊 Final data: $DATA_DIR/shows.json"
+echo "📊 Final data: ../../shows.json"
