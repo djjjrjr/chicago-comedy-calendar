@@ -54,7 +54,7 @@ jobs:
 
       - name: Run Chicago scraper
         id: scrape-chicago
-        run: python scraper.py
+        run: cd scrapers/chicago && ./scrape-all.sh
         continue-on-error: true
       - name: Run New York scraper
         id: scrape-ny
