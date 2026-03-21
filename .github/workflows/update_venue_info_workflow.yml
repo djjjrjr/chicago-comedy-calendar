@@ -51,7 +51,7 @@ jobs:
 
       - name: Run venue info scraper
         id: scrape-venues
-        run: python venue-info-scraper.py
+        run: python utils/venue-info-scraper.py
         continue-on-error: true
 
       - name: Check scraper result
