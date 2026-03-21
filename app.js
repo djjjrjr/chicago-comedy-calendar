@@ -69,8 +69,8 @@ const venues = {
         website: 'https://www.lincolnlodge.com',
         mapEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2968.5!2d-87.6530!3d41.9265!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fd2f0f7f7f7f7%3A0xb0b0b0b0b0b0b0b0!2sLincoln%20Lodge!5e0!3m2!1sen!2sus!4v1234567890'
     },
-    'Den Theatre': {
-        name: 'Den Theatre',
+    'The Den Theatre': {
+        name: 'The Den Theatre',
         color: '#4B0082',
         address: '1331 N Milwaukee Ave, Chicago, IL 60622',
         phone: '(773) 697-3830',
