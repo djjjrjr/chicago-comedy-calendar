@@ -635,8 +635,8 @@ function createShowCard(show, showVenueOnCard = false) {
             </div>
         `;
     } else {
-        // Preferred venue: show venue tag with click handler
-        const venueInfo = venues[show.venue];
+        // Preferred venue: show venue tag with click handler (use normalized name for lookup)
+        const venueInfo = venues[normalizeVenueName(show.venue)];
         return `
             <div class="show-card ${venueClass}" data-comedy-type="${comedyTypes}">
                 <span class="venue-tag" onclick="showVenueInfo('${show.venue}')" style="cursor: pointer;">
