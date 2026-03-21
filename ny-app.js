@@ -288,7 +288,8 @@ function detectComedyType(show) {
 // Load shows from JSON file
 async function loadShows() {
     try {
-        const response = await fetch('ny-shows.json');
+        // Add cache-busting to always get fresh data
+        const response = await fetch('ny-shows.json?t=' + Date.now());
         const data = await response.json();
 
         allShows = data.shows || [];
