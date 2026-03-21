@@ -1,238 +1,6 @@
 {
   "shows": [
     {
-      "title": "Marie Faustin is LATE",
-      "venue": "Union Hall",
-      "date": "2026-03-20T00:00:00.000Z",
-      "time": null,
-      "description": "Marie Faustin is LATE",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Annabel and Sabina Meschke present: TRIPLET AUDITIONS",
-      "venue": "Union Hall",
-      "date": "2026-03-20T00:00:00.000Z",
-      "time": null,
-      "description": "Annabel and Sabina Meschke present: TRIPLET AUDITIONS",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "KARAOKE TREMENDOUS",
-      "venue": "Union Hall",
-      "date": "2026-03-20T00:00:00.000Z",
-      "time": null,
-      "description": "KARAOKE TREMENDOUS",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "The Stand Presents: Marina Franklin, Derek Gaines, Onika McLean, & More!",
-      "venue": "The Stand - Main room",
-      "date": "2026-03-20T00:00:00.000Z",
-      "time": "10:00 PM",
-      "description": "The Stand Presents: Marina Franklin, Derek Gaines, Onika McLean, & More!",
-      "url": "https://thestandnyc.com//shows/show/12662/2026-03-20-220000-the-stand-presents"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-03-20T00:00:00.000Z",
-      "time": "10:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-03-20T00:00:00.000Z",
-      "time": "10:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "The Stand Presents: Subhah Agarwal, Marito Lopez, Tristan Bowling, & More!",
-      "venue": "The Stand - Upstairs",
-      "date": "2026-03-20T00:00:00.000Z",
-      "time": "11:00 PM",
-      "description": "The Stand Presents: Subhah Agarwal, Marito Lopez, Tristan Bowling, & More!",
-      "url": "https://thestandnyc.com//shows/show/12663/2026-03-20-230000-the-stand-presents"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-03-20T00:00:00.000Z",
-      "time": "11:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-03-20T00:00:00.000Z",
-      "time": "11:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "The Stand Presents: Andre Kim, Harry Settel, Aldo Campana, & More!",
-      "venue": "The Stand - Main room",
-      "date": "2026-03-20T00:00:00.000Z",
-      "time": "11:55 PM",
-      "description": "The Stand Presents: Andre Kim, Harry Settel, Aldo Campana, & More!",
-      "url": "https://thestandnyc.com//shows/show/12664/2026-03-20-235500-the-stand-presents"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-03-20T00:00:00.000Z",
-      "time": "11:55 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-03-20T00:00:00.000Z",
-      "time": "12:30 am",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-03-20T00:00:00.000Z",
-      "time": "12:55 am",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-03-20T00:00:00.000Z",
-      "time": "6:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-03-20T00:00:00.000Z",
-      "time": "6:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "The Stand Presents: Oscar Aydin, Elle Orlando, Joey Dardano, Matthew Broussard, & More!",
-      "venue": "The Stand - Upstairs",
-      "date": "2026-03-20T00:00:00.000Z",
-      "time": "7:00 PM",
-      "description": "The Stand Presents: Oscar Aydin, Elle Orlando, Joey Dardano, Matthew Broussard, & More!",
-      "url": "https://thestandnyc.com//shows/show/12659/2026-03-20-190000-the-stand-presents"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-03-20T00:00:00.000Z",
-      "time": "7:01 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-03-20T00:00:00.000Z",
-      "time": "7:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Mohanad Elshieky",
-      "venue": "The Bell House",
-      "date": "2026-03-20T00:00:00.000Z",
-      "time": "7:30PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/3/20/mohanad-elshieky-tickets"
-    },
-    {
-      "title": "The Stand Presents: Matthew Broussard, Marina Franklin, Aaron Berg, & More!",
-      "venue": "The Stand - Main room",
-      "date": "2026-03-20T00:00:00.000Z",
-      "time": "8:00 PM",
-      "description": "The Stand Presents: Matthew Broussard, Marina Franklin, Aaron Berg, & More!",
-      "url": "https://thestandnyc.com//shows/show/12660/2026-03-20-200000-the-stand-presents"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-03-20T00:00:00.000Z",
-      "time": "8:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-03-20T00:00:00.000Z",
-      "time": "8:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "The Stand Presents: Matthew Broussard, Andre Kim, Reggie Conquest, & More!",
-      "venue": "The Stand - Upstairs",
-      "date": "2026-03-20T00:00:00.000Z",
-      "time": "9:00 PM",
-      "description": "The Stand Presents: Matthew Broussard, Andre Kim, Reggie Conquest, & More!",
-      "url": "https://thestandnyc.com//shows/show/12661/2026-03-20-210000-the-stand-presents"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-03-20T00:00:00.000Z",
-      "time": "9:01 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-03-20T00:00:00.000Z",
-      "time": "9:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "It Was a Dark and Stormy Night",
-      "venue": "UCB Theatre",
-      "date": "2026-03-20T00:00:00Z",
-      "time": "10:30 PM",
-      "description": "Friday, March 20, 2026 @ 10:30 PMLivestreamNY - 14TH ST. MainstageIt Was a Dark and Stormy NightAn Improvised Film Noir Musical. Step into a shadowy world where hard-boiled detectives, dangerous secrets, and smoky nightclubs collide — and every note of the story is made up on the spot. This fully improvised film noir musical fuses moody…Buy Now",
-      "url": "https://ucbcomedy.com/show/it-was-a-dark-and-stormy-night-03-20-26/"
-    },
-    {
-      "title": "Abso Lutely x UCB Present: Marguerite starring Maggie Winters | Full Comedy Special",
-      "venue": "UCB Theatre",
-      "date": "2026-03-20T00:00:00Z",
-      "time": "7:00 PM",
-      "description": "LivestreamAbso Lutely x UCB Present: Marguerite starring Maggie Winters | Full Comedy SpecialDirected by her Southside-Irish blood relatives, Bart and Liam Winters, Maggie Winters' debut solo show Marguerite will explore her life, her laugh and her love! Throughout this hour-long journey, Maggie will tackle difficult subjects like depression and body image, while…Buy Now",
-      "url": "https://ucbcomedy.com/show/abso-lutely-x-ucb-present-marguerite-starring-maggie-winters-full-comedy-special/"
-    },
-    {
-      "title": "The Stepfathers",
-      "venue": "UCB Theatre",
-      "date": "2026-03-20T00:00:00Z",
-      "time": "7:00 PM",
-      "description": "Friday, March 20, 2026 @ 7:00 PMLivestreamNY - 14TH ST. MainstageThe StepfathersWatch your favorite improvisers, Shannon O’Neill, Connor Ratliff, Alexandra Dickson, Sebastian Conelli, Zach Cherry, and Shane Nielsen make all the sad things funny. The legendary improv group The Stepfathers has survived 2 decades performing in NYC. Born in the basement…Buy Now",
-      "url": "https://ucbcomedy.com/show/the-stepfathers-03-20-26/"
-    },
-    {
-      "title": "ASSSSCAT NY",
-      "venue": "UCB Theatre",
-      "date": "2026-03-20T00:00:00Z",
-      "time": "8:30 PM",
-      "description": "Friday, March 20, 2026 @ 8:30 PMLivestreamNY - 14TH ST. MainstageASSSSCAT NYASSSSCAT is UCB’s signature improv show that has played to critical acclaim and sold out audiences across the country. What is ASSSSCAT?   It starts with a group of improv comedians from film & TV taking the stage with a special…Buy Now",
-      "url": "https://ucbcomedy.com/show/asssscat-ny-03-20-26/"
-    },
-    {
       "title": "JAMIE LEE: MY FRIEND KATY",
       "venue": "Union Hall",
       "date": "2026-03-21T00:00:00.000Z",
@@ -345,22 +113,6 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
-      "title": "GET WORK: COMEDIANS INTERVIEW FOR REAL JOBS (USING FAKE RESUMES)",
-      "venue": "Caveat",
-      "date": "2026-03-21T00:00:00.000Z",
-      "time": "1:30 PM",
-      "description": "Comedians interview for real jobs using fake resumes.",
-      "url": "https://caveat.nyc/events/get-work-comedians-interview-for-real-jobs-using-fake-resumes-3-21-2026"
-    },
-    {
-      "title": "READ TO FILTH",
-      "venue": "Caveat",
-      "date": "2026-03-21T00:00:00.000Z",
-      "time": "4:00 PM",
-      "description": "A Comedy Book Club and Panel Show",
-      "url": "https://caveat.nyc/events/read-to-filth-3-21-2026"
-    },
-    {
       "title": "Laughing Buddha Comedy",
       "venue": "The Stand - Upstairs",
       "date": "2026-03-21T00:00:00.000Z",
@@ -391,14 +143,6 @@
       "time": "6:45 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "LECTURES ON TAP - \"THE SEDUCTION OF UNFREEDOM: A PHILOSOPHICAL DISCUSSION\"",
-      "venue": "Caveat",
-      "date": "2026-03-21T00:00:00.000Z",
-      "time": "7:00 PM",
-      "description": "Professors, experts, and storytellers giving thought-provoking lectures in NYC bars.",
-      "url": "https://caveat.nyc/events/lectures-on-tap---the-seduction-of-unfreedom-a-philosophical-discussion-3-21-2026"
     },
     {
       "title": "The Stand Presents: Matthew Broussard, Reggie Conquest, Stef Dag, & More!",
@@ -471,14 +215,6 @@
       "time": "9:00 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "THE INFALLIBLE JOKE FORMULA",
-      "venue": "Caveat",
-      "date": "2026-03-21T00:00:00.000Z",
-      "time": "9:30 PM",
-      "description": "The Infallible Joke Formula is 1/2 comedy show, 1/2 science experiment, 1/2 variety show.",
-      "url": "https://caveat.nyc/events/infallible-joke-formula-3-21-2026"
     },
     {
       "title": "Comedy Showcase",
@@ -1447,6 +1183,14 @@
       "time": "4:00 PM",
       "description": "A stand-up and character-driven one-woman show in which a Bronx Afro Latina revisits the people and ...",
       "url": "https://caveat.nyc/events/how-tf-did-i-get-here--the-woman-i-was-the-mom-i-became-3-28-2026"
+    },
+    {
+      "title": "NERD NITE",
+      "venue": "Caveat",
+      "date": "2026-03-28T00:00:00.000Z",
+      "time": "7:00 PM",
+      "description": "Nerd Nite NYC is back at Caveat NYC with three fun-yet-informative presentations!",
+      "url": "https://caveat.nyc/events/nerd-nite-3-28-2026"
     },
     {
       "title": "Dan Mintz",
@@ -2633,12 +2377,60 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "NICK AT NIGHT! - NICKELODEON MUSICAL TRIVIA",
-      "venue": "Caveat",
+      "title": "The Stand Presents: Marina Franklin, Derek Gaines, Onika McLean, & More!",
+      "venue": "The Stand - Main room",
+      "date": "2027-03-20T00:00:00.000Z",
+      "time": "10:00 PM",
+      "description": "The Stand Presents: Marina Franklin, Derek Gaines, Onika McLean, & More!",
+      "url": "https://thestandnyc.com//shows/show/12662/2026-03-20-220000-the-stand-presents"
+    },
+    {
+      "title": "The Stand Presents: Subhah Agarwal, Marito Lopez, Tristan Bowling, & More!",
+      "venue": "The Stand - Upstairs",
+      "date": "2027-03-20T00:00:00.000Z",
+      "time": "11:00 PM",
+      "description": "The Stand Presents: Subhah Agarwal, Marito Lopez, Tristan Bowling, & More!",
+      "url": "https://thestandnyc.com//shows/show/12663/2026-03-20-230000-the-stand-presents"
+    },
+    {
+      "title": "The Stand Presents: Andre Kim, Harry Settel, Aldo Campana, & More!",
+      "venue": "The Stand - Main room",
+      "date": "2027-03-20T00:00:00.000Z",
+      "time": "11:55 PM",
+      "description": "The Stand Presents: Andre Kim, Harry Settel, Aldo Campana, & More!",
+      "url": "https://thestandnyc.com//shows/show/12664/2026-03-20-235500-the-stand-presents"
+    },
+    {
+      "title": "The Stand Presents: Oscar Aydin, Elle Orlando, Joey Dardano, Matthew Broussard, & More!",
+      "venue": "The Stand - Upstairs",
       "date": "2027-03-20T00:00:00.000Z",
       "time": "7:00 PM",
-      "description": "Performing all the unrivaled Nickelodeon bangers and testing your knowledge with an organized trivia...",
-      "url": "https://caveat.nyc/events/nick-at-night---nickelodeon-musical-trivia-3-20-2026"
+      "description": "The Stand Presents: Oscar Aydin, Elle Orlando, Joey Dardano, Matthew Broussard, & More!",
+      "url": "https://thestandnyc.com//shows/show/12659/2026-03-20-190000-the-stand-presents"
+    },
+    {
+      "title": "Mohanad Elshieky",
+      "venue": "The Bell House",
+      "date": "2027-03-20T00:00:00.000Z",
+      "time": "7:30PM",
+      "description": null,
+      "url": "https://donyc.com/events/2026/3/20/mohanad-elshieky-tickets"
+    },
+    {
+      "title": "The Stand Presents: Matthew Broussard, Marina Franklin, Aaron Berg, & More!",
+      "venue": "The Stand - Main room",
+      "date": "2027-03-20T00:00:00.000Z",
+      "time": "8:00 PM",
+      "description": "The Stand Presents: Matthew Broussard, Marina Franklin, Aaron Berg, & More!",
+      "url": "https://thestandnyc.com//shows/show/12660/2026-03-20-200000-the-stand-presents"
+    },
+    {
+      "title": "The Stand Presents: Matthew Broussard, Andre Kim, Reggie Conquest, & More!",
+      "venue": "The Stand - Upstairs",
+      "date": "2027-03-20T00:00:00.000Z",
+      "time": "9:00 PM",
+      "description": "The Stand Presents: Matthew Broussard, Andre Kim, Reggie Conquest, & More!",
+      "url": "https://thestandnyc.com//shows/show/12661/2026-03-20-210000-the-stand-presents"
     },
     {
       "title": "LAUGHMASTERS",
@@ -2647,9 +2439,41 @@
       "time": "9:30 PM",
       "description": "The Most Serious Comedy Competition. Comedians demonstrate their ability to be comical in any situat...",
       "url": "https://caveat.nyc/events/laughmasters-3-20-2026"
+    },
+    {
+      "title": "GET WORK: COMEDIANS INTERVIEW FOR REAL JOBS (USING FAKE RESUMES)",
+      "venue": "Caveat",
+      "date": "2027-03-21T00:00:00.000Z",
+      "time": "1:30 PM",
+      "description": "Comedians interview for real jobs using fake resumes.",
+      "url": "https://caveat.nyc/events/get-work-comedians-interview-for-real-jobs-using-fake-resumes-3-21-2026"
+    },
+    {
+      "title": "READ TO FILTH",
+      "venue": "Caveat",
+      "date": "2027-03-21T00:00:00.000Z",
+      "time": "4:00 PM",
+      "description": "A Comedy Book Club and Panel Show",
+      "url": "https://caveat.nyc/events/read-to-filth-3-21-2026"
+    },
+    {
+      "title": "LECTURES ON TAP - \"THE SEDUCTION OF UNFREEDOM: A PHILOSOPHICAL DISCUSSION\"",
+      "venue": "Caveat",
+      "date": "2027-03-21T00:00:00.000Z",
+      "time": "7:00 PM",
+      "description": "Professors, experts, and storytellers giving thought-provoking lectures in NYC bars.",
+      "url": "https://caveat.nyc/events/lectures-on-tap---the-seduction-of-unfreedom-a-philosophical-discussion-3-21-2026"
+    },
+    {
+      "title": "THE INFALLIBLE JOKE FORMULA",
+      "venue": "Caveat",
+      "date": "2027-03-21T00:00:00.000Z",
+      "time": "9:30 PM",
+      "description": "The Infallible Joke Formula is 1/2 comedy show, 1/2 science experiment, 1/2 variety show.",
+      "url": "https://caveat.nyc/events/infallible-joke-formula-3-21-2026"
     }
   ],
-  "lastUpdated": "2026-03-20T22:59:09.194027Z",
+  "lastUpdated": "2026-03-21T00:46:16.305863Z",
   "sources": [
     "DoNYC",
     "Caveat",
@@ -2659,5 +2483,5 @@
     "UCB Theatre",
     "The Bell House"
   ],
-  "totalShows": 331
+  "totalShows": 309
 }

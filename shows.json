@@ -1,46 +1,6 @@
 {
   "shows": [
     {
-      "title": "Improvised Jane Austen",
-      "venue": "iO Theater",
-      "date": "",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/weeklies/2026/03/21"
-    },
-    {
-      "title": "Main Character Syndrome: A Solo Character Showcase",
-      "venue": "iO Theater",
-      "date": "",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/weeklies/2026/03/22"
-    },
-    {
-      "title": "Loose Four - A Stand-up Open Mic",
-      "venue": "iO Theater",
-      "date": "",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/weeklies/2026/03/25"
-    },
-    {
-      "title": "Annoyance Theatre Drag Race Viewing Party",
-      "venue": "Annoyance Theatre",
-      "date": "",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/weeklies/2026/03/20"
-    },
-    {
-      "title": "Late Night at The Lodge",
-      "venue": "The Lincoln Lodge",
-      "date": "",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/weeklies/2026/03/26"
-    },
-    {
       "venue": "Laugh Factory",
       "title": "Laugh your ass off at Laugh factory",
       "date": "2025-05-01T00:00:00Z",
@@ -57,172 +17,36 @@
       "url": "https://do312.com/events/2026/3/19/cactus-tate-tickets"
     },
     {
-      "venue": "The Second City",
       "title": "The Second City Mainstage 114th Revue",
+      "venue": "The Second City",
       "date": "2026-03-20T00:00:00Z",
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/3/20/the-second-city-mainstage-114th-revue-tickets"
     },
     {
-      "venue": "Chicago Improv Comedy Club",
-      "title": "Carlos Mencia",
-      "date": "2026-03-20T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/20/carlos-mencia-tickets"
-    },
-    {
-      "venue": "Annoyance Theatre",
-      "title": "Missed Call",
-      "date": "2026-03-20T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/20/missed-call-tickets"
-    },
-    {
-      "venue": "Annoyance Theatre",
-      "title": "Anti-Virgin Club",
-      "date": "2026-03-20T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/20/anti-virgin-club-tickets"
-    },
-    {
-      "venue": "Zanies Comedy Club",
-      "title": "Dedrick Flynn *Special Event*",
-      "date": "2026-03-20T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/20/dedrick-flynn-special-event-tickets"
-    },
-    {
-      "venue": "Annoyance Theatre",
-      "title": "Beverly: A Bevy Show",
-      "date": "2026-03-20T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/20/beverly-a-bevy-show-tickets"
-    },
-    {
-      "venue": "Annoyance Theatre",
-      "title": "Hitch*Cocktails",
-      "date": "2026-03-20T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/20/hitch-cocktails-tickets"
-    },
-    {
-      "venue": "Annoyance Theatre",
-      "title": "Holy Fuck Comedy Hour",
-      "date": "2026-03-20T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/20/holy-fuck-comedy-hour-tickets"
-    },
-    {
-      "venue": "North Shore Center for the Performing Arts",
-      "title": "Craig Ferguson – Pants On Fire",
-      "date": "2026-03-20T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/20/craig-ferguson-pants-on-fire-tickets"
-    },
-    {
-      "venue": "Zanies Comedy Club",
-      "title": "Dale Jones",
-      "date": "2026-03-20T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/20/2026-dale-jones-tickets"
-    },
-    {
-      "venue": "Laugh Factory",
-      "title": "Just For Laughs Auditions at Laugh Factory Chicago",
-      "date": "2026-03-20T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/20/just-for-laughs-auditions-at-laugh-factory-chicago-tickets"
-    },
-    {
-      "venue": "Laugh Factory",
-      "title": "Friday Night Stand Up Comedy at Laugh Factory Chicago",
-      "date": "2026-03-20T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/20/friday-night-stand-up-comedy-at-laugh-factory-chicago-tickets"
-    },
-    {
-      "venue": "iO Theater",
-      "title": "Bren Tran – Stand Up Comedy Show in Chicago | Live at iO Theater",
-      "date": "2026-03-20T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/20/bren-tran-consider-my-heart-stopped-a-stand-up-comedy-solo-show-tickets"
-    },
-    {
-      "venue": "iO Theater",
       "title": "ComedySportz",
+      "venue": "iO Theater",
       "date": "2026-03-20T00:00:00Z",
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/3/20/comedysportz-tickets"
     },
     {
-      "venue": "iO Theater",
       "title": "Improvised Shakespeare Chicago",
+      "venue": "iO Theater",
       "date": "2026-03-20T00:00:00Z",
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/3/20/improvised-shakespeare-chicago-tickets"
     },
     {
-      "venue": "The Den Theatre",
-      "title": "Fully Committed",
-      "date": "2026-03-20T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/20/fully-committed-tickets"
-    },
-    {
-      "venue": "RED ROOM Comedy Club",
-      "title": "Claire Sundbye",
-      "date": "2026-03-20T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/20/claire-sundbye-tickets"
-    },
-    {
-      "venue": "The Den Theatre",
-      "title": "The Posthumous Trial of Giulia Tofana",
-      "date": "2026-03-20T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/20/the-posthumous-trial-of-giulia-tofana-tickets"
-    },
-    {
+      "title": "Bren Tran – Stand Up Comedy Show in Chicago | Live at iO Theater",
       "venue": "iO Theater",
-      "title": "Kohl's Cash: TGIF (That's Good Improv Fridays)",
       "date": "2026-03-20T00:00:00Z",
       "time": "",
       "description": "",
-      "url": "https://do312.com/events/2026/3/20/kohl-s-cash-tgif-that-s-good-improv-fridays-tickets"
-    },
-    {
-      "venue": "The Den Theatre",
-      "title": "Dan Mintz",
-      "date": "2026-03-20T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/20/dan-mintz-tickets"
-    },
-    {
-      "venue": "UP Comedy Club",
-      "title": "Black and Highly Flavored: A Black Excellence Comedy Revue",
-      "date": "2026-03-20T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/20/black-and-highly-flavored-a-black-excellence-comedy-revue-tickets"
+      "url": "https://do312.com/events/2026/3/20/bren-tran-consider-my-heart-stopped-a-stand-up-comedy-solo-show-tickets"
     },
     {
       "title": "Honk!",
@@ -239,6 +63,70 @@
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/3/20/secret-sketch-show-tickets"
+    },
+    {
+      "title": "Kohl's Cash: TGIF (That's Good Improv Fridays)",
+      "venue": "iO Theater",
+      "date": "2026-03-20T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/3/20/kohl-s-cash-tgif-that-s-good-improv-fridays-tickets"
+    },
+    {
+      "title": "Missed Call",
+      "venue": "Annoyance Theatre",
+      "date": "2026-03-20T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/3/20/missed-call-tickets"
+    },
+    {
+      "title": "Beverly: A Bevy Show",
+      "venue": "Annoyance Theatre",
+      "date": "2026-03-20T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/3/20/beverly-a-bevy-show-tickets"
+    },
+    {
+      "title": "Anti-Virgin Club",
+      "venue": "Annoyance Theatre",
+      "date": "2026-03-20T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/3/20/anti-virgin-club-tickets"
+    },
+    {
+      "title": "Hitch*Cocktails",
+      "venue": "Annoyance Theatre",
+      "date": "2026-03-20T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/3/20/hitch-cocktails-tickets"
+    },
+    {
+      "title": "Holy Fuck Comedy Hour",
+      "venue": "Annoyance Theatre",
+      "date": "2026-03-20T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/3/20/holy-fuck-comedy-hour-tickets"
+    },
+    {
+      "title": "Just For Laughs Auditions at Laugh Factory Chicago",
+      "venue": "Laugh Factory",
+      "date": "2026-03-20T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/3/20/just-for-laughs-auditions-at-laugh-factory-chicago-tickets"
+    },
+    {
+      "title": "Friday Night Stand Up Comedy at Laugh Factory Chicago",
+      "venue": "Laugh Factory",
+      "date": "2026-03-20T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/3/20/friday-night-stand-up-comedy-at-laugh-factory-chicago-tickets"
     },
     {
       "title": "Buena Onda Comedy",
@@ -295,6 +183,30 @@
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/3/20/laughter-hours-late-night-jazzy-themed-comedy-show-tickets"
+    },
+    {
+      "title": "Dan Mintz",
+      "venue": "The Den Theatre",
+      "date": "2026-03-20T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/3/20/dan-mintz-tickets"
+    },
+    {
+      "title": "Fully Committed",
+      "venue": "The Den Theatre",
+      "date": "2026-03-20T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/3/20/fully-committed-tickets"
+    },
+    {
+      "title": "The Posthumous Trial of Giulia Tofana",
+      "venue": "The Den Theatre",
+      "date": "2026-03-20T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/3/20/the-posthumous-trial-of-giulia-tofana-tickets"
     },
     {
       "venue": "Annoyance Theatre",
@@ -3217,6 +3129,14 @@
       "url": "https://do312.com/events/2026/4/10/secret-sketch-show-tickets"
     },
     {
+      "venue": "iO Theater",
+      "title": "Wine Down",
+      "date": "2026-04-10T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/4/10/wine-down-tickets"
+    },
+    {
       "venue": "The Lincoln Lodge",
       "title": "Lip Service: A Fem Com Alumni Showcase",
       "date": "2026-04-10T00:00:00Z",
@@ -3263,14 +3183,6 @@
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/4/10/blackout-diaries-tickets"
-    },
-    {
-      "venue": "The Lincoln Lodge",
-      "title": "Laughter Hours: Late Night Jazzy-Themed Comedy Show",
-      "date": "2026-04-10T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/10/laughter-hours-late-night-jazzy-themed-comedy-show-tickets"
     },
     {
       "venue": "Annoyance Theatre",
@@ -4769,6 +4681,110 @@
       "url": "https://do312.com/events/2026/4/24/joke-swap-tickets"
     },
     {
+      "venue": "Zanies Comedy Club",
+      "title": "Ehsan Ahmad – Special Event",
+      "date": "2026-04-24T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/4/24/ehsan-ahmad-special-event-tickets"
+    },
+    {
+      "venue": "Annoyance Theatre",
+      "title": "Blue Velvet Lounge",
+      "date": "2026-04-24T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/4/24/blue-velvet-lounge-tickets"
+    },
+    {
+      "venue": "Annoyance Theatre",
+      "title": "Baby Wine",
+      "date": "2026-04-24T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/4/24/baby-wine-tickets"
+    },
+    {
+      "venue": "Laugh Factory",
+      "title": "Friday Night Stand Up Comedy at Laugh Factory Chicago",
+      "date": "2026-04-24T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/4/24/friday-night-stand-up-comedy-at-laugh-factory-chicago-tickets"
+    },
+    {
+      "venue": "The Den Theatre",
+      "title": "Pu**y Peach",
+      "date": "2026-04-24T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/4/24/pu-y-peach-tickets"
+    },
+    {
+      "venue": "The Den Theatre",
+      "title": "Static-Head",
+      "date": "2026-04-24T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/4/24/static-head-tickets"
+    },
+    {
+      "venue": "iO Theater",
+      "title": "Secret Sketch Show",
+      "date": "2026-04-24T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/4/24/secret-sketch-show-tickets"
+    },
+    {
+      "venue": "The Lincoln Lodge",
+      "title": "Good: A Standup Comedy Showcase",
+      "date": "2026-04-24T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/4/24/good-a-standup-comedy-showcase-tickets"
+    },
+    {
+      "venue": "The Lincoln Lodge",
+      "title": "I Said What I Said: A Reality TV-Themed Comedy Show",
+      "date": "2026-04-24T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/4/24/i-said-what-i-said-a-reality-tv-themed-comedy-show-tickets"
+    },
+    {
+      "venue": "The Lincoln Lodge",
+      "title": "The Regulars",
+      "date": "2026-04-24T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/4/24/the-regulars-tickets"
+    },
+    {
+      "venue": "The Lincoln Lodge",
+      "title": "Andrew Packer: Live",
+      "date": "2026-04-24T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/4/24/andrew-packer-live-at-the-lincoln-lodge-tickets"
+    },
+    {
+      "venue": "The Lincoln Lodge",
+      "title": "Laughter Hours: Late Night Jazzy-Themed Comedy Show",
+      "date": "2026-04-24T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/4/24/laughter-hours-late-night-jazzy-themed-comedy-show-tickets"
+    },
+    {
+      "venue": "The Den Theatre",
+      "title": "Michael Longfellow",
+      "date": "2026-04-25T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/4/25/michael-longfellow-tickets"
+    },
+    {
       "venue": "Wintrust Arena",
       "title": "We Them One's Comedy Tour",
       "date": "2026-04-25T00:00:00Z",
@@ -4807,14 +4823,6 @@
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/4/25/saturday-night-stand-up-comedy-at-laugh-factory-chicago-tickets"
-    },
-    {
-      "venue": "The Den Theatre",
-      "title": "Michael Longfellow",
-      "date": "2026-04-25T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/25/michael-longfellow-tickets"
     },
     {
       "venue": "iO Theater",
@@ -6961,6 +6969,30 @@
       "url": "https://do312.com/events/2026/5/22/joke-swap-tickets"
     },
     {
+      "venue": "The Den Theatre",
+      "title": "David Koechner",
+      "date": "2026-05-22T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/5/22/david-koechner-tickets"
+    },
+    {
+      "venue": "iO Theater",
+      "title": "ComedySportz",
+      "date": "2026-05-22T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/5/22/comedysportz-tickets"
+    },
+    {
+      "venue": "The Lincoln Lodge",
+      "title": "Laughter Hours: Late Night Jazzy-Themed Comedy Show",
+      "date": "2026-05-22T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/5/22/laughter-hours-late-night-jazzy-themed-comedy-show-tickets"
+    },
+    {
       "title": "No Grown-Ups Allowed",
       "venue": "The Second City",
       "date": "2026-06-06T00:00:00Z",
@@ -7001,8 +7033,8 @@
       "url": "https://do312.com/events/2026/11/28/rudolph-runs-wild-tickets"
     }
   ],
-  "lastUpdated": "2026-03-20T22:57:52.114482Z",
-  "totalShows": 875,
+  "lastUpdated": "2026-03-21T00:45:00.498704Z",
+  "totalShows": 879,
   "sources": [
     "Do312 Comedy Category",
     "Do312 Venue Pages"
