@@ -99,6 +99,10 @@ function normalizeVenueName(venueName) {
     if (venueName.includes('Comedy Cellar')) {
         return 'Comedy Cellar';
     }
+    // The Stand rooms → The Stand
+    if (venueName.includes('The Stand')) {
+        return 'The Stand';
+    }
     return venueName;
 }
 
@@ -347,8 +351,8 @@ function filterAndDisplayShows() {
             // Show only non-preferred venues
             filteredShows = filteredShows.filter(show => !isPreferredVenue(show.venue));
         } else {
-            // Show only the selected preferred venue
-            filteredShows = filteredShows.filter(show => show.venue === currentFilter);
+            // Show only the selected preferred venue (use normalized name)
+            filteredShows = filteredShows.filter(show => normalizeVenueName(show.venue) === currentFilter);
         }
     }
 
