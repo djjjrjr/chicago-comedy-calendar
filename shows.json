@@ -817,14 +817,6 @@
       "url": "https://do312.com/events/2026/3/24/best-night-ever-tickets"
     },
     {
-      "venue": "iO Theater",
-      "title": "The FREE WEDNESDAY SHOW feat Dumb John and Birdlady",
-      "date": "2026-03-25T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/25/the-free-wednesday-show-feat-dumb-john-and-birdlady-tickets"
-    },
-    {
       "venue": "Easy Bar",
       "title": "Comedy Open Mic with Easy Laughs",
       "date": "2026-03-25T00:00:00Z",
@@ -863,6 +855,14 @@
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/3/25/2026-best-of-chicago-tickets"
+    },
+    {
+      "venue": "iO Theater",
+      "title": "The FREE WEDNESDAY SHOW feat Dumb John and Birdlady",
+      "date": "2026-03-25T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/3/25/the-free-wednesday-show-feat-dumb-john-and-birdlady-tickets"
     },
     {
       "venue": "iO Theater",
@@ -905,30 +905,6 @@
       "url": "https://do312.com/events/2026/3/25/crowd-work-wednesday-tickets"
     },
     {
-      "venue": "The Lincoln Lodge",
-      "title": "Comedy Royalty: A Chicago Comedy Showcase",
-      "date": "2026-03-25T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/25/comedy-royalty-a-chicago-comedy-showcase-tickets"
-    },
-    {
-      "venue": "Judy's Beat Lounge",
-      "title": "Lowkey Lit",
-      "date": "2026-03-25T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/25/lowkey-lit-tickets"
-    },
-    {
-      "venue": "The Lincoln Lodge",
-      "title": "Standup Seminary Punch Up Grad Show",
-      "date": "2026-03-25T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/3/25/standup-seminary-punch-up-grad-show-tickets"
-    },
-    {
       "venue": "Annoyance Theatre",
       "title": "Uninvited",
       "date": "2026-03-25T00:00:00Z",
@@ -959,6 +935,30 @@
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/3/25/wednesday-night-stand-up-comedy-at-laugh-factory-chicago-tickets"
+    },
+    {
+      "venue": "The Lincoln Lodge",
+      "title": "Comedy Royalty: A Chicago Comedy Showcase",
+      "date": "2026-03-25T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/3/25/comedy-royalty-a-chicago-comedy-showcase-tickets"
+    },
+    {
+      "venue": "The Lincoln Lodge",
+      "title": "Standup Seminary Punch Up Grad Show",
+      "date": "2026-03-25T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/3/25/standup-seminary-punch-up-grad-show-tickets"
+    },
+    {
+      "venue": "Judy's Beat Lounge",
+      "title": "Lowkey Lit",
+      "date": "2026-03-25T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/3/25/lowkey-lit-tickets"
     },
     {
       "venue": "Comedy Plex Comedy Club",
@@ -3097,6 +3097,14 @@
       "url": "https://do312.com/events/2026/4/10/the-official-biography-tickets"
     },
     {
+      "venue": "iO Theater",
+      "title": "Wine Down",
+      "date": "2026-04-10T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/4/10/wine-down-tickets"
+    },
+    {
       "venue": "The Comedy Bar",
       "title": "Danny Polishchuk",
       "date": "2026-04-10T00:00:00Z",
@@ -3127,14 +3135,6 @@
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/4/10/secret-sketch-show-tickets"
-    },
-    {
-      "venue": "iO Theater",
-      "title": "Wine Down",
-      "date": "2026-04-10T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/10/wine-down-tickets"
     },
     {
       "venue": "The Lincoln Lodge",
@@ -7033,7 +7033,7 @@
       "url": "https://do312.com/events/2026/11/28/rudolph-runs-wild-tickets"
     }
   ],
-  "lastUpdated": "2026-03-21T00:45:00.498704Z",
+  "lastUpdated": "2026-03-21T07:01:08.244928Z",
   "totalShows": 879,
   "sources": [
     "Do312 Comedy Category",
