@@ -1,206 +1,6 @@
 {
   "shows": [
     {
-      "title": "Megan Stalter and Friends",
-      "venue": "Largo at the Coronet",
-      "date": "2026-03-25T00:00:00",
-      "time": "8:00 PM",
-      "description": "$40.00",
-      "url": "https://wl.seetickets.us/event/megan-stalter-and-friends/683108?afflky=LargoAtTheCoronet"
-    },
-    {
-      "title": "Sing Out, Louise! ft. Starlight & Royalty Free",
-      "venue": "UCB FRANKLIN",
-      "date": "2026-03-25T00:00:00Z",
-      "time": "10:00 PM",
-      "description": "Wednesday, March 25, 2026 @ 10:00 PMLA - FRANKLINSing Out, Louise! ft. Starlight & Royalty FreeThe Next Generation of Musical Improv. Sing Out, Louise! is a late-night musical improv show featuring the next generation of performers shaping the future of the form. Every 2nd and 4th Wednesday at 10pm, 6 show-stopping teams deliver completely improvised…Buy Now",
-      "url": "https://ucbcomedy.com/show/sing-out-louise-ft-starlight-royalty-free/"
-    },
-    {
-      "title": "Set of the Night",
-      "venue": "The Comedy Store - Belly Room",
-      "date": "2026-03-25T00:00:00Z",
-      "time": "10:00 PM",
-      "description": "Comedy showcase",
-      "url": "https://thecomedystore.com/calendar/show/2262/2026-03-25t220000-0700-set-of-the-night"
-    },
-    {
-      "venue": "The Comedy Store",
-      "title": "Set of the Night",
-      "date": "2026-03-25T00:00:00Z",
-      "time": "10:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/3/25/set-of-the-night-tickets"
-    },
-    {
-      "title": "Late Night at The Store",
-      "venue": "The Comedy Store",
-      "date": "2026-03-25T00:00:00Z",
-      "time": "11:30 PM",
-      "description": "Comedy showcase",
-      "url": "https://thecomedystore.com/calendar/show/2103/2026-03-25t233000-0700-late-night-legends"
-    },
-    {
-      "venue": "The Comedy Store",
-      "title": "Late Night Legends",
-      "date": "2026-03-25T00:00:00Z",
-      "time": "11:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/3/25/late-night-legends-tickets"
-    },
-    {
-      "venue": "Hollywood Improv",
-      "title": "Lab Work!",
-      "date": "2026-03-25T00:00:00Z",
-      "time": "6:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/3/25/lab-work-tickets"
-    },
-    {
-      "title": "Abso Lutely x UCB Present: Marguerite starring Maggie Winters | Full Comedy Special",
-      "venue": "UCB FRANKLIN",
-      "date": "2026-03-25T00:00:00Z",
-      "time": "7:00 PM",
-      "description": "LivestreamAbso Lutely x UCB Present: Marguerite starring Maggie Winters | Full Comedy SpecialDirected by her Southside-Irish blood relatives, Bart and Liam Winters, Maggie Winters' debut solo show Marguerite will explore her life, her laugh and her love! Throughout this hour-long journey, Maggie will tackle difficult subjects like depression and body image, while…Buy Now",
-      "url": "https://ucbcomedy.com/show/abso-lutely-x-ucb-present-marguerite-starring-maggie-winters-full-comedy-special/"
-    },
-    {
-      "title": "DOUBLE FEATURE: Devin & Diston + Cook County Social Club",
-      "venue": "UCB FRANKLIN",
-      "date": "2026-03-25T00:00:00Z",
-      "time": "7:00 PM",
-      "description": "Wednesday, March 25, 2026 @ 7:00 PMLA - FRANKLINLivestreamDOUBLE FEATURE: Devin & Diston + Cook County Social ClubTwo-person improv from your favorite comedians & big laughs from the Midwest's best! DEVIN & DISTON: Join Shaun Diston (Twisted Metal) and Devin Field (Jimmy Kimmel Live!) as they show you why TWO IS THE MAGIC NUMBER! & COOK COUNTY…Buy Now",
-      "url": "https://ucbcomedy.com/show/double-feature-devin-diston-cook-county-social-club-live-and-livestreamed-3/"
-    },
-    {
-      "venue": "Harvelle's",
-      "title": "Nick Swardson and more!",
-      "date": "2026-03-25T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/3/25/nick-swardson-and-more-tickets"
-    },
-    {
-      "venue": "Jam in the Van Comedy Shows",
-      "title": "JAM Comedy Presents: Andrew Santino, Iliza Shlesinger, & more!",
-      "date": "2026-03-25T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/3/25/jam-comedy-presents-andrew-santino-iliza-shlesinger-more-tickets"
-    },
-    {
-      "venue": "The Laugh Factory",
-      "title": "Hollywood All-Stars",
-      "date": "2026-03-25T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/3/25/hollywood-all-stars-tickets"
-    },
-    {
-      "venue": "Dynasty Typewriter",
-      "title": "Joanne McNally: Pinotphile",
-      "date": "2026-03-25T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/3/25/joanne-mcnally-pinotphile-tickets"
-    },
-    {
-      "title": "Tippy Top Tier Comedy",
-      "venue": "The Comedy Store - Main Room",
-      "date": "2026-03-25T00:00:00Z",
-      "time": "8:00 PM",
-      "description": "Lineup: Jay Leno, Howie Mandel, Iliza Shlesinger, Al Madrigal, Annie Lederman, Jay Leno, Howie Mandel, Iliza Shlesinger, Al Madrigal, Annie Lederman",
-      "url": "https://thecomedystore.com/calendar/show/2772/2026-03-25t200000-0700-tippy-top-tier-comedy"
-    },
-    {
-      "title": "Bassem & Friends hosted by Paul Elia",
-      "venue": "The Comedy Store",
-      "date": "2026-03-25T00:00:00Z",
-      "time": "8:00 PM",
-      "description": "SOLD OUT - Lineup: Paul Elia, Paul Elia",
-      "url": "https://thecomedystore.com/calendar/show/2529/2026-03-25t200000-0700-bassem-friends-hosted-by-paul-elia"
-    },
-    {
-      "venue": "The Comedy Store",
-      "title": "Jay Leno, Nikki Glaser, Iliza, Annie Lederman and more!",
-      "date": "2026-03-25T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/3/25/jay-leno-nikki-glaser-iliza-annie-lederman-and-more-tickets"
-    },
-    {
-      "venue": "Largo",
-      "title": "Megan Stalter and Friends",
-      "date": "2026-03-25T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/3/25/megan-stalter-and-friends-tickets"
-    },
-    {
-      "venue": "The Upstairs LA",
-      "title": "Mark Hayes And Friends",
-      "date": "2026-03-25T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/3/25/mark-hayes-and-friends-tickets"
-    },
-    {
-      "venue": "Baby Battista @ Nico's",
-      "title": "Bead-a-long with Okay Gems! Bead your own jewelry",
-      "date": "2026-03-25T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/3/25/bead-a-long-with-okay-gems-bead-your-own-jewelry-tickets"
-    },
-    {
-      "title": "Strawberry Jam, hosted by “Ladies Night”",
-      "venue": "UCB FRANKLIN",
-      "date": "2026-03-25T00:00:00Z",
-      "time": "8:30 PM",
-      "description": "Wednesday, March 25, 2026 @ 8:30 PMLA - ANNEXStrawberry Jam, hosted by “Ladies Night”An inclusive and FREE jam with a guest standup monologist for womxn, trans, non-binary, and lgbtqia+ performers in our community! Strawberry Jam is open to UCB students, performers, and fans who identify as womxn, trans, non-binary, and lgbtqia+! All you…Read more",
-      "url": "https://ucbcomedy.com/show/strawberry-jam-hosted-by-ladies-night-20/"
-    },
-    {
-      "title": "Maude Night: The Family Business",
-      "venue": "UCB FRANKLIN",
-      "date": "2026-03-25T00:00:00Z",
-      "time": "8:30 PM",
-      "description": "Wednesday, March 25, 2026 @ 8:30 PMLA - FRANKLINMaude Night: The Family BusinessMaude Night boasts brand new material by UCB’s house sketch teams every month. Come see top-notch sketch comedy featuring two teams of UCB’s finest writers and performers. ----- Featuring: The Family Business --- Complete List of Maude Teams THE FAMILY…Buy Now",
-      "url": "https://ucbcomedy.com/show/maude-night-the-family-business-5/"
-    },
-    {
-      "venue": "Bar Lubitsch",
-      "title": "Totally! Standup Comedy",
-      "date": "2026-03-25T00:00:00Z",
-      "time": "8:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/3/25/totally-standup-comedy-1771363299"
-    },
-    {
-      "venue": "The Elysian Theater",
-      "title": "STANDOUTS: your favorite comedians doing standup",
-      "date": "2026-03-25T00:00:00Z",
-      "time": "8:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/3/25/standouts-your-favorite-comedians-doing-standup-tickets"
-    },
-    {
-      "title": "Headliners of the OR",
-      "venue": "The Comedy Store - Original Room",
-      "date": "2026-03-25T00:00:00Z",
-      "time": "9:00 PM",
-      "description": "Lineup: Chris Estrada, Frankie Quiñones, Asif Ali, Harland Williams, Amy Miller, Chris Estrada, Frankie Quiñones, Asif Ali, Harland Williams, Amy Miller",
-      "url": "https://thecomedystore.com/calendar/show/2150/2026-03-25t210000-0700-headliners-of-the-or"
-    },
-    {
-      "venue": "The Comedy Store",
-      "title": "Headliners of the OR",
-      "date": "2026-03-25T00:00:00Z",
-      "time": "9:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/3/25/headliners-of-the-or-tickets"
-    },
-    {
       "title": "Dinosaur Improv w/ Paul Scheer",
       "venue": "Largo at the Coronet",
       "date": "2026-03-26T00:00:00",
@@ -249,12 +49,28 @@
       "url": "https://dolosangeles.com/events/2026/3/26/late-night-legends-tickets"
     },
     {
+      "title": "Abso Lutely x UCB Present: Marguerite starring Maggie Winters | Full Comedy Special",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-03-26T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "LivestreamAbso Lutely x UCB Present: Marguerite starring Maggie Winters | Full Comedy SpecialDirected by her Southside-Irish blood relatives, Bart and Liam Winters, Maggie Winters' debut solo show Marguerite will explore her life, her laugh and her love! Throughout this hour-long journey, Maggie will tackle difficult subjects like depression and body image, while…Buy Now",
+      "url": "https://ucbcomedy.com/show/abso-lutely-x-ucb-present-marguerite-starring-maggie-winters-full-comedy-special/"
+    },
+    {
       "title": "Yeti 4 Real",
       "venue": "UCB FRANKLIN",
       "date": "2026-03-26T00:00:00Z",
       "time": "7:00 PM",
       "description": "Thursday, March 26, 2026 @ 7:00 PMLA - FRANKLINYeti 4 RealThe internet and improv's fan favorites. Yeti is an improv team but also a group of biological siblings. Get ready for an hour of laughter with one of LA’s premier improv teams. Yeti4Real is an evening of unparalleled wit, fun,…Read more",
       "url": "https://ucbcomedy.com/show/yeti-4-real-18/"
+    },
+    {
+      "venue": "Dynasty Typewriter",
+      "title": "Lovett Or Leave It: Live in LA",
+      "date": "2026-03-26T00:00:00Z",
+      "time": "7:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/3/26/lovett-or-leave-it-live-in-la-tickets"
     },
     {
       "venue": "Baby Battista @ Nico's",
@@ -281,6 +97,14 @@
       "url": "https://dolosangeles.com/events/2026/3/26/hollywood-all-stars-tickets"
     },
     {
+      "venue": "The Comedy Chateau",
+      "title": "Chateau Thursdays @ The Comedy Chateau (Free Tickets!)",
+      "date": "2026-03-26T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/3/26/chateau-thursdays-the-comedy-chateau-free-tickets-tickets"
+    },
+    {
       "title": "The Comedy Store Presents...",
       "venue": "The Comedy Store - Main Room",
       "date": "2026-03-26T00:00:00Z",
@@ -305,8 +129,16 @@
       "url": "https://dolosangeles.com/events/2026/3/26/dinosaur-improv-w-paul-scheer-tickets"
     },
     {
+      "venue": "The Nitecap",
+      "title": "Nitecap Comedy Takeover - Torrance",
+      "date": "2026-03-26T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/3/26/nitecap-comedy-takeover-torrance-tickets"
+    },
+    {
       "venue": "The Upstairs LA",
-      "title": "The Upstairs Comedy Showcase",
+      "title": "Eric Andre, Vinny Fasline, Lou Lou Gonzalez and more!!!",
       "date": "2026-03-26T00:00:00Z",
       "time": "8:00PM",
       "description": "",
@@ -317,7 +149,7 @@
       "venue": "UCB FRANKLIN",
       "date": "2026-03-26T00:00:00Z",
       "time": "8:30 PM",
-      "description": "Thursday, March 26, 2026 @ 8:30 PMLA - FRANKLINLivestreamFuck This MonthImprov comedy based on your shitty month! Cast: Tommy Bowe, Betsy Sodaro, Bente Engelstoft, Suzi Barrett, Eli Gonzalez, Lauren Knutti, Jeff Whitaker  Let’s face it; this month was trash. We’re here to help! Come to the Upright Citizens Brigade Theatre…Buy Now",
+      "description": "Thursday, March 26, 2026 @ 8:30 PMLA - FRANKLINLivestreamFuck This MonthImprov comedy based on your shitty month! Cast: Tommy Bowe, Betsy Sodaro, Bente Engelstoft, Suzi Barrett, Eli Gonzalez, Lauren Knutti, Zeke Nicholson, Jeff Whitaker  Let’s face it; this month was trash. We’re here to help! Come to the Upright Citizens…Buy Now",
       "url": "https://ucbcomedy.com/show/fuck-this-month-live-and-livestreamed-17/"
     },
     {
@@ -327,6 +159,14 @@
       "time": "8:30PM",
       "description": "",
       "url": "https://dolosangeles.com/events/2026/3/26/fuck-this-month-improv-comedy-tickets"
+    },
+    {
+      "venue": "The Elysian Theater",
+      "title": "BESITOS w/ Kat Toledo",
+      "date": "2026-03-26T00:00:00Z",
+      "time": "8:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/3/26/besitos-w-kat-toledo-tickets"
     },
     {
       "title": "The Originals",
@@ -345,6 +185,30 @@
       "url": "https://dolosangeles.com/events/2026/3/26/the-originals-tickets"
     },
     {
+      "venue": "Baby Battista @ Nico's",
+      "title": "Two Strong Jocks with Zoe Zakson & Jack Pineda | Comedy @ nico's",
+      "date": "2026-03-26T00:00:00Z",
+      "time": "9:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/3/26/two-strong-jocks-with-zoe-zakson-jack-pineda-comedy-nico-s-tickets"
+    },
+    {
+      "venue": "Fat Sal's",
+      "title": "Keveloh and Associates @ Club Fat Sal's in Hollywood.",
+      "date": "2026-03-26T07:26:19.103809Z",
+      "time": "8:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/weeklies/2026/03/26"
+    },
+    {
+      "venue": "Santa Monica Playhouse",
+      "title": "Drunk Theatre LA",
+      "date": "2026-03-26T07:26:27.265758Z",
+      "time": "9:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/weeklies/2026/03/27"
+    },
+    {
       "title": "Kate Berlant: Live!",
       "venue": "Largo at the Coronet",
       "date": "2026-03-27T00:00:00",
@@ -361,12 +225,28 @@
       "url": "https://ucbcomedy.com/show/harold-after-dark-3/"
     },
     {
+      "title": "Fiona Cauley",
+      "venue": "The Comedy Store",
+      "date": "2026-03-27T00:00:00Z",
+      "time": "10:00 PM",
+      "description": "Comedy showcase",
+      "url": "https://thecomedystore.com/calendar/show/3018/2026-03-27t220000-0700-fiona-cauley"
+    },
+    {
       "title": "Late Night at The Store",
       "venue": "The Comedy Store",
       "date": "2026-03-27T00:00:00Z",
       "time": "11:59 PM",
       "description": "Comedy showcase",
       "url": "https://thecomedystore.com/calendar/show/2056/2026-03-27t235900-0700-late-night-legends"
+    },
+    {
+      "venue": "The Comedy Store",
+      "title": "Late Night Legends",
+      "date": "2026-03-27T00:00:00Z",
+      "time": "11:59PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/3/27/late-night-legends-tickets"
     },
     {
       "title": "Musical Improv Jam",
@@ -389,7 +269,7 @@
       "venue": "The Comedy Store - Original Room",
       "date": "2026-03-27T00:00:00Z",
       "time": "7:00 PM",
-      "description": "Lineup: Finesse Mitchell, Kirk Fox, Jessica Michelle Singleton, Mark Ellis, Shawn Pelofsky, Finesse Mitchell, Kirk Fox, Jessica Michelle Singleton, Mark Ellis, Shawn Pelofsky",
+      "description": "Lineup: Kirk Fox, Jessica Michelle Singleton, Mark Ellis, Shawn Pelofsky, Kevin Christy, Kirk Fox, Jessica Michelle Singleton, Mark Ellis, Shawn Pelofsky, Kevin Christy",
       "url": "https://thecomedystore.com/calendar/show/3013/2026-03-27t190000-0700-headliners-of-the-or"
     },
     {
@@ -409,12 +289,84 @@
       "url": "https://thecomedystore.com/calendar/show/2200/2026-03-27t193000-0700-best-of-the-store-xl"
     },
     {
+      "venue": "The Comedy Store",
+      "title": "Best of the Store XL",
+      "date": "2026-03-27T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/3/27/best-of-the-store-xl-tickets"
+    },
+    {
+      "venue": "The Laugh Factory",
+      "title": "Hollywood All-stars",
+      "date": "2026-03-27T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/3/27/hollywood-all-stars-tickets"
+    },
+    {
+      "venue": "Hollywood Improv",
+      "title": "Tonight at The Improv Ft. Anthony Jeselnik,  and Very Special Guests",
+      "date": "2026-03-27T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/3/27/tonight-at-the-improv-ft-anthony-jeselnik-and-very-special-guests-tickets"
+    },
+    {
+      "venue": "Dynasty Typewriter",
+      "title": "The Ultimate Improv Show w/ Joe Lo Truglio!",
+      "date": "2026-03-27T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/3/27/the-ultimate-improv-show-w-joe-lo-truglio-tickets"
+    },
+    {
+      "venue": "The Comedy Chateau",
+      "title": "FRIDAY NIGHT LIVE @ The Comedy Chateau (FREE TICKETS!)",
+      "date": "2026-03-27T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/3/27/friday-night-live-the-comedy-chateau-free-tickets-tickets"
+    },
+    {
       "title": "Fiona Cauley",
       "venue": "The Comedy Store",
       "date": "2026-03-27T00:00:00Z",
       "time": "8:00 PM",
-      "description": "Comedy showcase",
+      "description": "SOLD OUT - Comedy showcase",
       "url": "https://thecomedystore.com/calendar/show/2590/2026-03-27t200000-0700-fiona-cauley"
+    },
+    {
+      "venue": "Largo",
+      "title": "Kate Berlant: Live!",
+      "date": "2026-03-27T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/3/27/kate-berlant-live-tickets"
+    },
+    {
+      "venue": "Baby Battista @ Nico's",
+      "title": "DJ night with ten/27 wine, bites, grooves, dancing",
+      "date": "2026-03-27T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/3/27/dj-night-with-ten-27-wine-bites-grooves-dancing-tickets"
+    },
+    {
+      "venue": "The Nitecap",
+      "title": "Prime Time Fridays",
+      "date": "2026-03-27T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/3/27/prime-time-fridays-tickets"
+    },
+    {
+      "venue": "The Upstairs LA",
+      "title": "The Upstairs Comedy Showcase",
+      "date": "2026-03-27T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/3/27/the-upstairs-comedy-showcase-tickets"
     },
     {
       "title": "FRIDAY FIX! Leroy & Sentimental Lady",
@@ -425,12 +377,52 @@
       "url": "https://ucbcomedy.com/show/friday-fix-leroy-sentimental-lady-live-and-livestreamed-11/"
     },
     {
+      "venue": "DSP Studios",
+      "title": "Combo Plate",
+      "date": "2026-03-27T00:00:00Z",
+      "time": "8:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/3/27/third-best-comedy-tickets"
+    },
+    {
+      "venue": "The Elysian Theater",
+      "title": "Oral",
+      "date": "2026-03-27T00:00:00Z",
+      "time": "8:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/3/27/oral-tickets"
+    },
+    {
+      "venue": "Drunk Theatre (Santa Monica Playhouse)",
+      "title": "Drunk Theatre LA | Wildest Comedy Show!",
+      "date": "2026-03-27T00:00:00Z",
+      "time": "9:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/3/27/drunk-theatre-la-wildest-comedy-show-tickets"
+    },
+    {
       "title": "Headliners of the OR Late Night",
       "venue": "The Comedy Store",
       "date": "2026-03-27T00:00:00Z",
       "time": "9:30 PM",
       "description": "Lineup: Dean Delray, Ian Edwards, Eddie Pepitone, Sara Weinshenk, Jessie “Jetski” Johnson, Dean Delray, Ian Edwards, Eddie Pepitone, Sara Weinshenk, Jessie “Jetski” Johnson",
       "url": "https://thecomedystore.com/calendar/show/2041/2026-03-27t213000-0700-headliners-of-the-or-late-night"
+    },
+    {
+      "venue": "The Comedy Store",
+      "title": "Headliners of the OR Late Night",
+      "date": "2026-03-27T00:00:00Z",
+      "time": "9:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/3/27/headliners-of-the-or-late-night-tickets"
+    },
+    {
+      "venue": "Hollywood Improv",
+      "title": "Nicole Tran & Friends",
+      "date": "2026-03-27T00:00:00Z",
+      "time": "9:45PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/3/27/nicole-tran-friends-tickets"
     },
     {
       "title": "Brett Goldstein tries a new hour out (with special guests)",
@@ -457,12 +449,44 @@
       "url": "https://thecomedystore.com/calendar/show/2171/2026-03-28t223000-0700-late-night-in-the-main-room"
     },
     {
+      "venue": "The Comedy Store",
+      "title": "Late Night in the Main Room",
+      "date": "2026-03-28T00:00:00Z",
+      "time": "10:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/3/28/late-night-in-the-main-room-tickets"
+    },
+    {
       "title": "Midnight Special (Free Entry)",
       "venue": "The Comedy Store",
       "date": "2026-03-28T00:00:00Z",
       "time": "11:59 PM",
       "description": "Comedy showcase",
       "url": "https://thecomedystore.com/calendar/show/1984/2026-03-28t235900-0700-midnight-special-50-off-drinks"
+    },
+    {
+      "venue": "The Comedy Store",
+      "title": "Midnight Special (50% Off Drinks)",
+      "date": "2026-03-28T00:00:00Z",
+      "time": "11:59PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/3/28/midnight-special-50-off-drinks-tickets"
+    },
+    {
+      "venue": "The Comedy Store",
+      "title": "Midnight Special (Half Off Drinks)",
+      "date": "2026-03-28T00:00:00Z",
+      "time": "11:59PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/3/28/midnight-special-half-off-drinks-tickets"
+    },
+    {
+      "venue": "Hollywood Improv",
+      "title": "No Vamos a Resolver Nada Ft. Alex Quiroz, Ivan Mendoza",
+      "date": "2026-03-28T00:00:00Z",
+      "time": "4:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/3/28/no-vamos-a-resolver-nada-ft-alex-quiroz-ivan-mendoza-tickets"
     },
     {
       "title": "Menudo’s Feliz Hour",
@@ -505,6 +529,22 @@
       "url": "https://thecomedystore.com/calendar/show/1870/2026-03-28t190000-0700-headliners-of-the-or"
     },
     {
+      "venue": "The Comedy Store",
+      "title": "Headliners of the OR",
+      "date": "2026-03-28T00:00:00Z",
+      "time": "7:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/3/28/headliners-of-the-or-tickets"
+    },
+    {
+      "venue": "The Comedy Store",
+      "title": "Best of the Store",
+      "date": "2026-03-28T00:00:00Z",
+      "time": "7:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/3/28/best-of-the-store-tickets"
+    },
+    {
       "title": "Comedy Confidential",
       "venue": "The Comedy Store - Belly Room",
       "date": "2026-03-28T00:00:00Z",
@@ -529,6 +569,14 @@
       "url": "https://ucbcomedy.com/show/content-cram-5/"
     },
     {
+      "title": "Live from the Belly Room (Free Entry)",
+      "venue": "The Comedy Store - Belly Room",
+      "date": "2026-03-28T00:00:00Z",
+      "time": "9:30 PM",
+      "description": "Comedy showcase",
+      "url": "https://thecomedystore.com/calendar/show/2278/2026-03-28t213000-0700-live-from-the-belly-room"
+    },
+    {
       "title": "Headliners of the OR Late Night",
       "venue": "The Comedy Store",
       "date": "2026-03-28T00:00:00Z",
@@ -537,12 +585,20 @@
       "url": "https://thecomedystore.com/calendar/show/2028/2026-03-28t213000-0700-headliners-of-the-or-late-night"
     },
     {
-      "title": "Live from the Belly Room (Free Entry)",
-      "venue": "The Comedy Store - Belly Room",
+      "venue": "The Comedy Store",
+      "title": "Live from the Belly Room",
       "date": "2026-03-28T00:00:00Z",
-      "time": "9:30 PM",
-      "description": "Comedy showcase",
-      "url": "https://thecomedystore.com/calendar/show/2278/2026-03-28t213000-0700-live-from-the-belly-room"
+      "time": "9:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/3/28/live-from-the-belly-room-tickets"
+    },
+    {
+      "venue": "The Comedy Store",
+      "title": "Headliners of the OR Late Night",
+      "date": "2026-03-28T00:00:00Z",
+      "time": "9:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/3/28/headliners-of-the-or-late-night-tickets"
     },
     {
       "title": "Patton Oswalt and Friends (Rescheduled from 2/22)",
@@ -561,19 +617,19 @@
       "url": "https://ucbcomedy.com/show/bit-show-bonanza-18-only-were-gross-e-spew-hollywood-stories/"
     },
     {
-      "title": "Bit Show Bonanza: Not Without My Bestie ft. One Verse More & Antiques Roadshow",
+      "title": "Bit Show Bonanza: The Wettest Boy Competition ft. Antiques Roadshow & Not Without My Bestie",
       "venue": "UCB FRANKLIN",
       "date": "2026-03-29T00:00:00Z",
       "time": "2:30 PM",
-      "description": "Sunday, March 29, 2026 @ 2:30 PMLA - FRANKLINBit Show Bonanza: Not Without My Bestie ft. One Verse More & Antiques RoadshowThe UCB20th Anniversary Celebration continues with the weirdest, wildest and wettest shows you have ever seen! UCB LA turned 20 years old!! To celebrate, we’ve put together a day-long marathon event filled with the weirdest, wildest and wettest shows you…Buy Now",
+      "description": "Sunday, March 29, 2026 @ 2:30 PMLA - FRANKLINBit Show Bonanza: The Wettest Boy Competition ft. Antiques Roadshow & Not Without My BestieThe UCB20th Anniversary Celebration continues with the weirdest, wildest and wettest shows you have ever seen! UCB LA turned 20 years old!! To celebrate, we’ve put together a day-long marathon event filled with the weirdest, wildest and wettest shows you…Buy Now",
       "url": "https://ucbcomedy.com/show/not-without-my-bestie-ft-one-verse-more-antiques-roadshow/"
     },
     {
-      "title": "Bit Show Bonanza: Dog Prov ft. Honk Shoo Show & BOSTON-PROV",
+      "title": "Bit Show Bonanza: Dog Prov ft. BOSTON-PROV & The Honk Shoo Show",
       "venue": "UCB FRANKLIN",
       "date": "2026-03-29T00:00:00Z",
       "time": "4:00 PM",
-      "description": "Sunday, March 29, 2026 @ 4:00 PMLA - FRANKLINBit Show Bonanza: Dog Prov ft. Honk Shoo Show & BOSTON-PROVThe UCB20th Anniversary Celebration continues with the weirdest, wildest and wettest shows you have ever seen! UCB LA turned 20 years old!! To celebrate, we’ve put together a day-long marathon event filled with the weirdest, wildest and wettest shows you…Buy Now",
+      "description": "Sunday, March 29, 2026 @ 4:00 PMLA - FRANKLINBit Show Bonanza: Dog Prov ft. BOSTON-PROV & The Honk Shoo ShowThe UCB20th Anniversary Celebration continues with the weirdest, wildest and wettest shows you have ever seen! UCB LA turned 20 years old!! To celebrate, we’ve put together a day-long marathon event filled with the weirdest, wildest and wettest shows you…Buy Now",
       "url": "https://ucbcomedy.com/show/bit-show-bonanza-the-wettest-boy-contest-ft-honk-shoo-show-dog-prov/"
     },
     {
@@ -633,12 +689,12 @@
       "url": "https://ucbcomedy.com/show/byot-bring-your-own-team-032926/"
     },
     {
-      "title": "Tippy Top Tier Comedy",
+      "title": "The Comedy Store Presents...",
       "venue": "The Comedy Store - Main Room",
       "date": "2026-03-29T00:00:00Z",
       "time": "9:00 PM",
-      "description": "SOLD OUT - Lineup: Jay Leno, Howie Mandel, Iliza Shlesinger, Al Madrigal, Annie Lederman, Jay Leno, Howie Mandel, Iliza Shlesinger, Al Madrigal, Annie Lederman",
-      "url": "https://thecomedystore.com/calendar/show/2772/2026-03-25t200000-0700-tippy-top-tier-comedy"
+      "description": "SOLD OUT - Lineup: Iliza Shlesinger, Pauly Shore, Chris “Comedian CP” Powell, Whitney Cummings, Ron G, Iliza Shlesinger, Pauly Shore, Chris “Comedian CP” Powell, Whitney Cummings, Ron G",
+      "url": "https://thecomedystore.com/calendar/show/2716/2026-03-26t200000-0700-the-comedy-store-presents"
     },
     {
       "title": "Cooper Lyden and Friends",
@@ -1276,9 +1332,25 @@
       "title": "Mic It Up!",
       "venue": "UCB FRANKLIN",
       "date": "2026-04-07T00:00:00Z",
-      "time": "7:00 PM",
-      "description": "Tuesday, April 7, 2026 @ 7:00 PMLA - ANNEXMic It Up!A weekly show where stand up comedians can work out new jokes, polish old jokes, and sharpen their craft 5 minutes at a time. Hosted by Londale Theus Jr. Are you a stand up comedian looking for a stage to…Buy Now",
+      "time": "6:30 PM",
+      "description": "Tuesday, April 7, 2026 @ 6:30 PMLA - ANNEXMic It Up!A weekly show where stand up comedians can work out new jokes, polish old jokes, and sharpen their craft 5 minutes at a time. Hosted by Londale Theus Jr. Are you a stand up comedian looking for a stage to…Buy Now",
       "url": "https://ucbcomedy.com/show/mic-it-up-28/"
+    },
+    {
+      "title": "SOLID: a stand-up comedy show",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-04-07T00:00:00Z",
+      "time": "8:00 PM",
+      "description": "Tuesday, April 7, 2026 @ 8:00 PMLA - ANNEXSOLID: a stand-up comedy showAn evening of stand-up comedy featuring the best comics in the city! Hosted by Joe Kwaczala (Comedy Central) and Clare O'Kane (Saturday Night Live), SOLID is a stand-up comedy show that features the funniest comics in Los Angeles at an affordable price. These…Buy Now",
+      "url": "https://ucbcomedy.com/show/solid-a-stand-up-comedy-show-12/"
+    },
+    {
+      "title": "Experimental Mic",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-04-07T00:00:00Z",
+      "time": "9:30 PM",
+      "description": "Tuesday, April 7, 2026 @ 9:30 PMLA - ANNEXExperimental MicAn open mic where comedians can push boundaries, try bold new ideas, and embrace the unpredictable. The comedy laboratory where anything can happen! Every Tuesday at the UCB Annex, this isn’t your average open mic. It’s a playground for comedians…Buy Now",
+      "url": "https://ucbcomedy.com/show/experimental-mic-15/"
     },
     {
       "title": "Sing Out, Louise! ft. Starlight & Revenge Dress",
@@ -1287,6 +1359,14 @@
       "time": "10:00 PM",
       "description": "Wednesday, April 8, 2026 @ 10:00 PMLA - FRANKLINSing Out, Louise! ft. Starlight & Revenge DressThe Next Generation of Musical Improv. Sing Out, Louise! is a late-night musical improv show featuring the next generation of performers shaping the future of the form. Every 2nd and 4th Wednesday at 10pm, 6 show-stopping teams deliver completely improvised…Buy Now",
       "url": "https://ucbcomedy.com/show/sing-out-louise-ft-starlight-revenge-dress/"
+    },
+    {
+      "title": "Too Many Cooks",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-04-08T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Wednesday, April 8, 2026 @ 7:00 PMLA - FRANKLINLivestreamToo Many CooksSix comedians. One recipe. Stand-up comedy has never tasted so good. Too Many Cooks is a one-of-a-kind live comedy experience where stand-up and cooking collide in real time. Each comedian takes the mic and performs their regular set — but…Buy Now",
+      "url": "https://ucbcomedy.com/show/too-many-cooks/"
     },
     {
       "title": "Maude Night: The Faculty & Clever Girl",
@@ -1441,6 +1521,14 @@
       "url": "https://wl.seetickets.us/event/vanessa-bayer-and-friends/684369?afflky=LargoAtTheCoronet"
     },
     {
+      "title": "ASSSSCAT LA (FREE!)",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-04-15T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Wednesday, April 15, 2026 @ 7:00 PMLA - FRANKLINLivestreamASSSSCAT LA (FREE!)In honor of tax day we are featuring a FREE ASSSSCAT. UCB’s signature improv juggernaut, ASSSSCAT is a live improv comedy show in Los Angeles at the Upright Citizens Brigade Theatre. An all-star comedy show featuring comedians you know from…Buy Now",
+      "url": "https://ucbcomedy.com/show/asssscat-la-free/"
+    },
+    {
       "title": "Maude Night: Town Crier & Rodeo Baby",
       "venue": "UCB FRANKLIN",
       "date": "2026-04-15T00:00:00Z",
@@ -1455,6 +1543,14 @@
       "time": "8:00 PM",
       "description": "$40.00",
       "url": "https://wl.seetickets.us/event/dinosaur-improv-w-paul-scheer/684370?afflky=LargoAtTheCoronet"
+    },
+    {
+      "title": "The Morning Show at Night!",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-04-16T00:00:00Z",
+      "time": "8:30 PM",
+      "description": "Thursday, April 16, 2026 @ 8:30 PMLA - FRANKLINLivestreamThe Morning Show at Night!The Morning Show at Night! Live with Rebis & Kellie Lee is a comedy show featuring sketches, character performances and improvised interviews from LA's finest comedians. Wake up to your new favorite talk show - The Morning Show at Night!…Buy Now",
+      "url": "https://ucbcomedy.com/show/the-morning-show-at-night-3/"
     },
     {
       "title": "Tig Has Friends",
@@ -1495,6 +1591,14 @@
       "time": "5:30 PM",
       "description": "Saturday, April 18, 2026 @ 5:30 PMLA - FRANKLINThe Matinee: Free Comedy at a Reasonable HourFree comedy at a reasonable hour! Featuring a rotating cast comprised of comedians from TV, film, Dropout, Smosh, Podcasts and More! Start your night off with some of the best comedy in Los Angeles with “The Matinee.” Each month, we…Buy Now",
       "url": "https://ucbcomedy.com/show/the-matinee-free-comedy-at-a-reasonable-hour-3/"
+    },
+    {
+      "title": "High Functioning",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-04-18T00:00:00Z",
+      "time": "6:30 PM",
+      "description": "Saturday, April 18, 2026 @ 6:30 PMLA - ANNEXHigh FunctioningIan Roberts & Will Hines do improv together every month. Ian Roberts, UCB founder and co-author of the Upright Citizens Brigade Comedy Improvisation Manual, and Will Hines, 20-year veteran UCB teacher and performer, and former Academic Director of the UCB,…Buy Now",
+      "url": "https://ucbcomedy.com/show/high-functioning-7/"
     },
     {
       "title": "Holy Shit Improv",
@@ -1617,22 +1721,6 @@
       "url": "https://ucbcomedy.com/show/netflix-is-a-joke-presents-fck-this-month-holy-sht-improv/"
     },
     {
-      "title": "Netflix Is A Joke Presents: Four After Five",
-      "venue": "UCB FRANKLIN",
-      "date": "2026-05-05T00:00:00Z",
-      "time": "7:00 PM",
-      "description": "Tuesday, May 5, 2026 @ 7:00 PMLA - FRANKLINNetflix Is A Joke Presents: Four After FiveA high energy variety show with improv, sketch & music! A high octane variety show featuring live sketch, digital shorts and improv from the brilliant minds of Echo Kellum, Leonard Robinson, Tru Valentino and Julian Gant. --- All sales are…Buy Now",
-      "url": "https://ucbcomedy.com/show/netflix-is-a-joke-presents-four-after-five/"
-    },
-    {
-      "title": "Netflix Is A Joke Presents: Mohanad Elshieky",
-      "venue": "UCB FRANKLIN",
-      "date": "2026-05-05T00:00:00Z",
-      "time": "9:30 PM",
-      "description": "Tuesday, May 5, 2026 @ 9:30 PMLA - FRANKLINNetflix Is A Joke Presents: Mohanad ElshiekyMohanad Elshieky is a New York-based, Libyan born comedian who made his national TV debut on Conan. Mohanad Elshieky has been featured on The Late Show with Stephen Colbert, Don’t Tell Comedy, Comedy Central, This American Life, and has toured…Buy Now",
-      "url": "https://ucbcomedy.com/show/netflix-is-a-joke-presents-mohanad-elshieky/"
-    },
-    {
       "title": "Netflix Is A Joke Presents: Maria Bamford",
       "venue": "Largo at the Coronet",
       "date": "2026-05-07T00:00:00",
@@ -1721,6 +1809,14 @@
       "url": "https://wl.seetickets.us/event/kate-berlant-live/683911?afflky=LargoAtTheCoronet"
     },
     {
+      "title": "Edi Patterson: PLAYGIRL",
+      "venue": "Largo at the Coronet",
+      "date": "2026-06-03T00:00:00",
+      "time": "8:00 PM",
+      "description": "$40.00",
+      "url": "https://wl.seetickets.us/event/edi-patterson-playgirl/686028?afflky=LargoAtTheCoronet"
+    },
+    {
       "title": "Mark Guiliana with Very Special Guests",
       "venue": "Largo at the Coronet",
       "date": "2026-06-04T00:00:00",
@@ -1777,8 +1873,8 @@
       "url": "https://wl.seetickets.us/event/phoebe-robinson-feral-and-fired-up/683594?afflky=LargoAtTheCoronet"
     }
   ],
-  "lastUpdated": "2026-03-25T07:46:04.478386Z",
-  "totalShows": 222,
+  "lastUpdated": "2026-03-26T07:27:35.248413Z",
+  "totalShows": 234,
   "sources": [
     "DoLA",
     "UCB FRANKLIN",
