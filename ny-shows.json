@@ -1,198 +1,6 @@
 {
   "shows": [
     {
-      "title": "David Cross: Shootin’ the Shit, Seein’ What Sticks",
-      "venue": "Union Hall",
-      "date": "2026-04-02T00:00:00.000Z",
-      "time": null,
-      "description": "David Cross: Shootin’ the Shit, Seein’ What Sticks",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Jamie Wolf: Psycho",
-      "venue": "Union Hall",
-      "date": "2026-04-02T00:00:00.000Z",
-      "time": null,
-      "description": "Jamie Wolf: Psycho",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "The Stand Presents: Ian Lara, Derek Gaines, Leonard Ouzts, & More!",
-      "venue": "The Stand - Main room",
-      "date": "2026-04-02T00:00:00.000Z",
-      "time": "10:00 PM",
-      "description": "The Stand Presents: Ian Lara, Derek Gaines, Leonard Ouzts, & More!",
-      "url": "https://thestandnyc.com//shows/show/12764/2026-04-02-220000-the-stand-presents-ian-lara-derek-gaines-leonard-ouzts-more"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-04-02T00:00:00.000Z",
-      "time": "10:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-04-02T00:00:00.000Z",
-      "time": "10:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat",
-      "date": "2026-04-02T00:00:00.000Z",
-      "time": "11:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-04-02T00:00:00.000Z",
-      "time": "11:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat",
-      "date": "2026-04-02T00:00:00.000Z",
-      "time": "6:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-04-02T00:00:00.000Z",
-      "time": "6:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "The Stand Presents: Natalie Cuomo, Tristan Bowling, Mike Figs, & More!",
-      "venue": "The Stand - Upstairs",
-      "date": "2026-04-02T00:00:00.000Z",
-      "time": "7:00 PM",
-      "description": "The Stand Presents: Natalie Cuomo, Tristan Bowling, Mike Figs, & More!",
-      "url": "https://thestandnyc.com//shows/show/12761/2026-04-02-190000-the-stand-presents-natalie-cuomo-tristan-bowling-mike-figs-more"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-04-02T00:00:00.000Z",
-      "time": "7:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-04-02T00:00:00.000Z",
-      "time": "7:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "The Stand Presents: Jourdain Fisher, Jay Jurden, Ian Lara, & More!",
-      "venue": "The Stand - Main room",
-      "date": "2026-04-02T00:00:00.000Z",
-      "time": "8:00 PM",
-      "description": "The Stand Presents: Jourdain Fisher, Jay Jurden, Ian Lara, & More!",
-      "url": "https://thestandnyc.com//shows/show/12762/2026-04-02-200000-the-stand-presents-jourdain-fisher-jay-jurden-ian-lara-more"
-    },
-    {
-      "title": "Why Are You Single? A Singles Game Show with Marie Faustin",
-      "venue": "The Bell House",
-      "date": "2026-04-02T00:00:00.000Z",
-      "time": "8:00PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/4/2/why-are-you-single-tickets"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-04-02T00:00:00.000Z",
-      "time": "8:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-04-02T00:00:00.000Z",
-      "time": "8:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "The Stand Presents: Leonard Ouzts, Marito Lopez, Jay Jurden, & More!",
-      "venue": "The Stand - Upstairs",
-      "date": "2026-04-02T00:00:00.000Z",
-      "time": "9:00 PM",
-      "description": "The Stand Presents: Leonard Ouzts, Marito Lopez, Jay Jurden, & More!",
-      "url": "https://thestandnyc.com//shows/show/12763/2026-04-02-210000-the-stand-presents-leonard-ouzts-marito-lopez-jay-jurden-more"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-04-02T00:00:00.000Z",
-      "time": "9:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-04-02T00:00:00.000Z",
-      "time": "9:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Cage Match: Bruv (5-0) vs. Club Gator",
-      "venue": "UCB Theatre",
-      "date": "2026-04-02T00:00:00Z",
-      "time": "10:00 PM",
-      "description": "Thursday, April 2, 2026 @ 10:00 PMLivestreamNY - 14TH ST. MainstageCage Match: Bruv (5-0) vs. Club GatorTwo Improv Teams Fight for the Future!   The World’s Most Dangerous Improv Show! In the year 2121, the World Government has outlawed LONG-FORM IMPROV. The very thing that will be the weapon for their downfall. Led by Chuck Cuckley…Buy Now",
-      "url": "https://ucbcomedy.com/show/cage-match-ny-04-02-26/"
-    },
-    {
-      "title": "The Trial: An Improvised Court Experience",
-      "venue": "UCB Theatre",
-      "date": "2026-04-02T00:00:00Z",
-      "time": "7:00 PM",
-      "description": "Thursday, April 2, 2026 @ 7:00 PMLivestreamNY - 14TH ST. MainstageThe Trial: An Improvised Court ExperienceThe Trial: An Improvised Court Experience   Finally, an improv show that will make you want to go to jury duty! “The Trial” improvises a tense courtroom trial right before your eyes -- from dramatic opening statements to thrilling verdict. The first…Buy Now",
-      "url": "https://ucbcomedy.com/show/the-trial-an-improvised-court-experience-04-02-26/"
-    },
-    {
-      "title": "222",
-      "venue": "UCB Theatre",
-      "date": "2026-04-02T00:00:00Z",
-      "time": "7:30 PM",
-      "description": "Thursday, April 2, 2026 @ 7:30 PMNY - 14TH ST. Upstairs222A night of two prov!   Each show features a set from soft (Akmal Tajihan & Amanda Breen) as well as a special guest duo bringing their own unique energy. There will also be one completely unpredictable set. We will…Buy Now",
-      "url": "https://ucbcomedy.com/show/222-04-02-26/"
-    },
-    {
-      "title": "Gen Z vs Millennials",
-      "venue": "UCB Theatre",
-      "date": "2026-04-02T00:00:00Z",
-      "time": "8:30 PM",
-      "description": "Thursday, April 2, 2026 @ 8:30 PMLivestreamNY - 14TH ST. MainstageGen Z vs MillennialsCome for the laughs. Stay for the participation trophies. Sociology meets Family Feud in a manic, fever dream game show. Teams of two comics from each generation compete in a series of games to win the title \"Generation of Generations'.…Buy Now",
-      "url": "https://ucbcomedy.com/show/gen-z-vs-millennials-04-02-26/"
-    },
-    {
-      "title": "Mickey Mouse Traphouse",
-      "venue": "UCB Theatre",
-      "date": "2026-04-02T00:00:00Z",
-      "time": "9:00 PM",
-      "description": "Thursday, April 2, 2026 @ 9:00 PMNY - 14TH ST. UpstairsMickey Mouse TraphouseYour favorite childhood characters after dark!   Mickey Mouse Traphouse is a character comedy show featuring your favorite childhood characters after dark! Tommy Montgomery hosts in character as Mickey Mouse and your favorite characters from Shrek to Miss Piggy are…Buy Now",
-      "url": "https://ucbcomedy.com/show/mickey-mouse-traphouse-04-02-26/"
-    },
-    {
       "title": "Nish Kumar",
       "venue": "Union Hall",
       "date": "2026-04-03T00:00:00.000Z",
@@ -313,14 +121,6 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
-      "title": "IMMIGRANT JAM",
-      "venue": "Caveat",
-      "date": "2026-04-03T00:00:00.000Z",
-      "time": "7:00 PM",
-      "description": "Lucie Pohl's Immigrant Jam Comedy features NYC's funniest immigrant and 1st gen comedians",
-      "url": "https://caveat.nyc/events/immigrant-jam-4-3-2026"
-    },
-    {
       "title": "The Stand Presents: Joe List, Caroline Baniewicz, Leonard Ouzts, & More!",
       "venue": "The Stand - Upstairs",
       "date": "2026-04-03T00:00:00.000Z",
@@ -383,14 +183,6 @@
       "time": "9:00 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "GUSH: COMEDY ABOUT THINGS WE LOVE",
-      "venue": "Caveat",
-      "date": "2026-04-03T00:00:00.000Z",
-      "time": "9:30 PM",
-      "description": "Thirty performers, thirty things we love. Fuck the idea that you can't be positive.",
-      "url": "https://caveat.nyc/events/gush-comedy-about-things-we-love-4-3-2026"
     },
     {
       "title": "Comedy Showcase",
@@ -841,6 +633,14 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
+      "title": "The Stand Presents: Rayna Greenberg, Peter James Fowler, Hannah Roeschlein, & More!",
+      "venue": "The Stand - Upstairs",
+      "date": "2026-04-05T00:00:00.000Z",
+      "time": "9:00 PM",
+      "description": "The Stand Presents: Rayna Greenberg, Peter James Fowler, Hannah Roeschlein, & More!",
+      "url": "https://thestandnyc.com//shows/show/12780/2026-04-05-210000-the-stand-presents-rayna-greenberg-peter-james-fowler-hannah-roeschlein-more"
+    },
+    {
       "title": "Comedy Showcase",
       "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
       "date": "2026-04-05T00:00:00.000Z",
@@ -921,6 +721,14 @@
       "url": "https://caveat.nyc/events/drunk-bollywood-trivia-4-6-2026"
     },
     {
+      "title": "The Stand Presents: Emil Wakim, Jamie Wolf, Rayna Greenberg, & More!",
+      "venue": "The Stand - Upstairs",
+      "date": "2026-04-06T00:00:00.000Z",
+      "time": "7:00 PM",
+      "description": "The Stand Presents: Emil Wakim, Jamie Wolf, Rayna Greenberg, & More!",
+      "url": "https://thestandnyc.com//shows/show/12781/2026-04-06-190000-the-stand-presents-emil-wakim-jamie-wolf-rayna-greenberg-more"
+    },
+    {
       "title": "An Hour with Keith Robinson Show",
       "venue": "Comedy Cellar",
       "date": "2026-04-06T00:00:00.000Z",
@@ -945,6 +753,14 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
+      "title": "The Legion Of Skanks Podcast Live",
+      "venue": "The Stand - Main room",
+      "date": "2026-04-06T00:00:00.000Z",
+      "time": "8:00 PM",
+      "description": "The Legion Of Skanks Podcast Live",
+      "url": "https://thestandnyc.com//shows/show/12789/2026-04-06-200000-the-legion-of-skanks-podcast-live"
+    },
+    {
       "title": "Comedy Showcase",
       "venue": "Comedy Cellar - Village Underground",
       "date": "2026-04-06T00:00:00.000Z",
@@ -959,6 +775,14 @@
       "time": "8:00PM",
       "description": null,
       "url": "https://donyc.com/events/2026/4/6/the-moth-storyslam-tickets"
+    },
+    {
+      "title": "FRANTIC! FREE SHOW",
+      "venue": "The Stand - Upstairs",
+      "date": "2026-04-06T00:00:00.000Z",
+      "time": "9:00 PM",
+      "description": "FRANTIC! FREE SHOW",
+      "url": "https://thestandnyc.com//shows/show/12782/2026-04-06-210000-frantic-free-show"
     },
     {
       "title": "Comedy Showcase",
@@ -983,6 +807,14 @@
       "time": "7:00 PM",
       "description": "Monday, April 6, 2026 @ 7:00 PMLivestreamNY - 14TH ST. MainstageMAUDE NIGHT: First Wife & Fridge MagnetMaude Night boasts brand new material by UCB’s house sketch teams every month. Come see top-notch sketch comedy featuring two teams of UCB’s finest writers and performers. —— Featuring: First Wife & Fridge Magnet —- Complete List of Maude Teams:…Buy Now",
       "url": "https://ucbcomedy.com/show/maude-night-first-wife-fridge-magnet-04-06-26/"
+    },
+    {
+      "title": "Tiptoe Presents: Our Town",
+      "venue": "UCB Theatre",
+      "date": "2026-04-06T00:00:00Z",
+      "time": "8:30 PM",
+      "description": "Monday, April 6, 2026 @ 8:30 PMLivestreamNY - 14TH ST. MainstageTiptoe Presents: Our TownA fully improvised show based on your hometown stories. Whether you’re from NYC or someplace else, Tiptoe wants all the gossip about where you grew up. Tell us about your local dive bar, the spot where everyone goes to make…Buy Now",
+      "url": "https://ucbcomedy.com/show/tiptoe-presents-our-town-04-06-26/"
     },
     {
       "title": "Improvised The Office",
@@ -1146,6 +978,14 @@
     },
     {
       "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Fat Black Pussycat",
+      "date": "2026-04-08T00:00:00.000Z",
+      "time": "10:30 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
       "venue": "Comedy Cellar - MacDougal Street",
       "date": "2026-04-08T00:00:00.000Z",
       "time": "11:30 pm",
@@ -1277,6 +1117,14 @@
       "venue": "Comedy Cellar - MacDougal Street",
       "date": "2026-04-09T00:00:00.000Z",
       "time": "10:45 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Fat Black Pussycat",
+      "date": "2026-04-09T00:00:00.000Z",
+      "time": "11:00 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
@@ -1529,12 +1377,28 @@
       "url": "https://caveat.nyc/events/modern-whitney-4-11-2026"
     },
     {
+      "title": "THE POWER JOKER: A ROBERT MOSES COMEDY SHOW",
+      "venue": "Caveat",
+      "date": "2026-04-11T00:00:00.000Z",
+      "time": "7:00 PM",
+      "description": "What if RM hosted The Tonight Show? Comedy, special guests, music, and more.",
+      "url": "https://caveat.nyc/events/the-power-joker-4-11-2026"
+    },
+    {
       "title": "Reggie Watts",
       "venue": "The Bell House",
       "date": "2026-04-11T00:00:00.000Z",
       "time": "7:30PM",
       "description": null,
       "url": "https://donyc.com/events/2026/4/11/reggie-watts-tickets"
+    },
+    {
+      "title": "READYSET READS: DANCE NATION",
+      "venue": "Caveat",
+      "date": "2026-04-11T00:00:00.000Z",
+      "time": "9:30 PM",
+      "description": "A one-night staged reading of Dance Nation by Clare Barron featuring top New York improvisers and ac...",
+      "url": "https://caveat.nyc/events/readyset-reads-dance-nation--4-11-2026"
     },
     {
       "title": "Woody Fu: One Man John Wick",
@@ -2081,6 +1945,14 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
+      "title": "My Straight Friends",
+      "venue": "The Bell House",
+      "date": "2026-04-22T00:00:00.000Z",
+      "time": "7:30PM",
+      "description": null,
+      "url": "https://donyc.com/events/2026/4/22/my-straight-friends-tickets"
+    },
+    {
       "title": "The Sober Show",
       "venue": "UCB Theatre",
       "date": "2026-04-22T00:00:00Z",
@@ -2393,6 +2265,14 @@
       "url": "https://ucbcomedy.com/show/save-the-date-04-29-26/"
     },
     {
+      "title": "NYC College Comedy Night",
+      "venue": "UCB Theatre",
+      "date": "2026-04-29T00:00:00Z",
+      "time": "9:00 PM",
+      "description": "Wednesday, April 29, 2026 @ 9:00 PMLivestreamNY - 14TH ST. MainstageNYC College Comedy NightCollegiate Comedy at its Finest! Join us as four teams from colleges all around the city take the UCBNY stage!! Hosted by Tess Restaino & Patricia Lee Lineup:  TBA —— In-person tickets are $5 plus fees Livestream tickets are $5…Buy Now",
+      "url": "https://ucbcomedy.com/show/nyc-college-comedy-night-04-29-26/"
+    },
+    {
       "title": "Standup for Planned Parenthood Hosted by Maddy Kelly",
       "venue": "Union Hall",
       "date": "2026-04-30T00:00:00.000Z",
@@ -2407,6 +2287,30 @@
       "time": null,
       "description": "Jordan Klepper: New Goods",
       "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Stress Dream: LIVE",
+      "venue": "UCB Theatre",
+      "date": "2026-04-30T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Thursday, April 30, 2026 @ 7:00 PMLivestreamNY - 14TH ST. MainstageStress Dream: LIVEStress Dream do an improv-set inspired by your week’s anxieties. Come to laugh, cry, squeeze your stress ball, or all of the above!   Ihea Inyama, Charlotte Polk, and Rebecca Salzhauer, makers of the web series i’m so happy for…Buy Now",
+      "url": "https://ucbcomedy.com/show/stress-dream-live-04-30-26/"
+    },
+    {
+      "title": "We’re Serious",
+      "venue": "UCB Theatre",
+      "date": "2026-04-30T00:00:00Z",
+      "time": "7:30 PM",
+      "description": "Thursday, April 30, 2026 @ 7:30 PMNY - 14TH ST. UpstairsWe’re SeriousCasey Jost and Yoni Lotan - two of the goofiest boys on dry land - finally PULL IT TOGETHER to bring you ONLY SERIOUS improv scenes.   Casey and Yoni are tired of being known as silly billies so they’re…Buy Now",
+      "url": "https://ucbcomedy.com/show/were-serious-04-30-26/"
+    },
+    {
+      "title": "CONNOR RATLIFF presents THE ACTING CLASS",
+      "venue": "UCB Theatre",
+      "date": "2026-04-30T00:00:00Z",
+      "time": "8:30 PM",
+      "description": "Thursday, April 30, 2026 @ 8:30 PMLivestreamNY - 14TH ST. MainstageCONNOR RATLIFF presents THE ACTING CLASSA one-person improv show disguised as an acting class, from the creator of the Dead Eyes podcast. Professional actor (Run Amok, Bob's Burgers, “King Henry” in a recent State Farm ad) and award-winning podcaster (Dead Eyes) CONNOR RATLIFF is a classically trained performer who…Buy Now",
+      "url": "https://ucbcomedy.com/show/connor-ratliff-presents-the-acting-class-04-30-26/"
     },
     {
       "title": "Hari Kondabolu and Josh Gondelman present: Fall of Freedom Comedy Show",
@@ -2609,6 +2513,14 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "PRETTY MAJOR Hosted by Jay Jurden",
+      "venue": "Union Hall",
+      "date": "2026-05-26T00:00:00.000Z",
+      "time": null,
+      "description": "PRETTY MAJOR Hosted by Jay Jurden",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
       "title": "Sureni & Lovers",
       "venue": "Union Hall",
       "date": "2026-05-28T00:00:00.000Z",
@@ -2625,12 +2537,12 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "DCM22",
+      "title": "DCM26",
       "venue": "UCB Theatre",
       "date": "2026-06-14T00:00:00Z",
       "time": null,
-      "description": "Friday, June 12 – Sunday, June 14, 2026NYCDCM223 Day Festival + Headliner Badge — $90 Get the full DCM22 experience. Your badge includes access to all block-style, main festival programming across all our venues, plus early access to headliner shows — including one headliner show ticket reservation…Buy Now",
-      "url": "https://ucbcomedy.com/show/dcm22/"
+      "description": "Friday, June 12 – Sunday, June 14, 2026NYCDCM263 Day Festival + Headliner Badge — $90 Get the full DCM22 experience. Your badge includes access to all block-style, main festival programming across all our venues, plus early access to headliner shows — including one headliner show ticket reservation…Buy Now",
+      "url": "https://ucbcomedy.com/show/dcm26/"
     },
     {
       "title": "Malik Elassal",
@@ -2641,71 +2553,31 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "Malik Elassal",
-      "venue": "Union Hall",
-      "date": "2026-07-22T00:00:00.000Z",
-      "time": null,
-      "description": "Malik Elassal",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Malik Elassal",
-      "venue": "Union Hall",
-      "date": "2026-07-23T00:00:00.000Z",
-      "time": null,
-      "description": "Malik Elassal",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Malik Elassal",
-      "venue": "Union Hall",
-      "date": "2026-07-24T00:00:00.000Z",
-      "time": null,
-      "description": "Malik Elassal",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Malik Elassal",
-      "venue": "Union Hall",
-      "date": "2026-07-25T00:00:00.000Z",
-      "time": null,
-      "description": "Malik Elassal",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Chris Gethard And Dave Ross Leave For Fest",
-      "venue": "Union Hall",
-      "date": "2026-10-17T00:00:00.000Z",
-      "time": null,
-      "description": "Chris Gethard And Dave Ross Leave For Fest",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "One Liner Madness",
+      "title": "Why Are You Single? A Singles Game Show with Marie Faustin",
       "venue": "The Bell House",
-      "date": "2027-04-01T00:00:00.000Z",
-      "time": "8:00PM",
+      "date": "2027-04-02T00:00:00.000Z",
+      "time": null,
       "description": null,
-      "url": "https://donyc.com/events/2026/4/1/one-liner-madness-tickets"
+      "url": "https://donyc.com/events/2026/4/2/why-are-you-single-tickets"
     },
     {
-      "title": "PITCH AND PAIR LGBTQ+ EDITION: PITCH YOUR FRIEND TO A ROOM OF SINGLES",
+      "title": "IMMIGRANT JAM",
       "venue": "Caveat",
-      "date": "2027-04-02T00:00:00.000Z",
+      "date": "2027-04-03T00:00:00.000Z",
       "time": "7:00 PM",
-      "description": "PowerPoint Meets Romance: Pitch Your Friend to a Room of Singles",
-      "url": "https://caveat.nyc/events/powerpoint-meets-romance-pitch-your-friend-to-a-room-of-singles-4-2-2026"
+      "description": "Lucie Pohl's Immigrant Jam Comedy features NYC's funniest immigrant and 1st gen comedians",
+      "url": "https://caveat.nyc/events/immigrant-jam-4-3-2026"
     },
     {
-      "title": "YESTERDAY'S HOROSCOPE",
+      "title": "GUSH: COMEDY ABOUT THINGS WE LOVE",
       "venue": "Caveat",
-      "date": "2027-04-02T00:00:00.000Z",
+      "date": "2027-04-03T00:00:00.000Z",
       "time": "9:30 PM",
-      "description": "In this romp through the constellations, The Skies predict the present by revealing the past—it’s Ye...",
-      "url": "https://caveat.nyc/events/yesterdays-horoscope--4-2-2026"
+      "description": "Thirty performers, thirty things we love. Fuck the idea that you can't be positive.",
+      "url": "https://caveat.nyc/events/gush-comedy-about-things-we-love-4-3-2026"
     }
   ],
-  "lastUpdated": "2026-04-02T07:33:13.655814Z",
+  "lastUpdated": "2026-04-03T07:34:21.127602Z",
   "sources": [
     "DoNYC",
     "Caveat",
@@ -2715,5 +2587,5 @@
     "UCB Theatre",
     "The Bell House"
   ],
-  "totalShows": 338
+  "totalShows": 322
 }
