@@ -19,586 +19,50 @@
     {
       "title": "The Second City Mainstage 114th Revue",
       "venue": "The Second City",
-      "date": "2026-04-03T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/3/the-second-city-mainstage-114th-revue-tickets"
-    },
-    {
-      "title": "Best of The Second City",
-      "venue": "The Second City",
-      "date": "2026-04-03T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/3/best-of-the-second-city-tickets"
-    },
-    {
-      "title": "ComedySportz",
-      "venue": "iO Theater",
-      "date": "2026-04-03T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/3/comedysportz-tickets"
-    },
-    {
-      "title": "Honk!",
-      "venue": "iO Theater",
-      "date": "2026-04-03T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/3/honk-tickets"
-    },
-    {
-      "title": "People Being Funny",
-      "venue": "iO Theater",
-      "date": "2026-04-03T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/3/people-being-funny-tickets"
-    },
-    {
-      "title": "Secret Sketch Show",
-      "venue": "iO Theater",
-      "date": "2026-04-03T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/3/secret-sketch-show-tickets"
-    },
-    {
-      "title": "Duluth: An Improvised Midwest Murder",
-      "venue": "Annoyance Theatre",
-      "date": "2026-04-03T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/3/duluth-an-improvised-midwest-murder-tickets"
-    },
-    {
-      "title": "Escapades!",
-      "venue": "Annoyance Theatre",
-      "date": "2026-04-03T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/3/escapades-tickets"
-    },
-    {
-      "title": "Friday Night Stand Up Comedy at Laugh Factory Chicago",
-      "venue": "Laugh Factory",
-      "date": "2026-04-03T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/3/friday-night-stand-up-comedy-at-laugh-factory-chicago-tickets"
-    },
-    {
-      "title": "LowKey Funny Standup Comedy at Laugh Factory Chicago!",
-      "venue": "Laugh Factory",
-      "date": "2026-04-03T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/3/lowkey-funny-standup-comedy-at-laugh-factory-chicago-tickets"
-    },
-    {
-      "title": "Nervous Laughter Comedy Show: Laugh now, overthink later",
-      "venue": "The Lincoln Lodge",
-      "date": "2026-04-03T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/3/nervous-laughter-comedy-show-laugh-now-overthink-later-tickets"
-    },
-    {
-      "title": "Delightfully Unbothered Comedy Show",
-      "venue": "The Lincoln Lodge",
-      "date": "2026-04-03T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/3/delightfully-unbothered-comedy-show-tickets"
-    },
-    {
-      "title": "Late Night",
-      "venue": "The Lincoln Lodge",
-      "date": "2026-04-03T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/3/late-night-tickets"
-    },
-    {
-      "title": "No Gimmicks Needed",
-      "venue": "The Lincoln Lodge",
-      "date": "2026-04-03T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/3/no-gimmicks-needed-tickets"
-    },
-    {
-      "title": "Blackout Diaries",
-      "venue": "The Lincoln Lodge",
-      "date": "2026-04-03T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/3/blackout-diaries-tickets"
-    },
-    {
-      "title": "Laughter Hours: Late Night Jazzy-Themed Comedy Show",
-      "venue": "The Lincoln Lodge",
-      "date": "2026-04-03T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/3/laughter-hours-late-night-jazzy-themed-comedy-show-tickets"
-    },
-    {
-      "title": "Sammy Obeid",
-      "venue": "The Den Theatre",
-      "date": "2026-04-03T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/3/sammy-obeid-tickets"
-    },
-    {
-      "title": "The Official Biography",
-      "venue": "The Den Theatre",
-      "date": "2026-04-03T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/3/the-official-biography-tickets"
-    },
-    {
-      "title": "The Posthumous Trial of Giulia Tofana",
-      "venue": "The Den Theatre",
-      "date": "2026-04-03T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/3/the-posthumous-trial-of-giulia-tofana-tickets"
-    },
-    {
-      "venue": "United Center",
-      "title": "Shane Gillis Live",
-      "date": "2026-04-04T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/4/shane-gillis-live-tickets"
-    },
-    {
-      "venue": "Reggies",
-      "title": "Zach Mama AKA “Monica” LIVE",
-      "date": "2026-04-04T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/4/zach-mama-aka-monica-live-tickets"
-    },
-    {
-      "venue": "The Second City",
-      "title": "Best of The Second City",
-      "date": "2026-04-04T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/4/best-of-the-second-city-tickets"
-    },
-    {
-      "venue": "The Second City",
-      "title": "The Second City Mainstage 114th Revue",
-      "date": "2026-04-04T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/4/the-second-city-mainstage-114th-revue-tickets"
-    },
-    {
-      "venue": "Zanies Comedy Club",
-      "title": "After Hours with Calvin Evans",
-      "date": "2026-04-04T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/4/after-hours-with-calvin-evans-tickets"
-    },
-    {
-      "venue": "Zanies Comedy Club",
-      "title": "Tina Friml– Special Event",
-      "date": "2026-04-04T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/4/tina-friml-special-event-tickets"
-    },
-    {
-      "venue": "Annoyance Theatre",
-      "title": "Bride To Boa",
-      "date": "2026-04-04T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/4/bride-to-boa-tickets"
-    },
-    {
-      "venue": "The Comedy Bar",
-      "title": "Lil Rel Howery",
-      "date": "2026-04-04T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/4/lil-rel-howery-tickets-6zdbnd1"
-    },
-    {
-      "venue": "Annoyance Theatre",
-      "title": "Fire & Beer",
-      "date": "2026-04-04T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/4/fire-beer-tickets"
-    },
-    {
-      "venue": "The Den Theatre",
-      "title": "Sammy Obeid",
-      "date": "2026-04-04T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/4/sammy-obeid-tickets"
-    },
-    {
-      "venue": "Laugh Factory",
-      "title": "Saturday Night Stand Up Comedy at Laugh Factory Chicago",
-      "date": "2026-04-04T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/4/saturday-night-stand-up-comedy-at-laugh-factory-chicago-tickets"
-    },
-    {
-      "venue": "iO Theater",
-      "title": "The Early Bird Special Jam",
-      "date": "2026-04-04T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/4/the-early-bird-special-jam-tickets"
-    },
-    {
-      "venue": "iO Theater",
-      "title": "Tikka Masala: An Indian Improv Comedy Game Show",
-      "date": "2026-04-04T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/4/tikka-masala-an-indian-improv-comedy-game-show-tickets"
-    },
-    {
-      "venue": "iO Theater",
-      "title": "ComedySportz",
-      "date": "2026-04-04T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/4/comedysportz-tickets"
-    },
-    {
-      "venue": "Chicago Improv Comedy Club",
-      "title": "Leo Gonzalez",
-      "date": "2026-04-04T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/4/leo-gonzalez-tickets"
-    },
-    {
-      "venue": "The Den Theatre",
-      "title": "Comedy You Deserve: Casually Funny",
-      "date": "2026-04-04T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/4/comedy-you-deserve-casually-funny-tickets"
-    },
-    {
-      "venue": "The Den Theatre",
-      "title": "The Official Biography",
-      "date": "2026-04-04T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/4/the-official-biography-tickets"
-    },
-    {
-      "venue": "The Den Theatre",
-      "title": "The Posthumous Trial of Giulia Tofana",
-      "date": "2026-04-04T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/4/the-posthumous-trial-of-giulia-tofana-tickets"
-    },
-    {
-      "venue": "iO Theater",
-      "title": "Riff City",
-      "date": "2026-04-04T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/4/riff-city-tickets"
-    },
-    {
-      "venue": "The Comedy Bar",
-      "title": "Garam Masala Dating",
-      "date": "2026-04-04T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/4/garam-masala-dating-tickets"
-    },
-    {
-      "title": "The Punch Up",
-      "venue": "The Lincoln Lodge",
-      "date": "2026-04-04T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/4/the-punch-up-saturdays-tickets"
-    },
-    {
-      "title": "Hecklers’ Happy Hour Comedy Show",
-      "venue": "The Lincoln Lodge",
-      "date": "2026-04-04T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/4/hecklers-happy-hour-comedy-show-tickets"
-    },
-    {
-      "title": "Two Gay* Brothers",
-      "venue": "The Lincoln Lodge",
-      "date": "2026-04-04T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/4/two-gay-brothers-tickets"
-    },
-    {
-      "title": "The Latest and Greatest",
-      "venue": "The Lincoln Lodge",
-      "date": "2026-04-04T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/4/the-latest-and-greatest-tickets"
-    },
-    {
-      "title": "Powerpoint Night Live!",
-      "venue": "The Lincoln Lodge",
-      "date": "2026-04-04T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/4/powerpoint-night-live-tickets"
-    },
-    {
-      "title": "Prime Time - Chicago's hottest comedy showcase",
-      "venue": "The Lincoln Lodge",
-      "date": "2026-04-04T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/4/prime-time-chicago-s-hottest-comedy-showcase-tickets"
-    },
-    {
-      "title": "The Chicago Handshake (a narrative comedy show)",
-      "venue": "The Lincoln Lodge",
-      "date": "2026-04-04T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/4/the-chicago-handshake-a-narrative-comedy-show-tickets"
-    },
-    {
-      "title": "The Chicago Handshake",
-      "venue": "The Lincoln Lodge",
-      "date": "2026-04-04T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/4/the-chicago-handshake-tickets"
-    },
-    {
-      "title": "Top Shelf Comedy Showcase: Chicago's funniest standup comics",
-      "venue": "The Lincoln Lodge",
-      "date": "2026-04-04T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/4/top-shelf-comedy-showcase-chicago-s-funniest-standup-comics-tickets"
-    },
-    {
-      "title": "Top Shelf Comedy Showcase: Chicagos Funniest Stand Up Comics",
-      "venue": "The Lincoln Lodge",
-      "date": "2026-04-04T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/4/top-shelf-comedy-showcase-chicagos-funniest-stand-up-comics-tickets"
-    },
-    {
-      "venue": "The Second City",
-      "title": "The Second City Mainstage 114th Revue",
       "date": "2026-04-05T00:00:00Z",
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/4/5/the-second-city-mainstage-114th-revue-tickets"
     },
     {
-      "venue": "Zanies Comedy Club",
-      "title": "Tina Friml– Special Event",
-      "date": "2026-04-05T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/5/tina-friml-special-event-tickets"
-    },
-    {
-      "venue": "Annoyance Theatre",
       "title": "Jay Collen: Come Hang Out with the Magician",
+      "venue": "Annoyance Theatre",
       "date": "2026-04-05T00:00:00Z",
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/4/5/jay-collen-come-hang-out-with-the-magician-tickets"
     },
     {
-      "venue": "The Comedy Bar",
-      "title": "Lil Rel Howery",
-      "date": "2026-04-05T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/5/lil-rel-howery-tickets"
-    },
-    {
-      "venue": "Laugh Factory",
-      "title": "Sunday Night Stand Up Comedy at Laugh Factory Chicago",
-      "date": "2026-04-05T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/5/sunday-night-stand-up-comedy-at-laugh-factory-chicago-tickets"
-    },
-    {
-      "venue": "Punch Bowl Social",
-      "title": "Sunday Service: R&B + Reggaeton Brunch",
-      "date": "2026-04-05T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/5/sunday-service-r-b-reggaeton-brunch-tickets"
-    },
-    {
-      "venue": "The Den Theatre",
-      "title": "Godzilla Comedy Show",
-      "date": "2026-04-05T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/5/godzilla-comedy-show-tickets"
-    },
-    {
-      "venue": "The Den Theatre",
-      "title": "The Posthumous Trial of Giulia Tofana",
-      "date": "2026-04-05T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/5/the-posthumous-trial-of-giulia-tofana-tickets"
-    },
-    {
-      "venue": "iO Theater",
-      "title": "Level 5 Grad Showcases",
-      "date": "2026-04-05T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/5/level-5-grad-showcases-tickets"
-    },
-    {
-      "venue": "iO Theater",
-      "title": "Main Character Syndrome: A Solo Character Showcase",
-      "date": "2026-04-05T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/5/main-character-syndrome-a-solo-character-showcase-tickets"
-    },
-    {
-      "venue": "iO Theater",
-      "title": "El Improv Jam",
-      "date": "2026-04-05T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/5/el-improv-jam-tickets"
-    },
-    {
-      "venue": "RED ROOM Comedy Club",
-      "title": "Little Red Writing Room",
-      "date": "2026-04-05T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/5/little-red-writing-room-tickets"
-    },
-    {
-      "venue": "The Lincoln Lodge",
-      "title": "Hot 5 Comedy Show",
-      "date": "2026-04-05T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/5/hot-5-comedy-show-tickets"
-    },
-    {
-      "venue": "The Comedy Bar",
-      "title": "Chicago's Best Comedy Show",
-      "date": "2026-04-05T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/5/chicago-s-best-comedy-show-tickets"
-    },
-    {
-      "venue": "Dorothy",
-      "title": "The Bi Wives Club: A Comedy Showcase",
-      "date": "2026-04-05T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/5/the-bi-wives-club-a-comedy-showcase-tickets"
-    },
-    {
-      "venue": "Judy's Beat Lounge",
-      "title": "EASTER?! I Hardly Knew Her!",
-      "date": "2026-04-05T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/5/easter-i-hardly-knew-her-tickets"
-    },
-    {
-      "venue": "The Lincoln Lodge",
       "title": "Dr. Fix Me LIVE in Chicago!",
+      "venue": "The Lincoln Lodge",
       "date": "2026-04-05T00:00:00Z",
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/4/5/dr-fix-me-live-in-chicago-tickets"
     },
     {
+      "title": "Hot 5 Comedy Show",
       "venue": "The Lincoln Lodge",
+      "date": "2026-04-05T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/4/5/hot-5-comedy-show-tickets"
+    },
+    {
       "title": "HighQ - a comedy game show",
+      "venue": "The Lincoln Lodge",
       "date": "2026-04-05T00:00:00Z",
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/4/5/highq-a-comedy-game-show-at-the-lincoln-lodge-tickets"
     },
     {
-      "venue": "De Maat Theater",
-      "title": "Extra Extra",
-      "date": "2026-04-05T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/5/extra-extra-tickets"
-    },
-    {
-      "venue": "e.t.c. Theater",
-      "title": "The Second City’s Improv Supernova: e.t.c. 50th Revue",
-      "date": "2026-04-05T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/5/the-second-city-s-improv-supernova-e-t-c-50th-revue-tickets"
-    },
-    {
-      "venue": "The Lincoln Lodge",
       "title": "Sunday Best",
+      "venue": "The Lincoln Lodge",
       "date": "2026-04-05T00:00:00Z",
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/4/5/sunday-best-tickets"
-    },
-    {
-      "venue": "Donny's Skybox Theater",
-      "title": "Wheel of Improv",
-      "date": "2026-04-05T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/5/wheel-of-improv-tickets"
-    },
-    {
-      "venue": "De Maat Theater",
-      "title": "An Oddyssey",
-      "date": "2026-04-05T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/5/an-oddyssey-tickets"
-    },
-    {
-      "venue": "The Lincoln Lodge",
-      "title": "Hammered Herstory: Chicago's Funniest Drunk Comedy Storytelling",
-      "date": "2026-04-05T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/5/hammered-herstory-chicago-s-funniest-drunk-comedy-storytelling-tickets"
     },
     {
       "title": "K Pop Comedy Night",
@@ -607,6 +71,14 @@
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/4/5/k-pop-comedy-night-tickets"
+    },
+    {
+      "title": "Hammered Herstory: Chicago's Funniest Drunk Comedy Storytelling",
+      "venue": "The Lincoln Lodge",
+      "date": "2026-04-05T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/4/5/hammered-herstory-chicago-s-funniest-drunk-comedy-storytelling-tickets"
     },
     {
       "venue": "The Second City",
@@ -1073,6 +545,14 @@
       "url": "https://do312.com/events/2026/4/10/duluth-an-improvised-midwest-murder-tickets"
     },
     {
+      "venue": "Annoyance Theatre",
+      "title": "Holy Fuck Comedy Hour",
+      "date": "2026-04-10T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/4/10/holy-fuck-comedy-hour-tickets"
+    },
+    {
       "venue": "American Place Casino",
       "title": "Piff the Magic Dragon",
       "date": "2026-04-10T00:00:00Z",
@@ -1191,6 +671,62 @@
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/4/10/wine-down-comedy-show-tickets"
+    },
+    {
+      "title": "Lip Service: A Fem Com Alumni Showcase",
+      "venue": "The Lincoln Lodge",
+      "date": "2026-04-10T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/4/10/lip-service-a-fem-com-alumni-showcase-tickets"
+    },
+    {
+      "title": "Braided Comedy Show",
+      "venue": "The Lincoln Lodge",
+      "date": "2026-04-10T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/4/10/braided-comedy-show-tickets"
+    },
+    {
+      "title": "The Lincoln Lodge Comedy Showcase",
+      "venue": "The Lincoln Lodge",
+      "date": "2026-04-10T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/4/10/the-lincoln-lodge-comedy-showcase-tickets"
+    },
+    {
+      "title": "Demon Hour Comedy - Chicago’s Raw and Untamed Confessions!",
+      "venue": "The Lincoln Lodge",
+      "date": "2026-04-10T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/4/10/demon-hour-comedy-chicago-s-raw-and-untamed-confessions-tickets"
+    },
+    {
+      "title": "The F U Comedy Showcase",
+      "venue": "The Lincoln Lodge",
+      "date": "2026-04-10T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/4/10/the-f-u-comedy-showcase-tickets"
+    },
+    {
+      "title": "Blackout Diaries",
+      "venue": "The Lincoln Lodge",
+      "date": "2026-04-10T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/4/10/blackout-diaries-tickets"
+    },
+    {
+      "title": "Laughter Hours: Late Night Jazzy-Themed Comedy Show",
+      "venue": "The Lincoln Lodge",
+      "date": "2026-04-10T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/4/10/laughter-hours-late-night-jazzy-themed-comedy-show-tickets"
     },
     {
       "venue": "Zanies Comedy Club",
@@ -1529,14 +1065,6 @@
       "url": "https://do312.com/events/2026/4/13/monday-night-stand-up-comedy-at-laugh-factory-chicago-tickets"
     },
     {
-      "title": "The Moth Chicago StorySLAM: SUS",
-      "venue": "The Den Theatre",
-      "date": "2026-04-13T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/13/the-moth-chicago-storyslam-sus-tickets"
-    },
-    {
       "venue": "Zanies Comedy Club",
       "title": "Eli Ruffer",
       "date": "2026-04-14T00:00:00Z",
@@ -1609,6 +1137,14 @@
       "url": "https://do312.com/events/2026/4/14/ten-dollar-comedy-tickets"
     },
     {
+      "venue": "The Lincoln Lodge",
+      "title": "Demi Palecek, IL House Candidate (D-13), joins Chicago’s Late Night Talk Show",
+      "date": "2026-04-15T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/4/15/chicago-s-late-night-talk-show-tickets"
+    },
+    {
       "venue": "Annoyance Theatre",
       "title": "The Insignificant Mile",
       "date": "2026-04-15T00:00:00Z",
@@ -1639,14 +1175,6 @@
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/4/15/matt-richards-special-event-tickets"
-    },
-    {
-      "venue": "Laugh Factory",
-      "title": "Wednesday Night Stand Up Comedy at Laugh Factory Chicago",
-      "date": "2026-04-15T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/15/wednesday-night-stand-up-comedy-at-laugh-factory-chicago-tickets"
     },
     {
       "venue": "iO Theater",
@@ -1705,6 +1233,14 @@
       "url": "https://do312.com/events/2026/4/15/i-can-keep-going-tickets"
     },
     {
+      "venue": "Laugh Factory",
+      "title": "Wednesday Night Stand Up Comedy at Laugh Factory Chicago",
+      "date": "2026-04-15T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/4/15/wednesday-night-stand-up-comedy-at-laugh-factory-chicago-tickets"
+    },
+    {
       "venue": "Judy's Beat Lounge",
       "title": "Lowkey Lit",
       "date": "2026-04-15T00:00:00Z",
@@ -1719,22 +1255,6 @@
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/4/16/mo-gilligan-the-mo-you-know-tickets"
-    },
-    {
-      "venue": "iO Theater",
-      "title": "Sketch Playlist",
-      "date": "2026-04-16T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/16/sketch-playlist-tickets"
-    },
-    {
-      "venue": "The Hideout",
-      "title": "Michael Che",
-      "date": "2026-04-16T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/16/michael-che-tickets"
     },
     {
       "venue": "iO Theater",
@@ -1769,6 +1289,14 @@
       "url": "https://do312.com/events/2026/4/16/young-black-funny-tickets"
     },
     {
+      "venue": "iO Theater",
+      "title": "Sketch Playlist",
+      "date": "2026-04-16T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/4/16/sketch-playlist-tickets"
+    },
+    {
       "venue": "The Den Theatre",
       "title": "The Official Biography",
       "date": "2026-04-16T00:00:00Z",
@@ -1799,6 +1327,14 @@
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/4/16/late-night-tickets"
+    },
+    {
+      "venue": "The Hideout",
+      "title": "Michael Che",
+      "date": "2026-04-16T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/4/16/michael-che-tickets"
     },
     {
       "venue": "The Comedy Vault",
@@ -2049,6 +1585,14 @@
       "url": "https://do312.com/events/2026/4/17/honk-tickets"
     },
     {
+      "venue": "The Comedy Bar",
+      "title": "Chicago's Best Comedy Show",
+      "date": "2026-04-17T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/4/17/chicago-s-best-comedy-show-tickets"
+    },
+    {
       "venue": "iO Theater",
       "title": "Secret Sketch Show",
       "date": "2026-04-17T00:00:00Z",
@@ -2063,14 +1607,6 @@
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/4/17/elaine-golden-live-at-the-lincoln-lodge-tickets"
-    },
-    {
-      "venue": "The Lincoln Lodge",
-      "title": "Buena Onda Comedy",
-      "date": "2026-04-17T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/17/buena-onda-comedy-tickets"
     },
     {
       "venue": "Rosemont Theatre",
@@ -2201,28 +1737,28 @@
       "url": "https://do312.com/events/2026/4/18/riff-city-tickets"
     },
     {
-      "venue": "e.t.c. Theater",
-      "title": "Live at the Second City: Comedy Dance Chicago presents HAPPY DANCE! Big Moves. Bigger Laughs",
-      "date": "2026-04-18T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/18/live-at-the-second-city-comedy-dance-chicago-presents-happy-dance-big-moves-bigger-laughs-tickets"
-    },
-    {
-      "venue": "The Lincoln Lodge",
-      "title": "Show & Tell for Grown-Ups: Audience Top Pick Presenters!",
-      "date": "2026-04-18T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/18/show-tell-for-grown-ups-audience-top-pick-presenters-tickets"
-    },
-    {
       "venue": "The Lincoln Lodge",
       "title": "1/2 Way to the Fest Fundraiser Comedy Show",
       "date": "2026-04-18T00:00:00Z",
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/4/18/1-2-way-to-the-fest-fundraiser-comedy-show-tickets"
+    },
+    {
+      "venue": "The Comedy Bar",
+      "title": "Chicago's Best Comedy Show",
+      "date": "2026-04-18T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/4/18/chicago-s-best-comedy-show-tickets"
+    },
+    {
+      "venue": "e.t.c. Theater",
+      "title": "Live at the Second City: Comedy Dance Chicago presents HAPPY DANCE! Big Moves. Bigger Laughs",
+      "date": "2026-04-18T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/4/18/live-at-the-second-city-comedy-dance-chicago-presents-happy-dance-big-moves-bigger-laughs-tickets"
     },
     {
       "venue": "RED ROOM Comedy Club",
@@ -2785,6 +2321,14 @@
       "url": "https://do312.com/events/2026/4/23/set-in-chicago-improvised-movie-sequels-tickets"
     },
     {
+      "venue": "The Den Theatre - Chicago",
+      "title": "Pitch and Pair: Pitch your friend to a crowd of singles (Setup Tour)",
+      "date": "2026-04-23T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/4/23/pitch-and-pair-pitch-your-friend-to-a-crowd-of-singles-setup-tour-tickets"
+    },
+    {
       "venue": "Judy's Beat Lounge",
       "title": "The Horse Always Whinnies",
       "date": "2026-04-23T00:00:00Z",
@@ -2937,6 +2481,14 @@
       "url": "https://do312.com/events/2026/4/24/up-n-coming-catch-chicago-s-rising-comics-before-tv-debut-tickets"
     },
     {
+      "venue": "The Lincoln Lodge",
+      "title": "The Lincoln Lodge Comedy Showcase",
+      "date": "2026-04-24T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/4/24/the-lincoln-lodge-comedy-showcase-tickets"
+    },
+    {
       "venue": "Donny's Skybox Theater",
       "title": "Shamilton the Improvised Hip Hop American Musical",
       "date": "2026-04-24T00:00:00Z",
@@ -2959,14 +2511,6 @@
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/4/24/swiped-improvised-thievery-tickets"
-    },
-    {
-      "venue": "The Lincoln Lodge",
-      "title": "Joke Swap!",
-      "date": "2026-04-24T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/24/joke-swap-tickets"
     },
     {
       "venue": "Wintrust Arena",
@@ -3097,6 +2641,14 @@
       "url": "https://do312.com/events/2026/4/25/dream-elephant-comedy-show-one-night-only-tickets"
     },
     {
+      "venue": "The Lincoln Lodge",
+      "title": "Hecklers’ Happy Hour Comedy Show",
+      "date": "2026-04-25T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/4/25/hecklers-happy-hour-comedy-show-tickets"
+    },
+    {
       "venue": "RED ROOM Comedy Club",
       "title": "Red Room Comedy",
       "date": "2026-04-25T00:00:00Z",
@@ -3113,28 +2665,20 @@
       "url": "https://do312.com/events/2026/4/25/here-for-a-fun-time-a-bubblingly-fun-chicago-comedy-showcase-tickets"
     },
     {
+      "venue": "The Lincoln Lodge",
+      "title": "The Lincoln Lodge Comedy Showcase",
+      "date": "2026-04-25T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/4/25/the-lincoln-lodge-comedy-showcase-tickets"
+    },
+    {
       "venue": "De Maat Theater",
       "title": "Stand-Up to ALZ",
       "date": "2026-04-25T00:00:00Z",
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/4/25/stand-up-to-alz-tickets"
-    },
-    {
-      "venue": "The Lincoln Lodge",
-      "title": "Joke Sistas Chicago",
-      "date": "2026-04-25T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/25/joke-sistas-chicago-tickets"
-    },
-    {
-      "venue": "The Lincoln Lodge",
-      "title": "Uncensored Comedy - Chicago’s most unfiltered late night comedy show",
-      "date": "2026-04-25T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/25/uncensored-comedy-chicago-s-most-unfiltered-late-night-comedy-show-tickets"
     },
     {
       "venue": "Chicago Improv Comedy Club",
@@ -3713,6 +3257,14 @@
       "url": "https://do312.com/events/2026/5/1/delightfully-unbothered-comedy-show-tickets"
     },
     {
+      "venue": "BABS Comedy Club",
+      "title": "Las Locas Comedy at BABS Comedy Club - May 1st, 2026",
+      "date": "2026-05-01T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/5/1/las-locas-comedy-at-babs-comedy-club-may-1st-2026-tickets"
+    },
+    {
       "venue": "De Maat Theater",
       "title": "420 Shakespeare",
       "date": "2026-05-01T00:00:00Z",
@@ -3754,19 +3306,11 @@
     },
     {
       "venue": "The Lincoln Lodge",
-      "title": "Laughter Hours: Late Night Jazzy-Themed Comedy Show",
+      "title": "The Lincoln Lodge Comedy Showcase",
       "date": "2026-05-01T00:00:00Z",
       "time": "",
       "description": "",
-      "url": "https://do312.com/events/2026/5/1/laughter-hours-late-night-jazzy-themed-comedy-show-tickets"
-    },
-    {
-      "venue": "Zanies Comedy Club",
-      "title": "Kevin Bozeman",
-      "date": "2026-05-02T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/5/2/kevin-bozeman-tickets"
+      "url": "https://do312.com/events/2026/5/1/the-lincoln-lodge-comedy-showcase-tickets"
     },
     {
       "venue": "United Center",
@@ -3783,6 +3327,14 @@
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/5/2/chris-d-elia-tickets"
+    },
+    {
+      "venue": "Zanies Comedy Club",
+      "title": "Kevin Bozeman",
+      "date": "2026-05-02T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/5/2/kevin-bozeman-tickets"
     },
     {
       "venue": "Zanies Comedy Club",
@@ -4554,6 +4106,14 @@
     },
     {
       "venue": "The Lincoln Lodge",
+      "title": "Hecklers’ Happy Hour Comedy Show",
+      "date": "2026-05-09T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/5/9/hecklers-happy-hour-comedy-show-tickets"
+    },
+    {
+      "venue": "The Lincoln Lodge",
       "title": "Limelight - Chicago’s most exciting Comedy Showcase",
       "date": "2026-05-09T00:00:00Z",
       "time": "",
@@ -4567,6 +4127,22 @@
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/5/9/trauma-dumping-a-hilarious-comedy-show-tickets"
+    },
+    {
+      "venue": "The Lincoln Lodge",
+      "title": "The Lincoln Lodge Comedy Showcase",
+      "date": "2026-05-09T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/5/9/the-lincoln-lodge-comedy-showcase-tickets"
+    },
+    {
+      "venue": "The Lincoln Lodge",
+      "title": "Prime Time - Chicago's hottest comedy showcase",
+      "date": "2026-05-09T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/5/9/prime-time-chicago-s-hottest-comedy-showcase-tickets"
     },
     {
       "venue": "The Lincoln Lodge",
@@ -4585,30 +4161,6 @@
       "url": "https://do312.com/events/2026/5/9/down-dirty-a-filthy-standup-showcase-tickets"
     },
     {
-      "venue": "Chicago Improv Comedy Club",
-      "title": "JR De Guzman: Boyfriend Material",
-      "date": "2026-05-10T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/5/10/jr-de-guzman-boyfriend-material-tickets"
-    },
-    {
-      "venue": "iO Theater",
-      "title": "Level 5 Grad Showcases",
-      "date": "2026-05-10T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/5/10/level-5-grad-showcases-tickets"
-    },
-    {
-      "venue": "The Lincoln Lodge",
-      "title": "Comedians That Are Gay",
-      "date": "2026-05-10T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/5/10/comedians-that-are-gay-tickets"
-    },
-    {
       "venue": "Reed's Local",
       "title": "Fun Simulation 2000 Open Mic Comedy",
       "date": "2026-05-10T00:00:00Z",
@@ -4623,6 +4175,22 @@
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/5/10/greg-schwem-tickets"
+    },
+    {
+      "venue": "Chicago Improv Comedy Club",
+      "title": "JR De Guzman: Boyfriend Material",
+      "date": "2026-05-10T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/5/10/jr-de-guzman-boyfriend-material-tickets"
+    },
+    {
+      "venue": "iO Theater",
+      "title": "Level 5 Grad Showcases",
+      "date": "2026-05-10T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/5/10/level-5-grad-showcases-tickets"
     },
     {
       "venue": "iO Theater",
@@ -4671,6 +4239,14 @@
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/5/10/sunday-best-tickets"
+    },
+    {
+      "venue": "The Lincoln Lodge",
+      "title": "Comedians That Are Gay",
+      "date": "2026-05-10T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/5/10/comedians-that-are-gay-tickets"
     },
     {
       "venue": "Zanies Comedy Club",
@@ -5153,6 +4729,14 @@
       "url": "https://do312.com/events/2026/5/16/riff-city-tickets"
     },
     {
+      "venue": "The Lincoln Lodge",
+      "title": "Hecklers’ Happy Hour Comedy Show",
+      "date": "2026-05-16T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/5/16/hecklers-happy-hour-comedy-show-tickets"
+    },
+    {
       "venue": "RED ROOM Comedy Club",
       "title": "Red Room Comedy",
       "date": "2026-05-16T00:00:00Z",
@@ -5217,14 +4801,6 @@
       "url": "https://do312.com/events/2026/5/17/level-5-grad-showcases-tickets"
     },
     {
-      "venue": "iO Theater",
-      "title": "Main Character Syndrome: A Solo Character Showcase",
-      "date": "2026-05-17T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/5/17/main-character-syndrome-a-solo-character-showcase-tickets"
-    },
-    {
       "venue": "RED ROOM Comedy Club",
       "title": "Monroe Martin Live",
       "date": "2026-05-17T00:00:00Z",
@@ -5255,6 +4831,14 @@
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/5/17/sauteed-standup-chicago-s-only-live-comedy-cooking-competition-show-tickets"
+    },
+    {
+      "venue": "iO Theater",
+      "title": "Main Character Syndrome: A Solo Character Showcase",
+      "date": "2026-05-17T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/5/17/main-character-syndrome-a-solo-character-showcase-tickets"
     },
     {
       "venue": "The Comedy Bar",
@@ -5594,6 +5178,14 @@
     },
     {
       "venue": "The Lincoln Lodge",
+      "title": "The Lincoln Lodge Comedy Showcase",
+      "date": "2026-05-22T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/5/22/the-lincoln-lodge-comedy-showcase-tickets"
+    },
+    {
+      "venue": "The Lincoln Lodge",
       "title": "Zak Toscani Live",
       "date": "2026-05-22T00:00:00Z",
       "time": "",
@@ -5714,6 +5306,14 @@
     },
     {
       "venue": "The Lincoln Lodge",
+      "title": "Hecklers’ Happy Hour Comedy Show",
+      "date": "2026-05-23T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/5/23/hecklers-happy-hour-comedy-show-tickets"
+    },
+    {
+      "venue": "The Lincoln Lodge",
       "title": "The Lincoln Lodge Comedy Showcase",
       "date": "2026-05-23T00:00:00Z",
       "time": "",
@@ -5721,12 +5321,12 @@
       "url": "https://do312.com/events/2026/5/23/the-lincoln-lodge-comedy-showcase-tickets"
     },
     {
-      "venue": "Annoyance Theatre",
-      "title": "Guerrilla Press",
-      "date": "2026-05-24T00:00:00Z",
+      "venue": "The Lincoln Lodge",
+      "title": "Prime Time - Chicago's hottest comedy showcase",
+      "date": "2026-05-23T00:00:00Z",
       "time": "",
       "description": "",
-      "url": "https://do312.com/events/2026/5/24/guerrilla-press-tickets"
+      "url": "https://do312.com/events/2026/5/23/prime-time-chicago-s-hottest-comedy-showcase-tickets"
     },
     {
       "venue": "Zanies Comedy Club",
@@ -5759,6 +5359,14 @@
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/5/24/fun-simulation-2000-open-mic-comedy-tickets"
+    },
+    {
+      "venue": "Annoyance Theatre",
+      "title": "Guerrilla Press",
+      "date": "2026-05-24T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/5/24/guerrilla-press-tickets"
     },
     {
       "venue": "Donny's Skybox Theater",
@@ -6081,6 +5689,14 @@
       "url": "https://do312.com/events/2026/5/29/jeff-mauro-live-from-clown-to-king-tickets"
     },
     {
+      "venue": "The Lincoln Lodge",
+      "title": "The Lincoln Lodge Comedy Showcase",
+      "date": "2026-05-29T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/5/29/the-lincoln-lodge-comedy-showcase-tickets"
+    },
+    {
       "venue": "The Comedy Bar",
       "title": "Kerwin Claiborne",
       "date": "2026-05-30T00:00:00Z",
@@ -6103,14 +5719,6 @@
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/5/30/the-early-bird-special-jam-tickets"
-    },
-    {
-      "venue": "iO Theater",
-      "title": "ComedySportz",
-      "date": "2026-05-30T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/5/30/comedysportz-tickets"
     },
     {
       "venue": "iO Theater",
@@ -6161,6 +5769,14 @@
       "url": "https://do312.com/events/2026/5/30/may-the-mirth-be-with-you-an-evening-with-the-therapy-players-tickets"
     },
     {
+      "venue": "iO Theater",
+      "title": "ComedySportz",
+      "date": "2026-05-30T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/5/30/comedysportz-tickets"
+    },
+    {
       "venue": "The Den Theatre",
       "title": "Vittorio Angelone",
       "date": "2026-05-30T00:00:00Z",
@@ -6175,6 +5791,14 @@
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/5/30/the-best-of-the-second-city-chicago-style-tickets"
+    },
+    {
+      "venue": "The Lincoln Lodge",
+      "title": "Hecklers’ Happy Hour Comedy Show",
+      "date": "2026-05-30T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/5/30/hecklers-happy-hour-comedy-show-tickets"
     },
     {
       "venue": "The Lincoln Lodge",
@@ -6194,6 +5818,14 @@
     },
     {
       "venue": "The Lincoln Lodge",
+      "title": "Prime Time - Chicago's hottest comedy showcase",
+      "date": "2026-05-30T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/5/30/prime-time-chicago-s-hottest-comedy-showcase-tickets"
+    },
+    {
+      "venue": "The Lincoln Lodge",
       "title": "Nervous Laughter Comedy Show: Laugh now, overthink later",
       "date": "2026-05-30T00:00:00Z",
       "time": "",
@@ -6207,14 +5839,6 @@
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/5/31/experts-tickets"
-    },
-    {
-      "venue": "Annoyance Theatre",
-      "title": "Guerrilla Press",
-      "date": "2026-05-31T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/5/31/guerrilla-press-tickets"
     },
     {
       "venue": "Zanies Comedy Club",
@@ -6233,14 +5857,6 @@
       "url": "https://do312.com/events/2026/5/31/level-5-grad-showcases-tickets"
     },
     {
-      "venue": "iO Theater",
-      "title": "Main Character Syndrome: A Solo Character Showcase",
-      "date": "2026-05-31T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/5/31/main-character-syndrome-a-solo-character-showcase-tickets"
-    },
-    {
       "venue": "Chicago Improv Comedy Club",
       "title": "Austin Nasso",
       "date": "2026-05-31T00:00:00Z",
@@ -6249,12 +5865,28 @@
       "url": "https://do312.com/events/2026/5/31/austin-nasso-tickets"
     },
     {
+      "venue": "Annoyance Theatre",
+      "title": "Guerrilla Press",
+      "date": "2026-05-31T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/5/31/guerrilla-press-tickets"
+    },
+    {
       "venue": "The Den Theatre",
       "title": "Antigone",
       "date": "2026-05-31T00:00:00Z",
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/5/31/antigone-tickets"
+    },
+    {
+      "venue": "iO Theater",
+      "title": "Main Character Syndrome: A Solo Character Showcase",
+      "date": "2026-05-31T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/5/31/main-character-syndrome-a-solo-character-showcase-tickets"
     },
     {
       "venue": "The Den Theatre",
@@ -6465,6 +6097,14 @@
       "url": "https://do312.com/events/2026/6/4/chicago-comedy-club-at-the-house-of-blues-chicago-s-best-comedy-show-tickets"
     },
     {
+      "venue": "The Comedy Vault",
+      "title": "Jeff Dye",
+      "date": "2026-06-04T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/6/4/jeff-dye-tickets"
+    },
+    {
       "venue": "Zanies Comedy Club",
       "title": "Rosebud Baker – Special Event",
       "date": "2026-06-05T00:00:00Z",
@@ -6529,6 +6169,94 @@
       "url": "https://do312.com/events/2026/6/5/delightfully-unbothered-comedy-show-tickets"
     },
     {
+      "venue": "The Den Theatre",
+      "title": "Antigone",
+      "date": "2026-06-05T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/6/5/antigone-tickets"
+    },
+    {
+      "venue": "The Comedy Bar",
+      "title": "Nick Alex",
+      "date": "2026-06-05T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/6/5/nick-alex-tickets"
+    },
+    {
+      "venue": "The Lincoln Lodge",
+      "title": "The Lincoln Lodge Comedy Showcase",
+      "date": "2026-06-05T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/6/5/the-lincoln-lodge-comedy-showcase-tickets"
+    },
+    {
+      "venue": "The Lincoln Lodge",
+      "title": "Blackout Diaries",
+      "date": "2026-06-05T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/6/5/blackout-diaries-tickets"
+    },
+    {
+      "venue": "The Lincoln Lodge",
+      "title": "Trauma Dumping: A Hilarious Comedy Show!",
+      "date": "2026-06-05T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/6/5/trauma-dumping-a-hilarious-comedy-show-tickets"
+    },
+    {
+      "venue": "Zanies Comedy Club",
+      "title": "Rosebud Baker – Special Event",
+      "date": "2026-06-06T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/6/6/rosebud-baker-special-event-tickets"
+    },
+    {
+      "venue": "Chicago Improv Comedy Club",
+      "title": "Bryan Callen",
+      "date": "2026-06-06T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/6/6/bryan-callen-tickets"
+    },
+    {
+      "venue": "iO Theater",
+      "title": "The Early Bird Special Jam",
+      "date": "2026-06-06T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/6/6/the-early-bird-special-jam-tickets"
+    },
+    {
+      "venue": "iO Theater",
+      "title": "ComedySportz",
+      "date": "2026-06-06T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/6/6/comedysportz-tickets"
+    },
+    {
+      "venue": "The Lincoln Lodge",
+      "title": "Psychic Standup with Karen Rontowski",
+      "date": "2026-06-06T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/6/6/psychic-standup-with-karen-rontowski-tickets"
+    },
+    {
+      "venue": "RED ROOM Comedy Club",
+      "title": "Comedy",
+      "date": "2026-06-06T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/6/6/red-room-comedy-tickets"
+    },
+    {
       "title": "No Grown-Ups Allowed",
       "venue": "The Second City",
       "date": "2026-06-06T00:00:00Z",
@@ -6569,8 +6297,8 @@
       "url": "https://do312.com/events/2026/11/28/rudolph-runs-wild-tickets"
     }
   ],
-  "lastUpdated": "2026-04-04T07:19:47.805125Z",
-  "totalShows": 821,
+  "lastUpdated": "2026-04-06T08:05:40.818654Z",
+  "totalShows": 787,
   "sources": [
     "Do312 Comedy Category",
     "Do312 Venue Pages"
