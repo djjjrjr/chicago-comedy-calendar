@@ -1,166 +1,6 @@
 {
   "shows": [
     {
-      "title": "PRETTY MAJOR Hosted by Jay Jurden",
-      "venue": "Union Hall",
-      "date": "2026-04-14T00:00:00.000Z",
-      "time": null,
-      "description": "PRETTY MAJOR Hosted by Jay Jurden",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "The Stand Presents: Aaron Chen, Rocky Dale Davis, Leonard Ouzts, & More!",
-      "venue": "The Stand - Main room",
-      "date": "2026-04-14T00:00:00.000Z",
-      "time": "10:00 PM",
-      "description": "The Stand Presents: Aaron Chen, Rocky Dale Davis, Leonard Ouzts, & More!",
-      "url": "https://thestandnyc.com//shows/show/12815/2026-04-14-220000-the-stand-presents"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-04-14T00:00:00.000Z",
-      "time": "10:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat",
-      "date": "2026-04-14T00:00:00.000Z",
-      "time": "10:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-04-14T00:00:00.000Z",
-      "time": "11:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Stand Up & Salute: Comedy Show Fundraiser For Veterans",
-      "venue": "The Stand - Main room",
-      "date": "2026-04-14T00:00:00.000Z",
-      "time": "5:00 PM",
-      "description": "Stand Up & Salute: Comedy Show Fundraiser For Veterans",
-      "url": "https://thestandnyc.com//shows/show/12702/2026-04-14-170000-stand-up-salute-comedy-show-fundraiser-for-veterans"
-    },
-    {
-      "title": "The Stand Presents: Emil Wakim, Jamie Wolf, Matthew Broussard, & More!",
-      "venue": "The Stand - Upstairs",
-      "date": "2026-04-14T00:00:00.000Z",
-      "time": "7:00 PM",
-      "description": "The Stand Presents: Emil Wakim, Jamie Wolf, Matthew Broussard, & More!",
-      "url": "https://thestandnyc.com//shows/show/12812/2026-04-14-190000-the-stand-presents"
-    },
-    {
-      "title": "Robert Kelly",
-      "venue": "Comedy Cellar",
-      "date": "2026-04-14T00:00:00.000Z",
-      "time": "7:00 pm",
-      "description": "Robert Kelly: A One Man Show: Final Fat",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Hairy Situation: A Comedy Show by ALOK",
-      "venue": "The Bell House",
-      "date": "2026-04-14T00:00:00.000Z",
-      "time": "7:00PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/4/14/hairy-situation-a-comedy-show-by-alok-tickets-zm7oy0r"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-04-14T00:00:00.000Z",
-      "time": "7:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-04-14T00:00:00.000Z",
-      "time": "7:35 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "The Stand Presents: Jamie Wolf, Ian Lara, Matthew Broussard, & More!",
-      "venue": "The Stand - Main room",
-      "date": "2026-04-14T00:00:00.000Z",
-      "time": "8:00 PM",
-      "description": "The Stand Presents: Jamie Wolf, Ian Lara, Matthew Broussard, & More!",
-      "url": "https://thestandnyc.com//shows/show/12813/2026-04-14-200000-the-stand-presents"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-04-14T00:00:00.000Z",
-      "time": "8:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-04-14T00:00:00.000Z",
-      "time": "8:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "The Stand Presents: Natalie Cuomo, Jamie Wolf, Judah Friedlander, & More!",
-      "venue": "The Stand - Upstairs",
-      "date": "2026-04-14T00:00:00.000Z",
-      "time": "9:00 PM",
-      "description": "The Stand Presents: Natalie Cuomo, Jamie Wolf, Judah Friedlander, & More!",
-      "url": "https://thestandnyc.com//shows/show/12814/2026-04-14-210000-the-stand-presents"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-04-14T00:00:00.000Z",
-      "time": "9:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-04-14T00:00:00.000Z",
-      "time": "9:35 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "The Improv Jam",
-      "venue": "UCB Theatre",
-      "date": "2026-04-14T00:00:00Z",
-      "time": "5:30 PM",
-      "description": "Tuesday, April 14, 2026 @ 5:30 PMNY - 14TH ST. MainstageThe Improv JamGet up on stage and get reps at The Improv Jam - Every Other Tuesday @ 5:30pm! Students of all levels are welcome and it is FREE! A free, inclusive improv jam for UCB students, performers, and fans! All levels…Read more",
-      "url": "https://ucbcomedy.com/show/the-improv-jam-04-14-26/"
-    },
-    {
-      "title": "Harold Night: SNAIL! & Bruv & Hot FM & Tiptoe",
-      "venue": "UCB Theatre",
-      "date": "2026-04-14T00:00:00Z",
-      "time": "7:00 PM",
-      "description": "Tuesday, April 14, 2026 @ 7:00 PMLivestreamNY - 14TH ST. MainstageHarold Night: SNAIL! & Bruv & Hot FM & TiptoeYour one-stop shop to see UCB’s house improv ensembles perform every Tuesday! Harold Night is UCB’s long-running weekly improv show featuring homegrown teams at the top of their game performing, you guessed it, The Harold.   Featuring: SNAIL! & Bruv…Buy Now",
-      "url": "https://ucbcomedy.com/show/harold-night-snail-bruv-hotfm-tiptoe-04-14-26/"
-    },
-    {
-      "title": "Lloyd Night: Dr Beer & Uncle Tough",
-      "venue": "UCB Theatre",
-      "date": "2026-04-14T00:00:00Z",
-      "time": "9:30 PM",
-      "description": "Tuesday, April 14, 2026 @ 9:30 PMLivestreamNY - 14TH ST. MainstageLloyd Night: Dr Beer & Uncle ToughYour one-stop shop to see UCB’s house improv ensembles perform every Tuesday! Lloyd Night is UCB’s bi-weekly improv show featuring homegrown teams at the top of their game performing, The Harold.   Featuring: Dr Beer & Uncle Tough —- Complete…Buy Now",
-      "url": "https://ucbcomedy.com/show/lloyd-night-drbeer-uncletough-04-14-26/"
-    },
-    {
       "title": "Phoebe Robinson: New Stuff.",
       "venue": "Union Hall",
       "date": "2026-04-15T00:00:00.000Z",
@@ -177,14 +17,6 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "The Stand Presents: Judah Friedlander, Ian Lara, Mary Santora, & More!",
-      "venue": "The Stand - Main room",
-      "date": "2026-04-15T00:00:00.000Z",
-      "time": "10:00 PM",
-      "description": "The Stand Presents: Judah Friedlander, Ian Lara, Mary Santora, & More!",
-      "url": "https://thestandnyc.com//shows/show/12819/2026-04-15-220000-the-stand-presents"
-    },
-    {
       "title": "Comedy Showcase",
       "venue": "Comedy Cellar - Village Underground",
       "date": "2026-04-15T00:00:00.000Z",
@@ -199,22 +31,6 @@
       "time": "10:30 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-04-15T00:00:00.000Z",
-      "time": "11:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "PITCH ROAST LIVE",
-      "venue": "Caveat",
-      "date": "2026-04-15T00:00:00.000Z",
-      "time": "7:00 PM",
-      "description": "​Pitch Roast Live️‍ brings comedy, startups, and venture capital together.",
-      "url": "https://caveat.nyc/events/pitch-roast-live-4-15-2026"
     },
     {
       "title": "The Stand Presents: Dan Soder, Jamie Wolf, Josh Ocean Thomas, & More!",
@@ -271,14 +87,6 @@
       "time": "9:00 PM",
       "description": "The Stand Presents: Sienna Hubert-Ross, Dan Soder, Blake Freeman, & More!",
       "url": "https://thestandnyc.com//shows/show/12818/2026-04-15-210000-the-stand-presents"
-    },
-    {
-      "title": "ROBOT KARAOKE PRESENTS: TAX NIGHT",
-      "venue": "Caveat",
-      "date": "2026-04-15T00:00:00.000Z",
-      "time": "9:30 PM",
-      "description": "A comedic exploration of government bureaucracy in all its forms, featuring art, investigative journ...",
-      "url": "https://caveat.nyc/events/robot-karaoke-presents-tax-night-4-15-2026"
     },
     {
       "title": "Comedy Showcase",
@@ -481,11 +289,11 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
-      "title": "Cage Match: TBD vs. Granny Fully Loaded",
+      "title": "Cage Match: HOT FM vs. Granny Fully Loaded",
       "venue": "UCB Theatre",
       "date": "2026-04-16T00:00:00Z",
       "time": "10:00 PM",
-      "description": "Thursday, April 16, 2026 @ 10:00 PMLivestreamNY - 14TH ST. MainstageCage Match: TBD vs. Granny Fully LoadedTwo Improv Teams Fight for the Future!   The World’s Most Dangerous Improv Show! In the year 2121, the World Government has outlawed LONG-FORM IMPROV. The very thing that will be the weapon for their downfall. Led by Chuck Cuckley…Buy Now",
+      "description": "Thursday, April 16, 2026 @ 10:00 PMLivestreamNY - 14TH ST. MainstageCage Match: HOT FM vs. Granny Fully LoadedTwo Improv Teams Fight for the Future!   The World’s Most Dangerous Improv Show! In the year 2121, the World Government has outlawed LONG-FORM IMPROV. The very thing that will be the weapon for their downfall. Led by Chuck Cuckley…Buy Now",
       "url": "https://ucbcomedy.com/show/cage-match-ny-04-16-26/"
     },
     {
@@ -545,11 +353,11 @@
       "url": "https://thestandnyc.com//shows/show/12824/2026-04-17-220000-the-stand-presents"
     },
     {
-      "title": "The Stand Presents: Marito Lopez, Peter James Fowler, Caroline Baniewicz, & More!",
+      "title": "The Stand Presents: Marito Lopez, Sherrod Small, Caroline Baniewicz, & More!",
       "venue": "The Stand - Upstairs",
       "date": "2026-04-17T00:00:00.000Z",
       "time": "11:00 PM",
-      "description": "The Stand Presents: Marito Lopez, Peter James Fowler, Caroline Baniewicz, & More!",
+      "description": "The Stand Presents: Marito Lopez, Sherrod Small, Caroline Baniewicz, & More!",
       "url": "https://thestandnyc.com//shows/show/12825/2026-04-17-230000-the-stand-presents"
     },
     {
@@ -561,11 +369,11 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
-      "title": "The Stand Presents: Chris Riggins & More!",
+      "title": "The Stand Presents: Gavin Matts, Josh Ocean Thomas, Caroline Baniewicz, & More!",
       "venue": "The Stand - Main room",
       "date": "2026-04-17T00:00:00.000Z",
       "time": "11:55 PM",
-      "description": "The Stand Presents: Chris Riggins & More!",
+      "description": "The Stand Presents: Gavin Matts, Josh Ocean Thomas, Caroline Baniewicz, & More!",
       "url": "https://thestandnyc.com//shows/show/12826/2026-04-17-235500-the-stand-presents-chris-riggins-more"
     },
     {
@@ -673,6 +481,14 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "The Stand Presents: Rocky Dale Davis, Anna Roisman, Aaron Berg, & More!",
+      "venue": "The Stand - Main room",
+      "date": "2026-04-18T00:00:00.000Z",
+      "time": "10:00 PM",
+      "description": "The Stand Presents: Rocky Dale Davis, Anna Roisman, Aaron Berg, & More!",
+      "url": "https://thestandnyc.com//shows/show/12828/2026-04-18-220000-the-stand-presents"
+    },
+    {
       "title": "PUBLIC ACCESS FEVER DREAM",
       "venue": "Caveat",
       "date": "2026-04-18T00:00:00.000Z",
@@ -689,6 +505,14 @@
       "url": "https://caveat.nyc/events/on-the-watchlist-with-jay-servedio-a-live-late-night-comedy-show-4-18-2026"
     },
     {
+      "title": "Bitches' Brew",
+      "venue": "The Stand - Main room",
+      "date": "2026-04-18T00:00:00.000Z",
+      "time": "6:00 PM",
+      "description": "Bitches' Brew",
+      "url": "https://thestandnyc.com//shows/show/12870/2026-04-18-180000-bitches-brew"
+    },
+    {
       "title": "LECTURES ON TAP-\"THE HISTORY OF TITANIC MOVIES\"",
       "venue": "Caveat",
       "date": "2026-04-18T00:00:00.000Z",
@@ -697,12 +521,44 @@
       "url": "https://caveat.nyc/events/lectures-on-tap-the-history-of-titanic-movies-4-18-2026"
     },
     {
+      "title": "The Stand Presents: Janeane Garofalo, Gavin Matts, Oscar Aydin, & More!",
+      "venue": "The Stand - Upstairs",
+      "date": "2026-04-18T00:00:00.000Z",
+      "time": "7:00 PM",
+      "description": "The Stand Presents: Janeane Garofalo, Gavin Matts, Oscar Aydin, & More!",
+      "url": "https://thestandnyc.com//shows/show/12871/2026-04-18-190000-the-stand-presents"
+    },
+    {
       "title": "A Drinking Game NYC: Bridesmaids",
       "venue": "The Bell House",
       "date": "2026-04-18T00:00:00.000Z",
       "time": "7:00PM",
       "description": null,
       "url": "https://donyc.com/events/2026/4/18/a-drinking-game-nyc-bridesmaids-tickets"
+    },
+    {
+      "title": "The Stand Presents: Aaron Berg, Bonnie McFarlane, Kyle Dunnigan, & More!",
+      "venue": "The Stand - Main room",
+      "date": "2026-04-18T00:00:00.000Z",
+      "time": "8:00 PM",
+      "description": "The Stand Presents: Aaron Berg, Bonnie McFarlane, Kyle Dunnigan, & More!",
+      "url": "https://thestandnyc.com//shows/show/12827/2026-04-18-200000-the-stand-presents"
+    },
+    {
+      "title": "Live Comedy On The Outdoor Patio!",
+      "venue": "The Stand - Patio",
+      "date": "2026-04-18T00:00:00.000Z",
+      "time": "8:30 PM",
+      "description": "Live Comedy On The Outdoor Patio!",
+      "url": "https://thestandnyc.com//shows/show/12890/2026-04-18-203000-live-comedy-on-the-outdoor-patio"
+    },
+    {
+      "title": "The Stand Presents: Kyle Dunnigan, Janeane Garofalo, Rocky Dale Davis, & More!",
+      "venue": "The Stand - Upstairs",
+      "date": "2026-04-18T00:00:00.000Z",
+      "time": "9:00 PM",
+      "description": "The Stand Presents: Kyle Dunnigan, Janeane Garofalo, Rocky Dale Davis, & More!",
+      "url": "https://thestandnyc.com//shows/show/12872/2026-04-18-210000-the-stand-presents"
     },
     {
       "title": "THEY BLINDED ME WITH SCIENCE PRESENTS: HOME ON ANY STREET",
@@ -1009,6 +865,14 @@
       "url": "https://donyc.com/events/2026/4/22/my-straight-friends-tickets"
     },
     {
+      "title": "BEN’S HEALTH: A LIVE-ACTION MEN’S HEALTH MAGAZINE",
+      "venue": "Caveat",
+      "date": "2026-04-22T00:00:00.000Z",
+      "time": "9:30 PM",
+      "description": "Ben’s Health is a comedy show to help men do better. Hosted by Ben Taylor (Nerd Nite) and featuring ...",
+      "url": "https://caveat.nyc/events/bens-health-a-live-action-mens-health-magazine-4-22-2026"
+    },
+    {
       "title": "The Sober Show",
       "venue": "UCB Theatre",
       "date": "2026-04-22T00:00:00Z",
@@ -1047,6 +911,14 @@
       "time": null,
       "description": "LAUGH",
       "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "LECTURES ON TAP - \"GENDER, PERFORMED: THE SOCIAL CONSTRUCTION OF IDENTITY\"",
+      "venue": "Caveat",
+      "date": "2026-04-23T00:00:00.000Z",
+      "time": "7:00 PM",
+      "description": "Lectures on Tap - \"Gender, Performed: The Social Construction of Identity\"",
+      "url": "https://caveat.nyc/events/lectures-on-tap---gender-performed-the-social-construction-of-identity-4-23-2026"
     },
     {
       "title": "Cage Match: TBD vs. The Prophecy",
@@ -1303,6 +1175,14 @@
       "time": "8:30 PM",
       "description": "Monday, April 27, 2026 @ 8:30 PMLivestreamNY - 14TH ST. MainstageRumpleteaser Musical ImprovEvery show we get a suggestion and create a brand new musical on the spot, from the dance to the music to the lyrics!   Rumpleteaser is a musical improv team that has been performing at UCB and across the…Buy Now",
       "url": "https://ucbcomedy.com/show/rumpleteaser-musical-improv-04-27-26/"
+    },
+    {
+      "title": "Un Poco and Friends",
+      "venue": "UCB Theatre",
+      "date": "2026-04-27T00:00:00Z",
+      "time": "9:00 PM",
+      "description": "Monday, April 27, 2026 @ 9:00 PMNY - 14TH ST. UpstairsUn Poco and Friends\"An Improv Show for people who speak a little bit of Spanish... and people who don't\"   Un Poco is comprised of improvisers of Latino backgrounds. While our roots come from all over Latin America, we all share one thing:…Buy Now",
+      "url": "https://ucbcomedy.com/show/un-poco-and-friends-04-27-26/"
     },
     {
       "title": "PRETTY MAJOR Hosted by Jay Jurden",
@@ -1657,6 +1537,14 @@
       "url": "https://donyc.com/events/2026/5/4/the-george-lucas-talk-show-tickets"
     },
     {
+      "title": "MAUDE NIGHT: Fridge Magnet & First Wife",
+      "venue": "UCB Theatre",
+      "date": "2026-05-04T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Monday, May 4, 2026 @ 7:00 PMLivestreamNY - 14TH ST. MainstageMAUDE NIGHT: Fridge Magnet & First WifeMaude Night boasts brand new material by UCB’s house sketch teams every month. Come see top-notch sketch comedy featuring two teams of UCB’s finest writers and performers. —— Featuring: Fridge Magnet & First Wife —- Complete List of Maude Teams:…Buy Now",
+      "url": "https://ucbcomedy.com/show/maude-night-fridge-magnet-first-wife-05-04-26/"
+    },
+    {
       "title": "Cold Plunge with Kurt Braunohler",
       "venue": "Union Hall",
       "date": "2026-05-05T00:00:00.000Z",
@@ -1687,6 +1575,14 @@
       "time": "7:00 PM",
       "description": "Tuesday, May 5, 2026 @ 7:00 PMLivestreamNY - 14TH ST. MainstageHarold NightYour one-stop shop to see UCB’s house improv ensembles perform every Tuesday! Harold Night is UCB’s long-running weekly improv show featuring homegrown teams at the top of their game performing, you guessed it, The Harold.   Featuring: TBA! —— In-person…Buy Now",
       "url": "https://ucbcomedy.com/show/harold-night-05-05-26/"
+    },
+    {
+      "title": "THEATRE: The Improvised Play",
+      "venue": "UCB Theatre",
+      "date": "2026-05-05T00:00:00Z",
+      "time": "9:30 PM",
+      "description": "Tuesday, May 5, 2026 @ 9:30 PMLivestreamNY - 14TH ST. MainstageTHEATRE: The Improvised PlayAn improvised play by eight of NYC’s top actors (who also happen to do improv)!   COME WITNESS NYC’S ONLY IMPROVISED PLAY! The children of Meisner, Adler, Strasberg, Atlantic, and any expensive acting/conservatory come together for one night to give…Buy Now",
+      "url": "https://ucbcomedy.com/show/theatre-the-improvised-play-05-05-26/"
     },
     {
       "title": "Greta Titelman: Hot! Fresh! New!",
@@ -1721,6 +1617,38 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "Cage Match: TBD vs. Day Trip",
+      "venue": "UCB Theatre",
+      "date": "2026-05-07T00:00:00Z",
+      "time": "10:00 PM",
+      "description": "Thursday, May 7, 2026 @ 10:00 PMLivestreamNY - 14TH ST. MainstageCage Match: TBD vs. Day TripTwo Improv Teams Fight for the Future!   The World’s Most Dangerous Improv Show! In the year 2121, the World Government has outlawed LONG-FORM IMPROV. The very thing that will be the weapon for their downfall. Led by Chuck Cuckley…Buy Now",
+      "url": "https://ucbcomedy.com/show/cage-match-ny-05-07-26/"
+    },
+    {
+      "title": "Monster of the Week",
+      "venue": "UCB Theatre",
+      "date": "2026-05-07T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Thursday, May 7, 2026 @ 7:00 PMLivestreamNY - 14TH ST. MainstageMonster of the WeekA completely improvised episode of your favorite supernatural teen drama. Monster of the Week improvises a full episode of a classic CW teen drama. Except these teens are constantly being pulled out of class to defeat whatever evil force has…Buy Now",
+      "url": "https://ucbcomedy.com/show/monster-of-the-week-05-07-26/"
+    },
+    {
+      "title": "222",
+      "venue": "UCB Theatre",
+      "date": "2026-05-07T00:00:00Z",
+      "time": "7:30 PM",
+      "description": "Thursday, May 7, 2026 @ 7:30 PMNY - 14TH ST. Upstairs222A night of two prov!   Each show features a set from soft (Akmal Tajihan & Amanda Breen) as well as a special guest duo bringing their own unique energy. There will also be one completely unpredictable set. We will…Buy Now",
+      "url": "https://ucbcomedy.com/show/222-05-07-26-2/"
+    },
+    {
+      "title": "A Really Bad Time with Alex Kumin",
+      "venue": "UCB Theatre",
+      "date": "2026-05-07T00:00:00Z",
+      "time": "8:30 PM",
+      "description": "Thursday, May 7, 2026 @ 8:30 PMLivestreamNY - 14TH ST. MainstageA Really Bad Time with Alex KuminA Really Bad Time with Alex Kumin (Comedy Central, TimeOut USA Comic to Watch, NBC) is a darkly funny, unexpectedly warm solo show about surviving the kinds of things people don’t usually bring up in polite conversation: cancer and sexual trauma*! With sharp…Buy Now",
+      "url": "https://ucbcomedy.com/show/a-really-bad-time-with-alex-kumin-05-07-26/"
+    },
+    {
       "title": "Kaleidoscope",
       "venue": "UCB Theatre",
       "date": "2026-05-07T00:00:00Z",
@@ -1735,6 +1663,14 @@
       "time": null,
       "description": "David Cross: Shootin’ the Shit, Seein’ What Sticks",
       "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "The Trash King",
+      "venue": "UCB Theatre",
+      "date": "2026-05-08T00:00:00Z",
+      "time": "10:30 PM",
+      "description": "Friday, May 8, 2026 @ 10:30 PMLivestreamNY - 14TH ST. MainstageThe Trash KingThe UCB’s best comedians perform their wildest bits in a tournament presided over by THE TRASH KING! Since 2019, featured in the New York Comedy Festival and Jezebel! The Trash King is a contest and celebration of the stupidest, wildest…Buy Now",
+      "url": "https://ucbcomedy.com/show/the-trash-king-05-08-26/"
     },
     {
       "title": "ASSSSCAT NY",
@@ -1777,6 +1713,14 @@
       "url": "https://ucbcomedy.com/show/duchovny-05-09-26/"
     },
     {
+      "title": "ASSSSCAT NY",
+      "venue": "UCB Theatre",
+      "date": "2026-05-09T00:00:00Z",
+      "time": "8:30 PM",
+      "description": "Saturday, May 9, 2026 @ 8:30 PMLivestreamNY - 14TH ST. MainstageASSSSCAT NYASSSSCAT is UCB’s signature improv show that has played to critical acclaim and sold out audiences across the country. What is ASSSSCAT?   It starts with a group of improv comedians from film & TV taking the stage with a special…Buy Now",
+      "url": "https://ucbcomedy.com/show/asssscat-ny-05-09-26/"
+    },
+    {
       "title": "Comedy Showcase",
       "venue": "Comedy Cellar - Village Underground",
       "date": "2026-05-10T00:00:00.000Z",
@@ -1801,12 +1745,36 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
+      "title": "MAUDE NIGHT: Reunion Tour &  Mom’s World",
+      "venue": "UCB Theatre",
+      "date": "2026-05-11T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Monday, May 11, 2026 @ 7:00 PMLivestreamNY - 14TH ST. MainstageMAUDE NIGHT: Reunion Tour &  Mom’s WorldMaude Night boasts brand new material by UCB’s house sketch teams every month. Come see top-notch sketch comedy featuring two teams of UCB’s finest writers and performers. —— Featuring: Reunion Tour & Mom's World —- Complete List of Maude Teams:…Buy Now",
+      "url": "https://ucbcomedy.com/show/maude-night-reunion-tour-moms-world-05-11-26/"
+    },
+    {
       "title": "PRETTY MAJOR Hosted by Jay Jurden",
       "venue": "Union Hall",
       "date": "2026-05-12T00:00:00.000Z",
       "time": null,
       "description": "PRETTY MAJOR Hosted by Jay Jurden",
       "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Robert Kelly",
+      "venue": "Comedy Cellar",
+      "date": "2026-05-12T00:00:00.000Z",
+      "time": "7:00 pm",
+      "description": "Robert Kelly: A One Man Show: Final Fat",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar",
+      "date": "2026-05-12T00:00:00.000Z",
+      "time": "7:31 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
       "title": "Harold Night",
@@ -1849,6 +1817,14 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "Cage Match: TBD vs. Go Dummy",
+      "venue": "UCB Theatre",
+      "date": "2026-05-14T00:00:00Z",
+      "time": "10:00 PM",
+      "description": "Thursday, May 14, 2026 @ 10:00 PMLivestreamNY - 14TH ST. MainstageCage Match: TBD vs. Go DummyTwo Improv Teams Fight for the Future!   The World’s Most Dangerous Improv Show! In the year 2121, the World Government has outlawed LONG-FORM IMPROV. The very thing that will be the weapon for their downfall. Led by Chuck Cuckley…Buy Now",
+      "url": "https://ucbcomedy.com/show/cage-match-ny-05-14-26/"
+    },
+    {
       "title": "Annabel and Sabina Meschke present: TRIPLET AUDITIONS",
       "venue": "Union Hall",
       "date": "2026-05-15T00:00:00.000Z",
@@ -1871,6 +1847,14 @@
       "time": "7:00 PM",
       "description": "Friday, May 15, 2026 @ 7:00 PMLivestreamNY - 14TH ST. MainstageThe StepfathersWatch your favorite improvisers, Shannon O’Neill, Connor Ratliff, Alexandra Dickson, Sebastian Conelli, Zach Cherry, and Shane Nielsen make all the sad things funny. The legendary improv group The Stepfathers has survived 2 decades performing in NYC. Born in the basement…Buy Now",
       "url": "https://ucbcomedy.com/show/the-stepfathers-05-15-26/"
+    },
+    {
+      "title": "ASSSSCAT NY",
+      "venue": "UCB Theatre",
+      "date": "2026-05-15T00:00:00Z",
+      "time": "8:30 PM",
+      "description": "Friday, May 15, 2026 @ 8:30 PMLivestreamNY - 14TH ST. MainstageASSSSCAT NYASSSSCAT is UCB’s signature improv show that has played to critical acclaim and sold out audiences across the country. What is ASSSSCAT?   It starts with a group of improv comedians from film & TV taking the stage with a special…Buy Now",
+      "url": "https://ucbcomedy.com/show/asssscat-ny-05-15-26/"
     },
     {
       "title": "Trial and Error: Brittany Carney Does New Stuff",
@@ -1897,6 +1881,30 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "Asian AF",
+      "venue": "UCB Theatre",
+      "date": "2026-05-16T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Saturday, May 16, 2026 @ 7:00 PMLivestreamNY - 14TH ST. MainstageAsian AFASIAN AF (Asian As F***) is the premier comedy variety show in Los Angeles and New York, spotlighting both upcoming and established Asian American actors, stand-up comedians, improvisers, sketch performers, musicians, storytellers, and more. The show has been featured on several…Buy Now",
+      "url": "https://ucbcomedy.com/show/asian-af-05-16-26/"
+    },
+    {
+      "title": "ASSSSCAT NY",
+      "venue": "UCB Theatre",
+      "date": "2026-05-16T00:00:00Z",
+      "time": "8:30 PM",
+      "description": "Saturday, May 16, 2026 @ 8:30 PMLivestreamNY - 14TH ST. MainstageASSSSCAT NYASSSSCAT is UCB’s signature improv show that has played to critical acclaim and sold out audiences across the country. What is ASSSSCAT?   It starts with a group of improv comedians from film & TV taking the stage with a special…Buy Now",
+      "url": "https://ucbcomedy.com/show/asssscat-ny-05-16-26/"
+    },
+    {
+      "title": "ASIAN AF JAM!",
+      "venue": "UCB Theatre",
+      "date": "2026-05-16T00:00:00Z",
+      "time": "8:45 PM",
+      "description": "Saturday, May 16, 2026 @ 8:45 PMNY - 14TH ST. UpstairsASIAN AF JAM!A completely *FREE* jam for AAPI improvisers of all experience levels!   Whether you’ve never tried improv before, are a current student, or an established improviser who wants to try something new, this jam is a low pressure *FREE* opportunity…Read more",
+      "url": "https://ucbcomedy.com/show/asian-af-jam-05-16-26/"
+    },
+    {
       "title": "Alison Leiby: For This?",
       "venue": "Union Hall",
       "date": "2026-05-17T00:00:00.000Z",
@@ -1911,6 +1919,14 @@
       "time": "6:30 PM",
       "description": "Sunday, May 17, 2026 @ 6:30 PMNY - 14TH ST. UpstairsThe Lady JamA jam-meets-dance-party for women and non-binary improvisors of all levels <3 Lady Jam is a longstanding UCB tradition — a FREE, inclusive, and welcoming improv jam for UCB students, performers, and fans who identify as women or non-binary! All you…Read more",
       "url": "https://ucbcomedy.com/show/the-lady-jam-05-17-26/"
+    },
+    {
+      "title": "MAUDE NIGHT: Pamela & Golden Hour",
+      "venue": "UCB Theatre",
+      "date": "2026-05-18T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Monday, May 18, 2026 @ 7:00 PMLivestreamNY - 14TH ST. MainstageMAUDE NIGHT: Pamela & Golden HourMaude Night boasts brand new material by UCB’s house sketch teams every month. Come see top-notch sketch comedy featuring two teams of UCB’s finest writers and performers. —— Featuring: Pamela & Golden Hour —- Complete List of Maude Teams: Fridge…Buy Now",
+      "url": "https://ucbcomedy.com/show/maude-night-pamela-golden-hour-05-18-26/"
     },
     {
       "title": "Charlie And Richard Secret Project",
@@ -1953,14 +1969,6 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "Improvised The Office",
-      "venue": "UCB Theatre",
-      "date": "2026-05-22T00:00:00Z",
-      "time": "10:30 PM",
-      "description": "Friday, May 22, 2026 @ 10:30 PMLivestreamNY - 14TH ST. MainstageImprovised The OfficeA new episode of “The Office” that is completely improvised based on what you the audience wants to see!   Calling all fans of The Office and all members of \"Michael Scott's Dunder Mifflin Scranton Meredith Palmer Memorial Celebrity Rabies…Buy Now",
-      "url": "https://ucbcomedy.com/show/improvised-the-office-05-22-26/"
-    },
-    {
       "title": "UNDERGROUND MONK SHOW WORK IN PROGRESS SHOW (early show)",
       "venue": "Union Hall",
       "date": "2026-05-23T00:00:00.000Z",
@@ -1975,14 +1983,6 @@
       "time": null,
       "description": "UNDERGROUND MONK SHOW WORK IN PROGRESS SHOW",
       "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "What the Hell? An Incredible Improv Show",
-      "venue": "UCB Theatre",
-      "date": "2026-05-23T00:00:00Z",
-      "time": "7:00 PM",
-      "description": "Saturday, May 23, 2026 @ 7:00 PMLivestreamNY - 14TH ST. MainstageWhat the Hell? An Incredible Improv ShowAn incredible improv show with the most incredible improvisers in NYC.  What the Hell? An Incredible Improv Show brings together NYC’s best improvisers for an unscripted evening of comedy inspired by your stories. WTH showcases a brand new cast each show, featuring veteran improvisers and…Buy Now",
-      "url": "https://ucbcomedy.com/show/what-the-hell-an-incredible-improv-show-05-23-26/"
     },
     {
       "title": "Spooky Dookie Presents: TBD New Planet",
@@ -2001,22 +2001,6 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "Yard Sale Girls",
-      "venue": "UCB Theatre",
-      "date": "2026-05-24T00:00:00Z",
-      "time": "7:00 PM",
-      "description": "Sunday, May 24, 2026 @ 7:00 PMLivestreamNY - 14TH ST. MainstageYard Sale GirlsYard Sale Girls LIVE returns to UCB after 2 sold out shows! Fresh off a spring tour and sold out slot at Netflix Is A Joke, this BEST OF hour is exclusively goated classics. It’s a long weekend, so let’s…Buy Now",
-      "url": "https://ucbcomedy.com/show/yard-sale-girls-05-24-26/"
-    },
-    {
-      "title": "Twoprov Tournament 2026 Finals",
-      "venue": "UCB Theatre",
-      "date": "2026-05-24T00:00:00Z",
-      "time": "8:30 PM",
-      "description": "Sunday, May 24, 2026 @ 8:30 PMNY - 14TH ST. MainstageTwoprov Tournament 2026 FinalsThe final round to find the funniest improv duo in NYC!   It's the finals! Come out and cheer your team on for a chance at the title of funniest duo in NYC!   Hosted by Rory Scholl ( The…Buy Now",
-      "url": "https://ucbcomedy.com/show/twoprov-tournamnet-2026-finals-05-24-26/"
-    },
-    {
       "title": "PRETTY MAJOR Hosted by Jay Jurden",
       "venue": "Union Hall",
       "date": "2026-05-26T00:00:00.000Z",
@@ -2025,52 +2009,12 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "The Improv Jam",
-      "venue": "UCB Theatre",
-      "date": "2026-05-26T00:00:00Z",
-      "time": "5:30 PM",
-      "description": "Tuesday, May 26, 2026 @ 5:30 PMNY - 14TH ST. MainstageThe Improv JamGet up on stage and get reps at The Improv Jam - Every Other Tuesday @ 5:30pm! Students of all levels are welcome and it is FREE! A free, inclusive improv jam for UCB students, performers, and fans! All levels…Read more",
-      "url": "https://ucbcomedy.com/show/the-improv-jam-05-26-26/"
-    },
-    {
-      "title": "Harold Night",
-      "venue": "UCB Theatre",
-      "date": "2026-05-26T00:00:00Z",
-      "time": "7:00 PM",
-      "description": "Tuesday, May 26, 2026 @ 7:00 PMLivestreamNY - 14TH ST. MainstageHarold NightYour one-stop shop to see UCB’s house improv ensembles perform every Tuesday! Harold Night is UCB’s long-running weekly improv show featuring homegrown teams at the top of their game performing, you guessed it, The Harold.   Featuring: TBA! —— In-person…Buy Now",
-      "url": "https://ucbcomedy.com/show/harold-night-05-26-26/"
-    },
-    {
-      "title": "Mask Work",
-      "venue": "UCB Theatre",
-      "date": "2026-05-27T00:00:00Z",
-      "time": "8:30 PM",
-      "description": "Wednesday, May 27, 2026 @ 8:30 PMLivestreamNY - 14TH ST. MainstageMask WorkA night of high art and emotionally naked improvised theatre. Veteran improvisors Nick Mestad (The Rehearsal), Scott Nelson (Let’s Start a Cult), Micah Sterenberg (The Damn Michael Che) & Carl Tart (Comedy Bang Bang) bear their souls to create a…Buy Now",
-      "url": "https://ucbcomedy.com/show/mask-work-05-27-26/"
-    },
-    {
       "title": "Sureni & Lovers",
       "venue": "Union Hall",
       "date": "2026-05-28T00:00:00.000Z",
       "time": null,
       "description": "Sureni & Lovers",
       "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Not In My Backyard!",
-      "venue": "UCB Theatre",
-      "date": "2026-05-28T00:00:00Z",
-      "time": "7:00 PM",
-      "description": "Thursday, May 28, 2026 @ 7:00 PMLivestreamNY - 14TH ST. MainstageNot In My Backyard!NYC’s most opinionated comedians debate all the local issues causing drama in your neighborhood’s Facebook group.   A panel of New York’s most opinionated comedians, journalists, and politicians debate all the local issues causing drama in your neighborhood’s Facebook group.…Buy Now",
-      "url": "https://ucbcomedy.com/show/not-in-my-backyard-05-28-26/"
-    },
-    {
-      "title": "Kaleidoscope",
-      "venue": "UCB Theatre",
-      "date": "2026-05-28T00:00:00Z",
-      "time": "9:00 PM",
-      "description": "Thursday, May 28, 2026 @ 9:00 PMNY - 14TH ST. UpstairsKaleidoscopeThree brand new teams perform improv sets based on stories from a guest monologist.   Kaleidoscope is a long running mashup improv show featuring a guest monologist. Two team captains and your host will invite their friends and favorite improvisers…Buy Now",
-      "url": "https://ucbcomedy.com/show/kaleidoscope-05-28-26/"
     },
     {
       "title": "Emmy Blotnick \"What's Her Secret?\" Special Premiere Party",
@@ -2103,38 +2047,6 @@
       "time": null,
       "description": "Katie Garcia: Live in New York",
       "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Adam Conover and Friends: UCB DCM26 Headliner",
-      "venue": "UCB Theatre",
-      "date": "2026-06-11T00:00:00Z",
-      "time": "8:30 PM",
-      "description": "Thursday, June 11, 2026 @ 8:30 PMDCM26 - UCB MainstageAdam Conover and Friends: UCB DCM26 HeadlinerSee Adam Conover & Friends at DCM26 UCB's 22nd Annual DCM Comedy Festival returns to New York City June 12–14, 2026 — 56 hours of nonstop performance across six stages. Purchase a 3-Day Festival + Headliner(s) Badge and you'll get…Read more",
-      "url": "https://ucbcomedy.com/show/adam-conover-and-friends-ucb-dcm26-headliner/"
-    },
-    {
-      "title": "Big Grande: UCB DCM26 Headliner",
-      "venue": "UCB Theatre",
-      "date": "2026-06-12T00:00:00Z",
-      "time": "7:00 PM",
-      "description": "Friday, June 12, 2026 @ 7:00 PMDCM26 - UCB MainstageBig Grande: UCB DCM26 HeadlinerSee Big Grande at DCM26 UCB's 22nd Annual DCM Comedy Festival returns to New York City June 12–14, 2026 — 56 hours of nonstop performance across six stages. Purchase a 3-Day Festival + Headliner(s) Badge and you'll get to reserve…Read more",
-      "url": "https://ucbcomedy.com/show/big-grande-ucb-dcm26-headliner/"
-    },
-    {
-      "title": "Rory Scovel: UCB DCM26 Headliner",
-      "venue": "UCB Theatre",
-      "date": "2026-06-12T00:00:00Z",
-      "time": "7:00 PM",
-      "description": "Friday, June 12, 2026 @ 7:00 PMDCM26 - Theater For the New CityRory Scovel: UCB DCM26 HeadlinerSee Rory Scovel at DCM26 UCB's 22nd Annual DCM Comedy Festival returns to New York City June 12–14, 2026 — 56 hours of nonstop performance across six stages. Purchase a 3-Day Festival + Headliner(s) Badge and you'll get to reserve…Read more",
-      "url": "https://ucbcomedy.com/show/rory-scovel-ucb-dcm26-headliner/"
-    },
-    {
-      "title": "improv4humans with Matt Besser: UCB DCM26 Headliner",
-      "venue": "UCB Theatre",
-      "date": "2026-06-12T00:00:00Z",
-      "time": "8:30 PM",
-      "description": "Friday, June 12, 2026 @ 8:30 PMDCM26 - UCB Mainstageimprov4humans with Matt Besser: UCB DCM26 HeadlinerSee improv4humans with Matt Besser at DCM26 UCB's 22nd Annual DCM Comedy Festival returns to New York City June 12–14, 2026 — 56 hours of nonstop performance across six stages. Purchase a 3-Day Festival + Headliner(s) Badge and you'll get…Read more",
-      "url": "https://ucbcomedy.com/show/improv4humans-with-matt-besser-ucb-dcm26-headliner/"
     },
     {
       "title": "Dyketopia & Friends",
@@ -2241,23 +2153,31 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "HELLO, PUZZLERS! LIVE",
-      "venue": "Caveat",
+      "title": "Hairy Situation: A Comedy Show by ALOK",
+      "venue": "The Bell House",
       "date": "2027-04-14T00:00:00.000Z",
-      "time": "7:00 PM",
-      "description": "Are you ready for the most epic game night ever?",
-      "url": "https://caveat.nyc/events/hello-puzzlers-live-4-14-2026"
+      "time": null,
+      "description": null,
+      "url": "https://donyc.com/events/2026/4/14/hairy-situation-a-comedy-show-by-alok-tickets-zm7oy0r"
     },
     {
-      "title": "STORY-OKE: SING AND TELL",
+      "title": "PITCH ROAST LIVE",
       "venue": "Caveat",
-      "date": "2027-04-14T00:00:00.000Z",
+      "date": "2027-04-15T00:00:00.000Z",
+      "time": "7:00 PM",
+      "description": "​Pitch Roast Live️‍ brings comedy, startups, and venture capital together.",
+      "url": "https://caveat.nyc/events/pitch-roast-live-4-15-2026"
+    },
+    {
+      "title": "ROBOT KARAOKE PRESENTS: TAX NIGHT",
+      "venue": "Caveat",
+      "date": "2027-04-15T00:00:00.000Z",
       "time": "9:30 PM",
-      "description": "Karaoke Storytelling: Share a story about a song… then sing the hell out of it.",
-      "url": "https://caveat.nyc/events/story-oke-sing-and-tell-4-14-2026"
+      "description": "A comedic exploration of government bureaucracy in all its forms, featuring art, investigative journ...",
+      "url": "https://caveat.nyc/events/robot-karaoke-presents-tax-night-4-15-2026"
     }
   ],
-  "lastUpdated": "2026-04-14T08:19:44.497068Z",
+  "lastUpdated": "2026-04-15T07:46:31.265568Z",
   "sources": [
     "DoNYC",
     "Caveat",
@@ -2267,5 +2187,5 @@
     "UCB Theatre",
     "The Bell House"
   ],
-  "totalShows": 282
+  "totalShows": 272
 }
