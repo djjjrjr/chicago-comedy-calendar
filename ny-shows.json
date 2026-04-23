@@ -1,166 +1,6 @@
 {
   "shows": [
     {
-      "title": "Pizzazz with Gary Gulman",
-      "venue": "Union Hall",
-      "date": "2026-04-22T00:00:00.000Z",
-      "time": null,
-      "description": "Pizzazz with Gary Gulman",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "The Stand Presents: Ian Lara, Emil Wakim, Sienna Hubert-Ross, & More!",
-      "venue": "The Stand - Main room",
-      "date": "2026-04-22T00:00:00.000Z",
-      "time": "10:00 PM",
-      "description": "The Stand Presents: Ian Lara, Emil Wakim, Sienna Hubert-Ross, & More!",
-      "url": "https://thestandnyc.com//shows/show/12856/2026-04-22-220000-the-stand-presents"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-04-22T00:00:00.000Z",
-      "time": "10:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat",
-      "date": "2026-04-22T00:00:00.000Z",
-      "time": "10:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-04-22T00:00:00.000Z",
-      "time": "11:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar",
-      "date": "2026-04-22T00:00:00.000Z",
-      "time": "5:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "The Stand Presents: Dan Soder, Onika McLean, Drew Lynch, & More!",
-      "venue": "The Stand - Upstairs",
-      "date": "2026-04-22T00:00:00.000Z",
-      "time": "7:00 PM",
-      "description": "The Stand Presents: Dan Soder, Onika McLean, Drew Lynch, & More!",
-      "url": "https://thestandnyc.com//shows/show/12855/2026-04-22-190000-the-stand-presents"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar",
-      "date": "2026-04-22T00:00:00.000Z",
-      "time": "7:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-04-22T00:00:00.000Z",
-      "time": "7:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "My Straight Friends",
-      "venue": "The Bell House",
-      "date": "2026-04-22T00:00:00.000Z",
-      "time": "7:30PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/4/22/my-straight-friends-tickets"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-04-22T00:00:00.000Z",
-      "time": "7:35 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "The Stand Presents: Emil Wakim, Dan Soder, Rocky Dale Davis, & More!",
-      "venue": "The Stand - Main room",
-      "date": "2026-04-22T00:00:00.000Z",
-      "time": "8:00 PM",
-      "description": "The Stand Presents: Emil Wakim, Dan Soder, Rocky Dale Davis, & More!",
-      "url": "https://thestandnyc.com//shows/show/12754/2026-04-22-200000-the-stand-presents"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-04-22T00:00:00.000Z",
-      "time": "8:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-04-22T00:00:00.000Z",
-      "time": "8:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Marty's Party",
-      "venue": "The Stand - Upstairs",
-      "date": "2026-04-22T00:00:00.000Z",
-      "time": "9:00 PM",
-      "description": "Marty's Party",
-      "url": "https://thestandnyc.com//shows/show/12902/2026-04-22-210000-martys-party"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-04-22T00:00:00.000Z",
-      "time": "9:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-04-22T00:00:00.000Z",
-      "time": "9:35 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "The Sober Show",
-      "venue": "UCB Theatre",
-      "date": "2026-04-22T00:00:00Z",
-      "time": "7:00 PM",
-      "description": "Wednesday, April 22, 2026 @ 7:00 PMLivestreamNY - 14TH ST. MainstageThe Sober ShowImprov comedy based on your drunk stories, performed by sober improvisers.   The Sober Show at UCBNY features an all sober cast (like, in-recovery sober), we’ll get drinking stories from audience volunteers and perform improv based on those stories. Have…Buy Now",
-      "url": "https://ucbcomedy.com/show/the-sober-show-04-22-26/"
-    },
-    {
-      "title": "Achilles Wheel",
-      "venue": "UCB Theatre",
-      "date": "2026-04-22T00:00:00Z",
-      "time": "8:30 PM",
-      "description": "Wednesday, April 22, 2026 @ 8:30 PMNY - 14TH ST. MainstageAchilles WheelWhat if a comedy show felt more like a drinking game?   Brooklyn comedy mainstay Meredith Dietz (The Onion, Reductress) invites the best comedians in NYC for a high-energy, unpredictable stand-up comedy show. Comics join our host on stage for…Buy Now",
-      "url": "https://ucbcomedy.com/show/achilles-wheel-04-22-26/"
-    },
-    {
-      "title": "Little Darlings",
-      "venue": "UCB Theatre",
-      "date": "2026-04-22T00:00:00Z",
-      "time": "9:00 PM",
-      "description": "Wednesday, April 22, 2026 @ 9:00 PMNY - 14TH ST. UpstairsLittle DarlingsThe cutest improv group you've ever seen.   Little Darlings is an improv group that performs character-driven long-form and fast-paced short-form games. They are sweet, cutesy, and sometimes even a little cheeky. Plus, you'll have the opportunity to give suggestions…Buy Now",
-      "url": "https://ucbcomedy.com/show/little-darlings-04-22-26/"
-    },
-    {
       "title": "Molly Kearney and Their Talented Friends",
       "venue": "Union Hall",
       "date": "2026-04-23T00:00:00.000Z",
@@ -223,14 +63,6 @@
       "time": "6:45 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "LECTURES ON TAP - \"GENDER, PERFORMED: THE SOCIAL CONSTRUCTION OF IDENTITY\"",
-      "venue": "Caveat",
-      "date": "2026-04-23T00:00:00.000Z",
-      "time": "7:00 PM",
-      "description": "Lectures on Tap - \"Gender, Performed: The Social Construction of Identity\"",
-      "url": "https://caveat.nyc/events/lectures-on-tap---gender-performed-the-social-construction-of-identity-4-23-2026"
     },
     {
       "title": "WAHO",
@@ -303,14 +135,6 @@
       "time": "9:00 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "MAJOR FIX: POWERPOINT LECTURE SERIES ABOUT PERSONAL OBSESSIONS",
-      "venue": "Caveat",
-      "date": "2026-04-23T00:00:00.000Z",
-      "time": "9:30 PM",
-      "description": "Major Fix is an interactive storytelling show where NYC's most interesting minds share PowerPoint pr...",
-      "url": "https://caveat.nyc/events/major-fix-powerpoint-lecture-series-about-personal-obsessions-4-23-2026"
     },
     {
       "title": "Comedy Showcase",
@@ -633,12 +457,20 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "DJ Cowboy's Roundup: Pop, Disco, Rap, and R&B",
+      "title": "The Roundup with DJ Cowboy and special guest Small Hands",
       "venue": "Union Hall",
       "date": "2026-04-25T00:00:00.000Z",
       "time": null,
-      "description": "DJ Cowboy's Roundup: Pop, Disco, Rap, and R&B",
+      "description": "The Roundup with DJ Cowboy and special guest Small Hands",
       "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "The Stand Presents: Bonnie McFarlane, Rocky Dale Davis, Kyle Dunnigan, & More!",
+      "venue": "The Stand - Main room",
+      "date": "2026-04-25T00:00:00.000Z",
+      "time": "10:00 PM",
+      "description": "The Stand Presents: Bonnie McFarlane, Rocky Dale Davis, Kyle Dunnigan, & More!",
+      "url": "https://thestandnyc.com//shows/show/12839/2026-04-25-220000-the-stand-presents"
     },
     {
       "title": "Comedy Showcase",
@@ -655,6 +487,14 @@
       "time": "10:45 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "The Stand Presents: Natalie Cuomo, Marito Lopez, Onika McLean, & More!",
+      "venue": "The Stand - Upstairs",
+      "date": "2026-04-25T00:00:00.000Z",
+      "time": "11:00 PM",
+      "description": "The Stand Presents: Natalie Cuomo, Marito Lopez, Onika McLean, & More!",
+      "url": "https://thestandnyc.com//shows/show/12840/2026-04-25-230000-the-stand-presents"
     },
     {
       "title": "Comedy Showcase",
@@ -801,12 +641,28 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
+      "title": "Live Comedy On The Outdoor Patio!",
+      "venue": "The Stand - Patio",
+      "date": "2026-04-25T00:00:00.000Z",
+      "time": "8:30 PM",
+      "description": "Live Comedy On The Outdoor Patio!",
+      "url": "https://thestandnyc.com//shows/show/12892/2026-04-25-203000-live-comedy-on-the-outdoor-patio"
+    },
+    {
       "title": "Comedy Showcase",
       "venue": "Comedy Cellar - MacDougal Street",
       "date": "2026-04-25T00:00:00.000Z",
       "time": "8:45 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "The Stand Presents: Ian Lara, Bonnie McFarlane, Kyle Dunnigan, & More!",
+      "venue": "The Stand - Upstairs",
+      "date": "2026-04-25T00:00:00.000Z",
+      "time": "9:00 PM",
+      "description": "The Stand Presents: Ian Lara, Bonnie McFarlane, Kyle Dunnigan, & More!",
+      "url": "https://thestandnyc.com//shows/show/12838/2026-04-25-210000-the-stand-presents"
     },
     {
       "title": "Comedy Showcase",
@@ -882,23 +738,15 @@
     },
     {
       "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-04-26T00:00:00.000Z",
-      "time": "10:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-04-26T00:00:00.000Z",
-      "time": "11:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
       "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
+      "date": "2026-04-26T00:00:00.000Z",
+      "time": "10:30 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - MacDougal Street",
       "date": "2026-04-26T00:00:00.000Z",
       "time": "11:30 pm",
       "description": "Lineup to be announced",
@@ -906,25 +754,9 @@
     },
     {
       "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-04-26T00:00:00.000Z",
-      "time": "11:55 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
       "venue": "Comedy Cellar - MacDougal Street",
       "date": "2026-04-26T00:00:00.000Z",
-      "time": "12:30 am",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-04-26T00:00:00.000Z",
-      "time": "12:55 am",
+      "time": "1:30 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
@@ -937,12 +769,36 @@
       "url": "https://caveat.nyc/events/lordofthesword-4-26-2026"
     },
     {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Village Underground",
+      "date": "2026-04-26T00:00:00.000Z",
+      "time": "4:00 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
       "title": "SLACKJAW LIVE",
       "venue": "Caveat",
       "date": "2026-04-26T00:00:00.000Z",
       "time": "5:00 PM",
       "description": "Satire readings + an interview with a professional comedy writer",
       "url": "https://caveat.nyc/events/slackjaw-live-4-26-2026"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar",
+      "date": "2026-04-26T00:00:00.000Z",
+      "time": "5:00 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar",
+      "date": "2026-04-26T00:00:00.000Z",
+      "time": "5:30 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
       "title": "Comedy Showcase",
@@ -954,9 +810,9 @@
     },
     {
       "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
+      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
       "date": "2026-04-26T00:00:00.000Z",
-      "time": "6:45 pm",
+      "time": "6:30 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
@@ -964,7 +820,7 @@
       "title": "Comedy Showcase",
       "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
       "date": "2026-04-26T00:00:00.000Z",
-      "time": "7:01 pm",
+      "time": "7:00 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
@@ -978,7 +834,7 @@
     },
     {
       "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
+      "venue": "Comedy Cellar - MacDougal Street",
       "date": "2026-04-26T00:00:00.000Z",
       "time": "7:30 pm",
       "description": "Lineup to be announced",
@@ -1002,9 +858,9 @@
     },
     {
       "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
+      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
       "date": "2026-04-26T00:00:00.000Z",
-      "time": "8:45 pm",
+      "time": "8:30 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
@@ -1018,7 +874,7 @@
     },
     {
       "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
+      "venue": "Comedy Cellar - MacDougal Street",
       "date": "2026-04-26T00:00:00.000Z",
       "time": "9:30 pm",
       "description": "Lineup to be announced",
@@ -1047,6 +903,22 @@
       "time": null,
       "description": "David Cross: Shootin’ the Shit, Seein’ What Sticks",
       "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Village Underground",
+      "date": "2026-04-27T00:00:00.000Z",
+      "time": "10:00 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - MacDougal Street",
+      "date": "2026-04-27T00:00:00.000Z",
+      "time": "11:30 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
       "title": "Comedy Showcase",
@@ -1081,6 +953,14 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - MacDougal Street",
+      "date": "2026-04-27T00:00:00.000Z",
+      "time": "7:30 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
       "title": "Connor and Yvette Work It Out",
       "venue": "The Bell House",
       "date": "2026-04-27T00:00:00.000Z",
@@ -1089,12 +969,44 @@
       "url": "https://donyc.com/events/2026/4/27/connor-and-yvette-work-it-out-tickets"
     },
     {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
+      "date": "2026-04-27T00:00:00.000Z",
+      "time": "7:35 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Village Underground",
+      "date": "2026-04-27T00:00:00.000Z",
+      "time": "8:00 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
       "title": "STARSEEDS",
       "venue": "Caveat",
       "date": "2026-04-27T00:00:00.000Z",
       "time": "9:30 PM",
       "description": "STARSEEDS: A Dark Comedy Ritual Musical. Written and composed by Hannah B Roohi.",
       "url": "https://caveat.nyc/events/starseeds-4-27-2026"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - MacDougal Street",
+      "date": "2026-04-27T00:00:00.000Z",
+      "time": "9:30 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
+      "date": "2026-04-27T00:00:00.000Z",
+      "time": "9:35 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
       "title": "Gravid Water",
@@ -1130,6 +1042,14 @@
     },
     {
       "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - MacDougal Street",
+      "date": "2026-04-28T00:00:00.000Z",
+      "time": "11:30 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
       "venue": "Comedy Cellar",
       "date": "2026-04-28T00:00:00.000Z",
       "time": "5:30 pm",
@@ -1153,6 +1073,14 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - MacDougal Street",
+      "date": "2026-04-28T00:00:00.000Z",
+      "time": "7:30 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
       "title": "Isabel Klee Talks Dogs, Boys, and Other Things I've Cried About",
       "venue": "The Bell House",
       "date": "2026-04-28T00:00:00.000Z",
@@ -1167,6 +1095,14 @@
       "time": "9:30 PM",
       "description": "Table Read: Meet Me On The Brooklyn Bridge - A Film By Parade Stone",
       "url": "https://caveat.nyc/events/Meetmeinbrooklyn-4-28-2026"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - MacDougal Street",
+      "date": "2026-04-28T00:00:00.000Z",
+      "time": "9:30 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
       "title": "The Improv Jam",
@@ -1202,6 +1138,30 @@
     },
     {
       "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Village Underground",
+      "date": "2026-04-29T00:00:00.000Z",
+      "time": "10:00 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Fat Black Pussycat",
+      "date": "2026-04-29T00:00:00.000Z",
+      "time": "10:30 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - MacDougal Street",
+      "date": "2026-04-29T00:00:00.000Z",
+      "time": "11:30 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
       "venue": "Comedy Cellar",
       "date": "2026-04-29T00:00:00.000Z",
       "time": "5:30 pm",
@@ -1233,6 +1193,30 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - MacDougal Street",
+      "date": "2026-04-29T00:00:00.000Z",
+      "time": "7:30 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
+      "date": "2026-04-29T00:00:00.000Z",
+      "time": "7:35 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Village Underground",
+      "date": "2026-04-29T00:00:00.000Z",
+      "time": "8:00 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
       "title": "The Moth Storyslam",
       "venue": "The Bell House",
       "date": "2026-04-29T00:00:00.000Z",
@@ -1241,12 +1225,36 @@
       "url": "https://donyc.com/events/2026/4/29/the-moth-storyslam-tickets"
     },
     {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
+      "date": "2026-04-29T00:00:00.000Z",
+      "time": "8:30 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
       "title": "SORRY WE'RE HERE",
       "venue": "Caveat",
       "date": "2026-04-29T00:00:00.000Z",
       "time": "9:30 PM",
       "description": "Sorry We're Here presents an original sketch comedy show",
       "url": "https://caveat.nyc/events/sorry-were-here-4-29-2026"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - MacDougal Street",
+      "date": "2026-04-29T00:00:00.000Z",
+      "time": "9:30 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
+      "date": "2026-04-29T00:00:00.000Z",
+      "time": "9:35 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
       "title": "Doomscroll & David Bluvband is THE MOVIE",
@@ -1309,6 +1317,14 @@
       "venue": "Comedy Cellar - MacDougal Street",
       "date": "2026-04-30T00:00:00.000Z",
       "time": "10:45 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Fat Black Pussycat",
+      "date": "2026-04-30T00:00:00.000Z",
+      "time": "11:00 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
@@ -1457,52 +1473,12 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
+      "title": "IMMIGRANT JAM",
+      "venue": "Caveat",
       "date": "2026-05-01T00:00:00.000Z",
-      "time": "10:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-05-01T00:00:00.000Z",
-      "time": "10:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-05-01T00:00:00.000Z",
-      "time": "11:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-05-01T00:00:00.000Z",
-      "time": "6:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-05-01T00:00:00.000Z",
-      "time": "7:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-05-01T00:00:00.000Z",
-      "time": "7:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
+      "time": "7:00 PM",
+      "description": "Lucie Pohl's Immigrant Jam Comedy features NYC's funniest immigrant and 1st gen comedians",
+      "url": "https://caveat.nyc/events/immigrant-jam-5-1-2026"
     },
     {
       "title": "Drunk Bollywood Live!",
@@ -1513,36 +1489,12 @@
       "url": "https://donyc.com/events/2026/5/1/drunk-bollywood-live-tickets"
     },
     {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
+      "title": "ASK A FUCKBOY",
+      "venue": "Caveat",
       "date": "2026-05-01T00:00:00.000Z",
-      "time": "8:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-05-01T00:00:00.000Z",
-      "time": "8:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-05-01T00:00:00.000Z",
-      "time": "9:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-05-01T00:00:00.000Z",
-      "time": "9:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
+      "time": "9:30 PM",
+      "description": "Girls tell unhinged dating stories, a panel of fuckboys weighs in.",
+      "url": "https://caveat.nyc/events/ask-a-fuckboy-5-1-2026"
     },
     {
       "title": "The Great American Shit Carnival",
@@ -1660,7 +1612,23 @@
       "title": "Comedy Showcase",
       "venue": "Comedy Cellar",
       "date": "2026-05-03T00:00:00.000Z",
+      "time": "4:00 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar",
+      "date": "2026-05-03T00:00:00.000Z",
       "time": "5:00 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar",
+      "date": "2026-05-03T00:00:00.000Z",
+      "time": "6:00 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
@@ -1745,6 +1713,14 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Fat Black Pussycat",
+      "date": "2026-05-05T00:00:00.000Z",
+      "time": "10:30 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
       "title": "Robert Kelly",
       "venue": "Comedy Cellar",
       "date": "2026-05-05T00:00:00.000Z",
@@ -1793,11 +1769,11 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "Robert Kelly",
+      "title": "Comedy Showcase",
       "venue": "Comedy Cellar",
       "date": "2026-05-06T00:00:00.000Z",
       "time": "7:00 pm",
-      "description": "Robert Kelly: A One Man Show: Final Fat",
+      "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
@@ -1913,6 +1889,14 @@
       "url": "https://ucbcomedy.com/show/the-trash-king-05-08-26/"
     },
     {
+      "title": "The Prophecy",
+      "venue": "UCB Theatre",
+      "date": "2026-05-08T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Friday, May 8, 2026 @ 7:00 PMLivestreamNY - 14TH ST. MainstageThe ProphecyUCB comedy powerhouse, The Prophecy, does an hour of improv based on your futures.   Come watch the long-running, critically-acclaimed UCB improv team, The Prophecy, do an hour of improv based on your futures. Will the trip be a disaster?…Buy Now",
+      "url": "https://ucbcomedy.com/show/the-prophecy-05-08-26/"
+    },
+    {
       "title": "ASSSSCAT NY",
       "venue": "UCB Theatre",
       "date": "2026-05-08T00:00:00Z",
@@ -1985,6 +1969,14 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar",
+      "date": "2026-05-10T00:00:00.000Z",
+      "time": "5:00 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
       "title": "Hyesa Events presents",
       "venue": "The Bell House",
       "date": "2026-05-10T00:00:00.000Z",
@@ -2036,14 +2028,6 @@
       "title": "Comedy Showcase",
       "venue": "Comedy Cellar",
       "date": "2026-05-11T00:00:00.000Z",
-      "time": "6:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar",
-      "date": "2026-05-11T00:00:00.000Z",
       "time": "7:00 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
@@ -2081,19 +2065,11 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar",
-      "date": "2026-05-12T00:00:00.000Z",
-      "time": "6:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
+      "title": "Robert Kelly",
       "venue": "Comedy Cellar",
       "date": "2026-05-12T00:00:00.000Z",
       "time": "7:00 pm",
-      "description": "Lineup to be announced",
+      "description": "Robert Kelly: A One Man Show: Final Fat",
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
@@ -2103,6 +2079,14 @@
       "time": "7:30PM",
       "description": null,
       "url": "https://donyc.com/events/2026/5/12/sam-campbell-tickets"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar",
+      "date": "2026-05-12T00:00:00.000Z",
+      "time": "7:31 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
       "title": "Harold Night",
@@ -2337,6 +2321,14 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "Rory Scovel: Know Your Enemy Tour",
+      "venue": "The Bell House",
+      "date": "2026-05-17T00:00:00.000Z",
+      "time": "7:30PM",
+      "description": null,
+      "url": "https://donyc.com/events/2026/5/17/rory-scovel-know-your-enemy-tour-tickets"
+    },
+    {
       "title": "The Lady Jam",
       "venue": "UCB Theatre",
       "date": "2026-05-17T00:00:00Z",
@@ -2417,14 +2409,6 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-05-19T00:00:00.000Z",
-      "time": "6:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
       "title": "Robert Kelly",
       "venue": "Comedy Cellar",
       "date": "2026-05-19T00:00:00.000Z",
@@ -2441,6 +2425,22 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar",
+      "date": "2026-05-20T00:00:00.000Z",
+      "time": "6:00 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar",
+      "date": "2026-05-20T00:00:00.000Z",
+      "time": "7:00 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
       "title": "Half-Orphan & Bad Magicians: Improv to Make You Feel",
       "venue": "UCB Theatre",
       "date": "2026-05-20T00:00:00Z",
@@ -2449,12 +2449,28 @@
       "url": "https://ucbcomedy.com/show/half-orphan-bad-magicians-05-20-26/"
     },
     {
-      "title": "Jordan Klepper: New Goods",
+      "title": "*cancelled* Jordan Klepper: New Goods",
       "venue": "Union Hall",
       "date": "2026-05-21T00:00:00.000Z",
       "time": null,
-      "description": "Jordan Klepper: New Goods",
+      "description": "*cancelled* Jordan Klepper: New Goods",
       "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "2 Square with John Lutz and Peter Grosz",
+      "venue": "UCB Theatre",
+      "date": "2026-05-21T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Thursday, May 21, 2026 @ 7:00 PMNY - 14TH ST. Mainstage2 Square with John Lutz and Peter GroszJohn Lutz (30 Rock) and Peter Grosz (Veep) perform a 45 minute longform. John Lutz and Peter Grosz take a single suggestion then spin that into a 45 minute longform show featuring the kaleidoscope of scenes, absurdist transitional elements and callbacks – all…Buy Now",
+      "url": "https://ucbcomedy.com/show/2-square-with-john-lutz-and-peter-grosz-05-21-26/"
+    },
+    {
+      "title": "The World’s Most Interesting Sisters",
+      "venue": "UCB Theatre",
+      "date": "2026-05-21T00:00:00Z",
+      "time": "8:30 PM",
+      "description": "Thursday, May 21, 2026 @ 8:30 PMLivestreamNY - 14TH ST. MainstageThe World’s Most Interesting SistersA musical sketch/drag show featuring parodies of your favorite Broadway hits!   Debra and Betty Bardeaux were the biggest stars on the planet. Now, long forgotten by pop culture, they live together in a dilapidated mansion. Join them on a…Buy Now",
+      "url": "https://ucbcomedy.com/show/the-worlds-most-interesting-sisters-05-21-26/"
     },
     {
       "title": "UNDERGROUND MONK SHOW WORK IN PROGRESS SHOW",
@@ -2657,6 +2673,14 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "Alaire Thomas",
+      "venue": "Union Hall",
+      "date": "2026-06-27T00:00:00.000Z",
+      "time": null,
+      "description": "Alaire Thomas",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
       "title": "Jamie Wolf: Psycho",
       "venue": "Union Hall",
       "date": "2026-07-11T00:00:00.000Z",
@@ -2721,31 +2745,31 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "Sounds Like A Cult LIVE!",
+      "title": "My Straight Friends",
       "venue": "The Bell House",
-      "date": "2027-04-21T00:00:00.000Z",
+      "date": "2027-04-22T00:00:00.000Z",
       "time": "7:30PM",
       "description": null,
-      "url": "https://donyc.com/events/2026/4/21/sounds-like-a-cult-live-tickets"
+      "url": "https://donyc.com/events/2026/4/22/my-straight-friends-tickets"
     },
     {
-      "title": "SCIENCE TONIGHT! - HAPPY B-EARTHDAY!",
+      "title": "LECTURES ON TAP - \"GENDER, PERFORMED: THE SOCIAL CONSTRUCTION OF IDENTITY\"",
       "venue": "Caveat",
-      "date": "2027-04-22T00:00:00.000Z",
+      "date": "2027-04-23T00:00:00.000Z",
       "time": "7:00 PM",
-      "description": "The comedy talkshow that bring science to life!",
-      "url": "https://caveat.nyc/events/science-tonight---happy-b-earthday-4-22-2026"
+      "description": "Lectures on Tap - \"Gender, Performed: The Social Construction of Identity\"",
+      "url": "https://caveat.nyc/events/lectures-on-tap---gender-performed-the-social-construction-of-identity-4-23-2026"
     },
     {
-      "title": "BEN’S HEALTH: A LIVE-ACTION MEN’S HEALTH MAGAZINE",
+      "title": "MAJOR FIX: POWERPOINT LECTURE SERIES ABOUT PERSONAL OBSESSIONS",
       "venue": "Caveat",
-      "date": "2027-04-22T00:00:00.000Z",
+      "date": "2027-04-23T00:00:00.000Z",
       "time": "9:30 PM",
-      "description": "Ben’s Health is a comedy show to help men do better. Hosted by Ben Taylor (Nerd Nite) and featuring ...",
-      "url": "https://caveat.nyc/events/bens-health-a-live-action-mens-health-magazine-4-22-2026"
+      "description": "Major Fix is an interactive storytelling show where NYC's most interesting minds share PowerPoint pr...",
+      "url": "https://caveat.nyc/events/major-fix-powerpoint-lecture-series-about-personal-obsessions-4-23-2026"
     }
   ],
-  "lastUpdated": "2026-04-22T07:46:40.093482Z",
+  "lastUpdated": "2026-04-23T07:55:42.486760Z",
   "sources": [
     "DoNYC",
     "Caveat",
@@ -2755,5 +2779,5 @@
     "UCB Theatre",
     "The Bell House"
   ],
-  "totalShows": 343
+  "totalShows": 346
 }
