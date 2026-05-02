@@ -1,228 +1,12 @@
 {
   "shows": [
     {
-      "title": "Whiplash",
+      "title": "Ramy Youssef",
       "venue": "Union Hall",
-      "date": "2026-05-01T00:00:00.000Z",
+      "date": "2026-05-02T00:00:00.000Z",
       "time": null,
-      "description": "Whiplash",
+      "description": "Ramy Youssef",
       "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Hari Kondabolu and Josh Gondelman present: Fall of Freedom Comedy Show",
-      "venue": "Union Hall",
-      "date": "2026-05-01T00:00:00.000Z",
-      "time": null,
-      "description": "Hari Kondabolu and Josh Gondelman present: Fall of Freedom Comedy Show",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "KARAOKE TREMENDOUS",
-      "venue": "Union Hall",
-      "date": "2026-05-01T00:00:00.000Z",
-      "time": null,
-      "description": "KARAOKE TREMENDOUS",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "The Stand Presents: Jim Florentine, Aaron Berg, Onika McLean, Bonnie McFarlane, & More!",
-      "venue": "The Stand - Main room",
-      "date": "2026-05-01T00:00:00.000Z",
-      "time": "10:00 PM",
-      "description": "The Stand Presents: Jim Florentine, Aaron Berg, Onika McLean, Bonnie McFarlane, & More!",
-      "url": "https://thestandnyc.com//shows/show/12908/2026-05-01-220000-the-stand-presents"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-05-01T00:00:00.000Z",
-      "time": "10:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-05-01T00:00:00.000Z",
-      "time": "10:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "The Stand Presents: Rachel Williams, Leonard Ouzts, Andre Kim, Blake Freeman, & More!",
-      "venue": "The Stand - Upstairs",
-      "date": "2026-05-01T00:00:00.000Z",
-      "time": "11:00 PM",
-      "description": "The Stand Presents: Rachel Williams, Leonard Ouzts, Andre Kim, Blake Freeman, & More!",
-      "url": "https://thestandnyc.com//shows/show/12935/2026-05-01-230000-the-stand-presents-rachel-williams-leonard-ouzts-andre-kim-blake-freeman-more"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-05-01T00:00:00.000Z",
-      "time": "11:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-05-01T00:00:00.000Z",
-      "time": "11:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "The Stand Presents: Andre Kim, Marito Lopez, Blake Freeman, & More!",
-      "venue": "The Stand - Main room",
-      "date": "2026-05-01T00:00:00.000Z",
-      "time": "11:55 PM",
-      "description": "The Stand Presents: Andre Kim, Marito Lopez, Blake Freeman, & More!",
-      "url": "https://thestandnyc.com//shows/show/12936/2026-05-01-235500-the-stand-presents-andre-kim-marito-lopez-blake-freeman-more"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-05-01T00:00:00.000Z",
-      "time": "11:55 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-05-01T00:00:00.000Z",
-      "time": "12:30 am",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-05-01T00:00:00.000Z",
-      "time": "12:55 am",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-05-01T00:00:00.000Z",
-      "time": "6:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-05-01T00:00:00.000Z",
-      "time": "6:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "The Stand Presents: Oscar Aydin, Sienna Hubert-Ross, Michael Longfellow, & More!",
-      "venue": "The Stand - Upstairs",
-      "date": "2026-05-01T00:00:00.000Z",
-      "time": "7:00 PM",
-      "description": "The Stand Presents: Oscar Aydin, Sienna Hubert-Ross, Michael Longfellow, & More!",
-      "url": "https://thestandnyc.com//shows/show/12931/2026-05-01-190000-the-stand-presents-oscar-aydin-sienna-hubert-ross-marito-lopez-more"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-05-01T00:00:00.000Z",
-      "time": "7:01 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-05-01T00:00:00.000Z",
-      "time": "7:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Drunk Bollywood Live!",
-      "venue": "The Bell House",
-      "date": "2026-05-01T00:00:00.000Z",
-      "time": "7:30PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/5/1/drunk-bollywood-live-tickets"
-    },
-    {
-      "title": "The Stand Presents: Bonnie McFarlane, Paul Virzi, Aaron Berg, & More!",
-      "venue": "The Stand - Main room",
-      "date": "2026-05-01T00:00:00.000Z",
-      "time": "8:00 PM",
-      "description": "The Stand Presents: Bonnie McFarlane, Paul Virzi, Aaron Berg, & More!",
-      "url": "https://thestandnyc.com//shows/show/12932/2026-05-01-200000-the-stand-presents-bonnie-mcfarlane-paul-virzi-aaron-berg-more"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-05-01T00:00:00.000Z",
-      "time": "8:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Outdoor Patio Show",
-      "venue": "The Stand - Patio",
-      "date": "2026-05-01T00:00:00.000Z",
-      "time": "8:30 PM",
-      "description": "Outdoor Patio Show",
-      "url": "https://thestandnyc.com//shows/show/12933/2026-05-01-203000-outdoor-patio-show"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-05-01T00:00:00.000Z",
-      "time": "8:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "The Stand Presents: Paul Virzi, Daniel Bridge-Gadd, Jim Florentine, & More!",
-      "venue": "The Stand - Upstairs",
-      "date": "2026-05-01T00:00:00.000Z",
-      "time": "9:00 PM",
-      "description": "The Stand Presents: Paul Virzi, Daniel Bridge-Gadd, Jim Florentine, & More!",
-      "url": "https://thestandnyc.com//shows/show/12934/2026-05-01-210000-the-stand-presents-paul-virzi-daniel-bridge-gadd-jim-florentine-more"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-05-01T00:00:00.000Z",
-      "time": "9:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-05-01T00:00:00.000Z",
-      "time": "9:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "CABAL",
-      "venue": "UCB Theatre",
-      "date": "2026-05-01T00:00:00Z",
-      "time": "7:00 PM",
-      "description": "Friday, May 1, 2026 @ 7:00 PMLivestreamNY - 14TH ST. MainstageCABALThe Very Best Solo Sketch CABAL combines writer-performers from SNL, The Daily Show, The New Yorker, The Second City, and Just for Laughs into one supergroup delivering the very best in solo sketch comedy. The next big gay pop star?…Buy Now",
-      "url": "https://ucbcomedy.com/show/cabal-05-01-26/"
-    },
-    {
-      "title": "ASSSSCAT NY",
-      "venue": "UCB Theatre",
-      "date": "2026-05-01T00:00:00Z",
-      "time": "8:30 PM",
-      "description": "Friday, May 1, 2026 @ 8:30 PMLivestreamNY - 14TH ST. MainstageASSSSCAT NYASSSSCAT is UCB’s signature improv show that has played to critical acclaim and sold out audiences across the country. What is ASSSSCAT?   It starts with a group of improv comedians from film & TV taking the stage with a special…Buy Now",
-      "url": "https://ucbcomedy.com/show/asssscat-ny-05-01-26/"
     },
     {
       "title": "Courtney O'Donnell: Planet Courtney",
@@ -273,11 +57,11 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
-      "title": "The Stand Presents: Leonard Ouzts, Rachel Williams, Tristan Bowling, & More!",
+      "title": "The Stand Presents: Rachel Williams, Tristan Bowling, Andre Kim, & More!",
       "venue": "The Stand - Upstairs",
       "date": "2026-05-02T00:00:00.000Z",
       "time": "11:00 PM",
-      "description": "The Stand Presents: Leonard Ouzts, Rachel Williams, Tristan Bowling, & More!",
+      "description": "The Stand Presents: Rachel Williams, Tristan Bowling, Andre Kim, & More!",
       "url": "https://thestandnyc.com//shows/show/12947/2026-05-02-230000-the-stand-presents-leonard-ouzts-rachel-williams-tristan-bowling-more"
     },
     {
@@ -329,22 +113,6 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
-      "title": "EXISTENTIAL QUESTIONS OF THE 21ST CENTURY",
-      "venue": "Caveat",
-      "date": "2026-05-02T00:00:00.000Z",
-      "time": "1:30 PM",
-      "description": "A musical comedy for doomers that’s definitely not at all about climate change",
-      "url": "https://caveat.nyc/events/existential-questions-of-the-21st-century-5-2-2026"
-    },
-    {
-      "title": "MY IMMORTAL LIVE",
-      "venue": "Caveat",
-      "date": "2026-05-02T00:00:00.000Z",
-      "time": "4:00 PM",
-      "description": "My Immortal LIVE! A karaoke-style reading of the worst fanfiction ever written",
-      "url": "https://caveat.nyc/events/my-immortal-live-5-2-2026"
-    },
-    {
       "title": "Laughing Buddha Comedy",
       "venue": "The Stand - Upstairs",
       "date": "2026-05-02T00:00:00.000Z",
@@ -375,14 +143,6 @@
       "time": "6:45 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "TOM D'S BIG NEW YORK SHOW",
-      "venue": "Caveat",
-      "date": "2026-05-02T00:00:00.000Z",
-      "time": "7:00 PM",
-      "description": "Comedian and certified tour guide Tom Delgado takes you on an entertaining tour of NYC with history,...",
-      "url": "https://caveat.nyc/events/tom-ds-big-new-york-show-5-2-2026"
     },
     {
       "title": "The Stand Presents: Sienna Hubert-Ross, Andre Kim, Tom McGuire, & More!",
@@ -463,14 +223,6 @@
       "time": "9:00 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "THE FANTASY TAVERN",
-      "venue": "Caveat",
-      "date": "2026-05-02T00:00:00.000Z",
-      "time": "9:30 PM",
-      "description": "Nerdy costume party with a live band, interactive characters, party games, and drinking songs!",
-      "url": "https://caveat.nyc/events/the-fantasy-tavern-5-2-2026"
     },
     {
       "title": "Comedy Showcase",
@@ -801,12 +553,28 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
+      "title": "The Stand Presents: Sean Patton, Aaron Berg, TaTa Sherise, & More!",
+      "venue": "The Stand - Main room",
+      "date": "2026-05-04T00:00:00.000Z",
+      "time": "8:00 PM",
+      "description": "The Stand Presents: Sean Patton, Aaron Berg, TaTa Sherise, & More!",
+      "url": "https://thestandnyc.com//shows/show/12954/2026-05-04-200000-the-stand-presents-sean-patton-aaron-berg-tata-sherise-more"
+    },
+    {
       "title": "Comedy Showcase",
       "venue": "Comedy Cellar - Village Underground",
       "date": "2026-05-04T00:00:00.000Z",
       "time": "8:00 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "FRANTIC! FREE SHOW",
+      "venue": "The Stand - Upstairs",
+      "date": "2026-05-04T00:00:00.000Z",
+      "time": "9:00 PM",
+      "description": "FRANTIC! FREE SHOW",
+      "url": "https://thestandnyc.com//shows/show/12955/2026-05-04-210000-frantic-free-show"
     },
     {
       "title": "THE FIRST EVER NYC PUN OFF",
@@ -857,6 +625,14 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "The Stand Presents: Leonard Ouzts, Jourdain Fisher, TaTa Sherise, & More!",
+      "venue": "The Stand - Main room",
+      "date": "2026-05-05T00:00:00.000Z",
+      "time": "10:00 PM",
+      "description": "The Stand Presents: Leonard Ouzts, Jourdain Fisher, TaTa Sherise, & More!",
+      "url": "https://thestandnyc.com//shows/show/12958/2026-05-05-220000-the-stand-presents-leonard-ouzts-jourdain-fisher-tata-sherise-more"
+    },
+    {
       "title": "Comedy Showcase",
       "venue": "Comedy Cellar - Village Underground",
       "date": "2026-05-05T00:00:00.000Z",
@@ -887,6 +663,14 @@
       "time": "7:00 PM",
       "description": "It's a new show about how to be a better New Yorker, from the journalists behind The New York Groove...",
       "url": "https://caveat.nyc/events/the-new-york-groove-live~-5-5-2026"
+    },
+    {
+      "title": "Infamous Ray",
+      "venue": "The Stand - Upstairs",
+      "date": "2026-05-05T00:00:00.000Z",
+      "time": "7:00 PM",
+      "description": "Infamous Ray",
+      "url": "https://thestandnyc.com//shows/show/12921/2026-05-05-190000-infamous-ray"
     },
     {
       "title": "Robert Kelly",
@@ -921,6 +705,14 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
+      "title": "The Stand Presents: Pete Lee, Matthew Broussard, Onika McLean, Carmen Lagala, & More!",
+      "venue": "The Stand - Main room",
+      "date": "2026-05-05T00:00:00.000Z",
+      "time": "8:00 PM",
+      "description": "The Stand Presents: Pete Lee, Matthew Broussard, Onika McLean, Carmen Lagala, & More!",
+      "url": "https://thestandnyc.com//shows/show/12956/2026-05-05-200000-the-stand-presents-pete-lee-matthew-broussard-onika-mclean-carmen-lagala-more"
+    },
+    {
       "title": "Comedy Showcase",
       "venue": "Comedy Cellar - Village Underground",
       "date": "2026-05-05T00:00:00.000Z",
@@ -935,6 +727,14 @@
       "time": "8:30 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "The Stand Presents: Lukas McCrary, Sienna Hubert-Ross, TaTa Sherise, & More!",
+      "venue": "The Stand - Upstairs",
+      "date": "2026-05-05T00:00:00.000Z",
+      "time": "9:00 PM",
+      "description": "The Stand Presents: Lukas McCrary, Sienna Hubert-Ross, TaTa Sherise, & More!",
+      "url": "https://thestandnyc.com//shows/show/12957/2026-05-05-210000-the-stand-presents-lukas-mccrary-sienna-hubert-ross-tata-sherise-more"
     },
     {
       "title": "Comedy Showcase",
@@ -1015,6 +815,14 @@
       "time": "7:00 PM",
       "description": "Comedy and medicine live, hosted by ER doctor Aaron Bola",
       "url": "https://caveat.nyc/events/doctors-without-boundaries-5-6-2026"
+    },
+    {
+      "title": "Allie Mae & Na'im Ali Presents: DRIP",
+      "venue": "The Stand - Upstairs",
+      "date": "2026-05-06T00:00:00.000Z",
+      "time": "7:00 PM",
+      "description": "Allie Mae & Na'im Ali Presents: DRIP",
+      "url": "https://thestandnyc.com//shows/show/12885/2026-05-06-190000-allie-mae-naim-ali-presents-drip"
     },
     {
       "title": "Comedy Showcase",
@@ -1401,6 +1209,14 @@
       "url": "https://donyc.com/events/2026/5/9/sorry-hosted-by-zach-schiffman-and-rachel-coster-tickets"
     },
     {
+      "title": "THE INFALLIBLE JOKE FORMULA",
+      "venue": "Caveat",
+      "date": "2026-05-09T00:00:00.000Z",
+      "time": "9:30 PM",
+      "description": "The Infallible Joke Formula is 1/2 comedy show, 1/2 science experiment, 1/2 variety show.",
+      "url": "https://caveat.nyc/events/the-infallible-joke-formula-5-9-2026"
+    },
+    {
       "title": "Black Space: Sci-Fi Improv RPG",
       "venue": "UCB Theatre",
       "date": "2026-05-09T00:00:00Z",
@@ -1431,6 +1247,22 @@
       "time": null,
       "description": "Steve Martin Presents",
       "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "LAUGH",
+      "venue": "Union Hall",
+      "date": "2026-05-10T00:00:00.000Z",
+      "time": null,
+      "description": "LAUGH",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "IMPOSSIBLE NEW YORK STORIES",
+      "venue": "Caveat",
+      "date": "2026-05-10T00:00:00.000Z",
+      "time": "2:30 PM",
+      "description": "Comedians and storytellers share their wild, improbable, yet totally true Impossible New York Storie...",
+      "url": "https://caveat.nyc/events/impossible-new-york-stories-5-10-2026"
     },
     {
       "title": "Comedy Showcase",
@@ -1847,6 +1679,14 @@
       "time": "6:30 PM",
       "description": "Sunday, May 17, 2026 @ 6:30 PMNY - 14TH ST. UpstairsThe Lady JamA jam-meets-dance-party for women and non-binary improvisors of all levels <3 Lady Jam is a longstanding UCB tradition — a FREE, inclusive, and welcoming improv jam for UCB students, performers, and fans who identify as women or non-binary! All you…Read more",
       "url": "https://ucbcomedy.com/show/the-lady-jam-05-17-26/"
+    },
+    {
+      "title": "Reunion Tour: Best of & The Foundation Presents: THE LAST STAND AT THE TIMES",
+      "venue": "UCB Theatre",
+      "date": "2026-05-17T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Sunday, May 17, 2026 @ 7:00 PMLivestreamNY - 14TH ST. MainstageReunion Tour: Best of & The Foundation Presents: THE LAST STAND AT THE TIMESTwo shows for the price of one!   Best of Reunion Tour! - UCB’s rockstar sketch comedy team Reunion Tour presents a nonstop half hour of their very best sketches! Reunion Tour’s performers have been featured on Hulu, Broadway, The…Buy Now",
+      "url": "https://ucbcomedy.com/show/reunion-tour-the-foundation-05-17-26/"
     },
     {
       "title": "The Telephone Show",
@@ -2305,36 +2145,12 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "Matteo Lane",
-      "venue": "Comedy Cellar",
-      "date": "2026-05-28T00:00:00.000Z",
-      "time": "10:00 pm",
-      "description": "Matteo Lane: The Advice Special",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar",
-      "date": "2026-05-28T00:00:00.000Z",
-      "time": "7:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
       "title": "Ear Hustle Live!",
       "venue": "The Bell House",
       "date": "2026-05-28T00:00:00.000Z",
       "time": "7:30PM",
       "description": null,
       "url": "https://donyc.com/events/2026/5/28/ear-hustle-live-tickets"
-    },
-    {
-      "title": "Matteo Lane",
-      "venue": "Comedy Cellar",
-      "date": "2026-05-28T00:00:00.000Z",
-      "time": "8:00 pm",
-      "description": "Matteo Lane: The Advice Special",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
       "title": "Cage Match: TBD vs. Diet Coke",
@@ -2431,6 +2247,14 @@
       "time": null,
       "description": "Invisible Architecture: An Evening of Comedy with Charlie Flynn",
       "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "ASSSSCAT NY",
+      "venue": "UCB Theatre",
+      "date": "2026-05-30T00:00:00Z",
+      "time": "8:30 PM",
+      "description": "Saturday, May 30, 2026 @ 8:30 PMLivestreamNY - 14TH ST. MainstageASSSSCAT NYASSSSCAT is UCB’s signature improv show that has played to critical acclaim and sold out audiences across the country. What is ASSSSCAT?   It starts with a group of improv comedians from film & TV taking the stage with a special…Buy Now",
+      "url": "https://ucbcomedy.com/show/asssscat-ny-05-30-26/"
     },
     {
       "title": "Sydnee Washington: My Black Barbie Story",
@@ -2641,23 +2465,47 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "IMMIGRANT JAM",
-      "venue": "Caveat",
+      "title": "Drunk Bollywood Live!",
+      "venue": "The Bell House",
       "date": "2027-05-01T00:00:00.000Z",
-      "time": "7:00 PM",
-      "description": "Lucie Pohl's Immigrant Jam Comedy features NYC's funniest immigrant and 1st gen comedians",
-      "url": "https://caveat.nyc/events/immigrant-jam-5-1-2026"
+      "time": "7:30PM",
+      "description": null,
+      "url": "https://donyc.com/events/2026/5/1/drunk-bollywood-live-tickets"
     },
     {
-      "title": "ASK A FUCKBOY",
+      "title": "EXISTENTIAL QUESTIONS OF THE 21ST CENTURY",
       "venue": "Caveat",
-      "date": "2027-05-01T00:00:00.000Z",
+      "date": "2027-05-02T00:00:00.000Z",
+      "time": "1:30 PM",
+      "description": "A musical comedy for doomers that’s definitely not at all about climate change",
+      "url": "https://caveat.nyc/events/existential-questions-of-the-21st-century-5-2-2026"
+    },
+    {
+      "title": "MY IMMORTAL LIVE",
+      "venue": "Caveat",
+      "date": "2027-05-02T00:00:00.000Z",
+      "time": "4:00 PM",
+      "description": "My Immortal LIVE! A karaoke-style reading of the worst fanfiction ever written",
+      "url": "https://caveat.nyc/events/my-immortal-live-5-2-2026"
+    },
+    {
+      "title": "TOM D'S BIG NEW YORK SHOW",
+      "venue": "Caveat",
+      "date": "2027-05-02T00:00:00.000Z",
+      "time": "7:00 PM",
+      "description": "Comedian and certified tour guide Tom Delgado takes you on an entertaining tour of NYC with history,...",
+      "url": "https://caveat.nyc/events/tom-ds-big-new-york-show-5-2-2026"
+    },
+    {
+      "title": "THE FANTASY TAVERN",
+      "venue": "Caveat",
+      "date": "2027-05-02T00:00:00.000Z",
       "time": "9:30 PM",
-      "description": "Girls tell unhinged dating stories, a panel of fuckboys weighs in.",
-      "url": "https://caveat.nyc/events/ask-a-fuckboy-5-1-2026"
+      "description": "Nerdy costume party with a live band, interactive characters, party games, and drinking songs!",
+      "url": "https://caveat.nyc/events/the-fantasy-tavern-5-2-2026"
     }
   ],
-  "lastUpdated": "2026-05-01T08:45:47.780384Z",
+  "lastUpdated": "2026-05-02T07:48:49.326570Z",
   "sources": [
     "DoNYC",
     "Caveat",
@@ -2667,5 +2515,5 @@
     "UCB Theatre",
     "The Bell House"
   ],
-  "totalShows": 332
+  "totalShows": 313
 }
