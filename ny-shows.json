@@ -1,382 +1,6 @@
 {
   "shows": [
     {
-      "title": "UNDERGROUND MONK SHOW WORK IN PROGRESS SHOW (early show)",
-      "venue": "Union Hall",
-      "date": "2026-05-23T00:00:00.000Z",
-      "time": null,
-      "description": "UNDERGROUND MONK SHOW WORK IN PROGRESS SHOW (early show)",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "UNDERGROUND MONK SHOW WORK IN PROGRESS SHOW",
-      "venue": "Union Hall",
-      "date": "2026-05-23T00:00:00.000Z",
-      "time": null,
-      "description": "UNDERGROUND MONK SHOW WORK IN PROGRESS SHOW",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "NO DJ: Downstairs showroom closed for a private event (upstairs bar open)",
-      "venue": "Union Hall",
-      "date": "2026-05-23T00:00:00.000Z",
-      "time": null,
-      "description": "NO DJ: Downstairs showroom closed for a private event (upstairs bar open)",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-05-23T00:00:00.000Z",
-      "time": "10:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-05-23T00:00:00.000Z",
-      "time": "10:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-05-23T00:00:00.000Z",
-      "time": "11:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-05-23T00:00:00.000Z",
-      "time": "11:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-05-23T00:00:00.000Z",
-      "time": "11:55 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-05-23T00:00:00.000Z",
-      "time": "12:30 am",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-05-23T00:00:00.000Z",
-      "time": "12:55 am",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-05-23T00:00:00.000Z",
-      "time": "6:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-05-23T00:00:00.000Z",
-      "time": "6:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-05-23T00:00:00.000Z",
-      "time": "7:01 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-05-23T00:00:00.000Z",
-      "time": "7:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Alex Falcone",
-      "venue": "The Bell House",
-      "date": "2026-05-23T00:00:00.000Z",
-      "time": "7:30PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/5/23/alex-falcone-tickets"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-05-23T00:00:00.000Z",
-      "time": "8:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-05-23T00:00:00.000Z",
-      "time": "8:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-05-23T00:00:00.000Z",
-      "time": "9:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-05-23T00:00:00.000Z",
-      "time": "9:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "NAW or NEVER: Wrestling Comedy Show",
-      "venue": "UCB Theatre",
-      "date": "2026-05-23T00:00:00Z",
-      "time": "10:30 PM",
-      "description": "Saturday, May 23, 2026 @ 10:30 PMNY - 14TH ST. MainstageImprovNAW or NEVER: Wrestling Comedy ShowName in bucket. Grab the mic. 60 seconds to earn a wrestling “contract.”   NAW or Never is a no-holds-barred comedy-meets-wrestling showcase where anyone can step into the spotlight (or just spectate) and try to earn a spot on the…Buy Now",
-      "url": "https://ucbcomedy.com/show/naw-or-never-wrestling-comedy-show-05-23-26/"
-    },
-    {
-      "title": "What the Hell? An Incredible Improv Show",
-      "venue": "UCB Theatre",
-      "date": "2026-05-23T00:00:00Z",
-      "time": "7:00 PM",
-      "description": "Saturday, May 23, 2026 @ 7:00 PMLivestreamNY - 14TH ST. MainstageImprovWhat the Hell? An Incredible Improv ShowAn incredible improv show with the most incredible improvisers in NYC.  What the Hell? An Incredible Improv Show brings together NYC’s best improvisers for an unscripted evening of comedy inspired by your stories. WTH showcases a brand new cast each show, featuring veteran improvisers and…Buy Now",
-      "url": "https://ucbcomedy.com/show/what-the-hell-an-incredible-improv-show-05-23-26/"
-    },
-    {
-      "title": "ASSSSCAT NY",
-      "venue": "UCB Theatre",
-      "date": "2026-05-23T00:00:00Z",
-      "time": "8:30 PM",
-      "description": "Saturday, May 23, 2026 @ 8:30 PMLivestreamNY - 14TH ST. MainstageImprovASSSSCAT NYASSSSCAT is UCB’s signature improv show that has played to critical acclaim and sold out audiences across the country. What is ASSSSCAT?   It starts with a group of improv comedians from film & TV taking the stage with a special…Buy Now",
-      "url": "https://ucbcomedy.com/show/asssscat-ny-05-23-26/"
-    },
-    {
-      "title": "Spooky Dookie Presents: TBD New Planet",
-      "venue": "Union Hall",
-      "date": "2026-05-24T00:00:00.000Z",
-      "time": null,
-      "description": "Spooky Dookie Presents: TBD New Planet",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Pizzazz with Gary Gulman",
-      "venue": "Union Hall",
-      "date": "2026-05-24T00:00:00.000Z",
-      "time": null,
-      "description": "Pizzazz with Gary Gulman",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-05-24T00:00:00.000Z",
-      "time": "10:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-05-24T00:00:00.000Z",
-      "time": "10:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-05-24T00:00:00.000Z",
-      "time": "11:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-05-24T00:00:00.000Z",
-      "time": "11:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-05-24T00:00:00.000Z",
-      "time": "11:55 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-05-24T00:00:00.000Z",
-      "time": "12:30 am",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-05-24T00:00:00.000Z",
-      "time": "1:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "KINDA QUEER MOSTLY ANXIOUS & HORNY",
-      "venue": "Caveat",
-      "date": "2026-05-24T00:00:00.000Z",
-      "time": "2:30 PM",
-      "description": "Make it a sketch-y date with Kinda Queer, a comedy show, led by 2 bisexual men, fighting erasure one...",
-      "url": "https://caveat.nyc/events/kinda-queer-mostly-anxious--horny-5-24-2026"
-    },
-    {
-      "title": "\"HOW TO BE SUCCESSFUL\" - A HILARIOUS \"PRESENTATION\" BY CORPORATE COMEDIAN BRIAN LONGWELL",
-      "venue": "Caveat",
-      "date": "2026-05-24T00:00:00.000Z",
-      "time": "5:00 PM",
-      "description": "\"How to be Successful\" - hilarious \"presentation\" by corporate comedian Brian Longwell.",
-      "url": "https://caveat.nyc/events/how-to-be-successful---a-hilarious-presentation-by-corporate-comedian-brian-longwell-5-24-2026"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-05-24T00:00:00.000Z",
-      "time": "6:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-05-24T00:00:00.000Z",
-      "time": "6:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-05-24T00:00:00.000Z",
-      "time": "7:01 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "RAAAATSCRAPS: THE BEST IMPROV SHOW IN THE WORLD",
-      "venue": "Caveat",
-      "date": "2026-05-24T00:00:00.000Z",
-      "time": "7:30 PM",
-      "description": "THE BEST IMPROV SHOW in the world with a surprise guest monologist!",
-      "url": "https://caveat.nyc/events/raaaatscraps-the-best-improv-show-in-the-world-5-24-2026"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-05-24T00:00:00.000Z",
-      "time": "7:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-05-24T00:00:00.000Z",
-      "time": "8:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-05-24T00:00:00.000Z",
-      "time": "8:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-05-24T00:00:00.000Z",
-      "time": "9:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-05-24T00:00:00.000Z",
-      "time": "9:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Lloyd Night: WET & Cruise Control",
-      "venue": "UCB Theatre",
-      "date": "2026-05-24T00:00:00Z",
-      "time": "5:30 PM",
-      "description": "Sunday, May 24, 2026 @ 5:30 PMLivestreamNY - 14TH ST. MainstageImprovLloyd Night: WET & Cruise ControlYour one-stop shop to see UCB’s house improv ensembles perform every Sunday! Lloyd Night is UCB’s bi-weekly improv show featuring homegrown teams at the top of their game performing, The Harold.   Featuring: WET & Cruise Control —- Complete List…Buy Now",
-      "url": "https://ucbcomedy.com/show/lloyd-night-05-24-26/"
-    },
-    {
-      "title": "LETS FUCKING GO!!: An Indie Improv Show & Jam",
-      "venue": "UCB Theatre",
-      "date": "2026-05-24T00:00:00Z",
-      "time": "6:30 PM",
-      "description": "Sunday, May 24, 2026 @ 6:30 PMNY - 14TH ST. UpstairsImprovLETS FUCKING GO!!: An Indie Improv Show & JamA bi-weekly improv show where you can bring your own improv team to perform, with a jam after!! Let's Fucking Go!! Want to bring your team? We’re looking for teams from all levels of experience - A practice group that's…Buy Now",
-      "url": "https://ucbcomedy.com/show/lets-fucking-go-an-indie-improv-show-jam-05-24-26/"
-    },
-    {
-      "title": "Yard Sale Girls",
-      "venue": "UCB Theatre",
-      "date": "2026-05-24T00:00:00Z",
-      "time": "7:00 PM",
-      "description": "Sunday, May 24, 2026 @ 7:00 PMLivestreamNY - 14TH ST. MainstageSketchYard Sale GirlsYard Sale Girls LIVE returns to UCB after 2 sold out shows! Fresh off a spring tour and sold out slot at Netflix Is A Joke, this BEST OF hour is exclusively goated classics. It’s a long weekend, so let’s…Buy Now",
-      "url": "https://ucbcomedy.com/show/yard-sale-girls-05-24-26/"
-    },
-    {
-      "title": "Twoprov Tournament 2026 Finals",
-      "venue": "UCB Theatre",
-      "date": "2026-05-24T00:00:00Z",
-      "time": "8:30 PM",
-      "description": "Sunday, May 24, 2026 @ 8:30 PMNY - 14TH ST. MainstageImprovTwoprov Tournament 2026 FinalsThe final round to find the funniest improv duo in NYC!   It's the finals! Come out and cheer your team on for a chance at the title of funniest duo in NYC!   Hosted by Rory Scholl ( The…Buy Now",
-      "url": "https://ucbcomedy.com/show/twoprov-tournamnet-2026-finals-05-24-26/"
-    },
-    {
-      "title": "BYOT",
-      "venue": "UCB Theatre",
-      "date": "2026-05-24T00:00:00Z",
-      "time": "9:00 PM",
-      "description": "Sunday, May 24, 2026 @ 9:00 PMNY - 14TH ST. UpstairsImprovBYOTAn inclusive mic for all comedic formats and all comedic performers!   BYOT (“Bring Your Own Thing”) is UCB’s open mic that welcomes everyone in the comedy community (that means you!) to “bring your own thing,” whatever that may be!…Read more",
-      "url": "https://ucbcomedy.com/show/byot-05-24-26/"
-    },
-    {
       "title": "Jaboukie & Friends",
       "venue": "Union Hall",
       "date": "2026-05-25T00:00:00.000Z",
@@ -407,14 +31,6 @@
       "time": "11:30 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "PROJECTORFEST: SHITTY MOZART",
-      "venue": "Caveat",
-      "date": "2026-05-25T00:00:00.000Z",
-      "time": "7:00 PM",
-      "description": "Projectorfest presents Shitty Mozart",
-      "url": "https://caveat.nyc/events/projectorfest-shitty-mozart-5-25-2026"
     },
     {
       "title": "Comedy Showcase",
@@ -449,12 +65,12 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
-      "title": "JELLICLE CHESS",
-      "venue": "Caveat",
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Fat Black Pussycat",
       "date": "2026-05-25T00:00:00.000Z",
-      "time": "9:30 PM",
-      "description": "Jellicle Chess is a variety show that parodies Cats and Chess—the two strangest musicals from the 80...",
-      "url": "https://caveat.nyc/events/jellicle-chess-5-25-2026"
+      "time": "8:30 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
       "title": "Comedy Showcase",
@@ -769,11 +385,11 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "(failure) a work in progress show by gavin matts",
+      "title": "**cancelled** (failure) a work in progress show by gavin matts",
       "venue": "Union Hall",
       "date": "2026-05-28T00:00:00.000Z",
       "time": null,
-      "description": "(failure) a work in progress show by gavin matts",
+      "description": "**cancelled** (failure) a work in progress show by gavin matts",
       "url": "https://unionhallny.com/calendar"
     },
     {
@@ -1121,12 +737,28 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
+      "title": "THE SCHMOOZE",
+      "venue": "Caveat",
+      "date": "2026-05-31T00:00:00.000Z",
+      "time": "5:00 PM",
+      "description": "The Schmooze brings folks together for a night of unfiltered kibitzing, kvetching, and improv comedy...",
+      "url": "https://caveat.nyc/events/the-schmooze-1-25-2026"
+    },
+    {
       "title": "Kaiju Big Battel: Go Ahead...Make My May!",
       "venue": "The Bell House",
       "date": "2026-05-31T00:00:00.000Z",
       "time": "6:00PM",
       "description": null,
       "url": "https://donyc.com/events/2026/5/31/kaiju-big-battel-go-ahead-make-my-may-tickets"
+    },
+    {
+      "title": "RAAAATSCRAPS: THE BEST IMPROV SHOW IN THE WORLD",
+      "venue": "Caveat",
+      "date": "2026-05-31T00:00:00.000Z",
+      "time": "7:30 PM",
+      "description": "THE BEST IMPROV SHOW in the world with a surprise guest monologist!",
+      "url": "https://caveat.nyc/events/raaaatscraps-the-best-improv-show-in-the-world-5-31-2026"
     },
     {
       "title": "The Accessible Comedy Show",
@@ -1169,6 +801,14 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "DRUNK BOLLYWOOD TRIVIA",
+      "venue": "Caveat",
+      "date": "2026-06-01T00:00:00.000Z",
+      "time": "7:00 PM",
+      "description": "Test your knowledge of Bollywood movies, music, and more!",
+      "url": "https://caveat.nyc/events/drunk-bollywood-trivia-6-1-2026"
+    },
+    {
       "title": "Comedy Showcase",
       "venue": "Comedy Cellar",
       "date": "2026-06-01T00:00:00.000Z",
@@ -1183,6 +823,14 @@
       "time": "7:30PM",
       "description": null,
       "url": "https://donyc.com/events/2026/6/1/t4-t-the-fourth-anniversary-spectacular-tickets"
+    },
+    {
+      "title": "IT MIGHT AS WELL BE GAY",
+      "venue": "Caveat",
+      "date": "2026-06-01T00:00:00.000Z",
+      "time": "9:30 PM",
+      "description": "A queer twist on your favorite golden age classics to start Pride Month off right.",
+      "url": "https://caveat.nyc/events/it-might-as-well-be-gay-6-1-2026"
     },
     {
       "title": "MAUDE NIGHT: Fridge Magnet & First Wife",
@@ -1215,6 +863,14 @@
       "time": null,
       "description": "Jordan Klepper: New Goods",
       "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "OUR FINDINGS SHOW",
+      "venue": "Caveat",
+      "date": "2026-06-02T00:00:00.000Z",
+      "time": "7:00 PM",
+      "description": "The science game show that's academically rigorous and comically ridiculous.",
+      "url": "https://caveat.nyc/events/our-findings-show-6-2-2026"
     },
     {
       "title": "Robert Kelly",
@@ -1266,7 +922,7 @@
     },
     {
       "title": "Comedy Showcase",
-      "venue": "Comedy Cellar",
+      "venue": "Comedy Cellar - Village Underground",
       "date": "2026-06-03T00:00:00.000Z",
       "time": "6:00 pm",
       "description": "Lineup to be announced",
@@ -1729,6 +1385,14 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "Yeti Or Not Nyc",
+      "venue": "The Bell House",
+      "date": "2026-06-12T00:00:00.000Z",
+      "time": "7:30PM",
+      "description": null,
+      "url": "https://donyc.com/events/2026/6/12/yeti-or-not-nyc-tickets"
+    },
+    {
       "title": "Abolish Everything!",
       "venue": "UCB Theatre",
       "date": "2026-06-12T00:00:00Z",
@@ -1885,7 +1549,7 @@
       "venue": "UCB Theatre",
       "date": "2026-06-12T00:00:00Z",
       "time": "7:00 PM",
-      "description": "Friday, June 12, 2026 @ 7:00 PMDCM26 - HeadlinerDCM26 - UCB MainstageImprovBig Grande: UCB DCM26 HeadlinerDan Lippert, Jon Mackey, Ryan Rosenberg & Drew Tarver Big Grande has been bringing their brand of rapid, honest, and wild live shows to sold-out crowds around the country — hell, the continent — for over a decade. Now they're…Buy Now",
+      "description": "Friday, June 12, 2026 @ 7:00 PMDCM26 - HeadlinerDCM26 - UCB MainstageImprovBig Grande: UCB DCM26 HeadlinerDan Lippert, Jon Mackey, Ryan Rosenberg Big Grande has been bringing their brand of rapid, honest, and wild live shows to sold-out crowds around the country — hell, the continent — for over a decade. Now they're hopping onto the…Buy Now",
       "url": "https://ucbcomedy.com/show/big-grande-ucb-dcm26-headliner/"
     },
     {
@@ -1919,6 +1583,70 @@
       "time": "7:00 PM",
       "description": "Friday, June 12, 2026 @ 7:00 PMDCM26 - MarathonDCM26 - Theater For the New City - Stage 3ImprovNUNS/SLUTS/CUNTS – A World without MenThis is an Improv Show without men, the way it was intended and we can’t wait to hear your tiny little sad dicks giggling in the audience. Cast: Shannon O'Neill, Katie Dippold , Monique Moses , Moujan Zolfaghari, Betsy Sodaro,…Read more",
       "url": "https://ucbcomedy.com/show/nuns-sluts-cunts-a-world-without-men/"
+    },
+    {
+      "title": "Pinot Noir",
+      "venue": "UCB Theatre",
+      "date": "2026-06-12T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Friday, June 12, 2026 @ 7:00 PMDCM26 - MarathonDCM26 - Theater For the New City - Stage 2ImprovPinot NoirPinot Noir is a monthly chaotic wine-fueled murder mystery improv show where the performers each drink a bottle of Pinot Noir while solving a Noir murder mystery. It's a night the performers will never remember and the audience will never…Read more",
+      "url": "https://ucbcomedy.com/show/pinot-noir-4/"
+    },
+    {
+      "title": "The Mehmooni",
+      "venue": "UCB Theatre",
+      "date": "2026-06-12T00:00:00Z",
+      "time": "7:30 PM",
+      "description": "Friday, June 12, 2026 @ 7:30 PMDCM26 - MarathonDCM26 - Theater For the New City - Stage 4ImprovThe MehmooniJoin The Mehmooni as they bring to life a very-Iranian party...gone wrong. Featuring an all-star list of veteran Iranian-American improvisers (with credits like: The Daily Show, Last Week Tonight, SNL, Comedy Central, UCB and more!). Come for the improv, stay…Read more",
+      "url": "https://ucbcomedy.com/show/the-mehmooni/"
+    },
+    {
+      "title": "Three Point Oh (formerly FKA Deb)",
+      "venue": "UCB Theatre",
+      "date": "2026-06-12T00:00:00Z",
+      "time": "7:30 PM",
+      "description": "Friday, June 12, 2026 @ 7:30 PMDCM26 - MarathonDCM26 - UCB UpstairsImprovThree Point Oh (formerly FKA Deb)Join Three Point Oh (formerly FKA Deb) as they delve into the demented, demoralizing and disturbingly funny side of improv comedy. Kicked off of UCB’s Harold Night for being *quote* too outrageously chaotic *end quote,* this team features some of…Read more",
+      "url": "https://ucbcomedy.com/show/three-point-oh-formerly-fka-deb/"
+    },
+    {
+      "title": "Tiptoe",
+      "venue": "UCB Theatre",
+      "date": "2026-06-12T00:00:00Z",
+      "time": "7:30 PM",
+      "description": "Friday, June 12, 2026 @ 7:30 PMDCM26 - MarathonDCM26 - Theater For the New City - Stage 3ImprovTiptoeCatch your favorite UCBNY Harold Team, Tiptoe, as they bring you a brand new show filled with lots of group support and absurd characters! Cast: Jenna Barron, Fu Goto, Chrissie Gruebel, Bridget Holmes, Will Jacobs, Aaron LaRoche, Danny Lempert, Morgan…Read more",
+      "url": "https://ucbcomedy.com/show/tiptoe/"
+    },
+    {
+      "title": "Customer Service",
+      "venue": "UCB Theatre",
+      "date": "2026-06-12T00:00:00Z",
+      "time": "8:00 PM",
+      "description": "Friday, June 12, 2026 @ 8:00 PMDCM26 - MarathonDCM26 - Theater For the New City - Stage 3ImprovCustomer ServiceCustomer Service performs a monoscene that feels like a one-act play, unfolding in real time with character development, plot twists, and a thrilling climax. The longer format allows for shared discovery with the audience, as the performers are just as…Read more",
+      "url": "https://ucbcomedy.com/show/customer-service/"
+    },
+    {
+      "title": "Late Night & Friends",
+      "venue": "UCB Theatre",
+      "date": "2026-06-12T00:00:00Z",
+      "time": "8:00 PM",
+      "description": "Friday, June 12, 2026 @ 8:00 PMDCM26 - MarathonDCM26 - Theater For the New City - Stage 2ImprovLate Night & FriendsWriters and performers from late night tv come together for a night 25 minutes of improv. Come see guests from Late Night with Seth Meyers, SNL, The Late Show with Stephen Colbert and more. Cast: David Bluvband, Sal Gentile, Michael…Read more",
+      "url": "https://ucbcomedy.com/show/late-night-friends/"
+    },
+    {
+      "title": "PWI and Transfer Students",
+      "venue": "UCB Theatre",
+      "date": "2026-06-12T00:00:00Z",
+      "time": "8:00 PM",
+      "description": "Friday, June 12, 2026 @ 8:00 PMDCM26 - MarathonDCM26 - Theater For the New City - Stage 4ImprovPWI and Transfer StudentsWe’re an all Black improv team flipping the script on the acronym PWI. Instead of Predominantly White Institution, we ask the audience to give us brand-new meanings for PWI and build an entire show around that! Cast: Kalynn Chambers, Alexandra…Read more",
+      "url": "https://ucbcomedy.com/show/pwi-and-transfer-students/"
+    },
+    {
+      "title": "sad sacks",
+      "venue": "UCB Theatre",
+      "date": "2026-06-12T00:00:00Z",
+      "time": "8:00 PM",
+      "description": "Friday, June 12, 2026 @ 8:00 PMDCM26 - MarathonDCM26 - UCB UpstairsImprovSketchsad sackssad sacks are a trio of queer Asian improvisers with very different senses of humor who love making each other g-g-g-giggle. They like to play light-hearted and irreverent character-driven improv. You can also find them on your phone making stupid…Read more",
+      "url": "https://ucbcomedy.com/show/sad-sacks/"
     },
     {
       "title": "We Have To Do Pride with Maddie Peck & Bridget Foley",
@@ -2321,23 +2049,23 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "THE POWER JOKER: A ROBERT MOSES COMEDY SHOW",
+      "title": "PROJECTORFEST: SHITTY MOZART",
       "venue": "Caveat",
-      "date": "2027-05-23T00:00:00.000Z",
+      "date": "2027-05-25T00:00:00.000Z",
       "time": "7:00 PM",
-      "description": "What if RM hosted The Tonight Show? Comedy, special guests, music, and more.",
-      "url": "https://caveat.nyc/events/the-power-joker-a-robert-moses-comedy-show-5-23-2026"
+      "description": "Projectorfest presents Shitty Mozart",
+      "url": "https://caveat.nyc/events/projectorfest-shitty-mozart-5-25-2026"
     },
     {
-      "title": "DRUNK PLANET EARTH",
+      "title": "JELLICLE CHESS",
       "venue": "Caveat",
-      "date": "2027-05-23T00:00:00.000Z",
+      "date": "2027-05-25T00:00:00.000Z",
       "time": "9:30 PM",
-      "description": "A live drinking game show.",
-      "url": "https://caveat.nyc/events/drunk-planet-earth-5-23-2026"
+      "description": "Jellicle Chess is a variety show that parodies Cats and Chess—the two strangest musicals from the 80...",
+      "url": "https://caveat.nyc/events/jellicle-chess-5-25-2026"
     }
   ],
-  "lastUpdated": "2026-05-23T08:59:12.648446Z",
+  "lastUpdated": "2026-05-25T10:15:11.605321Z",
   "sources": [
     "DoNYC",
     "Caveat",
@@ -2347,5 +2075,5 @@
     "UCB Theatre",
     "The Bell House"
   ],
-  "totalShows": 292
+  "totalShows": 258
 }
