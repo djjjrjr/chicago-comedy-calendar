@@ -90,70 +90,6 @@
     },
     {
       "venue": "The Second City",
-      "title": "Best of The Second City",
-      "date": "2026-05-25T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/5/25/best-of-the-second-city-tickets"
-    },
-    {
-      "venue": "Zanies Comedy Club",
-      "title": "Shane Todd: Hold Me Back – Special Event",
-      "date": "2026-05-25T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/5/25/shane-todd-hold-me-back-special-event-tickets"
-    },
-    {
-      "venue": "The Comedy Bar",
-      "title": "Late Nite Mic With Vik Pandya",
-      "date": "2026-05-25T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/5/25/late-nite-mic-with-vik-pandya-tickets"
-    },
-    {
-      "venue": "Annoyance Theatre",
-      "title": "Collective Rage: A Play in 5 Betties",
-      "date": "2026-05-25T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/5/25/collective-rage-a-play-in-5-betties-tickets"
-    },
-    {
-      "venue": "Annoyance Theatre",
-      "title": "Short Form Improv Jam (Student Show)",
-      "date": "2026-05-25T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/5/25/short-form-improv-jam-student-show-tickets"
-    },
-    {
-      "venue": "Annoyance Theatre",
-      "title": "Improv - Student Jam (Student Show)",
-      "date": "2026-05-25T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/5/25/improv-student-jam-student-show-tickets"
-    },
-    {
-      "venue": "Laugh Factory",
-      "title": "Night Stand Up Comedy",
-      "date": "2026-05-25T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/5/25/monday-night-stand-up-comedy-at-laugh-factory-chicago-tickets"
-    },
-    {
-      "venue": "Donny's Skybox Theater",
-      "title": "The Catholic School Kids Telethon",
-      "date": "2026-05-25T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/5/25/the-catholic-school-kids-telethon-tickets"
-    },
-    {
-      "venue": "The Second City",
       "title": "Pandemonium, Please Hold",
       "date": "2026-05-26T00:00:00Z",
       "time": "",
@@ -167,6 +103,14 @@
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/5/26/chicago-underground-comedy-tickets"
+    },
+    {
+      "venue": "Annoyance Theatre",
+      "title": "Ya'll Mic",
+      "date": "2026-05-26T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/5/26/ya-ll-mic-tickets"
     },
     {
       "venue": "Annoyance Theatre",
@@ -186,14 +130,6 @@
     },
     {
       "venue": "Annoyance Theatre",
-      "title": "Open Stage",
-      "date": "2026-05-26T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/5/26/open-stage-tickets"
-    },
-    {
-      "venue": "Annoyance Theatre",
       "title": "BYOT (Bring Your Own Team)",
       "date": "2026-05-26T00:00:00Z",
       "time": "",
@@ -202,11 +138,11 @@
     },
     {
       "venue": "Annoyance Theatre",
-      "title": "Ya'll Mic",
+      "title": "Open Stage",
       "date": "2026-05-26T00:00:00Z",
       "time": "",
       "description": "",
-      "url": "https://do312.com/events/2026/5/26/ya-ll-mic-tickets"
+      "url": "https://do312.com/events/2026/5/26/open-stage-tickets"
     },
     {
       "venue": "Zanies Comedy Club",
@@ -241,22 +177,6 @@
       "url": "https://do312.com/events/2026/5/26/evil-graces-tomorrow-tickets"
     },
     {
-      "venue": "The Lincoln Lodge",
-      "title": "Best Night Ever",
-      "date": "2026-05-26T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/5/26/best-night-ever-tickets"
-    },
-    {
-      "venue": "Judy's Beat Lounge",
-      "title": "Ten Dollar Comedy",
-      "date": "2026-05-26T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/5/26/ten-dollar-comedy-tickets"
-    },
-    {
       "venue": "Judy's Beat Lounge",
       "title": "Ante Up hosted by Lavalier Improv",
       "date": "2026-05-26T00:00:00Z",
@@ -271,6 +191,22 @@
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/5/26/live-at-the-second-city-hot-girlz-presents-cultural-reset-tickets"
+    },
+    {
+      "venue": "The Lincoln Lodge",
+      "title": "Best Night Ever",
+      "date": "2026-05-26T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/5/26/best-night-ever-tickets"
+    },
+    {
+      "venue": "Judy's Beat Lounge",
+      "title": "Ten Dollar Comedy",
+      "date": "2026-05-26T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/5/26/ten-dollar-comedy-tickets"
     },
     {
       "venue": "The Lincoln Lodge",
@@ -465,14 +401,6 @@
       "url": "https://do312.com/events/2026/5/28/my-best-friend-is-black-show-tickets"
     },
     {
-      "venue": "The Lincoln Lodge",
-      "title": "Hammered HIStory: Chicago's Drunkest Storytelling ABOUT Chicago History",
-      "date": "2026-05-28T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/5/28/hammered-history-chicago-s-drunkest-storytelling-about-chicago-history-tickets"
-    },
-    {
       "venue": "The Second City",
       "title": "Pandemonium, Please Hold",
       "date": "2026-05-28T00:00:00Z",
@@ -527,6 +455,14 @@
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/5/28/odd-jobs-tickets"
+    },
+    {
+      "venue": "Simone's",
+      "title": "Comedy Showcase",
+      "date": "2026-05-28T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/5/28/comedy-showcase-tickets"
     },
     {
       "venue": "Annoyance Theatre",
@@ -601,20 +537,20 @@
       "url": "https://do312.com/events/2026/5/28/joey-villagomez-tickets"
     },
     {
+      "venue": "The Lincoln Lodge",
+      "title": "Hammered HIStory: Chicago's Drunkest Storytelling ABOUT Chicago History",
+      "date": "2026-05-28T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/5/28/hammered-history-chicago-s-drunkest-storytelling-about-chicago-history-tickets"
+    },
+    {
       "venue": "Foundation Room at House of Blues",
       "title": "Chicago Comedy Club at the House of Blues! Chicago's BEST Comedy Show!",
       "date": "2026-05-28T00:00:00Z",
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/5/28/chicago-comedy-club-at-the-house-of-blues-chicago-s-best-comedy-show-tickets"
-    },
-    {
-      "venue": "e.t.c. Theater",
-      "title": "The Second City’s Improv Supernova: e.t.c. 50th Revue",
-      "date": "2026-05-28T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/5/28/the-second-city-s-improv-supernova-e-t-c-50th-revue-tickets"
     },
     {
       "title": "“The Last Word,” an Adventure Screenplay with a Cocktail Experience, Announces Summer Performances",
@@ -1655,6 +1591,14 @@
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/6/4/footholds-vol-7-tickets"
+    },
+    {
+      "venue": "Barrel Cheese & Wine",
+      "title": "Vintage: A comedy show",
+      "date": "2026-06-04T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/6/4/vintage-a-comedy-show-at-barrel-cheese-wine-tickets"
     },
     {
       "venue": "RED ROOM Comedy Club",
@@ -3561,6 +3505,14 @@
       "url": "https://do312.com/events/2026/6/18/the-featured-the-future-tickets"
     },
     {
+      "venue": "Barrel Cheese & Wine",
+      "title": "Vintage: A comedy show",
+      "date": "2026-06-18T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/6/18/vintage-a-comedy-show-at-barrel-cheese-wine-tickets"
+    },
+    {
       "venue": "RED ROOM Comedy Club",
       "title": "Celebrating Dads Comedy Show",
       "date": "2026-06-18T00:00:00Z",
@@ -5281,6 +5233,14 @@
       "url": "https://do312.com/events/2026/7/2/microfono-abierto-tickets"
     },
     {
+      "venue": "Barrel Cheese & Wine",
+      "title": "Vintage: A comedy show",
+      "date": "2026-07-02T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/7/2/vintage-a-comedy-show-at-barrel-cheese-wine-tickets"
+    },
+    {
       "venue": "Foundation Room at House of Blues",
       "title": "Chicago Comedy Club at the House of Blues! Chicago's BEST Comedy Show!",
       "date": "2026-07-02T00:00:00Z",
@@ -5319,14 +5279,6 @@
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/7/3/sammy-obeid-tickets"
-    },
-    {
-      "venue": "The Comedy Vault",
-      "title": "Your Next Favorites",
-      "date": "2026-07-03T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/7/3/your-next-favorites-tickets"
     },
     {
       "venue": "The Comedy Bar",
@@ -5399,6 +5351,14 @@
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/7/3/hitch-cocktails-tickets"
+    },
+    {
+      "venue": "The Comedy Vault",
+      "title": "Your Next Favorites",
+      "date": "2026-07-03T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/7/3/your-next-favorites-tickets"
     },
     {
       "venue": "Annoyance Theatre",
@@ -5617,6 +5577,14 @@
       "url": "https://do312.com/events/2026/7/6/improv-student-jam-student-show-tickets"
     },
     {
+      "venue": "The Den Theatre",
+      "title": "The Moth Chicago StorySLAM: BETTER TOGETHER",
+      "date": "2026-07-06T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/7/6/the-moth-chicago-storyslam-better-together-presented-by-mubifest-tickets"
+    },
+    {
       "venue": "iO Theater",
       "title": "Mystery Movie Club",
       "date": "2026-07-06T00:00:00Z",
@@ -5631,14 +5599,6 @@
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/7/6/mayfair-improv-club-tickets"
-    },
-    {
-      "venue": "The Lincoln Lodge",
-      "title": "Giggle Hour",
-      "date": "2026-07-07T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/7/7/giggle-hour-tickets"
     },
     {
       "venue": "The Lincoln Lodge",
@@ -5705,6 +5665,14 @@
       "url": "https://do312.com/events/2026/7/7/tomato-throw-show-tickets"
     },
     {
+      "venue": "The Lincoln Lodge",
+      "title": "Giggle Hour",
+      "date": "2026-07-07T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/7/7/giggle-hour-tickets"
+    },
+    {
       "venue": "e.t.c. Theater",
       "title": "Live at the Second City: Improvised Broadway",
       "date": "2026-07-07T00:00:00Z",
@@ -5761,14 +5729,6 @@
       "url": "https://do312.com/events/2026/7/8/funny-funny-fashion-comedy-show-tickets"
     },
     {
-      "venue": "Ina Mae Tavern & Packaged Goods",
-      "title": "Comedy Bingo!",
-      "date": "2026-07-08T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/7/8/comedy-bingo-tickets"
-    },
-    {
       "venue": "RED ROOM Comedy Club",
       "title": "Red Room Open Mic",
       "date": "2026-07-08T00:00:00Z",
@@ -5799,6 +5759,14 @@
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/7/8/jury-duty-tickets"
+    },
+    {
+      "venue": "Ina Mae Tavern & Packaged Goods",
+      "title": "Comedy Bingo!",
+      "date": "2026-07-08T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/7/8/comedy-bingo-tickets"
     },
     {
       "venue": "iO Theater",
@@ -6265,6 +6233,14 @@
       "url": "https://do312.com/events/2026/7/13/improv-student-jam-student-show-tickets"
     },
     {
+      "venue": "The Den Theatre",
+      "title": "The Moth Chicago StorySLAM: REVENGE",
+      "date": "2026-07-13T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/7/13/the-moth-chicago-storyslam-revenge-tickets"
+    },
+    {
       "venue": "Annoyance Theatre",
       "title": "Tuesday Musical Improv",
       "date": "2026-07-14T00:00:00Z",
@@ -6321,14 +6297,6 @@
       "url": "https://do312.com/events/2026/7/14/best-night-ever-tickets"
     },
     {
-      "venue": "iO Theater",
-      "title": "The Fizz Show: Carbonated Chicago Comedy",
-      "date": "2026-07-15T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/7/15/fizz-tickets"
-    },
-    {
       "venue": "Annoyance Theatre",
       "title": "Insignificant Mile",
       "date": "2026-07-15T00:00:00Z",
@@ -6351,6 +6319,14 @@
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/7/15/jury-duty-tickets"
+    },
+    {
+      "venue": "iO Theater",
+      "title": "The Fizz Show: Carbonated Chicago Comedy",
+      "date": "2026-07-15T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/7/15/fizz-tickets"
     },
     {
       "venue": "iO Theater",
@@ -6481,6 +6457,14 @@
       "url": "https://do312.com/events/2026/7/16/dating-detectives-tickets"
     },
     {
+      "venue": "Barrel Cheese & Wine",
+      "title": "Vintage: A comedy show",
+      "date": "2026-07-16T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/7/16/vintage-a-comedy-show-at-barrel-cheese-wine-tickets"
+    },
+    {
       "venue": "De Maat Theater",
       "title": "Blockbuster? Blockbuster!",
       "date": "2026-07-16T00:00:00Z",
@@ -6497,20 +6481,20 @@
       "url": "https://do312.com/events/2026/7/16/gaspare-randazzo-tickets"
     },
     {
-      "venue": "Zanies Comedy Club",
-      "title": "Jay Jurden – *Special Event*",
-      "date": "2026-07-17T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/7/17/jay-jurden-special-event-tickets"
-    },
-    {
       "venue": "Annoyance Theatre",
       "title": "Anti-Virgin Club",
       "date": "2026-07-17T00:00:00Z",
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/7/17/anti-virgin-club-tickets"
+    },
+    {
+      "venue": "Zanies Comedy Club",
+      "title": "Jay Jurden – *Special Event*",
+      "date": "2026-07-17T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/7/17/jay-jurden-special-event-tickets"
     },
     {
       "venue": "Zanies Comedy Club",
@@ -6535,14 +6519,6 @@
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/7/17/corporate-takeover-tickets"
-    },
-    {
-      "venue": "The Den Theatre",
-      "title": "Anirban Dasgupta's Player",
-      "date": "2026-07-17T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/7/17/anirban-dasgupta-s-player-tickets"
     },
     {
       "venue": "The Lincoln Lodge",
@@ -6591,6 +6567,14 @@
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/7/17/hitch-cocktails-tickets"
+    },
+    {
+      "venue": "The Den Theatre",
+      "title": "Anirban Dasgupta's Player",
+      "date": "2026-07-17T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/7/17/anirban-dasgupta-s-player-tickets"
     },
     {
       "venue": "Annoyance Theatre",
@@ -7185,6 +7169,86 @@
       "url": "https://do312.com/events/2026/7/25/prime-time-chicago-s-hottest-comedy-showcase-tickets"
     },
     {
+      "venue": "Annoyance Theatre",
+      "title": "Trigger Happy: Annoyance's Signature Improv Show",
+      "date": "2026-07-25T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/7/25/trigger-happy-annoyance-s-signature-improv-show-tickets"
+    },
+    {
+      "venue": "Annoyance Theatre",
+      "title": "Steamworks The Musical 2026",
+      "date": "2026-07-25T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/7/25/steamworks-the-musical-2026-tickets"
+    },
+    {
+      "venue": "Annoyance Theatre",
+      "title": "Best of Annoyance Sketch",
+      "date": "2026-07-25T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/7/25/best-of-annoyance-sketch-tickets"
+    },
+    {
+      "venue": "Annoyance Theatre",
+      "title": "We Took Edibles an Hour Ago",
+      "date": "2026-07-25T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/7/25/we-took-edibles-an-hour-ago-tickets"
+    },
+    {
+      "venue": "The Comedy Bar",
+      "title": "Loni Love",
+      "date": "2026-07-25T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/7/25/loni-love-tickets"
+    },
+    {
+      "venue": "The Lincoln Lodge",
+      "title": "Nervous Laughter Comedy Show: Laugh now, overthink later",
+      "date": "2026-07-25T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/7/25/nervous-laughter-comedy-show-laugh-now-overthink-later-tickets"
+    },
+    {
+      "venue": "Annoyance Theatre",
+      "title": "Experts",
+      "date": "2026-07-26T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/7/26/experts-tickets"
+    },
+    {
+      "venue": "Zanies Comedy Club",
+      "title": "2026 Roast Battle",
+      "date": "2026-07-26T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/7/26/2026-roast-battle-tickets"
+    },
+    {
+      "venue": "iO Theater",
+      "title": "Level 5 Grad Showcases",
+      "date": "2026-07-26T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/7/26/level-5-grad-showcases-tickets"
+    },
+    {
+      "venue": "The Lincoln Lodge",
+      "title": "Sunday Best",
+      "date": "2026-07-26T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/7/26/sunday-best-tickets"
+    },
+    {
       "title": "Rudolph Runs Wild",
       "venue": "The Second City",
       "date": "2026-11-27T00:00:00Z",
@@ -7201,8 +7265,8 @@
       "url": "https://do312.com/events/2026/11/28/rudolph-runs-wild-tickets"
     }
   ],
-  "lastUpdated": "2026-05-25T10:13:56.789978Z",
-  "totalShows": 900,
+  "lastUpdated": "2026-05-26T09:58:17.009652Z",
+  "totalShows": 908,
   "sources": [
     "Do312 Comedy Category",
     "Do312 Venue Pages"

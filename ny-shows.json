@@ -1,94 +1,6 @@
 {
   "shows": [
     {
-      "title": "Jaboukie & Friends",
-      "venue": "Union Hall",
-      "date": "2026-05-25T00:00:00.000Z",
-      "time": null,
-      "description": "Jaboukie & Friends",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-05-25T00:00:00.000Z",
-      "time": "10:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar",
-      "date": "2026-05-25T00:00:00.000Z",
-      "time": "10:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-05-25T00:00:00.000Z",
-      "time": "11:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar",
-      "date": "2026-05-25T00:00:00.000Z",
-      "time": "7:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-05-25T00:00:00.000Z",
-      "time": "7:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-05-25T00:00:00.000Z",
-      "time": "7:35 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-05-25T00:00:00.000Z",
-      "time": "8:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat",
-      "date": "2026-05-25T00:00:00.000Z",
-      "time": "8:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-05-25T00:00:00.000Z",
-      "time": "9:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-05-25T00:00:00.000Z",
-      "time": "9:35 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
       "title": "PRETTY MAJOR Hosted by Jay Jurden",
       "venue": "Union Hall",
       "date": "2026-05-26T00:00:00.000Z",
@@ -127,14 +39,6 @@
       "time": "6:00 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "PROJECTORFEST: SCURVY & SWORDS + FROM WOLF TO BABY",
-      "venue": "Caveat",
-      "date": "2026-05-26T00:00:00.000Z",
-      "time": "7:00 PM",
-      "description": "Projectorfest presents multimedia comedy shows from Matt Storrs and Douglas Widick",
-      "url": "https://caveat.nyc/events/projectorfest-scurvy--swords--from-wolf-to-baby-5-26-2026"
     },
     {
       "title": "Robert Kelly",
@@ -183,14 +87,6 @@
       "time": "8:30 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "PROJECTORFEST: RUNNING IN THE FAMILY + UNCNAPPING",
-      "venue": "Caveat",
-      "date": "2026-05-26T00:00:00.000Z",
-      "time": "9:30 PM",
-      "description": "Projectorfest presents multimedia comedy shows from Brent Birnaum and Josh Nasser",
-      "url": "https://caveat.nyc/events/projectorfest-running-in-the-family--uncnapping-5-26-2026"
     },
     {
       "title": "Comedy Showcase",
@@ -505,11 +401,11 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
-      "title": "Cage Match: TBD vs. Diet Coke",
+      "title": "Cage Match: Hot FM (7-0) vs. Diet Coke",
       "venue": "UCB Theatre",
       "date": "2026-05-28T00:00:00Z",
       "time": "10:00 PM",
-      "description": "Thursday, May 28, 2026 @ 10:00 PMLivestreamNY - 14TH ST. MainstageImprovCage Match: TBD vs. Diet CokeTwo Improv Teams Fight for the Future!   The World’s Most Dangerous Improv Show! In the year 2121, the World Government has outlawed LONG-FORM IMPROV. The very thing that will be the weapon for their downfall. Led by Chuck Cuckley…Buy Now",
+      "description": "Thursday, May 28, 2026 @ 10:00 PMLivestreamNY - 14TH ST. MainstageImprovCage Match: Hot FM (7-0) vs. Diet CokeTwo Improv Teams Fight for the Future!   The World’s Most Dangerous Improv Show! In the year 2121, the World Government has outlawed LONG-FORM IMPROV. The very thing that will be the weapon for their downfall. Led by Chuck Cuckley…Buy Now",
       "url": "https://ucbcomedy.com/show/cage-match-ny-05-28-26/"
     },
     {
@@ -689,6 +585,14 @@
       "url": "https://ucbcomedy.com/show/the-building-contingencies-05-30-26/"
     },
     {
+      "title": "All-Star Improv Mashup",
+      "venue": "UCB Theatre",
+      "date": "2026-05-30T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Saturday, May 30, 2026 @ 7:00 PMLivestreamNY - 14TH ST. MainstageImprovAll-Star Improv MashupJoin some of your favorite improvisers to start your weekend off right! Come see all your faves do a mash-up show!   Group 1: Sharif Corinaldi, Lida Darmian, Matt Fisher, Betsy Helmer, Aimee Lutkin, Maritza Montanez, Vince Moran, John Racioppo,…Buy Now",
+      "url": "https://ucbcomedy.com/show/all-star-improv-mashup-05-30-26/"
+    },
+    {
       "title": "ASSSSCAT NY",
       "venue": "UCB Theatre",
       "date": "2026-05-30T00:00:00Z",
@@ -865,6 +769,14 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "CANCELLED TORI MORANCAY: LE FRENCH C‘EST FREAK",
+      "venue": "Caveat",
+      "date": "2026-06-02T00:00:00.000Z",
+      "time": "7:00 PM",
+      "description": "Tori Morancay’s debut solo show dives into Frenchness, fiascos, and bad decisions with bold, self-de...",
+      "url": "https://caveat.nyc/events/tori-morancay-le-french-cest-freak-6-2-2026"
+    },
+    {
       "title": "OUR FINDINGS SHOW",
       "venue": "Caveat",
       "date": "2026-06-02T00:00:00.000Z",
@@ -887,6 +799,14 @@
       "time": "7:30PM",
       "description": null,
       "url": "https://donyc.com/events/2026/6/2/marley-gotterer-s-woke-is-back-poetry-slam-extravaganza-tickets"
+    },
+    {
+      "title": "COMEDIAN TRAITORS",
+      "venue": "Caveat",
+      "date": "2026-06-02T00:00:00.000Z",
+      "time": "9:30 PM",
+      "description": "New York City's most Villainous Comedians play the ultimate murder mystery game based on the televis...",
+      "url": "https://caveat.nyc/events/comedian-traitors-6-2-2026"
     },
     {
       "title": "The Lady Jam",
@@ -993,11 +913,11 @@
       "url": "https://donyc.com/events/2026/6/4/gabby-bryan-stef-dag-friends-enemies-lovers-tickets"
     },
     {
-      "title": "Cage Match: TBD vs. TBD",
+      "title": "Cage Match: TBD vs. Blumpkin",
       "venue": "UCB Theatre",
       "date": "2026-06-04T00:00:00Z",
       "time": "10:00 PM",
-      "description": "Thursday, June 4, 2026 @ 10:00 PMLivestreamNY - 14TH ST. MainstageImprovCage Match: TBD vs. TBDTwo Improv Teams Fight for the Future!   The World’s Most Dangerous Improv Show! In the year 2121, the World Government has outlawed LONG-FORM IMPROV. The very thing that will be the weapon for their downfall. Led by Chuck Cuckley…Buy Now",
+      "description": "Thursday, June 4, 2026 @ 10:00 PMLivestreamNY - 14TH ST. MainstageImprovCage Match: TBD vs. BlumpkinTwo Improv Teams Fight for the Future!   The World’s Most Dangerous Improv Show! In the year 2121, the World Government has outlawed LONG-FORM IMPROV. The very thing that will be the weapon for their downfall. Led by Chuck Cuckley…Buy Now",
       "url": "https://ucbcomedy.com/show/cage-match-ny-06-04-26/"
     },
     {
@@ -1033,12 +953,12 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "That's Messed Up LIVE!",
+      "title": "Liza Treyger Presents Show and Tell",
       "venue": "The Bell House",
       "date": "2026-06-05T00:00:00.000Z",
       "time": "7:30PM",
       "description": null,
-      "url": "https://donyc.com/events/2026/6/5/that-s-messed-up-live-tickets"
+      "url": "https://donyc.com/events/2026/6/5/liza-treyger-presents-show-and-tell-tickets"
     },
     {
       "title": "UCBNY Staff Show",
@@ -1641,14 +1561,6 @@
       "url": "https://ucbcomedy.com/show/pwi-and-transfer-students/"
     },
     {
-      "title": "sad sacks",
-      "venue": "UCB Theatre",
-      "date": "2026-06-12T00:00:00Z",
-      "time": "8:00 PM",
-      "description": "Friday, June 12, 2026 @ 8:00 PMDCM26 - MarathonDCM26 - UCB UpstairsImprovSketchsad sackssad sacks are a trio of queer Asian improvisers with very different senses of humor who love making each other g-g-g-giggle. They like to play light-hearted and irreverent character-driven improv. You can also find them on your phone making stupid…Read more",
-      "url": "https://ucbcomedy.com/show/sad-sacks/"
-    },
-    {
       "title": "We Have To Do Pride with Maddie Peck & Bridget Foley",
       "venue": "Union Hall",
       "date": "2026-06-13T00:00:00.000Z",
@@ -1823,6 +1735,14 @@
       "time": null,
       "description": "LAUGH",
       "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar",
+      "date": "2026-06-22T00:00:00.000Z",
+      "time": "7:00 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
       "title": "Raye Schiller and Lily Lester co-headline!",
@@ -2049,23 +1969,23 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "PROJECTORFEST: SHITTY MOZART",
+      "title": "PROJECTORFEST: SCURVY & SWORDS + FROM WOLF TO BABY",
       "venue": "Caveat",
-      "date": "2027-05-25T00:00:00.000Z",
+      "date": "2027-05-26T00:00:00.000Z",
       "time": "7:00 PM",
-      "description": "Projectorfest presents Shitty Mozart",
-      "url": "https://caveat.nyc/events/projectorfest-shitty-mozart-5-25-2026"
+      "description": "Projectorfest presents multimedia comedy shows from Matt Storrs and Douglas Widick",
+      "url": "https://caveat.nyc/events/projectorfest-scurvy--swords--from-wolf-to-baby-5-26-2026"
     },
     {
-      "title": "JELLICLE CHESS",
+      "title": "PROJECTORFEST: RUNNING IN THE FAMILY + UNCNAPPING",
       "venue": "Caveat",
-      "date": "2027-05-25T00:00:00.000Z",
+      "date": "2027-05-26T00:00:00.000Z",
       "time": "9:30 PM",
-      "description": "Jellicle Chess is a variety show that parodies Cats and Chess—the two strangest musicals from the 80...",
-      "url": "https://caveat.nyc/events/jellicle-chess-5-25-2026"
+      "description": "Projectorfest presents multimedia comedy shows from Brent Birnaum and Josh Nasser",
+      "url": "https://caveat.nyc/events/projectorfest-running-in-the-family--uncnapping-5-26-2026"
     }
   ],
-  "lastUpdated": "2026-05-25T10:15:11.605321Z",
+  "lastUpdated": "2026-05-26T09:59:31.911921Z",
   "sources": [
     "DoNYC",
     "Caveat",
@@ -2075,5 +1995,5 @@
     "UCB Theatre",
     "The Bell House"
   ],
-  "totalShows": 258
+  "totalShows": 248
 }
