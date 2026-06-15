@@ -1,1022 +1,6 @@
 {
   "shows": [
     {
-      "title": "We Have To Do Pride with Maddie Peck & Bridget Foley",
-      "venue": "Union Hall",
-      "date": "2026-06-13T00:00:00.000Z",
-      "time": null,
-      "description": "We Have To Do Pride with Maddie Peck & Bridget Foley",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Watch the Knicks at Union Hall!",
-      "venue": "Union Hall",
-      "date": "2026-06-13T00:00:00.000Z",
-      "time": null,
-      "description": "Watch the Knicks at Union Hall!",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Dyketopia & Friends",
-      "venue": "Union Hall",
-      "date": "2026-06-13T00:00:00.000Z",
-      "time": null,
-      "description": "Dyketopia & Friends",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Pride Anthems Dance Party with DJ MARIKO",
-      "venue": "Union Hall",
-      "date": "2026-06-13T00:00:00.000Z",
-      "time": null,
-      "description": "Pride Anthems Dance Party with DJ MARIKO",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-06-13T00:00:00.000Z",
-      "time": "10:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-06-13T00:00:00.000Z",
-      "time": "10:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-06-13T00:00:00.000Z",
-      "time": "11:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-06-13T00:00:00.000Z",
-      "time": "11:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-06-13T00:00:00.000Z",
-      "time": "11:55 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-06-13T00:00:00.000Z",
-      "time": "12:30 am",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-06-13T00:00:00.000Z",
-      "time": "12:55 am",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-06-13T00:00:00.000Z",
-      "time": "6:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-06-13T00:00:00.000Z",
-      "time": "6:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "A Drinking Game NYC: The Devil Wears Prada",
-      "venue": "The Bell House",
-      "date": "2026-06-13T00:00:00.000Z",
-      "time": "7:00PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/6/13/a-drinking-game-nyc-the-devil-wears-prada-tickets"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-06-13T00:00:00.000Z",
-      "time": "7:01 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-06-13T00:00:00.000Z",
-      "time": "7:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-06-13T00:00:00.000Z",
-      "time": "8:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-06-13T00:00:00.000Z",
-      "time": "8:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-06-13T00:00:00.000Z",
-      "time": "9:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-06-13T00:00:00.000Z",
-      "time": "9:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Big Fart",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "10:00 AM",
-      "description": "Saturday, June 13, 2026 @ 10:00 AMDCM26 - MarathonDCM26 - Theater For the New City - Stage 2ImprovBig FartBig Fart is bringing their goofy and undeniable group chemistry to DCM. Expect to see their best hits and new bits! Cast: Irielle Wesley, Maria Pond, Molly Moore, Xaria ColemanRead more",
-      "url": "https://ucbcomedy.com/show/big-fart/"
-    },
-    {
-      "title": "Chicken Big",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "10:00 AM",
-      "description": "Saturday, June 13, 2026 @ 10:00 AMDCM26 - MarathonDCM26 - Theater For the New City - MainstageImprovChicken BigAs seen on ‘America's Got Talent', Chicken Big (Tej Khanna, Ibhan Kulkarni, and Lars Montanaro) is a Brooklyn-based comedy trio that produces and performs improv, clown, and experimental comedy experiences. Cast: Ibhan Kulkarni, Lars Montanaro, Tej KhannaRead more",
-      "url": "https://ucbcomedy.com/show/chicken-big/"
-    },
-    {
-      "title": "Jane “Austin” Improv",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "10:00 AM",
-      "description": "Saturday, June 13, 2026 @ 10:00 AMDCM26 - LivestreamDCM26 - MarathonDCM26 - UCB MainstageImprovJane “Austin” ImprovJane Austin Improv, a playful nod to both Jane Austen and Austin, TX, channels the spirit of Jane Austen into a comedy feast! Starting with a single audience suggestion, the cast devises a full-length play on the spot, creating something…Read more",
-      "url": "https://ucbcomedy.com/show/jane-austin-improv/"
-    },
-    {
-      "title": "Pyramid Scheme",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "10:00 AM",
-      "description": "Saturday, June 13, 2026 @ 10:00 AMDCM26 - MarathonDCM26 - Theater For the New City - Stage 3ImprovPyramid SchemePyramid Scheme builds from buy-in, expands with commitment, and sustains through belief. Constant energy flows value upward. A ground floor opportunity that could change your life. Act now. Cast: E.A. Moss, Rachel McKay Steele, Anderson Bandy, Kianna Kyn, Sydney NashRead more",
-      "url": "https://ucbcomedy.com/show/pyramid-scheme/"
-    },
-    {
-      "title": "The Building",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "10:00 AM",
-      "description": "Saturday, June 13, 2026 @ 10:00 AMDCM26 - MarathonDCM26 - UCB UpstairsImprovThe BuildingThe Building, born out of the 21st Annual UCB 3x3 Tournament, is taking DCM by storm. They take your stories of bad roommates, neighbors, apartments and landlords and rip those bastards to shreds using the finest tool around, Improv Comedy.…Read more",
-      "url": "https://ucbcomedy.com/show/the-building/"
-    },
-    {
-      "title": "Lena Dunham Improv",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "10:30 AM",
-      "description": "Saturday, June 13, 2026 @ 10:30 AMDCM26 - MarathonDCM26 - UCB UpstairsImprovLena Dunham ImprovThe black members from their own improv troupes join forces and transform your conversations with your black friends into art. Cast: Krystal Ali, Samiyyah Ali, Bam Alston, Darnell Eaton, Derek Hayes, Eva Lewis, Jamal Newman, Arie Rich, Simone Webster, Sliim…Read more",
-      "url": "https://ucbcomedy.com/show/lena-dunham-improv/"
-    },
-    {
-      "title": "Town Crier",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "10:30 AM",
-      "description": "Saturday, June 13, 2026 @ 10:30 AMDCM26 - MarathonDCM26 - Theater For the New City - Stage 2SketchTown CrierTOWN CRIER is UCBTLA's newest and hottest Maude team! And we're crossing the country to bring you the freshest possible sketches from California Cast: Courtney Theopin, Claude Hurd, Ashleigh Hairston, Jess Svendsgaard, Ruby Karp, April Rock, Rob Scerbo, Patrick Shen,…Read more",
-      "url": "https://ucbcomedy.com/show/town-crier/"
-    },
-    {
-      "title": "Your New Favorite Movie",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "10:30 AM",
-      "description": "Saturday, June 13, 2026 @ 10:30 AMDCM26 - MarathonDCM26 - Theater For the New City - Stage 3ImprovYour New Favorite MovieWe all have our favorite films. Well, get ready to add one more to the list. Watch as improvisers take a suggestion and mystery subgenre to create Your New Favorite Movie! Cast: Brandon Dzirko, DC Pierson, Risa Harms, Nikita Burdein,…Read more",
-      "url": "https://ucbcomedy.com/show/your-new-favorite-movie/"
-    },
-    {
-      "title": "Bad Scenes with The Bad Baddies",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "11:00 AM",
-      "description": "Saturday, June 13, 2026 @ 11:00 AMDCM26 - MarathonDCM26 - Theater For the New City - MainstageImprovBad Scenes with The Bad BaddiesThe Bad Baddiés bring their actor friends into their world of improv. Trained actors stick to a script while the Bad Baddiés improvise everything around them. Cast: Jozef Fahey, PJ McCormick, Paul Heredia, Justin Patterson, Alex Ross, PJ Boudousque, Emily…Read more",
-      "url": "https://ucbcomedy.com/show/bad-scenes-with-the-bad-baddies/"
-    },
-    {
-      "title": "Brothered Toast",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "11:00 AM",
-      "description": "Saturday, June 13, 2026 @ 11:00 AMDCM26 - MarathonDCM26 - Theater For the New City - Stage 3ImprovBrothered ToastBrothered Toast. You know the feeling of being in a group chat with a bunch of Black dudes. Say less. Cast: Xavier Oloi, Omar Evans, RJ Walker, Howard Hendrix Powell, Delmar Dualeh, Terrence Lambert, Raymond Cordova, Alex Waddel, Daniel Spruill,…Read more",
-      "url": "https://ucbcomedy.com/show/brothered-toast/"
-    },
-    {
-      "title": "Metal Boy",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "11:00 AM",
-      "description": "Saturday, June 13, 2026 @ 11:00 AMDCM26 - MarathonDCM26 - UCB UpstairsImprovMetal BoyMETAL BOY! HE WAS BORN FROM THE LOVE OF HUMAN MAN AND METAL WOMAN! THE BODY OF A METAL! THE HEART OF A BOY! METAL BOY! Cast: Sulaiman Beg, Sam Rogal, Pat May, Chrissie Gruebel, Amie Roe, Mat Shafeek, Eli…Read more",
-      "url": "https://ucbcomedy.com/show/metal-boy/"
-    },
-    {
-      "title": "The Faculty Maude Team and Friends",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "11:00 AM",
-      "description": "Saturday, June 13, 2026 @ 11:00 AMDCM26 - MarathonDCM26 - Theater For the New City - Stage 2SketchThe Faculty Maude Team and FriendsThe Faculty and Friends is UCB LA's Maude Team, The Faculty (and friends), bringing you LA Style sketch comedy! Which we hear is the same as sketch comedy everywhere else, but we say slay and hella on occasion. Cast: Zackry…Read more",
-      "url": "https://ucbcomedy.com/show/the-faculty-maude-team-and-friends/"
-    },
-    {
-      "title": "yikes",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "11:00 AM",
-      "description": "Saturday, June 13, 2026 @ 11:00 AMDCM26 - LivestreamDCM26 - MarathonDCM26 - UCB MainstageImprovyikesyikes! does improv off of your most memorable mishaps, crazy accidents, and biggest mistakes. Cast: Jack Brown, Toni Adeyemi, Leonard Smith Jr, May Dormon, Chris Tcholakian, Benny Wayne Sully, Isabella EscalanteRead more",
-      "url": "https://ucbcomedy.com/show/yikes/"
-    },
-    {
-      "title": "Mike & Justin",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "11:30 AM",
-      "description": "Saturday, June 13, 2026 @ 11:30 AMDCM26 - MarathonDCM26 - UCB UpstairsImprovMike & JustinPerforming together since 2017, Mike & Justin combine absurd characters and complex relationships to create scenes unlike anything you've seen before. Cast: Justin Catchens, Mike PooleRead more",
-      "url": "https://ucbcomedy.com/show/mike-justin/"
-    },
-    {
-      "title": "The Family Business Does Improv",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "11:30 AM",
-      "description": "Saturday, June 13, 2026 @ 11:30 AMDCM26 - MarathonDCM26 - Theater For the New City - Stage 2ImprovThe Family Business Does ImprovThe Family Business is UCBLA's premier \"BIG\" Maude team, putting up hour-long sketch shows monthly on the UCB stage. For DCM we put sketch aside and are ready to 'prov! Cast: Devon Drew, Ryan Kelly Coil, Caitlin Frain, Jeff Murdoch,…Read more",
-      "url": "https://ucbcomedy.com/show/the-family-business-does-improv/"
-    },
-    {
-      "title": "The Latchkey Kids",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "11:30 AM",
-      "description": "Saturday, June 13, 2026 @ 11:30 AMDCM26 - MarathonDCM26 - Theater For the New City - Stage 3ImprovThe Latchkey KidsThe Latchkey Kids have brought their Saturday detention vibes to Pittsburgh stages since 2021. Not only did Pittsburgh Magazine name them the city's Best Improv Team four years in a row, but they also have a sick Camaro their uncle…Read more",
-      "url": "https://ucbcomedy.com/show/the-latchkey-kids/"
-    },
-    {
-      "title": "All Night All Night All Night",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "12:00 PM",
-      "description": "Saturday, June 13, 2026 @ 12:00 PMDCM26 - MarathonDCM26 - Theater For the New City - Stage 2ImprovAll Night All Night All NightAll Night, All Night, All Night is an Austin-based Harold troupe with a weekly mainstage slot at ColdTowne Theater. Formed in August 2022, they bring together experienced performers — drawing on training from UCB LA/NY, iO, The Groundlings, and Second…Read more",
-      "url": "https://ucbcomedy.com/show/all-night-all-night-all-night/"
-    },
-    {
-      "title": "Book Club",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "12:00 PM",
-      "description": "Saturday, June 13, 2026 @ 12:00 PMDCM26 - MarathonDCM26 - UCB UpstairsImprovBook ClubThe spectacular improvisers of Book Club will pluck a brilliant suggestion from the enormous brainpower of our audience in order to create a perfect hour of improvised musical theatre – never before seen and never to be heard from again.…Read more",
-      "url": "https://ucbcomedy.com/show/book-club/"
-    },
-    {
-      "title": "Olestra",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "12:00 PM",
-      "description": "Saturday, June 13, 2026 @ 12:00 PMDCM26 - MarathonDCM26 - Theater For the New City - Stage 3ImprovOlestraOlestra is a squad of dangerous Chicago criminals who make out and beat the hell out of each other on stage here in New York. They evaded arrest by racking up credits in the entertainment industry; The Tonight Show, The…Read more",
-      "url": "https://ucbcomedy.com/show/olestra/"
-    },
-    {
-      "title": "Adam Pally and the Nate Lang Band",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "12:00 PM",
-      "description": "Saturday, June 13, 2026 @ 12:00 PMDCM26 - MarathonDCM26 - UCB MainstageImprovAdam Pally and the Nate Lang BandImprovised Musical jam - no idea what they’re gonna play no idea what the words are no idea if that’s how the songs go but also no ideas!!! Cast: Adam Pally, Nate Lang, Kenny GrayRead more",
-      "url": "https://ucbcomedy.com/show/adam-pally-and-the-nate-lang-band/"
-    },
-    {
-      "title": "Cereal Mascots",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "12:30 PM",
-      "description": "Saturday, June 13, 2026 @ 12:30 PMDCM26 - MarathonDCM26 - UCB UpstairsImprovCereal MascotsCereal Mascots brings life to a world never before created through their form “the whereabout”! A mix of grounded reality, fantastical whimsy, and characters you’re not soon to forget. Cereal Mascots will leave you laughing, feeling, and asking “Hey! When…Read more",
-      "url": "https://ucbcomedy.com/show/cereal-mascots/"
-    },
-    {
-      "title": "GOAT SAUCE",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "12:30 PM",
-      "description": "Saturday, June 13, 2026 @ 12:30 PMDCM26 - MarathonDCM26 - Theater For the New City - Stage 2ImprovGOAT SAUCEJoin LA-based absurdist improv group GOAT SAUCE in a dumb fucked up set that'll get you going. The cast is made up of comedians trained in NYC, LA, and Chicago and they're ready to sauce you. Cast: Caroline Cotter, Amir…Read more",
-      "url": "https://ucbcomedy.com/show/goat-sauce/"
-    },
-    {
-      "title": "Yearbook",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "12:30 PM",
-      "description": "Saturday, June 13, 2026 @ 12:30 PMDCM26 - MarathonDCM26 - Theater For the New City - Stage 3ImprovYearbookOne of UCB LA's shortest-lived Harold teams reunites to do One Last Perfect Harold™ K! ILYSM! Have a gr8 summer!! Cast: Lucy Porter, Caroline Cummings, Danielle Shvartsman, Sam Di, David Danipour, Andrew Copola, Matt DevineRead more",
-      "url": "https://ucbcomedy.com/show/yearbook/"
-    },
-    {
-      "title": "*FREE* DCM ASSSSCAT NY",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "12:30 PM",
-      "description": "Saturday, June 13, 2026 @ 12:30 PMDCM26 - Theater For the New City - MainstageImprov*FREE* DCM ASSSSCAT NYDCM’26 PRESENTS A FREE ASSSSCAT!   UCB is proud to present a FREE ASSSSCAT to showcase UCB’s Diversity Scholarship Program. Make your free reservation on this page and enjoy the show!  PLEASE NOTE: For this show, you do not need to…Buy Now",
-      "url": "https://ucbcomedy.com/show/free-dcm-asssscat-ny-06-13-26/"
-    },
-    {
-      "title": "Hot FM",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "1:00 PM",
-      "description": "Saturday, June 13, 2026 @ 1:00 PMDCM26 - MarathonDCM26 - Theater For the New City - Stage 3ImprovHot FMHot FM is the NYC Harold Team that combines the joy of local talk radio and improv comedy. We'll have hosts, callers, ad-reads and a hilarious high-energy set that weaves all of the craziness together! Cast: Jess Moukios, Eric Crumwell,…Read more",
-      "url": "https://ucbcomedy.com/show/hot-fm/"
-    },
-    {
-      "title": "LLOYD POWER HOUR",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "1:00 PM",
-      "description": "Saturday, June 13, 2026 @ 1:00 PMDCM26 - MarathonDCM26 - UCB UpstairsImprovLLOYD POWER HOURRising talent. New kids on the block. Fresh meat, yet-unground by years of big city improv. Lloyd performers are bringing their energy to POWER HOUR - one hour of fast, raucous improv featuring every Lloyd team since UCB NY’s reopening.…Read more",
-      "url": "https://ucbcomedy.com/show/lloyd-power-hour/"
-    },
-    {
-      "title": "UCBLK",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "1:00 PM",
-      "description": "Saturday, June 13, 2026 @ 1:00 PMDCM26 - MarathonDCM26 - UCB MainstageImprovUCBLKUCBLK (\"You See Black\") is a variety show spotlighting the best Black comedic talent working today — from rising stars to established names. Each month features a rotating cast performing stand-up, sketch, improv and more. Cast: Justin Catchens, Dominique Kaplowitz,…Read more",
-      "url": "https://ucbcomedy.com/show/ucblk/"
-    },
-    {
-      "title": "Extremely T-Shirt and Incredibly T-Shirt",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "1:30 AM",
-      "description": "Saturday, June 13, 2026 @ 1:30 AMDCM26 - LivestreamDCM26 - MarathonDCM26 - UCB MainstageImprovExtremely T-Shirt and Incredibly T-ShirtDylan & Bo perform two-prov, BUT every 30 seconds we put on a t-shirt. YOU (the audience) can make us put on more t-shirts. We're genuinely afraid about passing out from the heat of all the shirts. Cast: Dylan Smith,…Read more",
-      "url": "https://ucbcomedy.com/show/extremely-t-shirt-and-incredibly-t-shirt/"
-    },
-    {
-      "title": "Cowboy Mama",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "1:30 PM",
-      "description": "Saturday, June 13, 2026 @ 1:30 PMDCM26 - MarathonDCM26 - Theater For the New City - Stage 3ImprovCowboy MamaCowboy Mama is a Harold team from UCBTLA made up of working actors, writers, and directors. They are best friends with dark secrets that bind them, here’s the proof: https://www.instagram.com/p/DQIStxbEu2o/ Cast: Eli Gonzalez, Austin Williams, Rob Scerbo, Mike Christian, Anna…Read more",
-      "url": "https://ucbcomedy.com/show/cowboy-mama/"
-    },
-    {
-      "title": "The Miners Play Fortnite Live with the Audience",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "1:45 AM",
-      "description": "Saturday, June 13, 2026 @ 1:45 AMDCM26 - MarathonDCM26 - UCB MainstageImprovThe Miners Play Fortnite Live with the AudienceThe Miners is a team of some of the UCB's most interesting performers who play Fortnite in a unique and special way. They will be playing Fortnite the video game live with the audience. It will be exciting, super relatable…Read more",
-      "url": "https://ucbcomedy.com/show/the-miners-play-fortnite-live-with-the-audience/"
-    },
-    {
-      "title": "CRAIG: THE DRUNK GUIDED MEDITATION",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "2:00 AM",
-      "description": "Saturday, June 13, 2026 @ 2:00 AMDCM26 - LivestreamDCM26 - MarathonDCM26 - UCB MainstageImprovCRAIG: THE DRUNK GUIDED MEDITATIONGreetings. Namaste. At ease, soldier. Craig offers you an immersive (and drunk) sound bath/guided meditation to find your center of calm. Together, we will meditatively travel to places as near as the depths of your mind and as far as…Read more",
-      "url": "https://ucbcomedy.com/show/craig-the-drunk-guided-meditation/"
-    },
-    {
-      "title": "Half my Life: 25 Years of UCB",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "2:00 PM",
-      "description": "Saturday, June 13, 2026 @ 2:00 PMDCM26 - MarathonDCM26 - UCB UpstairsImprovHalf my Life: 25 Years of UCBAn unprepared Oral history of UCB Theatre that includes, Floods, Blackouts, Parties and Funerals. Shannon O’Neill started her journey at UCB NYC in June 2000 and she hasn’t left. Cast: Shannon O'NeillRead more",
-      "url": "https://ucbcomedy.com/show/half-my-life-25-years-of-ucb-2/"
-    },
-    {
-      "title": "Promises",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "2:00 PM",
-      "description": "Saturday, June 13, 2026 @ 2:00 PMDCM26 - MarathonDCM26 - Theater For the New City - Stage 3ImprovPromisesREUNITED FROM ACROSS THE GLOBE!You know them from Lloyd, then Harold, then Cage Match, then sticking all their fingers in Amir's mouth: it's the UCB's favorite band of dingdongs and fuckheads (<3) ... and this time it's personal! Cast: Corin…Read more",
-      "url": "https://ucbcomedy.com/show/promises/"
-    },
-    {
-      "title": "Shadow Cast Improv: Sex and The City: The Movie",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "2:00 PM",
-      "description": "Saturday, June 13, 2026 @ 2:00 PMDCM26 - MarathonDCM26 - Theater For the New City - Stage 2ImprovShadow Cast Improv: Sex and The City: The MovieSHADOW CAST IMPROV is kind of like Rocky Horror Live except it's a different movie every time. We'll watch our very special cast of comics doing their own playing out of the scenes on stage versus the movie (as the…Read more",
-      "url": "https://ucbcomedy.com/show/shadow-cast-improv/"
-    },
-    {
-      "title": "Bigger!",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "2:00 PM",
-      "description": "Saturday, June 13, 2026 @ 2:00 PMDCM26 - MarathonDCM26 - UCB MainstageImprovBigger!Brennan Lee Mulligan and Izzy Roland turn odd real-life stories into outrageous improv scenes. Cast: Brennan Lee Mulligan, Izzy RolandRead more",
-      "url": "https://ucbcomedy.com/show/bigger/"
-    },
-    {
-      "title": "Black Panther Object Work Spectacular",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "2:15 AM",
-      "description": "Saturday, June 13, 2026 @ 2:15 AMDCM26 - MarathonDCM26 - UCB MainstageImprovBlack Panther Object Work SpectacularBlack Panther Party (BPP) promotes self-defense against police brutality, community empowerment, systemic change and above all else, spectacular object work. Yes And, your local chapter now! Cast: Ray Cordova, Monique Moses, Alex Waddell, Sydney Duncan, Howard Hendrix Powell, Saidah Dunston,…Read more",
-      "url": "https://ucbcomedy.com/show/black-panther-object-work-spectacular/"
-    },
-    {
-      "title": "Improvised DCM Line in 2015",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "2:30 AM",
-      "description": "Saturday, June 13, 2026 @ 2:30 AMDCM26 - LivestreamDCM26 - MarathonDCM26 - UCB MainstageImprovImprovised DCM Line in 2015Come enjoy the good old days with an improvised recreation of the DCM line in 2015. Don’t forget your McDonalds! Cast: Seth Finkelstein, Max Hegley, Lena Skeele, Ethan Beach, Sophia Norella, Jonathan Lee-Rey, Anna Rock, Chandler Dean, Olivia Scenna, Eddie…Read more",
-      "url": "https://ucbcomedy.com/show/improvised-dcm-line-in-2015/"
-    },
-    {
-      "title": "YHF",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "2:30 PM",
-      "description": "Saturday, June 13, 2026 @ 2:30 PMDCM26 - MarathonDCM26 - Theater For the New City - Stage 3ImprovYHFYHF has a fast, fun style that brings the audience to a lot of places in a short amount of time with no edits! YHF met doing Harold at UCB LA and do improv with a blend of theatrics, mathematics,…Read more",
-      "url": "https://ucbcomedy.com/show/yhf/"
-    },
-    {
-      "title": "House of Gains",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "2:30 PM",
-      "description": "Saturday, June 13, 2026 @ 2:30 PMDCM26 - MarathonDCM26 - UCB MainstageImprovHouse of GainsBest friends and workout partners Brennan Lee Mulligan and Lou Wilson have bonded over years of lifting weights and spinning yarns. This commitment to growth is the beating heart of this duo, which will see the physically fit pair performing…Read more",
-      "url": "https://ucbcomedy.com/show/house-of-gains/"
-    },
-    {
-      "title": "Jalapeñbros",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "2:45 AM",
-      "description": "Saturday, June 13, 2026 @ 2:45 AMDCM26 - LivestreamDCM26 - MarathonDCM26 - UCB MainstageImprovJalapeñbros\"Some shows are 30 minutes, some are 10. Some feature nuanced, patient, deeply funny character-based improv, while some feature people eating jalapeños until they throw up.\" - Vulture Cast: Brady O'Callahan, Mark Dowling, Paris Adkins, David Bluvband, Nick Guercio, Lida…Read more",
-      "url": "https://ucbcomedy.com/show/jalapenbros/"
-    },
-    {
-      "title": "Ladies Who Ranch",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "3:00 PM",
-      "description": "Saturday, June 13, 2026 @ 3:00 PMDCM26 - MarathonDCM26 - Theater For the New City - Stage 3ImprovLadies Who RanchDeemed 'local faves' by The New York Times and 'very funny lunatics' by TimeOutNY, the Ladies Who Ranch is a five-person comedy group known for improv that will blow your mind and open your heart. Their style showcases a grab…Read more",
-      "url": "https://ucbcomedy.com/show/ladies-who-ranch/"
-    },
-    {
-      "title": "Live Prank Call Show",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "3:00 PM",
-      "description": "Saturday, June 13, 2026 @ 3:00 PMDCM26 - MarathonDCM26 - Theater For the New City - Stage 2ImprovLive Prank Call ShowImprov inspired by live prank calls! We'll turn real conversations live on stage into unpredictable high-wire comedy. Performed by Los Angeles based improv team Rat City. Cast: Marc Mendoza, Marco Torres, Lexie Elton Skye, Douglas Prodor, Jennifer Bologna, Olivia Heifetz,…Read more",
-      "url": "https://ucbcomedy.com/show/live-prank-call-show/"
-    },
-    {
-      "title": "NYC College Comedy Night",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "3:00 PM",
-      "description": "Saturday, June 13, 2026 @ 3:00 PMDCM26 - MarathonDCM26 - UCB UpstairsImprovStandupNYC College Comedy NightCollegiate improv at its finest! Join us as five college improv teams from all over the nation make their UCB DCM debut! On The Spot (KSU)- On the Spot Improv is Kansas State University's premier improv comedy troupe since 2009!…Read more",
-      "url": "https://ucbcomedy.com/show/nyc-college-comedy-night/"
-    },
-    {
-      "title": "What the Hell",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "3:00 PM",
-      "description": "Saturday, June 13, 2026 @ 3:00 PMDCM26 - LivestreamDCM26 - MarathonDCM26 - UCB MainstageImprovWhat the HellAn incredible improv show with the most incredible improvisers in NYC and beyond! Cast: Amanda Breen, Akmal Tajihan, Jon Gabrus, Betsy Sodaro, Phil Jackson, Lyndsey Frank, Amir Khan, Keiko AgenaRead more",
-      "url": "https://ucbcomedy.com/show/what-the-hell/"
-    },
-    {
-      "title": "James Dwyer One Man Harold",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "3:15 AM",
-      "description": "Saturday, June 13, 2026 @ 3:15 AMDCM26 - MarathonDCM26 - UCB MainstageImprovJames Dwyer One Man HaroldJames Dwyer makes space for the ultimate version of long form improv: a one person Harold performed while wearing a black lycra suit. Free of the unnecessary entanglements of teammates, the King of Improv commands the space with an air…Read more",
-      "url": "https://ucbcomedy.com/show/james-dwyer-one-man-harold/"
-    },
-    {
-      "title": "The Runway",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "3:30 AM",
-      "description": "Saturday, June 13, 2026 @ 3:30 AMDCM26 - MarathonDCM26 - UCB MainstageImprovThe RunwayWalk down the DCM Runway and show off your best looks. Open to All. Cast: Justin Catchens, Ash Diggs, Andrew BarlowRead more",
-      "url": "https://ucbcomedy.com/show/the-runway/"
-    },
-    {
-      "title": "Bastian",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "3:30 PM",
-      "description": "Saturday, June 13, 2026 @ 3:30 PMDCM26 - MarathonDCM26 - Theater For the New City - Stage 2ImprovBastianBastian was a house team at UCB NY from 2007-2011, and (probably?) remains the longest-running Harold team in the theater’s history. Now scattered across the US, they’re reuniting on the DCM stage for the first time in more than a…Read more",
-      "url": "https://ucbcomedy.com/show/bastian/"
-    },
-    {
-      "title": "Fair Trade",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "3:30 PM",
-      "description": "Saturday, June 13, 2026 @ 3:30 PMDCM26 - MarathonDCM26 - Theater For the New City - Stage 3ImprovFair TradeConnor Ratliff (Connor Ratliff presents the Acting Class) and Shem Pennant (the Foundation), two of UCB New York’s most joyfully specific comedians, perform at least one scene of improvised comedy. Cast: Shem Pennant, Connor RatliffRead more",
-      "url": "https://ucbcomedy.com/show/fair-trade/"
-    },
-    {
-      "title": "15 Minutes of Sound and Movement",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "3:45 AM",
-      "description": "Saturday, June 13, 2026 @ 3:45 AMDCM26 - LivestreamDCM26 - MarathonDCM26 - UCB MainstageImprov15 Minutes of Sound and MovementHave you ever seen a show with a Sound and Movement opener and thought to yourself \"Damn I wish this was the whole show?\" No? Well buckle up bucko, because this is what's happening here! 15 glorious minutes of sound…Read more",
-      "url": "https://ucbcomedy.com/show/15-minutes-of-sound-and-movement/"
-    },
-    {
-      "title": "One Word Story, now featuring YOU",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "4:00 AM",
-      "description": "Saturday, June 13, 2026 @ 4:00 AMDCM26 - MarathonDCM26 - UCB MainstageImprovOne Word Story, now featuring YOUThe \"One Word Story\" is a time-honored icebreaker in improv. But has it ever been done with an entire audience participating for a period of time longer than 3 minutes without all parties losing their minds? Join in as Peter…Read more",
-      "url": "https://ucbcomedy.com/show/one-word-story-now-featuring-you/"
-    },
-    {
-      "title": "Barbara, a Mother",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "4:00 PM",
-      "description": "Saturday, June 13, 2026 @ 4:00 PMDCM26 - MarathonDCM26 - Theater For the New City - Stage 4ImprovBarbara, a MotherOh my! Mother's little darlings have gone and made an improv team. Let's hope they remember their manners and leave those potty mouths in Pittsburgh... Cast: Alex Conti, Amy Ream, Bre Brown, Drew Sieber, Max Rubenstein, Raina Deerwater, Ryan Warsing,…Read more",
-      "url": "https://ucbcomedy.com/show/barbara-a-mother/"
-    },
-    {
-      "title": "Duchovny",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "4:00 PM",
-      "description": "Saturday, June 13, 2026 @ 4:00 PMDCM26 - MarathonDCM26 - UCB MainstageImprovDuchovnyNYC’s funniest improv show brought to you by a group of top-tier psychopaths. This group of elite New York maniacs is composed of veteran improvisers, actors, and comedians who you’ve probably seen in TV, movies, and even the most coveted…Read more",
-      "url": "https://ucbcomedy.com/show/duchovny/"
-    },
-    {
-      "title": "Pretty Thistle",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "4:00 PM",
-      "description": "Saturday, June 13, 2026 @ 4:00 PMDCM26 - MarathonDCM26 - Theater For the New City - Stage 3ImprovPretty ThistlePretty Thistle is an improv comedy show by Martin James & John McInnes from the Glasgow Improv Theatre which they have been performing since 2018. A fully improvised world inspired by an audience suggestion is explored by two wee lads…Read more",
-      "url": "https://ucbcomedy.com/show/pretty-thistle/"
-    },
-    {
-      "title": "Shitzprobe",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "4:00 PM",
-      "description": "Saturday, June 13, 2026 @ 4:00 PMDCM26 - MarathonDCM26 - Theater For the New City - MainstageImprovShitzprobeShitzprobe is a fully improvised musical that features a very special guest star throwing away the script to make up a brand-new musical on the spot. Every song, lyric, line of dialogue and dance move is totally improvised, accompanied by…Read more",
-      "url": "https://ucbcomedy.com/show/shitzprobe/"
-    },
-    {
-      "title": "In Memoriam: feat. your favorite (dead) celebs",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "4:15 AM",
-      "description": "Saturday, June 13, 2026 @ 4:15 AMDCM26 - LivestreamDCM26 - MarathonDCM26 - UCB MainstageImprovIn Memoriam: feat. your favorite (dead) celebsYour favorite celebrities do improv! Just like you, we love celebrities. But we get so sad when they die, so we're grieving and honoring them the only way we know how: through improv. Cast: James Dwyer, Mary McDonnell, Yoni Lotan,…Read more",
-      "url": "https://ucbcomedy.com/show/in-memoriam-feat-your-favorite-dead-celebs/"
-    },
-    {
-      "title": "Oops all audience members",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "4:30 AM",
-      "description": "Saturday, June 13, 2026 @ 4:30 AMDCM26 - LivestreamDCM26 - MarathonDCM26 - UCB MainstageImprovOops all audience membersOops! All Audience members! No performers on stage, all the audience bits you can think of. Come sit quietly while people ask you if the seat next to you is taken! Or watch the slide show for shows you're never…Read more",
-      "url": "https://ucbcomedy.com/show/oops-all-audience-members/"
-    },
-    {
-      "title": "Branded Silk",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "4:30 PM",
-      "description": "Saturday, June 13, 2026 @ 4:30 PMDCM26 - MarathonDCM26 - Theater For the New City - Stage 3ImprovBranded SilkIt's improv with seasoning! Using the longform Slacker watch as two of improv's most absurd minds create a cavalcade of characters and places. Not for the faint of heart this duo has brought the show from Scotland to Canada to…Read more",
-      "url": "https://ucbcomedy.com/show/branded-silk/"
-    },
-    {
-      "title": "Frat Boyz",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "4:30 PM",
-      "description": "Saturday, June 13, 2026 @ 4:30 PMDCM26 - MarathonDCM26 - Theater For the New City - Stage 2ImprovFrat BoyzNo one makes things up like Frat Boyz. The Fratties are veteran improvisers from the major comedy theaters in NYC. They've been friends since college and reunite every 3rd Wednesday of the month at the BCC. They are thrilled to…Read more",
-      "url": "https://ucbcomedy.com/show/frat-boyz/"
-    },
-    {
-      "title": "Zindabaddies",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "4:30 PM",
-      "description": "Saturday, June 13, 2026 @ 4:30 PMDCM26 - MarathonDCM26 - Theater For the New City - Stage 4ImprovZindabaddiesFormed in 2018 as part of UCB's Asian AF Show, Zindabaddies represented the South Asian house team members of the time. They enjoyed it so much, they've been playing shows and festivals together ever since. Cast: Parvesh Cheena, Dhruv Uday…Read more",
-      "url": "https://ucbcomedy.com/show/zindabaddies/"
-    },
-    {
-      "title": "Cig Break",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "4:45 AM",
-      "description": "Saturday, June 13, 2026 @ 4:45 AMDCM26 - MarathonDCM26 - UCB MainstageImprovCig BreakLet's all go outside for a smoke Cast: Max Bank, Chris McDonaldRead more",
-      "url": "https://ucbcomedy.com/show/cig-break/"
-    },
-    {
-      "title": "Ultimate Mind Meld",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "5:00 AM",
-      "description": "Saturday, June 13, 2026 @ 5:00 AMDCM26 - LivestreamDCM26 - MarathonDCM26 - UCB MainstageImprovUltimate Mind MeldULTIMATE MIND MELD features a couple dozen improvisors playing the classic improv warm-up mind meld, starting with completely different words and continuing until we succeed in getting all ~20 of us to say the exact same word at the exact…Read more",
-      "url": "https://ucbcomedy.com/show/ultimate-mind-meld/"
-    },
-    {
-      "title": "Midwives",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "5:00 PM",
-      "description": "Saturday, June 13, 2026 @ 5:00 PMDCM26 - MarathonDCM26 - Theater For the New City - Stage 4ImprovMidwivesMidwives is a Brooklyn-based team of five gals with five different performance styles who come together with high energy, earnestness, and a love of long form improv. Midwives' shows feel like being at a sleepover with your best friends at…Read more",
-      "url": "https://ucbcomedy.com/show/midwives/"
-    },
-    {
-      "title": "Power of Attorney",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "5:00 PM",
-      "description": "Saturday, June 13, 2026 @ 5:00 PMDCM26 - MarathonDCM26 - UCB UpstairsImprovPower of AttorneyPower of Attorney is a former UCB-LA Harold team made up of wannabe lawyers and criminals. Legally, you are compelled to find them hilarious. Cast: Katie Nathan, Cara Meyers, Allyson Phillips, Tao Yang, Quinn Boyes, Lawrence Marshalian, Derek HackettRead more",
-      "url": "https://ucbcomedy.com/show/power-of-attorney/"
-    },
-    {
-      "title": "THEATRE: The Improvised Play",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "5:00 PM",
-      "description": "Saturday, June 13, 2026 @ 5:00 PMDCM26 - MarathonDCM26 - Theater For the New City - Stage 3ImprovTHEATRE: The Improvised PlayThe children of Meisner, Adler, Strasberg, Atlantic, and any expensive acting/conservatory come together for one night to give the performance of a lifetime. Together, they will improvise a full-length play that will surely showcase their ability to be dramatic… all…Read more",
-      "url": "https://ucbcomedy.com/show/theatre-the-improvised-play/"
-    },
-    {
-      "title": "Joy F*ck Club & Friends",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "5:00 PM",
-      "description": "Saturday, June 13, 2026 @ 5:00 PMDCM26 - MarathonDCM26 - Theater For the New City - Stage 2ImprovJoy F*ck Club & FriendsJoy F*ck Club is an all-Asian-American improv team and the hosts of the hit @asianafshow here @ucbtny. From sold out shows at the Kennedy Center, to doing their monthly show UCB, some of the funniest improvisers in NYC and their…Read more",
-      "url": "https://ucbcomedy.com/show/joy-fck-club-friends/"
-    },
-    {
-      "title": "Slap Happy Prov",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "5:15 AM",
-      "description": "Saturday, June 13, 2026 @ 5:15 AMDCM26 - MarathonDCM26 - UCB MainstageImprovSlap Happy ProvAn improv bit show where the improvisers get slap happy literally. The Slap Referee will count the number of slaps throughout the show and award the slapper with the most slaps the honor of giving or receiving a butt slap…Read more",
-      "url": "https://ucbcomedy.com/show/slap-happy-prov/"
-    },
-    {
-      "title": "PIZZA TIME!!",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "5:30 AM",
-      "description": "Saturday, June 13, 2026 @ 5:30 AMDCM26 - LivestreamDCM26 - MarathonDCM26 - UCB MainstageImprovPIZZA TIME!!You're drunk, you're high, and you're definitely HUNGRY!! So why not have a FREE SLICE of PIZZA!!? All you have to do is truthfully answer a question. Cast: Jon DimakopoulosRead more",
-      "url": "https://ucbcomedy.com/show/pizza-time/"
-    },
-    {
-      "title": "The Big Team: UCB DCM26 Headliner",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "5:30 PM",
-      "description": "Saturday, June 13, 2026 @ 5:30 PMDCM26 - HeadlinerDCM26 - LivestreamDCM26 - UCB MainstageImprovThe Big Team: UCB DCM26 HeadlinerRonnie Adrian, Zeke Nicholson, Ify Nwadiwe, Ishmel Sahid, Carl Tart & Lamar Woods The Big Team (formerly known as White Women) is an improv team of all Black men based in Los Angeles. Formed after meeting at the UCB Black…Buy Now",
-      "url": "https://ucbcomedy.com/show/the-big-team-ucb-dcm26-headliner/"
-    },
-    {
-      "title": "Yeti: UCB DCM26 Headliner",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "5:30 PM",
-      "description": "Saturday, June 13, 2026 @ 5:30 PMDCM26 - HeadlinerDCM26 - Theater For the New City - MainstageImprovYeti: UCB DCM26 HeadlinerTHIS SHOW IS SOLD OUT! Yeti is an improv team — and a group of biological siblings. One of LA's premier improv teams, they bring an hour of unparalleled wit, fun, and surprises. 100% Yeti. 100% 4Real. Cast: Ally Beardsley,…Read more",
-      "url": "https://ucbcomedy.com/show/yeti-ucb-dcm26-headliner/"
-    },
-    {
-      "title": "Best Friend Show",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "5:30 PM",
-      "description": "Saturday, June 13, 2026 @ 5:30 PMDCM26 - MarathonDCM26 - UCB UpstairsImprovBest Friend ShowMeredith and Lyndsey are two best friends. Come watch them do friendship-based improv together. Cast: Meredith Paul, Lyndsey Frank, Sophie HirschRead more",
-      "url": "https://ucbcomedy.com/show/best-friend-show/"
-    },
-    {
-      "title": "Branzino",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "5:30 PM",
-      "description": "Saturday, June 13, 2026 @ 5:30 PMDCM26 - MarathonDCM26 - Theater For the New City - Stage 4ImprovBranzinoBranzino is a UCB LA Harold team comprised of the freshest saltwater comedians money can buy. “Give a man a Branzino and he laughs for a day; teach a man to Branzino and he laughs for a lifetime.” – UCB…Read more",
-      "url": "https://ucbcomedy.com/show/branzino/"
-    },
-    {
-      "title": "Krompf",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "5:30 PM",
-      "description": "Saturday, June 13, 2026 @ 5:30 PMDCM26 - MarathonDCM26 - Theater For the New City - Stage 2ImprovKrompfKrompf was founded a million years ago as the universe began its expansion. Krompf is one of the longest-running independent improv teams from UCBNY, they began performing together in 2001 out of an Armando Diaz level 1 class at UCB.…Read more",
-      "url": "https://ucbcomedy.com/show/krompf/"
-    },
-    {
-      "title": "Groundhog Day",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "5:45 AM",
-      "description": "Saturday, June 13, 2026 @ 5:45 AMDCM26 - MarathonDCM26 - UCB MainstageImprovGroundhog DayThe same scene over, and over, and over, again. You know, like the movie. Cast: Trumane Alston, Rudy Behrens, Mark Dowling, Lou Gonzalez, Fu Goto, Will Jacobs, Liz Noth, Kris WienerRead more",
-      "url": "https://ucbcomedy.com/show/groundhog-day/"
-    },
-    {
-      "title": "Nice While it Lasted",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "6:00 AM",
-      "description": "Saturday, June 13, 2026 @ 6:00 AMDCM26 - MarathonDCM26 - UCB MainstageImprovNice While it LastedIf late night is dying, what comes next? Greg Iwinski (The Late Show, Last Week Tonight) and Jim Fagan (The Tonight Show) have been gifted the secret knowledge of the future of the genre, and will offer a preview of…Read more",
-      "url": "https://ucbcomedy.com/show/nice-while-it-lasted/"
-    },
-    {
-      "title": "Candy Apple Red",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "6:00 PM",
-      "description": "Saturday, June 13, 2026 @ 6:00 PMDCM26 - MarathonDCM26 - Theater For the New City - Stage 4ImprovCandy Apple RedCandy Apple Red brings a fast paced musical montage to the stage. Big characters, silly choruses, lots of callbacks. Cast: Andrew Young, Scott Thiede, Madison Dahm, Brittany Smith, Bennett CohenRead more",
-      "url": "https://ucbcomedy.com/show/candy-apple-red/"
-    },
-    {
-      "title": "Drums Drums Drums",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "6:00 PM",
-      "description": "Saturday, June 13, 2026 @ 6:00 PMDCM26 - MarathonDCM26 - UCB UpstairsImprovDrums Drums DrumsSee the revolutionary percussion trio that the New York Times called \"personality-altering\" and \"a gift from whatever's above the heavens\" play their first and greatest hit, Three Hearts Astride. Cast: Chris Packard, John Thompson, Harrison MerktRead more",
-      "url": "https://ucbcomedy.com/show/drums-drums-drums/"
-    },
-    {
-      "title": "Wicked City",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "6:00 PM",
-      "description": "Saturday, June 13, 2026 @ 6:00 PMDCM26 - MarathonDCM26 - Theater For the New City - Stage 3ImprovWicked CityWicked City has been performing together for over 75 years. They look that good. When they are not complimenting each other they are performing their special brand of loving and hilarious improv all over the country. They are thrilled to…Read more",
-      "url": "https://ucbcomedy.com/show/wicked-city/"
-    },
-    {
-      "title": "Advice From Your Middle Eastern Moms",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "6:15 AM",
-      "description": "Saturday, June 13, 2026 @ 6:15 AMDCM26 - LivestreamDCM26 - MarathonDCM26 - UCB MainstageImprovAdvice From Your Middle Eastern MomsBridgette and Lida are two Middle Eastern women who have decades of experience giving you the advice you need, and usually never asked for. You can come with questions, but you will certainly leave questioning everything. You’re welcome! Cast: Lida…Read more",
-      "url": "https://ucbcomedy.com/show/advice-from-your-middle-eastern-moms/"
-    },
-    {
-      "title": "Full of Bones",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "6:30 PM",
-      "description": "Saturday, June 13, 2026 @ 6:30 PMDCM26 - MarathonDCM26 - UCB UpstairsImprovFull of BonesFull of Bones is a beautiful local indie team that everyone loves (a lot). We’re funny, aggressive, and excited to make you laugh!! Cast: Mark Burns, Robert Johnston, Madeline Wolfson, Meredith Dietz, Christopher L. Tucker, Tony FerraroRead more",
-      "url": "https://ucbcomedy.com/show/full-of-bones/"
-    },
-    {
-      "title": "Pisces",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "6:30 PM",
-      "description": "Saturday, June 13, 2026 @ 6:30 PMDCM26 - MarathonDCM26 - Theater For the New City - Stage 3ImprovPiscesPisces is a monoscene team that loves to perform high stakes, big energy scenes. And no matter what, they'll always have fun doing it. Cast: Allyn Pintal, Keiko Agena, Chuck Maa, Jane Kim, Oscar Montoya, Kevin RiveraRead more",
-      "url": "https://ucbcomedy.com/show/pisces/"
-    },
-    {
-      "title": "Ask Comedians Anything",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "7:00 AM",
-      "description": "Saturday, June 13, 2026 @ 7:00 AMDCM26 - LivestreamDCM26 - MarathonDCM26 - UCB MainstageImprovAsk Comedians AnythingAsk Comedians Anything is an interactive comedy show where your favorite comedians answer questions about New York City. Hosted by Andrei Buna. Produced by Ben Asciutto Cast: Andrei Buna, Ben AsciuttoRead more",
-      "url": "https://ucbcomedy.com/show/ask-comedians-anything/"
-    },
-    {
-      "title": "Ian Herrin Improv Hour",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "8:00 AM",
-      "description": "Saturday, June 13, 2026 @ 8:00 AMDCM26 - MarathonDCM26 - UCB UpstairsImprovIan Herrin Improv HourThe Ian Herrin Improv Hour (IHIH) is a tight, fast, and fun improv team showcase hosted by that guy from that one Selena Gomez commercial and current UCB NYC teacher Ian Herrin! Our DCM early morning showcase features special guests…Read more",
-      "url": "https://ucbcomedy.com/show/ian-herrin-improv-hour/"
-    },
-    {
-      "title": "The Perfect Harold",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "8:00 AM",
-      "description": "Saturday, June 13, 2026 @ 8:00 AMDCM26 - LivestreamDCM26 - MarathonDCM26 - UCB MainstageImprovThe Perfect Harold“Why don’t we just plan the Harold in advance?” said no one! A premiere team of UCB sketch writers will secretly write the outline for a perfect Harold: each beat of the pattern game, each initiation for each scene, and…Read more",
-      "url": "https://ucbcomedy.com/show/the-perfect-harold/"
-    },
-    {
-      "title": "The Working Group",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "8:30 AM",
-      "description": "Saturday, June 13, 2026 @ 8:30 AMDCM26 - MarathonDCM26 - UCB MainstageImprovThe Working GroupThe Working Group is an effort to bring improv back to life -- and bring life back into improv. People, processes, specifics, environments, consequences - everything around us and inside us. Context is everything, behavior is everything, and life is…Read more",
-      "url": "https://ucbcomedy.com/show/the-working-group/"
-    },
-    {
-      "title": "David Bluvband is The Movie",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "9:00 AM",
-      "description": "Saturday, June 13, 2026 @ 9:00 AMDCM26 - MarathonDCM26 - UCB UpstairsImprovDavid Bluvband is The MovieDavid Bluvband LOVES movies. Watch as Bluvband interviews the audience about their fears and desires, and spins into movie magic. Bluvband will improvise an entire movie as the actor, writer, director, cinematographer, key grip and craft services. There might even…Read more",
-      "url": "https://ucbcomedy.com/show/david-bluvband-is-the-movie/"
-    },
-    {
-      "title": "The Trial: An Improvised Court Experience",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "9:00 AM",
-      "description": "Saturday, June 13, 2026 @ 9:00 AMDCM26 - LivestreamDCM26 - MarathonDCM26 - UCB MainstageImprovThe Trial: An Improvised Court ExperienceFinally, an improv show that will make you want to go to jury duty! The Trial improvises a tense courtroom trial right before your eyes -- from dramatic opening statements, to tense jury deliberations, and ending with the thrilling verdict.…Read more",
-      "url": "https://ucbcomedy.com/show/the-trial-an-improvised-court-experience/"
-    },
-    {
-      "title": "Shrecc",
-      "venue": "UCB Theatre",
-      "date": "2026-06-13T00:00:00Z",
-      "time": "9:30 AM",
-      "description": "Saturday, June 13, 2026 @ 9:30 AMDCM26 - MarathonDCM26 - UCB UpstairsImprovShreccYou know Shrecc. You love Shrecc. Now come see Shrecc do Improv! (NOTE: Shrecc is not Shrek and has nothing to do with Shrek, we've been told that's somehow unclear?) Cast: Ernest Myers, Madeleine Lloyd-Davies, Betsy Helmer, Julia Kelly, Amelia…Read more",
-      "url": "https://ucbcomedy.com/show/shrecc/"
-    },
-    {
-      "title": "Proud, Werk! hosted by Erik Martini and Jer Block",
-      "venue": "Union Hall",
-      "date": "2026-06-14T00:00:00.000Z",
-      "time": null,
-      "description": "Proud, Werk! hosted by Erik Martini and Jer Block",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Bo Johnson @ Union Hall",
-      "venue": "Union Hall",
-      "date": "2026-06-14T00:00:00.000Z",
-      "time": null,
-      "description": "Bo Johnson @ Union Hall",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-06-14T00:00:00.000Z",
-      "time": "10:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-06-14T00:00:00.000Z",
-      "time": "10:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-06-14T00:00:00.000Z",
-      "time": "11:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-06-14T00:00:00.000Z",
-      "time": "1:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "WE'RE STILL IN THIS TOGETHER: AN HSM 20TH ANNIVERSARY CELEBRATION",
-      "venue": "Caveat",
-      "date": "2026-06-14T00:00:00.000Z",
-      "time": "2:30 PM",
-      "description": "A comedic variety show that celebrates and pays homage to the greatest film trilogy ever made, High ...",
-      "url": "https://caveat.nyc/events/were-still-in-this-together-an-hsm-20th-anniversary-celebration-6-14-2026"
-    },
-    {
-      "title": "Josh Sharp: An Hour Of Crowd Work In The Round",
-      "venue": "The Bell House",
-      "date": "2026-06-14T00:00:00.000Z",
-      "time": "3:00PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/6/14/josh-sharp-an-hour-of-crowd-work-in-the-round-tickets"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-06-14T00:00:00.000Z",
-      "time": "4:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "ROOMIES AND CO PRIDE VARIETY SHOW",
-      "venue": "Caveat",
-      "date": "2026-06-14T00:00:00.000Z",
-      "time": "5:00 PM",
-      "description": "Celebrate Pride with a variety show supporting queer acts including burlesque, drag, comedy, and mus...",
-      "url": "https://caveat.nyc/events/roomies-and-co-pride-variety-show-6-14-2026"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar",
-      "date": "2026-06-14T00:00:00.000Z",
-      "time": "5:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-06-14T00:00:00.000Z",
-      "time": "6:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-06-14T00:00:00.000Z",
-      "time": "6:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-06-14T00:00:00.000Z",
-      "time": "7:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-06-14T00:00:00.000Z",
-      "time": "7:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-06-14T00:00:00.000Z",
-      "time": "8:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-06-14T00:00:00.000Z",
-      "time": "8:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-06-14T00:00:00.000Z",
-      "time": "9:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-06-14T00:00:00.000Z",
-      "time": "9:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "DCM26",
-      "venue": "UCB Theatre",
-      "date": "2026-06-14T00:00:00Z",
-      "time": null,
-      "description": "Friday, June 12 – Sunday, June 14, 2026NYCImprovDCM26All 3-day badges and single day passes are sold out! All seating for shows is first come, first served. A headliner ticket reservation guarantees entry to that show. Entry is not guaranteed for any block-style or marathon programming — arrive…Buy Now",
-      "url": "https://ucbcomedy.com/show/dcm26/"
-    },
-    {
       "title": "Frankenstein's Baby",
       "venue": "Union Hall",
       "date": "2026-06-15T00:00:00.000Z",
@@ -1047,14 +31,6 @@
       "time": "6:00 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "AND SCENE",
-      "venue": "Caveat",
-      "date": "2026-06-15T00:00:00.000Z",
-      "time": "7:00 PM",
-      "description": "Actors are given a scene & learn their lines, improvisers are given nothing & must make it work.",
-      "url": "https://caveat.nyc/events/and-scene-6-15-2026"
     },
     {
       "title": "Comedy Showcase",
@@ -1097,12 +73,12 @@
       "url": "https://donyc.com/venues/the-bell-house"
     },
     {
-      "title": "JAPANESE GRANDMA FUNERAL (A FRINGE FUNDRAISER SHOW)",
-      "venue": "Caveat",
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Fat Black Pussycat",
       "date": "2026-06-15T00:00:00.000Z",
-      "time": "9:30 PM",
-      "description": "Kento the Clown restages his Okinawan grandmother’s funeral with the audience as family—a joyful, pa...",
-      "url": "https://caveat.nyc/events/japanese-grandma-funeral-a-fringe-fundraiser-show-6-15-2026"
+      "time": "8:30 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
       "title": "Comedy Showcase",
@@ -1633,6 +609,14 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
+      "title": "ECONLOL: AN ECONOMICS-THEMED COMEDY SHOW",
+      "venue": "Caveat",
+      "date": "2026-06-22T00:00:00.000Z",
+      "time": "7:00 PM",
+      "description": "EconLoL is the world’s first, best, and only economics-themed comedy variety show.",
+      "url": "https://caveat.nyc/events/econlol-an-economics-themed-comedy-show-6-22-2026"
+    },
+    {
       "title": "Comedy Showcase",
       "venue": "Comedy Cellar",
       "date": "2026-06-22T00:00:00.000Z",
@@ -1647,6 +631,14 @@
       "time": "7:00PM",
       "description": null,
       "url": "https://donyc.com/events/2026/6/22/pat-regan-tickets"
+    },
+    {
+      "title": "SCATTERGOOD PRESENTS STRESSED FOR SUCCESS",
+      "venue": "Caveat",
+      "date": "2026-06-22T00:00:00.000Z",
+      "time": "9:30 PM",
+      "description": "12 Second City-trained performers take the stage at Caveat with 90 minutes of brand-new sketches, li...",
+      "url": "https://caveat.nyc/events/scattergood-presents-stressed-for-success-6-22-2026"
     },
     {
       "title": "Raye Schiller and Lily Lester co-headline!",
@@ -1665,6 +657,14 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
+      "title": "THE BISQUE: COMEDY FOR CHARITY.",
+      "venue": "Caveat",
+      "date": "2026-06-23T00:00:00.000Z",
+      "time": "7:00 PM",
+      "description": "A three-course meal of some of the best improv and stand up in NYC - raising money for abortion acce...",
+      "url": "https://caveat.nyc/events/the-bisque-comedy-for-charity-6-23-2026"
+    },
+    {
       "title": "Robert Kelly",
       "venue": "Comedy Cellar",
       "date": "2026-06-23T00:00:00.000Z",
@@ -1681,12 +681,28 @@
       "url": "https://donyc.com/events/2026/6/22/pat-regan-tickets"
     },
     {
+      "title": "JO MARCH MADNESS: LIVE!",
+      "venue": "Caveat",
+      "date": "2026-06-23T00:00:00.000Z",
+      "time": "9:30 PM",
+      "description": "Welcome to the bracket where YOU decide the winner - join our host, Ben Langhorst, on a gay fantasia...",
+      "url": "https://caveat.nyc/events/jo-march-madness-live-6-23-2026"
+    },
+    {
       "title": "Pizzazz with Gary Gulman",
       "venue": "Union Hall",
       "date": "2026-06-24T00:00:00.000Z",
       "time": null,
       "description": "Pizzazz with Gary Gulman",
       "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "SCIENCE DOES SPORTS - SCIENCE TONIGHT!",
+      "venue": "Caveat",
+      "date": "2026-06-24T00:00:00.000Z",
+      "time": "7:00 PM",
+      "description": "Which Topic has the Topkick?",
+      "url": "https://caveat.nyc/events/science-tonight-6-24-2026"
     },
     {
       "title": "Comedy Showcase",
@@ -1921,6 +937,14 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
+      "title": "Zach & Viggo: Thunderflop",
+      "venue": "The Bell House",
+      "date": "2026-07-06T00:00:00.000Z",
+      "time": "8:00PM",
+      "description": null,
+      "url": "https://donyc.com/events/2026/7/6/zach-viggo-thunderflop-tickets"
+    },
+    {
       "title": "NORMAL BEHAVIOR with Chine Ikoro",
       "venue": "Union Hall",
       "date": "2026-07-07T00:00:00.000Z",
@@ -1937,6 +961,14 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
+      "title": "Alison Leiby: I'm A Lot",
+      "venue": "The Bell House",
+      "date": "2026-07-07T00:00:00.000Z",
+      "time": "7:30PM",
+      "description": null,
+      "url": "https://donyc.com/events/2026/7/7/alison-leiby-i-m-a-lot-tickets"
+    },
+    {
       "title": "Grace Reiter and Friends Slumber Party",
       "venue": "Union Hall",
       "date": "2026-07-08T00:00:00.000Z",
@@ -1951,6 +983,14 @@
       "time": "7:00 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Stamptown",
+      "venue": "The Bell House",
+      "date": "2026-07-08T00:00:00.000Z",
+      "time": "8:00PM",
+      "description": null,
+      "url": "https://donyc.com/events/2026/7/8/stamptown-tickets"
     },
     {
       "title": "MADDY KELLY LIVE LIVE LIVE",
@@ -1983,6 +1023,14 @@
       "time": null,
       "description": "Shane Torres is Emotionally Vulnerable and His Friends Will Eat Him Alive",
       "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar",
+      "date": "2026-07-12T00:00:00.000Z",
+      "time": "4:00 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
       "title": "Yvette Segan Presents: Guy’s Girl",
@@ -2081,183 +1129,23 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "Jamie Wolf: Psycho",
-      "venue": "Union Hall",
-      "date": "2026-07-25T00:00:00.000Z",
-      "time": null,
-      "description": "Jamie Wolf: Psycho",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Malik Elassal",
-      "venue": "Union Hall",
-      "date": "2026-07-25T00:00:00.000Z",
-      "time": null,
-      "description": "Malik Elassal",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "The Portal",
-      "venue": "Union Hall",
-      "date": "2026-07-25T00:00:00.000Z",
-      "time": null,
-      "description": "The Portal",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Shane Torres is Emotionally Vulnerable and His Friends Will Eat Him Alive",
-      "venue": "Union Hall",
-      "date": "2026-07-26T00:00:00.000Z",
-      "time": null,
-      "description": "Shane Torres is Emotionally Vulnerable and His Friends Will Eat Him Alive",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Cold Plunge with Kurt Braunohler",
-      "venue": "Union Hall",
-      "date": "2026-08-05T00:00:00.000Z",
-      "time": null,
-      "description": "Cold Plunge with Kurt Braunohler",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "RUPI KAUR: UNCUT – A RESIDENCY",
-      "venue": "Union Hall",
-      "date": "2026-08-06T00:00:00.000Z",
-      "time": null,
-      "description": "RUPI KAUR: UNCUT – A RESIDENCY",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Tiny Idea Live!",
-      "venue": "Union Hall",
-      "date": "2026-08-06T00:00:00.000Z",
-      "time": null,
-      "description": "Tiny Idea Live!",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Meat Cats Comedy Presents: Sunday Sauce",
-      "venue": "Union Hall",
-      "date": "2026-08-09T00:00:00.000Z",
-      "time": null,
-      "description": "Meat Cats Comedy Presents: Sunday Sauce",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "SHUTCHOASSUP! Presents: Gandhy Beauvil & Ryan Roman",
-      "venue": "Union Hall",
-      "date": "2026-08-15T00:00:00.000Z",
-      "time": null,
-      "description": "SHUTCHOASSUP! Presents: Gandhy Beauvil & Ryan Roman",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "RUPI KAUR: UNCUT – A RESIDENCY",
-      "venue": "Union Hall",
-      "date": "2026-08-20T00:00:00.000Z",
-      "time": null,
-      "description": "RUPI KAUR: UNCUT – A RESIDENCY",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "RUPI KAUR: UNCUT – A RESIDENCY",
-      "venue": "Union Hall",
-      "date": "2026-09-13T00:00:00.000Z",
-      "time": null,
-      "description": "RUPI KAUR: UNCUT – A RESIDENCY",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "RUPI KAUR: UNCUT – A RESIDENCY",
-      "venue": "Union Hall",
-      "date": "2026-09-17T00:00:00.000Z",
-      "time": null,
-      "description": "RUPI KAUR: UNCUT – A RESIDENCY",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Taylor Tomlinson: Tries Out New Ideas",
-      "venue": "Union Hall",
-      "date": "2026-09-17T00:00:00.000Z",
-      "time": null,
-      "description": "Taylor Tomlinson: Tries Out New Ideas",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Taylor Tomlinson: Tries Out New Ideas",
-      "venue": "Union Hall",
-      "date": "2026-09-18T00:00:00.000Z",
-      "time": null,
-      "description": "Taylor Tomlinson: Tries Out New Ideas",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Taylor Tomlinson: Tries Out New Ideas",
-      "venue": "Union Hall",
-      "date": "2026-09-19T00:00:00.000Z",
-      "time": null,
-      "description": "Taylor Tomlinson: Tries Out New Ideas",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "RUPI KAUR: UNCUT – A RESIDENCY",
-      "venue": "Union Hall",
-      "date": "2026-09-24T00:00:00.000Z",
-      "time": null,
-      "description": "RUPI KAUR: UNCUT – A RESIDENCY",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "RUPI KAUR: UNCUT – A RESIDENCY",
-      "venue": "Union Hall",
-      "date": "2026-09-25T00:00:00.000Z",
-      "time": null,
-      "description": "RUPI KAUR: UNCUT – A RESIDENCY",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Chris Gethard And Dave Ross Leave For Fest",
-      "venue": "Union Hall",
-      "date": "2026-10-17T00:00:00.000Z",
-      "time": null,
-      "description": "Chris Gethard And Dave Ross Leave For Fest",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Nori Is Present LIVE at Union Hall",
-      "venue": "Union Hall",
-      "date": "2026-11-05T00:00:00.000Z",
-      "time": null,
-      "description": "Nori Is Present LIVE at Union Hall",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "MODERN WHITNEY",
+      "title": "AND SCENE",
       "venue": "Caveat",
-      "date": "2027-06-13T00:00:00.000Z",
-      "time": "4:00 PM",
-      "description": "Comedians interpret art, then an expert tells us how close they got",
-      "url": "https://caveat.nyc/events/modern-whitney-6-13-2026"
-    },
-    {
-      "title": "GIRLPARTY: SKETCH COMEDY",
-      "venue": "Caveat",
-      "date": "2027-06-13T00:00:00.000Z",
+      "date": "2027-06-15T00:00:00.000Z",
       "time": "7:00 PM",
-      "description": "New year, new sketches, same girls, also some new girls",
-      "url": "https://caveat.nyc/events/girlparty-sketch-comedy-6-13-2026"
+      "description": "Actors are given a scene & learn their lines, improvisers are given nothing & must make it work.",
+      "url": "https://caveat.nyc/events/and-scene-6-15-2026"
     },
     {
-      "title": "BOOKS & BURLESQUE",
+      "title": "JAPANESE GRANDMA FUNERAL (A FRINGE FUNDRAISER SHOW)",
       "venue": "Caveat",
-      "date": "2027-06-13T00:00:00.000Z",
+      "date": "2027-06-15T00:00:00.000Z",
       "time": "9:30 PM",
-      "description": "Books and Burlesque combines award-winning writers with exciting burlesque performers for an evening...",
-      "url": "https://caveat.nyc/events/books--burlesque-6-13-2026"
+      "description": "Kento the Clown restages his Okinawan grandmother’s funeral with the audience as family—a joyful, pa...",
+      "url": "https://caveat.nyc/events/japanese-grandma-funeral-a-fringe-fundraiser-show-6-15-2026"
     }
   ],
-  "lastUpdated": "2026-06-13T09:11:21.345200Z",
+  "lastUpdated": "2026-06-15T12:09:43.209380Z",
   "sources": [
     "DoNYC",
     "Caveat",
@@ -2267,5 +1155,5 @@
     "UCB Theatre",
     "The Bell House"
   ],
-  "totalShows": 282
+  "totalShows": 143
 }
