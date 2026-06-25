@@ -1,126 +1,6 @@
 {
   "shows": [
     {
-      "title": "Pizzazz with Gary Gulman",
-      "venue": "Union Hall",
-      "date": "2026-06-24T00:00:00.000Z",
-      "time": null,
-      "description": "Pizzazz with Gary Gulman",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-06-24T00:00:00.000Z",
-      "time": "10:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat",
-      "date": "2026-06-24T00:00:00.000Z",
-      "time": "10:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-06-24T00:00:00.000Z",
-      "time": "11:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar",
-      "date": "2026-06-24T00:00:00.000Z",
-      "time": "7:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-06-24T00:00:00.000Z",
-      "time": "7:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-06-24T00:00:00.000Z",
-      "time": "7:35 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-06-24T00:00:00.000Z",
-      "time": "8:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "The Moth Storyslam",
-      "venue": "The Bell House",
-      "date": "2026-06-24T00:00:00.000Z",
-      "time": "8:00PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/6/24/the-moth-storyslam-tickets"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-06-24T00:00:00.000Z",
-      "time": "8:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-06-24T00:00:00.000Z",
-      "time": "9:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-06-24T00:00:00.000Z",
-      "time": "9:35 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "*SEASON PREMIERE* BETTY NIGHT",
-      "venue": "UCB Theatre",
-      "date": "2026-06-24T00:00:00Z",
-      "time": "7:00 PM",
-      "description": "Wednesday, June 24, 2026 @ 7:00 PMLivestreamNY - 14TH ST. MainstageCharacter*SEASON PREMIERE* BETTY NIGHTCome see the twisted geniuses of UCB’s character house team! Betty Night showcases brand-new solo characters every month by a team of UCB’s finest writer/performers. Featuring: Ryan Beggs, Devin Bockrath, Jonathan Cohall, Langston Darby, Eric Greenbaum, Joe Harrington, Jetta Juriansz,…Buy Now",
-      "url": "https://ucbcomedy.com/show/season-premiere-betty-night-06-24-26/"
-    },
-    {
-      "title": "We Will Turn You Gay",
-      "venue": "UCB Theatre",
-      "date": "2026-06-24T00:00:00Z",
-      "time": "8:30 PM",
-      "description": "Wednesday, June 24, 2026 @ 8:30 PMNY - 14TH ST. MainstageImprovWe Will Turn You GayYou are going to turn gay, and you are going to love it. You will also enjoy the improv show we put on for you.   An all-star, all-queer cast featuring comedians from your favorite TV shows, movies and podcasts!…Buy Now",
-      "url": "https://ucbcomedy.com/show/we-will-turn-you-gay-2026-06-24/"
-    },
-    {
-      "title": "Table Ready",
-      "venue": "UCB Theatre",
-      "date": "2026-06-24T00:00:00Z",
-      "time": "9:00 PM",
-      "description": "Wednesday, June 24, 2026 @ 9:00 PMNY - 14TH ST. UpstairsSketchTable ReadyNYC’s favorite comedy table read show! Table Ready! is the result of our combined love of live performance and the 30-minute TV pilot. As screenwriters and comedians ourselves, we know the value of having immediate audience feedback on our work.…Buy Now",
-      "url": "https://ucbcomedy.com/show/table-ready-06-24-26/"
-    },
-    {
       "title": "Josh Gondelman, Jean Grae, & John Hodgman IN ALPHABETICAL ORDER",
       "venue": "Union Hall",
       "date": "2026-06-25T00:00:00.000Z",
@@ -177,14 +57,6 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
-      "title": "LECTURES ON TAP-\"FROM PAGE TO SCREEN: HUNGER GAMES & THE ART OF ADAPTATION\"",
-      "venue": "Caveat",
-      "date": "2026-06-25T00:00:00.000Z",
-      "time": "7:00 PM",
-      "description": "Lectures on Tap-\"From Page to Screen: Hunger Games & The Art of Adaptation\"",
-      "url": "https://caveat.nyc/events/lectures-on-tap-from-page-to-screen-hunger-games--the-art-of-adaptation-6-25-2026"
-    },
-    {
       "title": "Comedy Showcase",
       "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
       "date": "2026-06-25T00:00:00.000Z",
@@ -233,14 +105,6 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
-      "title": "A CELL PHONE MOVIE! DIY CINEMA ROAD (SH*T) SHOW!",
-      "venue": "Caveat",
-      "date": "2026-06-25T00:00:00.000Z",
-      "time": "9:30 PM",
-      "description": "A feature film shot on an iPhone for $20k? That + a live talk/motivational shove on DIY filmmaking, ...",
-      "url": "https://caveat.nyc/events/a-cell-phone-movie-diy-cinema-road-sht-show-6-25-2026"
-    },
-    {
       "title": "Comedy Showcase",
       "venue": "Comedy Cellar - Village Underground",
       "date": "2026-06-25T00:00:00.000Z",
@@ -270,7 +134,7 @@
       "date": "2026-06-25T00:00:00Z",
       "time": "7:30 PM",
       "description": "Thursday, June 25, 2026 @ 7:30 PMNY - 14TH ST. UpstairsImprovSUB-LETTERSFive comedians take your most unique roommate stories and turn them into a fully improvised comedy. New York City has no shortage of unique living situations that most people find unbelievable. SUB-LETTERS takes your most outrageous stories and turns them…Buy Now",
-      "url": "https://ucbcomedy.com/show/sub-letters-06-25-26/"
+      "url": "https://ucbcomedy.com/show/sub-letters/"
     },
     {
       "title": "CONNOR RATLIFF presents THE ACTING CLASS",
@@ -278,7 +142,7 @@
       "date": "2026-06-25T00:00:00Z",
       "time": "8:30 PM",
       "description": "Thursday, June 25, 2026 @ 8:30 PMLivestreamNY - 14TH ST. MainstageImprovCONNOR RATLIFF presents THE ACTING CLASSA one-person improv show disguised as an acting class, from the creator of the Dead Eyes podcast. Professional actor (Run Amok, Bob's Burgers, “King Henry” in a recent State Farm ad) and award-winning podcaster (Dead Eyes) CONNOR RATLIFF is a classically trained performer who…Buy Now",
-      "url": "https://ucbcomedy.com/show/connor-ratliff-presents-the-acting-class-06-25-26/"
+      "url": "https://ucbcomedy.com/show/connor-ratliff-presents-the-acting-class/"
     },
     {
       "title": "Kaleidoscope",
@@ -462,7 +326,7 @@
       "date": "2026-06-26T00:00:00Z",
       "time": "7:00 PM",
       "description": "Friday, June 26, 2026 @ 7:00 PMLivestreamNY - 14TH ST. MainstageCharacterCharacters WelcomeThe best damn character show on the planet! Eric Feurer, Michael Hartney, Sarah Smallwood Parsons, and Justin Tyler host New York's best and brightest writer/performers with a new crop of hilarious original characters and impressions every month. Eleven years, 300K…Buy Now",
-      "url": "https://ucbcomedy.com/show/characters-welcome-06-26-26/"
+      "url": "https://ucbcomedy.com/show/characters-welcome/"
     },
     {
       "title": "ASSSSCAT NY",
@@ -478,7 +342,7 @@
       "date": "2026-06-26T00:00:00Z",
       "time": "9:00 PM",
       "description": "Friday, June 26, 2026 @ 9:00 PMNY - 14TH ST. UpstairsChud CityWe’ve gathered a group of these comedy chuds, who will have you laughing so hard, you'll forget to take your Prozac.   Featured at New York Comedy Festival '25 as the most ridiculous (in the best way) alt show you'll…Buy Now",
-      "url": "https://ucbcomedy.com/show/chud-city-06-26-26/"
+      "url": "https://ucbcomedy.com/show/chud-city/"
     },
     {
       "title": "Neel Ghosh: Pagol",
@@ -678,7 +542,7 @@
       "date": "2026-06-27T00:00:00Z",
       "time": "7:00 PM",
       "description": "Saturday, June 27, 2026 @ 7:00 PMLivestreamNY - 14TH ST. MainstageCharacterA Really Bad Time with Alex KuminA Really Bad Time with Alex Kumin (Comedy Central, TimeOut USA Comic to Watch, NBC) is a darkly funny, unexpectedly warm solo show about surviving the kinds of things people don’t usually bring up in polite conversation: cancer and sexual trauma*! With sharp…Buy Now",
-      "url": "https://ucbcomedy.com/show/a-really-bad-time-with-alex-kumin-06-27-26/"
+      "url": "https://ucbcomedy.com/show/a-really-bad-time-with-alex-kumin/"
     },
     {
       "title": "ASSSSCAT NY",
@@ -761,7 +625,7 @@
       "url": "https://donyc.com/events/2026/6/28/pretty-major-pride-edition-hosted-by-jay-jurden-and-nico-carney-tickets"
     },
     {
-      "title": "TRIAL SHOW - COMEDIANS INTERVIEW EXPERTS",
+      "title": "PREVIEW - COMEDIANS INTERVIEW EXPERTS",
       "venue": "Caveat",
       "date": "2026-06-28T00:00:00.000Z",
       "time": "7:30 PM",
@@ -1106,6 +970,14 @@
     },
     {
       "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Fat Black Pussycat",
+      "date": "2026-07-01T00:00:00.000Z",
+      "time": "10:30 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
       "venue": "Comedy Cellar - MacDougal Street",
       "date": "2026-07-01T00:00:00.000Z",
       "time": "11:30 pm",
@@ -1189,7 +1061,7 @@
       "venue": "UCB Theatre",
       "date": "2026-07-01T00:00:00Z",
       "time": "8:30 PM",
-      "description": "Wednesday, July 1, 2026 @ 8:30 PMLivestreamNY - 14TH ST. MainstageCharacterThe I’m Cool Showcase: CharactersCome see top-notch characters presented by UCBNY! Lineup: Samantha Nugent, Michelle Chan Bennett, Donald Chang, Devin Bockrath, Yoni Lotan, Allisha Edwards, Joey Welsh, and Chine Ikoro —- In-person tickets are $15 plus fees. Livestream tickets are $10 plus fees. Buyers…Buy Now",
+      "description": "Wednesday, July 1, 2026 @ 8:30 PMLivestreamNY - 14TH ST. MainstageCharacterThe I’m Cool Showcase: CharactersCome see top-notch characters presented by UCBNY! Lineup: Samantha Nugent, Michelle Chan Bennett, Donald Chang, Devin Bockrath, Yoni Lotan, Allisha Edwards, Joey Welsh, and Chine Ikoro   Hosted by Natasha Vaynblat —- In-person tickets are $15 plus fees. Livestream tickets…Buy Now",
       "url": "https://ucbcomedy.com/show/the-im-cool-showcase-characters/"
     },
     {
@@ -1213,6 +1085,14 @@
       "venue": "Comedy Cellar - MacDougal Street",
       "date": "2026-07-02T00:00:00.000Z",
       "time": "10:45 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Fat Black Pussycat",
+      "date": "2026-07-02T00:00:00.000Z",
+      "time": "11:00 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
@@ -1377,12 +1257,36 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "THE WASHINGTON ROAST",
+      "venue": "Caveat",
+      "date": "2026-07-04T00:00:00.000Z",
+      "time": "1:30 PM",
+      "description": "The viral hit comedy show where your favorite (and least favorite) politicians get scorched in savag...",
+      "url": "https://caveat.nyc/events/the-washington-roast-7-4-2026"
+    },
+    {
+      "title": "TOM D'S BIG NEW YORK SHOW",
+      "venue": "Caveat",
+      "date": "2026-07-04T00:00:00.000Z",
+      "time": "4:00 PM",
+      "description": "Comedian and certified tour guide Tom Delgado takes you on an entertaining tour of NYC with history,...",
+      "url": "https://caveat.nyc/events/tom-ds-big-new-york-show-7-4-2026"
+    },
+    {
       "title": "Girl Mountain Presents: Girl Mountain",
       "venue": "Union Hall",
       "date": "2026-07-05T00:00:00.000Z",
       "time": null,
       "description": "Girl Mountain Presents: Girl Mountain",
       "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar",
+      "date": "2026-07-05T00:00:00.000Z",
+      "time": "5:00 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
       "title": "Lloyd Night: Cruise Control & WET",
@@ -1417,11 +1321,11 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
-      "title": "Comedy Showcase",
+      "title": "An Hour with Keith Robinson Show",
       "venue": "Comedy Cellar",
       "date": "2026-07-06T00:00:00.000Z",
       "time": "7:00 pm",
-      "description": "Lineup to be announced",
+      "description": "An Hour with Keith Robinson Show: Final Fat",
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
@@ -1503,6 +1407,14 @@
       "time": "8:00PM",
       "description": null,
       "url": "https://donyc.com/events/2026/7/8/stamptown-tickets"
+    },
+    {
+      "title": "John and Scott: Two Person Improv",
+      "venue": "UCB Theatre",
+      "date": "2026-07-08T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Wednesday, July 8, 2026 @ 7:00 PMNY - 14TH ST. MainstageImprovJohn and Scott: Two Person ImprovTwo Friends, One 1-Hour Show.   Scott Adsit (30 Rock, Big Hero 6) performed as a member of the Mainstage, ETC, and Northwest companies of the Second City in Chicago. John Lutz (30 Rock, Late Night with Seth Meyers) performed at the Improv…Buy Now",
+      "url": "https://ucbcomedy.com/show/john-and-scott-two-person-improv-07-08-26/"
     },
     {
       "title": "The I’m Cool Showcase: Sketch",
@@ -1993,6 +1905,14 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar",
+      "date": "2026-07-22T00:00:00.000Z",
+      "time": "7:00 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
       "title": "Malik Elassal",
       "venue": "Union Hall",
       "date": "2026-07-23T00:00:00.000Z",
@@ -2039,6 +1959,14 @@
       "time": null,
       "description": "KARAOKE TREMENDOUS",
       "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Don't Stop I'm About to Jazz",
+      "venue": "The Bell House",
+      "date": "2026-07-24T00:00:00.000Z",
+      "time": "7:30PM",
+      "description": null,
+      "url": "https://donyc.com/events/2026/7/24/don-t-stop-i-m-about-to-jazz-tickets"
     },
     {
       "title": "ASSSSCAT NY",
@@ -2401,23 +2329,23 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "SCIENCE DOES SPORTS - SCIENCE TONIGHT!",
+      "title": "LECTURES ON TAP-\"FROM PAGE TO SCREEN: HUNGER GAMES & THE ART OF ADAPTATION\"",
       "venue": "Caveat",
-      "date": "2027-06-24T00:00:00.000Z",
+      "date": "2027-06-25T00:00:00.000Z",
       "time": "7:00 PM",
-      "description": "Which Topic has the Topkick?",
-      "url": "https://caveat.nyc/events/science-tonight-6-24-2026"
+      "description": "Lectures on Tap-\"From Page to Screen: Hunger Games & The Art of Adaptation\"",
+      "url": "https://caveat.nyc/events/lectures-on-tap-from-page-to-screen-hunger-games--the-art-of-adaptation-6-25-2026"
     },
     {
-      "title": "LOS ESKETCHIS PRESENT: UN VERANO IN NEW YORK",
+      "title": "A CELL PHONE MOVIE! DIY CINEMA ROAD (SH*T) SHOW!",
       "venue": "Caveat",
-      "date": "2027-06-24T00:00:00.000Z",
+      "date": "2027-06-25T00:00:00.000Z",
       "time": "9:30 PM",
-      "description": "Los Esketchis are back at it with a new Summer show at Caveat!",
-      "url": "https://caveat.nyc/events/los-esketchis-present-un-verano-in-new-york-6-24-2026"
+      "description": "A feature film shot on an iPhone for $20k? That + a live talk/motivational shove on DIY filmmaking, ...",
+      "url": "https://caveat.nyc/events/a-cell-phone-movie-diy-cinema-road-sht-show-6-25-2026"
     }
   ],
-  "lastUpdated": "2026-06-24T09:18:45.344860Z",
+  "lastUpdated": "2026-06-25T09:12:35.420097Z",
   "sources": [
     "DoNYC",
     "Caveat",
@@ -2427,5 +2355,5 @@
     "UCB Theatre",
     "The Bell House"
   ],
-  "totalShows": 302
+  "totalShows": 293
 }
