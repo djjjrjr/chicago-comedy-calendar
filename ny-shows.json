@@ -1,102 +1,6 @@
 {
   "shows": [
     {
-      "title": "Come See with Catherine McCafferty and Olivia Levine",
-      "venue": "Union Hall",
-      "date": "2026-06-29T00:00:00.000Z",
-      "time": null,
-      "description": "Come See with Catherine McCafferty and Olivia Levine",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-06-29T00:00:00.000Z",
-      "time": "10:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-06-29T00:00:00.000Z",
-      "time": "11:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-06-29T00:00:00.000Z",
-      "time": "6:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar",
-      "date": "2026-06-29T00:00:00.000Z",
-      "time": "7:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-06-29T00:00:00.000Z",
-      "time": "7:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Dylan Adler: Haus of Dy-LAN",
-      "venue": "The Bell House",
-      "date": "2026-06-29T00:00:00.000Z",
-      "time": "7:30PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/6/29/haus-of-dy-lan-tickets"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-06-29T00:00:00.000Z",
-      "time": "7:35 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-06-29T00:00:00.000Z",
-      "time": "8:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat",
-      "date": "2026-06-29T00:00:00.000Z",
-      "time": "8:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-06-29T00:00:00.000Z",
-      "time": "9:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-06-29T00:00:00.000Z",
-      "time": "9:35 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
       "title": "Hannah Pilkes Presents: Skiing…That Time I Had a Mental Breakdown",
       "venue": "Union Hall",
       "date": "2026-06-30T00:00:00.000Z",
@@ -127,14 +31,6 @@
       "time": "11:30 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "CAMP VIRGO",
-      "venue": "Caveat",
-      "date": "2026-06-30T00:00:00.000Z",
-      "time": "7:00 PM",
-      "description": "A comedy variety show that encapsulates that early 2000s nostalgia!",
-      "url": "https://caveat.nyc/events/camp-virgo-6-30-2026"
     },
     {
       "title": "Robert Kelly",
@@ -183,14 +79,6 @@
       "time": "8:30 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "CRISIS ON INFINITE SHOW",
-      "venue": "Caveat",
-      "date": "2026-06-30T00:00:00.000Z",
-      "time": "9:30 PM",
-      "description": "The World’s Greatest Comic Book Themed Character Show",
-      "url": "https://caveat.nyc/events/crisis-on-infinite-show-6-30-2026"
     },
     {
       "title": "Comedy Showcase",
@@ -753,12 +641,28 @@
       "url": "https://caveat.nyc/events/the-legend-of-you-7-11-2026"
     },
     {
+      "title": "AMERICA 250",
+      "venue": "Caveat",
+      "date": "2026-07-11T00:00:00.000Z",
+      "time": "7:00 PM",
+      "description": "Emi Grate's new cabaret concert examines her 15 years in the US, in the context of the 250 years of ...",
+      "url": "https://caveat.nyc/events/america-250-7-11-2026"
+    },
+    {
       "title": "Ify Nwadiwe",
       "venue": "The Bell House",
       "date": "2026-07-11T00:00:00.000Z",
       "time": "7:30PM",
       "description": null,
       "url": "https://donyc.com/events/2026/7/11/ify-nwadiwe-tickets"
+    },
+    {
+      "title": "BANGLADESH UNPLUGGED, A STANDUP COMEDY SHOW AND NETWORKING EVENT!",
+      "venue": "Caveat",
+      "date": "2026-07-11T00:00:00.000Z",
+      "time": "9:30 PM",
+      "description": "Redefining what it means to be Bangladeshi in America. Stand-up, games, networking & more!",
+      "url": "https://caveat.nyc/events/bangladesh-unplugged-a-standup-comedy-show-and-networking-event-7-11-2026"
     },
     {
       "title": "Shane Torres is Emotionally Vulnerable and His Friends Will Eat Him Alive",
@@ -1145,6 +1049,14 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar",
+      "date": "2026-07-27T00:00:00.000Z",
+      "time": "7:00 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
       "title": "PRETTY MAJOR Hosted by Jay Jurden",
       "venue": "Union Hall",
       "date": "2026-07-28T00:00:00.000Z",
@@ -1215,6 +1127,14 @@
       "time": null,
       "description": "Jaboukie & Friends",
       "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Drunk Bollywood Live!",
+      "venue": "The Bell House",
+      "date": "2026-08-01T00:00:00.000Z",
+      "time": "7:30PM",
+      "description": null,
+      "url": "https://donyc.com/events/2026/8/1/drunk-bollywood-live-tickets"
     },
     {
       "title": "SORRY with Rachel Coster and Zach Schiffman",
@@ -1297,11 +1217,27 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "The Jokes I Met: One Hour of Stand Up From Ash Diggs",
+      "venue": "Union Hall",
+      "date": "2026-08-14T00:00:00.000Z",
+      "time": null,
+      "description": "The Jokes I Met: One Hour of Stand Up From Ash Diggs",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
       "title": "SHUTCHOASSUP! Presents: Gandhy Beauvil & Ryan Roman",
       "venue": "Union Hall",
       "date": "2026-08-15T00:00:00.000Z",
       "time": null,
       "description": "SHUTCHOASSUP! Presents: Gandhy Beauvil & Ryan Roman",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Titanomachy with Ashton Womack",
+      "venue": "Union Hall",
+      "date": "2026-08-15T00:00:00.000Z",
+      "time": null,
+      "description": "Titanomachy with Ashton Womack",
       "url": "https://unionhallny.com/calendar"
     },
     {
@@ -1318,6 +1254,14 @@
       "date": "2026-08-21T00:00:00.000Z",
       "time": null,
       "description": "Annabel and Sabina Meschke present: TRIPLET AUDITIONS",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "CRANK THAT Comedy Show",
+      "venue": "Union Hall",
+      "date": "2026-08-28T00:00:00.000Z",
+      "time": null,
+      "description": "CRANK THAT Comedy Show",
       "url": "https://unionhallny.com/calendar"
     },
     {
@@ -1409,23 +1353,23 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "BOOK RAPPORT",
+      "title": "CAMP VIRGO",
       "venue": "Caveat",
-      "date": "2027-06-29T00:00:00.000Z",
+      "date": "2027-06-30T00:00:00.000Z",
       "time": "7:00 PM",
-      "description": "Comedians compete in a series of bookish games to see who’s the most well-read",
-      "url": "https://caveat.nyc/events/book-rapport-6-29-2026"
+      "description": "A comedy variety show that encapsulates that early 2000s nostalgia!",
+      "url": "https://caveat.nyc/events/camp-virgo-6-30-2026"
     },
     {
-      "title": "THE NIGHT OF YOUR LIFE",
+      "title": "CRISIS ON INFINITE SHOW",
       "venue": "Caveat",
-      "date": "2027-06-29T00:00:00.000Z",
+      "date": "2027-06-30T00:00:00.000Z",
       "time": "9:30 PM",
-      "description": "A night of standup, characters, and music featuring NYC favorites. The sort of show that makes you w...",
-      "url": "https://caveat.nyc/events/the-night-of-your-life-6-29-2026"
+      "description": "The World’s Greatest Comic Book Themed Character Show",
+      "url": "https://caveat.nyc/events/crisis-on-infinite-show-6-30-2026"
     }
   ],
-  "lastUpdated": "2026-06-29T10:47:56.137462Z",
+  "lastUpdated": "2026-06-30T09:24:49.945287Z",
   "sources": [
     "DoNYC",
     "Caveat",
@@ -1435,5 +1379,5 @@
     "UCB Theatre",
     "The Bell House"
   ],
-  "totalShows": 178
+  "totalShows": 171
 }
