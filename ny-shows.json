@@ -1,102 +1,6 @@
 {
   "shows": [
     {
-      "title": "Frankenstein's Baby",
-      "venue": "Union Hall",
-      "date": "2026-07-06T00:00:00.000Z",
-      "time": null,
-      "description": "Frankenstein's Baby",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-07-06T00:00:00.000Z",
-      "time": "10:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-07-06T00:00:00.000Z",
-      "time": "11:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar",
-      "date": "2026-07-06T00:00:00.000Z",
-      "time": "6:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "An Hour with Keith Robinson Show",
-      "venue": "Comedy Cellar",
-      "date": "2026-07-06T00:00:00.000Z",
-      "time": "7:00 pm",
-      "description": "An Hour with Keith Robinson Show: Final Fat",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-07-06T00:00:00.000Z",
-      "time": "7:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-07-06T00:00:00.000Z",
-      "time": "7:35 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-07-06T00:00:00.000Z",
-      "time": "8:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Zach & Viggo: Thunderflop",
-      "venue": "The Bell House",
-      "date": "2026-07-06T00:00:00.000Z",
-      "time": "8:00PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/7/6/zach-viggo-thunderflop-tickets"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat",
-      "date": "2026-07-06T00:00:00.000Z",
-      "time": "8:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-07-06T00:00:00.000Z",
-      "time": "9:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-07-06T00:00:00.000Z",
-      "time": "9:35 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
       "title": "NORMAL BEHAVIOR with Chine Ikoro",
       "venue": "Union Hall",
       "date": "2026-07-07T00:00:00.000Z",
@@ -114,6 +18,14 @@
     },
     {
       "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Fat Black Pussycat",
+      "date": "2026-07-07T00:00:00.000Z",
+      "time": "10:30 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
       "venue": "Comedy Cellar - MacDougal Street",
       "date": "2026-07-07T00:00:00.000Z",
       "time": "11:30 pm",
@@ -121,27 +33,11 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar",
-      "date": "2026-07-07T00:00:00.000Z",
-      "time": "6:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "NEW YORK GROOVE",
-      "venue": "Caveat",
-      "date": "2026-07-07T00:00:00.000Z",
-      "time": "7:00 PM",
-      "description": "It's a new show about how to be a better New Yorker, from the journalists behind The New York Groove...",
-      "url": "https://caveat.nyc/events/new-york-groove-7-7-2026"
-    },
-    {
-      "title": "An Hour with Keith Robinson Show",
+      "title": "Robert Kelly",
       "venue": "Comedy Cellar",
       "date": "2026-07-07T00:00:00.000Z",
       "time": "7:00 pm",
-      "description": "An Hour with Keith Robinson Show: Final Fat",
+      "description": "Robert Kelly: A One Man Show: Final Fat",
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
@@ -178,7 +74,7 @@
     },
     {
       "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat",
+      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
       "date": "2026-07-07T00:00:00.000Z",
       "time": "8:30 pm",
       "description": "Lineup to be announced",
@@ -463,14 +359,6 @@
       "time": null,
       "description": "KARAOKE TREMENDOUS",
       "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-07-10T00:00:00.000Z",
-      "time": "10:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
       "title": "THE EARTH IS FLAT, AND OTHER FACTS",
@@ -767,6 +655,14 @@
       "time": null,
       "description": "The Download",
       "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "FACTS MACHINE: SCIENCE, COMEDY & TRIVIA!",
+      "venue": "Caveat",
+      "date": "2026-07-16T00:00:00.000Z",
+      "time": "7:00 PM",
+      "description": "A science comedy show + trivia showdown by and for people who are curious about everything – but esp...",
+      "url": "https://caveat.nyc/events/facts-machine-science-comedy--trivia-7-16-2026"
     },
     {
       "title": "Alex English & The Homies",
@@ -1148,7 +1044,7 @@
       "title": "Demi Adejuyigbe Sells Out",
       "venue": "The Bell House",
       "date": "2026-07-31T00:00:00.000Z",
-      "time": "7:00PM",
+      "time": "9:30PM",
       "description": null,
       "url": "https://donyc.com/events/2026/7/31/demi-adejuyigbe-sells-out-tickets"
     },
@@ -1183,6 +1079,22 @@
       "time": null,
       "description": "Ramy Youssef",
       "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar",
+      "date": "2026-08-03T00:00:00.000Z",
+      "time": "10:30 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar",
+      "date": "2026-08-03T00:00:00.000Z",
+      "time": "7:00 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
       "title": "Cold Plunge with Kurt Braunohler",
@@ -1241,11 +1153,27 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "Pierce: Un Sense Ored",
+      "venue": "The Bell House",
+      "date": "2026-08-09T00:00:00.000Z",
+      "time": "7:30PM",
+      "description": null,
+      "url": "https://donyc.com/events/2026/8/9/pierce-un-sense-ored-tickets"
+    },
+    {
       "title": "Asher Perlman: Back to the Drawing Board",
       "venue": "Union Hall",
       "date": "2026-08-10T00:00:00.000Z",
       "time": null,
       "description": "Asher Perlman: Back to the Drawing Board",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "JULIA & FRIENDS",
+      "venue": "Union Hall",
+      "date": "2026-08-11T00:00:00.000Z",
+      "time": null,
+      "description": "JULIA & FRIENDS",
       "url": "https://unionhallny.com/calendar"
     },
     {
@@ -1425,15 +1353,15 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "DRUNK BOLLYWOOD TRIVIA",
+      "title": "NEW YORK GROOVE",
       "venue": "Caveat",
-      "date": "2027-07-06T00:00:00.000Z",
+      "date": "2027-07-07T00:00:00.000Z",
       "time": "7:00 PM",
-      "description": "Test your knowledge of Bollywood movies, music, and more!",
-      "url": "https://caveat.nyc/events/drunk-bollywood-trivia-7-6-2026"
+      "description": "It's a new show about how to be a better New Yorker, from the journalists behind The New York Groove...",
+      "url": "https://caveat.nyc/events/new-york-groove-7-7-2026"
     }
   ],
-  "lastUpdated": "2026-07-06T10:25:51.480875Z",
+  "lastUpdated": "2026-07-07T09:49:45.248002Z",
   "sources": [
     "DoNYC",
     "Caveat",
@@ -1443,5 +1371,5 @@
     "UCB Theatre",
     "The Bell House"
   ],
-  "totalShows": 179
+  "totalShows": 170
 }
