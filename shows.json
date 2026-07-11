@@ -50,14 +50,6 @@
     },
     {
       "venue": "Annoyance Theatre",
-      "title": "Best of Annoyance Sketch",
-      "date": "2026-04-25T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/4/25/best-of-annoyance-sketch-tickets"
-    },
-    {
-      "venue": "Annoyance Theatre",
       "title": "Trigger Happy: Annoyance's Signature Improv Show",
       "date": "2026-04-25T00:00:00Z",
       "time": "",
@@ -71,6 +63,14 @@
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/4/25/we-took-edibles-an-hour-ago-tickets"
+    },
+    {
+      "venue": "Annoyance Theatre",
+      "title": "Best of Annoyance Sketch",
+      "date": "2026-04-25T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/4/25/best-of-annoyance-sketch-tickets"
     },
     {
       "venue": "Annoyance Theatre",
@@ -97,22 +97,6 @@
       "url": "https://do312.com/events/2026/7/9/dan-soder-tickets"
     },
     {
-      "venue": "Hammond's Horseshoe Casino",
-      "title": "Jeff Dunham",
-      "date": "2026-07-10T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/7/10/jeff-dunham-artificial-intelligence-tickets"
-    },
-    {
-      "venue": "Annoyance Theatre",
-      "title": "The Alderboys & Constituents",
-      "date": "2026-07-10T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/7/10/the-alderboys-constituents-tickets"
-    },
-    {
       "venue": "The Annoyance Theatre & Bar",
       "title": "Summer of Suspense",
       "date": "2026-07-10T00:00:00Z",
@@ -121,156 +105,60 @@
       "url": "https://do312.com/events/2026/7/10/summer-of-suspense-tickets"
     },
     {
-      "venue": "Chicago Improv Comedy Club",
-      "title": "Ms. Pat",
-      "date": "2026-07-10T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/7/10/ms-pat-tickets"
-    },
-    {
-      "venue": "Annoyance Theatre",
       "title": "Missed Call",
+      "venue": "Annoyance Theatre",
       "date": "2026-07-10T00:00:00Z",
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/7/10/missed-call-tickets"
     },
     {
-      "venue": "Annoyance Theatre",
       "title": "Party 4 U (For Me)",
+      "venue": "Annoyance Theatre",
       "date": "2026-07-10T00:00:00Z",
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/7/10/party-4-u-for-me-tickets"
     },
     {
-      "venue": "Annoyance Theatre",
       "title": "Hitch*Cocktails",
+      "venue": "Annoyance Theatre",
       "date": "2026-07-10T00:00:00Z",
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/7/10/hitch-cocktails-tickets"
     },
     {
+      "title": "The Alderboys & Constituents",
       "venue": "Annoyance Theatre",
+      "date": "2026-07-10T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/7/10/the-alderboys-constituents-tickets"
+    },
+    {
       "title": "Holy Fuck Comedy Hour",
+      "venue": "Annoyance Theatre",
       "date": "2026-07-10T00:00:00Z",
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/7/10/holy-fuck-comedy-hour-tickets"
     },
     {
-      "venue": "Zanies Comedy Club",
-      "title": "Mike Finoia",
-      "date": "2026-07-10T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/7/10/mike-finoia-tickets"
-    },
-    {
-      "venue": "Laugh Factory",
-      "title": "Night Stand Up Comedy",
-      "date": "2026-07-10T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/7/10/night-stand-up-comedy-tickets"
-    },
-    {
-      "venue": "The Comedy Bar",
-      "title": "Carl Payne",
-      "date": "2026-07-10T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/7/10/carl-payne-tickets"
-    },
-    {
-      "venue": "The Den Theatre",
-      "title": "Native Gardens",
-      "date": "2026-07-10T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/7/10/native-gardens-tickets"
-    },
-    {
-      "venue": "Comedy Plex Comedy Club",
-      "title": "MTV & Viral Comic Nat Baimel Live at Comedy Plex Oak Park!",
-      "date": "2026-07-10T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/7/10/mtv-viral-comic-nat-baimel-live-at-comedy-plex-oak-park-tickets"
-    },
-    {
-      "venue": "The Comedy Bar",
-      "title": "Chicago's Best Comedy Show",
-      "date": "2026-07-10T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/7/10/chicago-s-best-comedy-show-tickets-w1dxabb"
-    },
-    {
-      "venue": "UP Comedy Club",
-      "title": "The Best of The Second City: Chicago Style",
-      "date": "2026-07-10T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/7/10/the-best-of-the-second-city-chicago-style-tickets"
-    },
-    {
-      "venue": "The Den Theatre",
-      "title": "Peep Show",
-      "date": "2026-07-10T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/7/10/peep-show-tickets"
-    },
-    {
-      "venue": "The Lincoln Lodge",
       "title": "Lip Service: A Fem Com Alumni Showcase",
+      "venue": "The Lincoln Lodge",
       "date": "2026-07-10T00:00:00Z",
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/7/10/lip-service-a-fem-com-alumni-showcase-tickets"
     },
     {
-      "venue": "Zanies Rosemont",
-      "title": "Joey Avery",
-      "date": "2026-07-10T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/7/10/joey-avery-tickets"
-    },
-    {
-      "venue": "Donny's Skybox Theater",
-      "title": "Clued In",
-      "date": "2026-07-10T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/7/10/clued-in-tickets"
-    },
-    {
-      "venue": "e.t.c. Theater",
-      "title": "Reality Detox: The Improv Experience",
-      "date": "2026-07-10T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/7/10/reality-detox-the-improv-experience-tickets"
-    },
-    {
-      "venue": "The Lincoln Lodge",
       "title": "Gwen Rose: A Self Aware Nightmare",
+      "venue": "The Lincoln Lodge",
       "date": "2026-07-10T00:00:00Z",
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/7/10/gwen-rose-a-self-aware-nightmare-tickets"
-    },
-    {
-      "venue": "Unknown Venue",
-      "title": "Friday Night Riot",
-      "date": "2026-07-10T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/7/10/friday-night-riot-tickets"
     },
     {
       "title": "The Lincoln Lodge Comedy Showcase",
@@ -319,6 +207,22 @@
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/7/10/gary-gulman-s-7th-hour-tickets"
+    },
+    {
+      "title": "Native Gardens",
+      "venue": "The Den Theatre",
+      "date": "2026-07-10T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/7/10/native-gardens-tickets"
+    },
+    {
+      "title": "Peep Show",
+      "venue": "The Den Theatre",
+      "date": "2026-07-10T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/7/10/peep-show-tickets"
     },
     {
       "venue": "Wrigley Field",
@@ -543,14 +447,6 @@
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/7/11/geoffrey-asmus-live-tickets"
-    },
-    {
-      "title": "Down & Dirty: A Filthy Standup Showcase",
-      "venue": "The Lincoln Lodge",
-      "date": "2026-07-11T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/7/11/down-dirty-a-filthy-standup-showcase-tickets"
     },
     {
       "venue": "Annoyance Theatre",
@@ -7417,6 +7313,38 @@
       "url": "https://do312.com/events/2026/9/10/windy-city-shorts-an-open-mic-night-for-chicago-short-movies-tickets"
     },
     {
+      "venue": "Annoyance Theatre",
+      "title": "Earhart 2 Hart",
+      "date": "2026-09-10T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/9/10/earhart-2-hart-tickets"
+    },
+    {
+      "venue": "The Lincoln Lodge",
+      "title": "Uncontrolled Variables",
+      "date": "2026-09-10T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/9/10/uncontrolled-variables-tickets"
+    },
+    {
+      "venue": "Zanies Comedy Club",
+      "title": "Nick Murphy",
+      "date": "2026-09-11T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/9/11/nick-murphy-tickets"
+    },
+    {
+      "venue": "The Den Theatre",
+      "title": "Gabby Bryan",
+      "date": "2026-09-11T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/9/11/gabby-bryan-tickets"
+    },
+    {
       "title": "Live Sketch Comedy",
       "venue": "The Second City",
       "date": "2026-09-25T00:00:00Z",
@@ -7457,8 +7385,8 @@
       "url": "https://do312.com/events/2026/11/28/rudolph-runs-wild-tickets"
     }
   ],
-  "lastUpdated": "2026-07-10T09:39:53.716058Z",
-  "totalShows": 932,
+  "lastUpdated": "2026-07-11T08:09:19.971936Z",
+  "totalShows": 923,
   "sources": [
     "Do312 Comedy Category",
     "Do312 Venue Pages"
