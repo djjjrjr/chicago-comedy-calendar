@@ -1,102 +1,6 @@
 {
   "shows": [
     {
-      "title": "Molly Kearney and Their Talented Friends",
-      "venue": "Union Hall",
-      "date": "2026-07-14T00:00:00.000Z",
-      "time": null,
-      "description": "Molly Kearney and Their Talented Friends",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-07-14T00:00:00.000Z",
-      "time": "10:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat",
-      "date": "2026-07-14T00:00:00.000Z",
-      "time": "10:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-07-14T00:00:00.000Z",
-      "time": "11:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar",
-      "date": "2026-07-14T00:00:00.000Z",
-      "time": "6:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "An Hour with Keith Robinson Show",
-      "venue": "Comedy Cellar",
-      "date": "2026-07-14T00:00:00.000Z",
-      "time": "7:00 pm",
-      "description": "An Hour with Keith Robinson Show: Final Fat",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-07-14T00:00:00.000Z",
-      "time": "7:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-07-14T00:00:00.000Z",
-      "time": "7:35 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "SiriusXM Presents",
-      "venue": "Comedy Cellar",
-      "date": "2026-07-14T00:00:00.000Z",
-      "time": "8:00 pm",
-      "description": "SiriusXM Presents: Live from The Comedy Cellar",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-07-14T00:00:00.000Z",
-      "time": "8:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-07-14T00:00:00.000Z",
-      "time": "9:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-07-14T00:00:00.000Z",
-      "time": "9:35 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
       "title": "Yvette Segan Presents: Guy’s Girl",
       "venue": "Union Hall",
       "date": "2026-07-15T00:00:00.000Z",
@@ -135,14 +39,6 @@
       "time": "11:30 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "PITCH ROAST LIVE",
-      "venue": "Caveat",
-      "date": "2026-07-15T00:00:00.000Z",
-      "time": "7:00 PM",
-      "description": "​Pitch Roast Live️‍ brings comedy, startups, and venture capital together.",
-      "url": "https://caveat.nyc/events/pitch-roast-live-7-15-2026"
     },
     {
       "title": "Comedy Showcase",
@@ -191,14 +87,6 @@
       "time": "8:30 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "SORRY WE'RE HERE",
-      "venue": "Caveat",
-      "date": "2026-07-15T00:00:00.000Z",
-      "time": "9:30 PM",
-      "description": "Sorry We're Here presents an original sketch comedy show",
-      "url": "https://caveat.nyc/events/sorry-were-here-7-15-2026"
     },
     {
       "title": "Comedy Showcase",
@@ -681,6 +569,22 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Village Underground",
+      "date": "2026-07-21T00:00:00.000Z",
+      "time": "10:00 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - MacDougal Street",
+      "date": "2026-07-21T00:00:00.000Z",
+      "time": "11:30 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
       "title": "JEWISH DATING GAME",
       "venue": "Caveat",
       "date": "2026-07-21T00:00:00.000Z",
@@ -705,12 +609,52 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - MacDougal Street",
+      "date": "2026-07-21T00:00:00.000Z",
+      "time": "7:30 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
+      "date": "2026-07-21T00:00:00.000Z",
+      "time": "7:35 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
+      "date": "2026-07-21T00:00:00.000Z",
+      "time": "8:30 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
       "title": "STORY-OKE: SING AND TELL",
       "venue": "Caveat",
       "date": "2026-07-21T00:00:00.000Z",
       "time": "9:30 PM",
       "description": "Part karaoke, part confessional. Share a story about a song… then sing the hell out of it.",
       "url": "https://caveat.nyc/events/story-oke-sing-and-tell-7-21-2026"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - MacDougal Street",
+      "date": "2026-07-21T00:00:00.000Z",
+      "time": "9:30 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
+      "date": "2026-07-21T00:00:00.000Z",
+      "time": "9:35 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
       "title": "The Diversity Jam",
@@ -761,12 +705,36 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
+      "title": "YESTERDAY'S HOROSCOPE",
+      "venue": "Caveat",
+      "date": "2026-07-22T00:00:00.000Z",
+      "time": "9:30 PM",
+      "description": "In this romp through the constellations, The Skies predict the present by revealing the past—it’s Ye...",
+      "url": "https://caveat.nyc/events/yesterdays-horoscope-7-22-2026"
+    },
+    {
       "title": "2 3 4",
       "venue": "UCB Theatre",
       "date": "2026-07-22T00:00:00Z",
       "time": "7:00 PM",
       "description": "Wednesday, July 22, 2026 @ 7:00 PMLivestreamNY - 14TH ST. MainstageImprov2 3 4An hour of improv brought to you by some of your favorite small teams!   This Month's Lineup: 2 - Candle and Lantern (Emma Campbell and Carly Lant) 3 - Third Party (Kurt Cruz, Brandon Dzirko, and Zach Young) 4…Buy Now",
       "url": "https://ucbcomedy.com/show/2-3-4-07-22-26/"
+    },
+    {
+      "title": "The Bratz Mash",
+      "venue": "UCB Theatre",
+      "date": "2026-07-22T00:00:00Z",
+      "time": "8:30 PM",
+      "description": "Wednesday, July 22, 2026 @ 8:30 PMLivestreamNY - 14TH ST. MainstageImprovThe Bratz MashIn this improv mash-up show, women and non-binary improvisers of all skill levels will make magic. Hosted by UCB Harold team babygirls Donna Steele, Emily Evans, Lida Darmian, and Stephanie Leschek. Come to the show and enter the lottery for…Buy Now",
+      "url": "https://ucbcomedy.com/show/the-bratz-mash-07-22-26/"
+    },
+    {
+      "title": "Table Ready",
+      "venue": "UCB Theatre",
+      "date": "2026-07-22T00:00:00Z",
+      "time": "9:00 PM",
+      "description": "Wednesday, July 22, 2026 @ 9:00 PMNY - 14TH ST. UpstairsSketchTable ReadyNYC’s favorite comedy table read show! Table Ready! is the result of our combined love of live performance and the 30-minute TV pilot. As screenwriters and comedians ourselves, we know the value of having immediate audience feedback on our work.…Buy Now",
+      "url": "https://ucbcomedy.com/show/table-ready-07-22-26/"
     },
     {
       "title": "Malik Elassal",
@@ -783,6 +751,14 @@
       "time": null,
       "description": "Sydnee Washington: My Black Barbie Story",
       "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "LECTURES ON TAP",
+      "venue": "Caveat",
+      "date": "2026-07-23T00:00:00.000Z",
+      "time": "7:00 PM",
+      "description": "Lectures on Tap - \"The Bone Wars: A Feud That Shaped American Paleontology\"",
+      "url": "https://caveat.nyc/events/lectures-on-tap-2026-07-23"
     },
     {
       "title": "Climate Town Town Hall",
@@ -1141,7 +1117,7 @@
       "venue": "UCB Theatre",
       "date": "2026-07-30T00:00:00Z",
       "time": "6:00 PM",
-      "description": "Thursday, July 30, 2026 @ 6:00 PMNY - 14TH ST. UpstairsSoloPopChris Gethard (HBO's Career Suicide, Beautiful/Anonymous, The Office) examines his family's immigration journey 100 years after their arrival in America.   In 1928, my grandfather left a small village in Northern Ireland and eventually made his way to America. 100…Buy Now",
+      "description": "Thursday, July 30, 2026 @ 6:00 PMNY - 14TH ST. UpstairsSoloPopChris Gethard (HBO's Career Suicide, Beautiful/Anonymous, The Office) examines his family's immigration journey 100 years after their arrival in America.   In 1928, my grandfather left a small village in Northern Ireland and eventually made his way to America. 100…Read more",
       "url": "https://ucbcomedy.com/show/pop-07-30-26/"
     },
     {
@@ -1284,6 +1260,14 @@
       "title": "Comedy Showcase",
       "venue": "Comedy Cellar",
       "date": "2026-08-03T00:00:00.000Z",
+      "time": "6:00 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar",
+      "date": "2026-08-03T00:00:00.000Z",
       "time": "7:00 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
@@ -1319,6 +1303,14 @@
       "time": "7:00 PM",
       "description": "Tuesday, August 4, 2026 @ 7:00 PMLivestreamNY - 14TH ST. MainstageImprovHarold Night: The Mall & Hot FM & suckdog & Your GirlfriendYour one-stop shop to see UCB’s house improv ensembles perform every Tuesday! Harold Night is UCB’s long-running weekly improv show featuring homegrown teams at the top of their game performing, you guessed it, The Harold.   Featuring: The Mall &…Buy Now",
       "url": "https://ucbcomedy.com/show/harold-night-the-mall-hot-fm-suckdog-your-girlfriend-08-04-26/"
+    },
+    {
+      "title": "Roo Man",
+      "venue": "UCB Theatre",
+      "date": "2026-08-04T00:00:00Z",
+      "time": "9:30 PM",
+      "description": "Tuesday, August 4, 2026 @ 9:30 PMNY - 14TH ST. MainstageImprovRoo ManTwo of the last surviving members in New York City of legendary ucb improv team Death by Roo Roo and producers of Comedy Centrals President show shake the cobwebs off and out with a set of long form improvised entertainment.…Buy Now",
+      "url": "https://ucbcomedy.com/show/roo-man-08-04-26/"
     },
     {
       "title": "Cold Plunge with Kurt Braunohler",
@@ -1465,6 +1457,14 @@
       "url": "https://donyc.com/events/2026/8/9/pierce-un-sense-ored-tickets"
     },
     {
+      "title": "Ghost Stories",
+      "venue": "UCB Theatre",
+      "date": "2026-08-09T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Sunday, August 9, 2026 @ 7:00 PMNY - 14TH ST. MainstageImprovGhost StoriesAn improv show for anyone who’s ever ghosted or been ghosted! Did that last situationship disappear without a trace? This show provides some much needed catharsis by transforming the universal experience of getting ghosted from humiliating to hilarious!! First, you’ll hear…Buy Now",
+      "url": "https://ucbcomedy.com/show/ghost-stories-08-09-26/"
+    },
+    {
       "title": "Asher Perlman: Back to the Drawing Board",
       "venue": "Union Hall",
       "date": "2026-08-10T00:00:00.000Z",
@@ -1513,12 +1513,36 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "An Hour with Keith Robinson Show",
+      "venue": "Comedy Cellar",
+      "date": "2026-08-11T00:00:00.000Z",
+      "time": "7:00 pm",
+      "description": "An Hour with Keith Robinson Show: Final Fat",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "The Improv Jam",
+      "venue": "UCB Theatre",
+      "date": "2026-08-11T00:00:00Z",
+      "time": "5:30 PM",
+      "description": "Tuesday, August 11, 2026 @ 5:30 PMNY - 14TH ST. MainstageImprovThe Improv JamGet up on stage and get reps at The Improv Jam - Every Other Tuesday @ 5:30pm! Students of all levels are welcome and it is FREE! A free, inclusive improv jam for UCB students, performers, and fans! All levels…Read more",
+      "url": "https://ucbcomedy.com/show/the-improv-jam-08-11-26/"
+    },
+    {
       "title": "Harold Night: Club Gator & Rhubarb & Hot FM & The Mall",
       "venue": "UCB Theatre",
       "date": "2026-08-11T00:00:00Z",
       "time": "7:00 PM",
       "description": "Tuesday, August 11, 2026 @ 7:00 PMLivestreamNY - 14TH ST. MainstageImprovHarold Night: Club Gator & Rhubarb & Hot FM & The MallYour one-stop shop to see UCB’s house improv ensembles perform every Tuesday! Harold Night is UCB’s long-running weekly improv show featuring homegrown teams at the top of their game performing, you guessed it, The Harold.   Featuring: Club Gator &…Buy Now",
       "url": "https://ucbcomedy.com/show/harold-night-club-gator-rhubarb-hot-fm-the-mall-08-11-26/"
+    },
+    {
+      "title": "Put Me In, Coach!",
+      "venue": "UCB Theatre",
+      "date": "2026-08-11T00:00:00Z",
+      "time": "9:30 PM",
+      "description": "Tuesday, August 11, 2026 @ 9:30 PMLivestreamNY - 14TH ST. MainstageImprovPut Me In, Coach!UCB Teachers perform improv alongside their students in a premium show! Put Me In, Coach! is the mashup improv show bringing together UCB teachers and their students from class to perform in longer sets in the upstairs space! Each show…Buy Now",
+      "url": "https://ucbcomedy.com/show/put-me-in-coach-08-25-26/"
     },
     {
       "title": "George Civeris: Brand New Stuff!",
@@ -1537,12 +1561,36 @@
       "url": "https://donyc.com/events/2026/8/12/lemaire-lee-live-tickets"
     },
     {
+      "title": "Queer Window",
+      "venue": "UCB Theatre",
+      "date": "2026-08-12T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Wednesday, August 12, 2026 @ 7:00 PMLivestreamNY - 14TH ST. MainstageSketchQueer WindowThe nation's premier LGBTQ+ sketch team puts the CAMP in summer camp! Featured in NY Comedy Festival, SF Sketchfest, DC Sketchfest, Vulture, and more. Gays, theys, and bi wifeguys encouraged to attend, but all are welcome! Wear your best CAMP…Buy Now",
+      "url": "https://ucbcomedy.com/show/queer-window-08-12-26/"
+    },
+    {
       "title": "George Civeris: Brand New Stuff!",
       "venue": "Union Hall",
       "date": "2026-08-13T00:00:00.000Z",
       "time": null,
       "description": "George Civeris: Brand New Stuff!",
       "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Gabby Bryan & Stef Dag & Friends & Enemies & Lovers",
+      "venue": "The Bell House",
+      "date": "2026-08-13T00:00:00.000Z",
+      "time": "7:30PM",
+      "description": null,
+      "url": "https://donyc.com/events/2026/8/13/gabby-bryan-stef-dag-friends-enemies-lovers-tickets"
+    },
+    {
+      "title": "Rumpleteaser Musical Improv",
+      "venue": "UCB Theatre",
+      "date": "2026-08-13T00:00:00Z",
+      "time": "8:30 PM",
+      "description": "Thursday, August 13, 2026 @ 8:30 PMLivestreamNY - 14TH ST. MainstageImprovRumpleteaser Musical ImprovEvery show we get a suggestion and create a brand new musical on the spot, from the dance to the music to the lyrics!   Rumpleteaser is a musical improv team that has been performing at UCB and across the…Buy Now",
+      "url": "https://ucbcomedy.com/show/rumpleteaser-musical-improv-08-13-26/"
     },
     {
       "title": "Hack City Comedy with Mic Nguyen and Jenny Arimoto: Pride Edition",
@@ -1753,14 +1801,6 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "Ben Palmer",
-      "venue": "The Bell House",
-      "date": "2026-08-22T00:00:00.000Z",
-      "time": "7:30PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/8/22/ben-palmer-tickets"
-    },
-    {
       "title": "ASSSSCAT NY",
       "venue": "UCB Theatre",
       "date": "2026-08-22T00:00:00Z",
@@ -1793,12 +1833,12 @@
       "url": "https://ucbcomedy.com/show/harold-night-the-mall-club-gator-hot-fm-rhubarb-08-25-26/"
     },
     {
-      "title": "Put Me In, Coach!",
+      "title": "The Improv Jam",
       "venue": "UCB Theatre",
       "date": "2026-08-25T00:00:00Z",
-      "time": "9:30 PM",
-      "description": "Tuesday, August 25, 2026 @ 9:30 PMLivestreamNY - 14TH ST. MainstageImprovPut Me In, Coach!UCB Teachers perform improv alongside their students in a premium show! Put Me In, Coach! is the mashup improv show bringing together UCB teachers and their students from class to perform in longer sets in the upstairs space! Each show…Buy Now",
-      "url": "https://ucbcomedy.com/show/put-me-in-coach-08-25-26/"
+      "time": "9:15 PM",
+      "description": "Tuesday, August 25, 2026 @ 9:15 PMNY - 14TH ST. MainstageImprovThe Improv JamGet up on stage and get reps at The Improv Jam - Every Other Tuesday! Students of all levels are welcome and it is FREE! A free, inclusive improv jam for UCB students, performers, and fans! All levels of improv…Read more",
+      "url": "https://ucbcomedy.com/show/the-improv-jam-08-25-26/"
     },
     {
       "title": "BETTY NIGHT",
@@ -1863,22 +1903,6 @@
       "time": "8:30 PM",
       "description": "Saturday, August 29, 2026 @ 8:30 PMLivestreamNY - 14TH ST. MainstageImprovASSSSCAT NYASSSSCAT is UCB’s signature improv show that has played to critical acclaim and sold out audiences across the country. What is ASSSSCAT?   It starts with a group of improv comedians from film & TV taking the stage with a special…Buy Now",
       "url": "https://ucbcomedy.com/show/asssscat-ny-08-29-26/"
-    },
-    {
-      "title": "ASSSSKETCH NY",
-      "venue": "UCB Theatre",
-      "date": "2026-08-30T00:00:00Z",
-      "time": "7:00 PM",
-      "description": "Sunday, August 30, 2026 @ 7:00 PMLivestreamNY - 14TH ST. MainstageSketchASSSSKETCH NYASSSSKETCH is UCB’s Weekend Sketch Extravaganza! Our premiere monthly sketch show featuring UCB’s top writers and performers from film and TV.   LINEUP: TBA Directed by Caitlin Bitzegaio Special Guest: TBA — In-person tickets are $20 in advance and $25…Buy Now",
-      "url": "https://ucbcomedy.com/show/assssketch-ny-08-30-26/"
-    },
-    {
-      "title": "*FREE* ASSSSCAT NY",
-      "venue": "UCB Theatre",
-      "date": "2026-08-30T00:00:00Z",
-      "time": "8:30 PM",
-      "description": "Sunday, August 30, 2026 @ 8:30 PMNY - 14TH ST. MainstageImprov*FREE* ASSSSCAT NYUCBNY presents a *FREE* ASSSSCAT!   Tickets for this show are free, but you must make a reservation online and arrive prior to 8:25pm for a seat. Seating is first come first served so any arrival after 8:25pm is not guaranteed.…Read more",
-      "url": "https://ucbcomedy.com/show/free-asssscat-ny-08-30-26/"
     },
     {
       "title": "Cold Plunge with Kurt Braunohler",
@@ -1993,23 +2017,23 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "SKIPPED HISTORY PRESENTS: THE POWER BROKER, PT. 1.75",
+      "title": "PITCH ROAST LIVE",
       "venue": "Caveat",
-      "date": "2027-07-14T00:00:00.000Z",
+      "date": "2027-07-15T00:00:00.000Z",
       "time": "7:00 PM",
-      "description": "Satirist Ben Tumin explores Robert Moses' transformation of New York City",
-      "url": "https://caveat.nyc/events/skipped-history-presents-the-power-broker-pt-175-7-14-2026"
+      "description": "​Pitch Roast Live️‍ brings comedy, startups, and venture capital together.",
+      "url": "https://caveat.nyc/events/pitch-roast-live-7-15-2026"
     },
     {
-      "title": "THE BRAND NEW TALENT SHOW",
+      "title": "SORRY WE'RE HERE",
       "venue": "Caveat",
-      "date": "2027-07-14T00:00:00.000Z",
+      "date": "2027-07-15T00:00:00.000Z",
       "time": "9:30 PM",
-      "description": "Three comedians, three new talents, one week to learn them.",
-      "url": "https://caveat.nyc/events/the-brand-new-talent-show-7-14-2026"
+      "description": "Sorry We're Here presents an original sketch comedy show",
+      "url": "https://caveat.nyc/events/sorry-were-here-7-15-2026"
     }
   ],
-  "lastUpdated": "2026-07-14T08:16:41.697735Z",
+  "lastUpdated": "2026-07-15T08:14:31.814648Z",
   "sources": [
     "DoNYC",
     "Caveat",
@@ -2019,5 +2043,5 @@
     "UCB Theatre",
     "The Bell House"
   ],
-  "totalShows": 251
+  "totalShows": 254
 }
