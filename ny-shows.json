@@ -1,182 +1,6 @@
 {
   "shows": [
     {
-      "title": "Jeffrey Keller",
-      "venue": "Union Hall",
-      "date": "2026-07-17T00:00:00.000Z",
-      "time": null,
-      "description": "Jeffrey Keller",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Hot Gossip with Jonathan van Halem",
-      "venue": "Union Hall",
-      "date": "2026-07-17T00:00:00.000Z",
-      "time": null,
-      "description": "Hot Gossip with Jonathan van Halem",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "KARAOKE TREMENDOUS",
-      "venue": "Union Hall",
-      "date": "2026-07-17T00:00:00.000Z",
-      "time": null,
-      "description": "KARAOKE TREMENDOUS",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-07-17T00:00:00.000Z",
-      "time": "10:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-07-17T00:00:00.000Z",
-      "time": "10:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-07-17T00:00:00.000Z",
-      "time": "11:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-07-17T00:00:00.000Z",
-      "time": "11:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-07-17T00:00:00.000Z",
-      "time": "11:55 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-07-17T00:00:00.000Z",
-      "time": "12:30 am",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-07-17T00:00:00.000Z",
-      "time": "12:55 am",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-07-17T00:00:00.000Z",
-      "time": "6:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-07-17T00:00:00.000Z",
-      "time": "6:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Benny Feldman: Butterfly Pavilion - SPECIAL TAPING",
-      "venue": "The Bell House",
-      "date": "2026-07-17T00:00:00.000Z",
-      "time": "7:00PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/7/17/benny-feldman-butterfly-pavilion-special-taping-tickets"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-07-17T00:00:00.000Z",
-      "time": "7:01 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-07-17T00:00:00.000Z",
-      "time": "7:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-07-17T00:00:00.000Z",
-      "time": "8:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-07-17T00:00:00.000Z",
-      "time": "8:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-07-17T00:00:00.000Z",
-      "time": "9:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-07-17T00:00:00.000Z",
-      "time": "9:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "The Trash King",
-      "venue": "UCB Theatre",
-      "date": "2026-07-17T00:00:00Z",
-      "time": "10:30 PM",
-      "description": "Friday, July 17, 2026 @ 10:30 PMLivestreamNY - 14TH ST. MainstageVarietyThe Trash KingThe UCB’s best comedians perform their wildest bits in a tournament presided over by THE TRASH KING!   Since 2019, featured in the New York Comedy Festival and Jezebel! The Trash King is a contest and celebration of the stupidest,…Buy Now",
-      "url": "https://ucbcomedy.com/show/the-trash-king-2026-07-17/"
-    },
-    {
-      "title": "The Stepfathers",
-      "venue": "UCB Theatre",
-      "date": "2026-07-17T00:00:00Z",
-      "time": "7:00 PM",
-      "description": "Friday, July 17, 2026 @ 7:00 PMLivestreamNY - 14TH ST. MainstageImprovThe StepfathersWatch your favorite improvisers, Shannon O’Neill, Connor Ratliff, Alexandra Dickson, Sebastian Conelli, Zach Cherry, and Shane Nielsen make all the sad things funny. The legendary improv group The Stepfathers has survived 2 decades performing in NYC. Born in the basement…Buy Now",
-      "url": "https://ucbcomedy.com/show/the-stepfathers-07-17-26/"
-    },
-    {
-      "title": "ASSSSCAT NY",
-      "venue": "UCB Theatre",
-      "date": "2026-07-17T00:00:00Z",
-      "time": "8:30 PM",
-      "description": "Friday, July 17, 2026 @ 8:30 PMLivestreamNY - 14TH ST. MainstageImprovASSSSCAT NYASSSSCAT is UCB’s signature improv show that has played to critical acclaim and sold out audiences across the country. What is ASSSSCAT?   It starts with a group of improv comedians from film & TV taking the stage with a special…Buy Now",
-      "url": "https://ucbcomedy.com/show/asssscat-ny-2026-07-17/"
-    },
-    {
       "title": "Sydnee Washington: My Black Barbie Story",
       "venue": "Union Hall",
       "date": "2026-07-18T00:00:00.000Z",
@@ -265,22 +89,6 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
-      "title": "GET WORK",
-      "venue": "Caveat",
-      "date": "2026-07-18T00:00:00.000Z",
-      "time": "1:30 PM",
-      "description": "Comedians interview for real jobs using fake resumes.",
-      "url": "https://caveat.nyc/events/get-work-7-18-2026"
-    },
-    {
-      "title": "FUNNY MONEY: A COMEDY SHOW ABOUT MONEY",
-      "venue": "Caveat",
-      "date": "2026-07-18T00:00:00.000Z",
-      "time": "4:00 PM",
-      "description": "Part jokes. Part actionable financial advice.",
-      "url": "https://caveat.nyc/events/funny-money-a-comedy-show-about-money-7-18-2026"
-    },
-    {
       "title": "Jon Glaser Live at The Bell House",
       "venue": "The Bell House",
       "date": "2026-07-18T00:00:00.000Z",
@@ -303,14 +111,6 @@
       "time": "6:45 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "LECTURES ON TAP",
-      "venue": "Caveat",
-      "date": "2026-07-18T00:00:00.000Z",
-      "time": "7:00 PM",
-      "description": "Lectures on Tap - \"The Princess Paradox: How Disney Portrays Powerful Women\"",
-      "url": "https://caveat.nyc/events/lectures-on-tap-2026-07-18"
     },
     {
       "title": "Comedy Showcase",
@@ -351,14 +151,6 @@
       "time": "9:00 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "THEY BLINDED ME WITH SCIENCE PRESENTS MANEATER",
-      "venue": "Caveat",
-      "date": "2026-07-18T00:00:00.000Z",
-      "time": "9:30 PM",
-      "description": "A science-themed drag show explores the evolutionary roots of teeth and penises",
-      "url": "https://caveat.nyc/events/they-blinded-me-with-science-presents-maneater-2026-07-18"
     },
     {
       "title": "Comedy Showcase",
@@ -1241,6 +1033,22 @@
       "url": "https://caveat.nyc/events/the-greek-and-persian-war-the-musical-2026-07-25"
     },
     {
+      "title": "HALF-ORPHAN",
+      "venue": "Caveat",
+      "date": "2026-07-25T00:00:00.000Z",
+      "time": "4:00 PM",
+      "description": "Armed with charts and funeral footage, Kevin seeks to prove which personal tragedy makes the best ca...",
+      "url": "https://caveat.nyc/events/half-orphan-2026-07-25"
+    },
+    {
+      "title": "LOOKING FOR LAUGHS",
+      "venue": "Caveat",
+      "date": "2026-07-25T00:00:00.000Z",
+      "time": "7:00 PM",
+      "description": "A Real Onstage Blind Date plus Live Comedy!",
+      "url": "https://caveat.nyc/events/looking-for-laughs-7-25-2026"
+    },
+    {
       "title": "What the Hell? An Incredible Improv Show",
       "venue": "UCB Theatre",
       "date": "2026-07-25T00:00:00Z",
@@ -1390,6 +1198,14 @@
       "date": "2026-07-29T00:00:00.000Z",
       "time": null,
       "description": "Pizzazz with Gary Gulman",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "EJ in New York: One Night Only",
+      "venue": "Union Hall",
+      "date": "2026-07-29T00:00:00.000Z",
+      "time": null,
+      "description": "EJ in New York: One Night Only",
       "url": "https://unionhallny.com/calendar"
     },
     {
@@ -1766,6 +1582,14 @@
       "date": "2026-08-08T00:00:00.000Z",
       "time": null,
       "description": "Extremely Accurate Bird Songs: Live!",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Clash Talk",
+      "venue": "Union Hall",
+      "date": "2026-08-08T00:00:00.000Z",
+      "time": null,
+      "description": "Clash Talk",
       "url": "https://unionhallny.com/calendar"
     },
     {
@@ -2313,6 +2137,22 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "Characters Welcome",
+      "venue": "UCB Theatre",
+      "date": "2026-08-28T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Friday, August 28, 2026 @ 7:00 PMLivestreamNY - 14TH ST. MainstageCharacterCharacters WelcomeThe best damn character show on the planet! Eric Feurer, Michael Hartney, Sarah Smallwood Parsons, and Justin Tyler host New York's best and brightest writer/performers with a new crop of hilarious original characters and impressions every month. Eleven years, 300K…Buy Now",
+      "url": "https://ucbcomedy.com/show/characters-welcome-08-28-26/"
+    },
+    {
+      "title": "ASSSSCAT NY",
+      "venue": "UCB Theatre",
+      "date": "2026-08-28T00:00:00Z",
+      "time": "8:30 PM",
+      "description": "Friday, August 28, 2026 @ 8:30 PMLivestreamNY - 14TH ST. MainstageImprovASSSSCAT NYASSSSCAT is UCB’s signature improv show that has played to critical acclaim and sold out audiences across the country. What is ASSSSCAT?   It starts with a group of improv comedians from film & TV taking the stage with a special…Buy Now",
+      "url": "https://ucbcomedy.com/show/asssscat-ny-08-28-26/"
+    },
+    {
       "title": "Shannon Fiedler",
       "venue": "Union Hall",
       "date": "2026-08-29T00:00:00.000Z",
@@ -2327,6 +2167,14 @@
       "time": null,
       "description": "Honey Works It Out",
       "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Michael and Asher Try Everything",
+      "venue": "UCB Theatre",
+      "date": "2026-08-29T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Saturday, August 29, 2026 @ 7:00 PMLivestreamNY - 14TH ST. MainstageImprovMichael and Asher Try EverythingTwo Emmy-nominated TV writers who just lost their actual jobs try to find something they might be good at. Michael Cruz Kayne and Asher Perlman were both writers for The Late Show with Stephen Colbert until that abruptly ended last month. In…Buy Now",
+      "url": "https://ucbcomedy.com/show/michael-and-asher-try-everything-08-29-26/"
     },
     {
       "title": "Cold Plunge with Kurt Braunohler",
@@ -2457,23 +2305,47 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "THREE-DAY CHAMPION: BRIAN FUREY, OPHIRA EISENBERG, CHLOE RADCLIFFE & ED HERBSTMAN",
-      "venue": "Caveat",
+      "title": "Benny Feldman: Butterfly Pavilion - SPECIAL TAPING",
+      "venue": "The Bell House",
       "date": "2027-07-17T00:00:00.000Z",
-      "time": "7:00 PM",
-      "description": "A storytelling game show where 3 comedians tell their funniest personal anecdotes to win dumb prizes...",
-      "url": "https://caveat.nyc/events/three-day-champion-brian-furey-ophira-eisenberg-chloe-radcliffe-2026-07-17"
+      "time": null,
+      "description": null,
+      "url": "https://donyc.com/events/2026/7/17/benny-feldman-butterfly-pavilion-special-taping-tickets"
     },
     {
-      "title": "LAUGHMASTERS",
+      "title": "GET WORK",
       "venue": "Caveat",
-      "date": "2027-07-17T00:00:00.000Z",
+      "date": "2027-07-18T00:00:00.000Z",
+      "time": "1:30 PM",
+      "description": "Comedians interview for real jobs using fake resumes.",
+      "url": "https://caveat.nyc/events/get-work-7-18-2026"
+    },
+    {
+      "title": "FUNNY MONEY: A COMEDY SHOW ABOUT MONEY",
+      "venue": "Caveat",
+      "date": "2027-07-18T00:00:00.000Z",
+      "time": "4:00 PM",
+      "description": "Part jokes. Part actionable financial advice.",
+      "url": "https://caveat.nyc/events/funny-money-a-comedy-show-about-money-7-18-2026"
+    },
+    {
+      "title": "LECTURES ON TAP",
+      "venue": "Caveat",
+      "date": "2027-07-18T00:00:00.000Z",
+      "time": "7:00 PM",
+      "description": "Lectures on Tap - \"The Princess Paradox: How Disney Portrays Powerful Women\"",
+      "url": "https://caveat.nyc/events/lectures-on-tap-2026-07-18"
+    },
+    {
+      "title": "THEY BLINDED ME WITH SCIENCE PRESENTS MANEATER",
+      "venue": "Caveat",
+      "date": "2027-07-18T00:00:00.000Z",
       "time": "9:30 PM",
-      "description": "The Most Serious Comedy Competition. Comedians demonstrate their ability to be comical in any situat...",
-      "url": "https://caveat.nyc/events/laughmasters-2026-07-17"
+      "description": "A science-themed drag show explores the evolutionary roots of teeth and penises",
+      "url": "https://caveat.nyc/events/they-blinded-me-with-science-presents-maneater-2026-07-18"
     }
   ],
-  "lastUpdated": "2026-07-17T08:20:10.128771Z",
+  "lastUpdated": "2026-07-18T07:48:09.372266Z",
   "sources": [
     "DoNYC",
     "Caveat",
@@ -2483,5 +2355,5 @@
     "UCB Theatre",
     "The Bell House"
   ],
-  "totalShows": 309
+  "totalShows": 293
 }
