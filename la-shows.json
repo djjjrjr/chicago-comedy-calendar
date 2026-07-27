@@ -1,366 +1,6 @@
 {
   "shows": [
     {
-      "title": "Headliners of the OR Late Night",
-      "venue": "The Comedy Store",
-      "date": "2026-07-25T00:00:00Z",
-      "time": "10:30 PM",
-      "description": "Lineup: Lara Beitz, Ahamed Weinberg, Kirk Fox, Josh Potter, Dustin Ybarra, Lara Beitz, Ahamed Weinberg, Kirk Fox, Josh Potter, Dustin Ybarra",
-      "url": "https://thecomedystore.com/calendar/show/3540/2026-07-25t213000-0700-headliners-of-the-or-late-night"
-    },
-    {
-      "venue": "The Elysian Theater",
-      "title": "Laugh Heist",
-      "date": "2026-07-25T00:00:00Z",
-      "time": "10:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/7/25/laugh-heist-tickets"
-    },
-    {
-      "venue": "The Elysian Theater",
-      "title": "i'm a mommy",
-      "date": "2026-07-25T00:00:00Z",
-      "time": "1:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/7/25/i-m-a-mommy-tickets"
-    },
-    {
-      "venue": "The Elysian Theater",
-      "title": "The Mommy Mic",
-      "date": "2026-07-25T00:00:00Z",
-      "time": "1:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/7/25/the-mommy-mic-tickets"
-    },
-    {
-      "venue": "The Elysian Theater",
-      "title": "i’m a mommy open mic",
-      "date": "2026-07-25T00:00:00Z",
-      "time": "1:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/7/25/i-m-a-mommy-open-mic-tickets"
-    },
-    {
-      "venue": "Hollywood Improv",
-      "title": "Celebration of Life: Kitty Bruce",
-      "date": "2026-07-25T00:00:00Z",
-      "time": "3:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/7/25/celebration-of-life-kitty-bruce-tickets"
-    },
-    {
-      "venue": "The Elysian Theater",
-      "title": "The Kelly Show: Live",
-      "date": "2026-07-25T00:00:00Z",
-      "time": "6:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/7/25/the-kelly-show-live-tickets"
-    },
-    {
-      "venue": "Hollywood Improv",
-      "title": "Tonight at The Improv",
-      "date": "2026-07-25T00:00:00Z",
-      "time": "7:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/7/25/tonight-at-the-improv-tickets"
-    },
-    {
-      "venue": "The Upstairs LA",
-      "title": "Sejoe",
-      "date": "2026-07-25T00:00:00Z",
-      "time": "7:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/7/25/sejoe-tickets"
-    },
-    {
-      "venue": "The Ice House Comedy Club",
-      "title": "The Oil Rig",
-      "date": "2026-07-25T00:00:00Z",
-      "time": "7:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/7/25/the-oil-rig-tickets"
-    },
-    {
-      "title": "Beginnings. Middles. Ends. Hosted by Jesus Trejo",
-      "venue": "The Comedy Store - Belly Room",
-      "date": "2026-07-25T00:00:00Z",
-      "time": "7:30 PM",
-      "description": "Lineup: Jesus Trejo, Chaunte Wayans, Leslie Liao, Jesus Trejo, Chaunte Wayans, Leslie Liao",
-      "url": "https://thecomedystore.com/calendar/show/4106/2026-07-25t193000-0700-beginnings-middles-ends-hosted-by-jesus-trejo"
-    },
-    {
-      "venue": "The Laugh Factory",
-      "title": "Hollywood All-stars",
-      "date": "2026-07-25T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/7/25/saturday-night-all-stars-tickets"
-    },
-    {
-      "venue": "The Ice House Comedy Club",
-      "title": "The Ice House Presents: Adam Ferrara, Ray Lau, Saul Trujillo, Jodi Miller & More!",
-      "date": "2026-07-25T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/7/25/the-ice-house-presents-adam-ferrara-ray-lau-saul-trujillo-jodi-miller-more-tickets"
-    },
-    {
-      "venue": "Hollywood Improv",
-      "title": "Tonight at The Lab!",
-      "date": "2026-07-25T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/7/25/tonight-at-the-lab-tickets"
-    },
-    {
-      "venue": "The Elysian Theater",
-      "title": "Fuck This Month",
-      "date": "2026-07-25T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/7/25/fuck-this-month-tickets"
-    },
-    {
-      "venue": "The Elysian Theater",
-      "title": "Fuck This Month: Improv Comedy",
-      "date": "2026-07-25T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/7/25/fuck-this-month-improv-comedy-tickets"
-    },
-    {
-      "venue": "The Blending Lab",
-      "title": "Comedy and Wine in West Adams (Free Show)",
-      "date": "2026-07-25T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/7/25/comedy-and-wine-in-west-adams-free-show-tickets"
-    },
-    {
-      "title": "Mitzi's Headliners of the OR",
-      "venue": "The Comedy Store",
-      "date": "2026-07-25T00:00:00Z",
-      "time": "8:00 PM",
-      "description": "Lineup: Jesus Trejo, Drew Lynch, Sarah Tiana, Owen Smith, Shawn Pelofsky, Jesus Trejo, Drew Lynch, Sarah Tiana, Owen Smith, Shawn Pelofsky",
-      "url": "https://thecomedystore.com/calendar/show/3511/2026-07-25t190000-0700-headliners-of-the-or"
-    },
-    {
-      "venue": "Largo",
-      "title": "Margaret Cho and Friends",
-      "date": "2026-07-25T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/7/25/margaret-cho-and-friends-tickets"
-    },
-    {
-      "venue": "The Elysian Theater",
-      "title": "Just Sharing",
-      "date": "2026-07-25T00:00:00Z",
-      "time": "8:00PM\n              \n                (doors)",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/7/25/just-sharing-tickets"
-    },
-    {
-      "title": "Best of the Store",
-      "venue": "The Comedy Store",
-      "date": "2026-07-25T00:00:00Z",
-      "time": "8:30 PM",
-      "description": "Lineup: Zainab Johnson, Marc Maron, Al Madrigal, Vicki Barbolak, Rick Ingraham, Zainab Johnson, Marc Maron, Al Madrigal, Vicki Barbolak, Rick Ingraham",
-      "url": "https://thecomedystore.com/calendar/show/3455/2026-07-25t190000-0700-best-of-the-store"
-    },
-    {
-      "venue": "The Stray Theater",
-      "title": "PERSUASIVE ESSAY - COMEDIANS DEFEND ECCENTRIC TAKES! At The Stray Theater",
-      "date": "2026-07-25T00:00:00Z",
-      "time": "8:30PM\n              \n                (doors)",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/7/25/persuasive-essay-comedians-defend-eccentric-takes-at-the-stray-theater-tickets"
-    },
-    {
-      "venue": "Viibz Restaurant & Bar",
-      "title": "Fly Swatter Comedy",
-      "date": "2026-07-25T00:00:00Z",
-      "time": "9:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/7/25/fly-swatter-comedy-tickets"
-    },
-    {
-      "venue": "The Ice House Comedy Club",
-      "title": "Blue Lives Matter Comedy Show",
-      "date": "2026-07-25T00:00:00Z",
-      "time": "9:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/7/25/blue-lives-matter-comedy-show-tickets"
-    },
-    {
-      "title": "Live from the Belly Room",
-      "venue": "The Comedy Store",
-      "date": "2026-07-25T00:00:00Z",
-      "time": "9:30 PM",
-      "description": "Lineup: Opey, Kevin Sullivan, Leslie Liao, Opey, Kevin Sullivan, Leslie Liao",
-      "url": "https://thecomedystore.com/calendar/show/3716/2026-07-25t213000-0700-live-from-the-belly-room-free-entry"
-    },
-    {
-      "venue": "The Elysian Theater",
-      "title": "Tomorrow! w/ Ron Lynch *EARLY EDITION!*",
-      "date": "2026-07-25T00:00:00Z",
-      "time": "9:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/7/25/tomorrow-w-ron-lynch-early-edition-tickets"
-    },
-    {
-      "venue": "Hollywood Improv",
-      "title": "Ego Death Ft. Lauren Michaels, Nathan Hurd, Lafontaine Oliver, Andrea Abbate, Elyssa Phillips, Legindary Dre, Brandon Beaderstad",
-      "date": "2026-07-25T00:00:00Z",
-      "time": "9:45PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/7/25/ego-death-ft-lauren-michaels-and-more-tba-tickets"
-    },
-    {
-      "venue": "The Elysian Theater",
-      "title": "Edinburgh Anonymous",
-      "date": "2026-07-26T00:00:00Z",
-      "time": "12:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/7/26/edinburgh-anonymous-tickets"
-    },
-    {
-      "title": "Sunday Potluck Hosted by Daniel Moquin",
-      "venue": "The Comedy Store - Original Room",
-      "date": "2026-07-26T00:00:00Z",
-      "time": "6:00 PM",
-      "description": "Lineup: Daniel Moquin, Daniel Moquin",
-      "url": "https://thecomedystore.com/calendar/show/3747/2026-07-26t180000-0700-sunday-potluck-free-entry"
-    },
-    {
-      "title": "Ed Larson & Friends",
-      "venue": "The Comedy Store",
-      "date": "2026-07-26T00:00:00Z",
-      "time": "7:00 PM",
-      "description": "SOLD OUT - Comedy showcase",
-      "url": "https://thecomedystore.com/calendar/show/2758/2026-07-26t190000-0700-ed-larson-friends"
-    },
-    {
-      "venue": "Hollywood Improv",
-      "title": "Never Ending Comedy Ft. Zara Mizrahi, Peter Murphy, Devyn Perry, Greg Hoffman, Avry Ross, Ike Gazaryan, Macey Isaacs, Joe Mezera",
-      "date": "2026-07-26T00:00:00Z",
-      "time": "7:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/7/26/neverending-comedy-ft-devyn-perry-avry-ross-and-more-tba-tickets"
-    },
-    {
-      "venue": "The Laugh Factory",
-      "title": "Chocolate Sundaes",
-      "date": "2026-07-26T00:00:00Z",
-      "time": "7:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/7/26/chocolate-sundaes-tickets"
-    },
-    {
-      "venue": "Baby Battista @ Nico's",
-      "title": "The People Eating Algorithm | Toni Nagy Standup ft. Mary Houlihan",
-      "date": "2026-07-26T00:00:00Z",
-      "time": "7:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/7/26/the-people-eating-algorithm-toni-nagy-standup-ft-mary-houlihan-tickets"
-    },
-    {
-      "title": "Stand Up for KCRW",
-      "venue": "The Comedy Store",
-      "date": "2026-07-26T00:00:00Z",
-      "time": "7:30 PM",
-      "description": "Comedy showcase",
-      "url": "https://thecomedystore.com/calendar/show/4107/2026-07-26t193000-0700-stand-up-for-kcrw"
-    },
-    {
-      "venue": "The Elysian Theater",
-      "title": "Scannell / Booster",
-      "date": "2026-07-26T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/7/26/scannell-booster-tickets"
-    },
-    {
-      "title": "Sunday Headliners",
-      "venue": "The Comedy Store - Original Room",
-      "date": "2026-07-26T00:00:00Z",
-      "time": "8:00 PM",
-      "description": "Lineup: Mark Ellis, Chris Estrada, Jessie “Jetski” Johnson, Taylor Williamson, Kirk Fox, Mark Ellis, Chris Estrada, Jessie “Jetski” Johnson, Taylor Williamson, Kirk Fox",
-      "url": "https://thecomedystore.com/calendar/show/3776/2026-07-26t200000-0700-sunday-headliners"
-    },
-    {
-      "venue": "The Elysian Theater",
-      "title": "Good Showbiz",
-      "date": "2026-07-26T00:00:00Z",
-      "time": "8:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/7/26/good-showbiz-tickets"
-    },
-    {
-      "title": "Beginnings. Middles. Ends. Hosted by Jesus Trejo",
-      "venue": "The Comedy Store - Belly Room",
-      "date": "2026-07-26T00:00:00Z",
-      "time": "9:00 PM",
-      "description": "SOLD OUT - Lineup: Jesus Trejo, Chaunte Wayans, Leslie Liao, Jesus Trejo, Chaunte Wayans, Leslie Liao, Jesus Trejo, Drew Lynch, Sarah Tiana, Owen Smith",
-      "url": "https://thecomedystore.com/calendar/show/4106/2026-07-25t193000-0700-beginnings-middles-ends-hosted-by-jesus-trejo"
-    },
-    {
-      "title": "Cooper Lyden and Friends",
-      "venue": "The Comedy Store - Belly Room",
-      "date": "2026-07-26T00:00:00Z",
-      "time": "9:00 PM",
-      "description": "Lineup: Cooper Lyden, Craig Conant, Joey Cerone, Cooper Lyden, Craig Conant, Joey Cerone",
-      "url": "https://thecomedystore.com/calendar/show/4306/2026-07-26t210000-0700-cooper-lyden-and-friends"
-    },
-    {
-      "venue": "Hollywood Improv",
-      "title": "Better Late Than Never Ft. Jeremy Christian and More Tba!",
-      "date": "2026-07-26T00:00:00Z",
-      "time": "9:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/7/26/better-late-than-never-ft-jeremy-christian-and-more-tba-tickets"
-    },
-    {
-      "venue": "Baby Battista @ Nico's",
-      "title": "Hatecrime Schmatecrime w/ Jude Nanto | Standup Comedy @ baby battista",
-      "date": "2026-07-26T00:00:00Z",
-      "time": "9:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/7/26/hatecrime-schmatecrime-w-jude-nanto-standup-comedy-baby-battista-tickets"
-    },
-    {
-      "venue": "The Elysian Theater",
-      "title": "The Famous People Improv Show",
-      "date": "2026-07-26T00:00:00Z",
-      "time": "9:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/7/26/the-famous-people-improv-show-tickets"
-    },
-    {
-      "title": "The Ding Dong Show",
-      "venue": "The Comedy Store - Belly Room",
-      "date": "2026-07-27T00:00:00Z",
-      "time": "10:30 PM",
-      "description": "Lineup: Don Barris, Don Barris",
-      "url": "https://thecomedystore.com/calendar/show/3248/2026-07-27t223000-0700-the-ding-dong-show-with-don-barris"
-    },
-    {
-      "title": "Monday Potluck Hosted by Felicia Michaels",
-      "venue": "The Comedy Store - Original Room",
-      "date": "2026-07-27T00:00:00Z",
-      "time": "6:00 PM",
-      "description": "Lineup: Felicia Michaels, Felicia Michaels",
-      "url": "https://thecomedystore.com/calendar/show/3229/2026-07-27t180000-0700-monday-potluck-free-entry"
-    },
-    {
-      "title": "Potluck: Friends & Family",
-      "venue": "The Comedy Store - Original Room",
-      "date": "2026-07-27T00:00:00Z",
-      "time": "7:00 PM",
-      "description": "Lineup: Felicia Michaels, Felicia Michaels",
-      "url": "https://thecomedystore.com/calendar/show/3300/2026-07-27t190000-0700-potluck-friends-family-with-40-comics-huge-surprise-guests-free-entry"
-    },
-    {
       "venue": "Hollywood Improv",
       "title": "Legends Ft. Jay Leno, Darrell Hammond, Jay Mohr, Greg Baldwin and More Tba",
       "date": "2026-07-27T00:00:00Z",
@@ -375,22 +15,6 @@
       "time": "7:30PM",
       "description": "",
       "url": "https://dolosangeles.com/events/2026/7/27/underground-monk-show-work-in-progress-show-tickets"
-    },
-    {
-      "title": "Mario Adrion",
-      "venue": "The Comedy Store",
-      "date": "2026-07-27T00:00:00Z",
-      "time": "8:00 PM",
-      "description": "SOLD OUT - Comedy showcase",
-      "url": "https://thecomedystore.com/calendar/show/3015/2026-07-27t200000-0700-mario-adrion"
-    },
-    {
-      "title": "The Comedy Store Presents...",
-      "venue": "The Comedy Store",
-      "date": "2026-07-27T00:00:00Z",
-      "time": "8:00 PM",
-      "description": "Lineup: Whitney Cummings, Jay Leno, Donnell Rawlings, Shapel Lacey, Whitney Cummings, Jay Leno, Donnell Rawlings, Shapel Lacey",
-      "url": "https://thecomedystore.com/calendar/show/3946/2026-07-27t200000-0700-the-comedy-store-presents"
     },
     {
       "venue": "The Laugh Factory",
@@ -415,14 +39,6 @@
       "time": "8:30PM",
       "description": "",
       "url": "https://dolosangeles.com/events/2026/7/27/superbloom-comedy-tickets"
-    },
-    {
-      "title": "Potluck: Pop-Ins Continued! Hosted by Frazer Smith",
-      "venue": "The Comedy Store - Original Room",
-      "date": "2026-07-27T00:00:00Z",
-      "time": "9:30 PM",
-      "description": "Lineup: Frazer Smith, Frazer Smith",
-      "url": "https://thecomedystore.com/calendar/show/3312/2026-07-27t213000-0700-potluck-pop-ins-continued-hosted-by-frazer-smith"
     },
     {
       "venue": "Hollywood Improv",
@@ -457,20 +73,12 @@
       "url": "https://wl.seetickets.us/event/edi-patterson-playgirl/695144?afflky=LargoAtTheCoronet"
     },
     {
-      "title": "Roast Battle",
-      "venue": "The Comedy Store - Belly Room",
+      "venue": "The Laugh Factory",
+      "title": "Hollywood All-stars",
       "date": "2026-07-28T00:00:00Z",
-      "time": "10:30 PM",
-      "description": "Lineup: Brian Moses, Brian Moses",
-      "url": "https://thecomedystore.com/calendar/show/3968/2026-07-28t223000-0700-roast-battle"
-    },
-    {
-      "title": "Late Night at The Store",
-      "venue": "The Comedy Store - Original Room",
-      "date": "2026-07-28T00:00:00Z",
-      "time": "11:30 PM",
-      "description": "Comedy showcase",
-      "url": "https://thecomedystore.com/calendar/show/3639/2026-07-28t233000-0700-late-night-at-the-store"
+      "time": "10:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/7/28/hollywood-all-stars-tickets"
     },
     {
       "venue": "Hollywood Improv",
@@ -479,6 +87,22 @@
       "time": "5:15PM",
       "description": "",
       "url": "https://dolosangeles.com/events/2026/7/28/happy-hour-open-mic-tickets"
+    },
+    {
+      "venue": "Interwoven Studios Hollywood",
+      "title": "Lovett or Leave It: Live in LA Featuring Guy Branum and Missi Pyle!",
+      "date": "2026-07-28T00:00:00Z",
+      "time": "6:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/7/28/lovett-or-leave-it-live-in-la-featuring-guy-branum-and-missi-pyle-tickets"
+    },
+    {
+      "venue": "Hollywood Improv",
+      "title": "Tonight at The Improv Ft. Anthony Jeselnik, Brian Monarch and Very Special Guests",
+      "date": "2026-07-28T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/7/28/tonight-at-the-improv-ft-anthony-jeselnik-brian-monarch-and-very-special-guests-tickets"
     },
     {
       "venue": "Hollywood Improv",
@@ -513,20 +137,36 @@
       "url": "https://dolosangeles.com/events/2026/7/28/rubee-tuesdays-tickets"
     },
     {
-      "title": "Send News",
-      "venue": "The Comedy Store",
+      "venue": "Largo",
+      "title": "Edi Patterson: PLAYGIRL",
       "date": "2026-07-28T00:00:00Z",
-      "time": "8:00 PM",
-      "description": "Comedy showcase",
-      "url": "https://thecomedystore.com/calendar/show/4097/2026-07-28t200000-0700-send-news"
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/7/28/edi-patterson-playgirl-tickets"
     },
     {
-      "title": "Steve Furey & Cronies",
-      "venue": "The Comedy Store",
+      "venue": "The Elysian Theater",
+      "title": "ROOMIES with Dylan Adler, Sam Morrison & Kylie Vincent",
       "date": "2026-07-28T00:00:00Z",
-      "time": "8:00 PM",
-      "description": "Lineup: Stephen Furey, Morgan Jay, Ray Lau, George Perez, Zoltan Kaszas, Stephen Furey, Morgan Jay, Ray Lau, George Perez, Zoltan Kaszas",
-      "url": "https://thecomedystore.com/calendar/show/4108/2026-07-28t200000-0700-steve-furey-cronies"
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/7/28/roomies-with-dylan-adler-sam-morrison-kylie-vincent-tickets"
+    },
+    {
+      "venue": "Baby Battista @ Nico's",
+      "title": "DECKHAND | Edinburgh Fringe Preview Show @ baby battista",
+      "date": "2026-07-28T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/7/28/deckhand-edinburgh-fringe-preview-show-baby-battista-tickets"
+    },
+    {
+      "venue": "Baby Battista @ Nico's",
+      "title": "DECKHAND NIGHT 2 | Edinburgh Fringe Preview Show @ baby battista",
+      "date": "2026-07-28T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/7/28/deckhand-night-2-edinburgh-fringe-preview-show-baby-battista-tickets"
     },
     {
       "venue": "The Elysian Theater",
@@ -537,12 +177,20 @@
       "url": "https://dolosangeles.com/events/2026/7/28/gregory-nussen-qfwfq-tickets"
     },
     {
-      "title": "Headliners of the OR",
-      "venue": "The Comedy Store - Original Room",
+      "venue": "Hollywood Improv",
+      "title": "Deon Cole: Does This Work?",
       "date": "2026-07-28T00:00:00Z",
-      "time": "9:00 PM",
-      "description": "Comedy showcase",
-      "url": "https://thecomedystore.com/calendar/show/3192/2026-07-28t210000-0700-headliners-of-the-or"
+      "time": "9:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/7/28/deon-cole-does-this-work-tickets"
+    },
+    {
+      "venue": "Hollywood Improv",
+      "title": "Poor Little Rich Girl Ft. Tori Piskin",
+      "date": "2026-07-28T00:00:00Z",
+      "time": "9:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/7/28/poor-little-rich-girl-ft-tori-piskin-tickets"
     },
     {
       "venue": "The Elysian Theater",
@@ -561,44 +209,68 @@
       "url": "https://wl.seetickets.us/event/mae-martin-and-friends/695145?afflky=LargoAtTheCoronet"
     },
     {
-      "title": "Set of the Night",
-      "venue": "The Comedy Store - Belly Room",
+      "venue": "Hollywood Improv",
+      "title": "Lab Work!",
       "date": "2026-07-29T00:00:00Z",
-      "time": "10:00 PM",
-      "description": "Comedy showcase",
-      "url": "https://thecomedystore.com/calendar/show/4036/2026-07-29t220000-0700-set-of-the-night"
+      "time": "6:15PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/7/29/lab-work-tickets"
     },
     {
-      "title": "Late Night at The Store",
-      "venue": "The Comedy Store - Original Room",
+      "venue": "Hollywood Improv",
+      "title": "Lab Work",
       "date": "2026-07-29T00:00:00Z",
-      "time": "11:30 PM",
-      "description": "Comedy showcase",
-      "url": "https://thecomedystore.com/calendar/show/3670/2026-07-29t233000-0700-late-night-at-the-store"
+      "time": "6:15PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/7/29/lab-work-tickets-5lkrxl9"
     },
     {
-      "title": "Ron Taylor",
-      "venue": "The Comedy Store - Main Room",
+      "venue": "The Laugh Factory",
+      "title": "Hollywood All-Stars",
       "date": "2026-07-29T00:00:00Z",
-      "time": "8:00 PM",
-      "description": "Lineup: Ron Taylor, Ron Taylor",
-      "url": "https://thecomedystore.com/calendar/show/4267/2026-07-29t200000-0700-ron-taylor"
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/7/29/hollywood-all-stars-tickets"
     },
     {
-      "title": "Grief Sucks: a one man show starring Kev On Stage",
-      "venue": "The Comedy Store",
+      "venue": "The Elysian Theater",
+      "title": "Lost Angels 8",
       "date": "2026-07-29T00:00:00Z",
-      "time": "8:00 PM",
-      "description": "SOLD OUT - Lineup: Kev On Stage, Kev On Stage",
-      "url": "https://thecomedystore.com/calendar/show/3388/2026-07-29-grief-sucks"
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/7/29/lost-angels-8-tickets"
     },
     {
-      "title": "Headliners of the OR",
-      "venue": "The Comedy Store",
+      "venue": "Bar Lubitsch",
+      "title": "Totally! Standup Comedy With Comics from HBO and Netflix",
       "date": "2026-07-29T00:00:00Z",
-      "time": "9:00 PM",
-      "description": "Comedy showcase",
-      "url": "https://thecomedystore.com/calendar/show/3369/2026-07-29t210000-0700-headliners-of-the-or"
+      "time": "8:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/7/29/totally-standup-comedy-with-comics-from-hbo-and-netflix-1781286927"
+    },
+    {
+      "venue": "Hollywood Improv",
+      "title": "The Shaw-Some Show Ft. Forrest Shaw, Billy Gardell, Helen Hong, Karen Rontowski, Jay Washington, Nina Dicker, Jake Dill, Brandon",
+      "date": "2026-07-29T00:00:00Z",
+      "time": "8:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/7/29/the-shaw-some-show-tickets"
+    },
+    {
+      "venue": "The Elysian Theater",
+      "title": "Matt Klein: Boyoyoyoyoing",
+      "date": "2026-07-29T00:00:00Z",
+      "time": "8:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/7/29/matt-klein-boyoyoyoyoing-tickets"
+    },
+    {
+      "venue": "The Elysian Theater",
+      "title": "Underground Monk Show Work In Progress Show",
+      "date": "2026-07-29T00:00:00Z",
+      "time": "9:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/7/29/underground-monk-show-work-in-progress-show-tickets"
     },
     {
       "title": "Kate Berlant and Friends",
@@ -609,46 +281,6 @@
       "url": "https://wl.seetickets.us/event/kate-berlant-and-friends/695643?afflky=LargoAtTheCoronet"
     },
     {
-      "title": "Crack'Em Up Thursdays",
-      "venue": "The Comedy Store - Belly Room",
-      "date": "2026-07-30T00:00:00Z",
-      "time": "10:00 PM",
-      "description": "Comedy showcase",
-      "url": "https://thecomedystore.com/calendar/show/3610/2026-07-30t220000-0700-crackem-up-thursdays"
-    },
-    {
-      "title": "Late Night at The Store",
-      "venue": "The Comedy Store",
-      "date": "2026-07-30T00:00:00Z",
-      "time": "11:30 PM",
-      "description": "Comedy showcase",
-      "url": "https://thecomedystore.com/calendar/show/3957/2026-07-30t233000-0700-late-night-at-the-store"
-    },
-    {
-      "title": "Bros Before Joes",
-      "venue": "The Comedy Store - Belly Room",
-      "date": "2026-07-30T00:00:00Z",
-      "time": "8:00 PM",
-      "description": "Lineup: Joe Marrese, Joe Marrese",
-      "url": "https://thecomedystore.com/calendar/show/4279/2026-07-30t200000-0700-bros-before-joes"
-    },
-    {
-      "title": "Mello Comedic",
-      "venue": "The Comedy Store - Main Room",
-      "date": "2026-07-30T00:00:00Z",
-      "time": "8:00 PM",
-      "description": "Lineup: Sarah Silverman, Rick Glassman, Harland Williams, James Davis, Sarah Silverman, Rick Glassman, Harland Williams, James Davis",
-      "url": "https://thecomedystore.com/calendar/show/4283/2026-07-30t200000-0700-top-notch-comedy"
-    },
-    {
-      "title": "The Originals",
-      "venue": "The Comedy Store - Original Room",
-      "date": "2026-07-30T00:00:00Z",
-      "time": "9:00 PM",
-      "description": "Comedy showcase",
-      "url": "https://thecomedystore.com/calendar/show/3842/2026-07-30t210000-0700-the-originals"
-    },
-    {
       "title": "How Did This Get Made? Live!",
       "venue": "Largo at the Coronet",
       "date": "2026-07-31T00:00:00",
@@ -657,156 +289,12 @@
       "url": "https://wl.seetickets.us/event/how-did-this-get-made-live/695358?afflky=LargoAtTheCoronet"
     },
     {
-      "title": "Facial Recognition Comedy",
-      "venue": "The Comedy Store - Belly Room",
-      "date": "2026-07-31T00:00:00Z",
-      "time": "10:00 PM",
-      "description": "Lineup: Fizaa Dosani, Zahra Ali, Pallavi Gunalan, Fizaa Dosani, Zahra Ali, Pallavi Gunalan",
-      "url": "https://thecomedystore.com/calendar/show/4300/2026-07-31t220000-0700-facial-recognition-comedy"
-    },
-    {
-      "title": "Paul Elia",
-      "venue": "The Comedy Store - Main Room",
-      "date": "2026-07-31T00:00:00Z",
-      "time": "10:00 PM",
-      "description": "Comedy showcase",
-      "url": "https://thecomedystore.com/calendar/show/3144/2026-07-31t220000-0700-paul-elia"
-    },
-    {
-      "title": "Late Night at The Store",
-      "venue": "The Comedy Store - Original Room",
-      "date": "2026-07-31T00:00:00Z",
-      "time": "11:59 PM",
-      "description": "Comedy showcase",
-      "url": "https://thecomedystore.com/calendar/show/4067/2026-07-31t235900-0700-late-night-at-the-store"
-    },
-    {
-      "title": "Headliners of the OR",
-      "venue": "The Comedy Store - Original Room",
-      "date": "2026-07-31T00:00:00Z",
-      "time": "7:00 PM",
-      "description": "Comedy showcase",
-      "url": "https://thecomedystore.com/calendar/show/4109/2026-07-31t190000-0700-headliners-of-the-or"
-    },
-    {
-      "title": "Best of the Store XL",
-      "venue": "The Comedy Store - Main Room",
-      "date": "2026-07-31T00:00:00Z",
-      "time": "7:30 PM",
-      "description": "Comedy showcase",
-      "url": "https://thecomedystore.com/calendar/show/3425/2026-07-31t193000-0700-best-of-the-store-xl"
-    },
-    {
-      "title": "Secretly Trashed",
-      "venue": "The Comedy Store - Belly Room",
-      "date": "2026-07-31T00:00:00Z",
-      "time": "8:00 PM",
-      "description": "Comedy showcase",
-      "url": "https://thecomedystore.com/calendar/show/4110/2026-07-31t200000-0700-secretly-trashed"
-    },
-    {
-      "title": "Headliners of the OR Late Night",
-      "venue": "The Comedy Store",
-      "date": "2026-07-31T00:00:00Z",
-      "time": "9:30 PM",
-      "description": "Comedy showcase",
-      "url": "https://thecomedystore.com/calendar/show/3576/2026-07-31t213000-0700-headliners-of-the-or-late-night"
-    },
-    {
       "title": "How Did This Get Made? Live!",
       "venue": "Largo at the Coronet",
       "date": "2026-08-01T00:00:00",
       "time": "8:00 PM",
       "description": "$40.00",
       "url": "https://wl.seetickets.us/event/how-did-this-get-made-live/695359?afflky=LargoAtTheCoronet"
-    },
-    {
-      "title": "Headliners of the OR Late Night",
-      "venue": "The Comedy Store - Original Room",
-      "date": "2026-08-01T00:00:00Z",
-      "time": "10:30 PM",
-      "description": "Comedy showcase",
-      "url": "https://thecomedystore.com/calendar/show/3541/2026-08-01t213000-0700-headliners-of-the-or-late-night"
-    },
-    {
-      "title": "The Unteachables",
-      "venue": "The Comedy Store - Belly Room",
-      "date": "2026-08-01T00:00:00Z",
-      "time": "7:30 PM",
-      "description": "Comedy showcase",
-      "url": "https://thecomedystore.com/calendar/show/3820/2026-08-01t193000-0700-the-unteachables"
-    },
-    {
-      "title": "Headliners of the OR",
-      "venue": "The Comedy Store",
-      "date": "2026-08-01T00:00:00Z",
-      "time": "8:00 PM",
-      "description": "Comedy showcase",
-      "url": "https://thecomedystore.com/calendar/show/3512/2026-08-01t190000-0700-headliners-of-the-or"
-    },
-    {
-      "title": "Best of the Store",
-      "venue": "The Comedy Store - Main Room",
-      "date": "2026-08-01T00:00:00Z",
-      "time": "8:30 PM",
-      "description": "Comedy showcase",
-      "url": "https://thecomedystore.com/calendar/show/3456/2026-08-01t190000-0700-best-of-the-store"
-    },
-    {
-      "title": "Live from the Belly Room",
-      "venue": "The Comedy Store - Belly Room",
-      "date": "2026-08-01T00:00:00Z",
-      "time": "9:30 PM",
-      "description": "Comedy showcase",
-      "url": "https://thecomedystore.com/calendar/show/3717/2026-08-01t213000-0700-live-from-the-belly-room-free-entry"
-    },
-    {
-      "title": "Sunday Potluck",
-      "venue": "The Comedy Store - Original Room",
-      "date": "2026-08-02T00:00:00Z",
-      "time": "6:00 PM",
-      "description": "Comedy showcase",
-      "url": "https://thecomedystore.com/calendar/show/3748/2026-08-02t180000-0700-sunday-potluck-free-entry"
-    },
-    {
-      "title": "Couples Therapy",
-      "venue": "The Comedy Store - Belly Room",
-      "date": "2026-08-02T00:00:00Z",
-      "time": "7:00 PM",
-      "description": "Comedy showcase",
-      "url": "https://thecomedystore.com/calendar/show/4313/2026-08-02t190000-0700-couples-therapy-with-rahmein-mostafavi-jessica-keenan-and-jack-jr"
-    },
-    {
-      "title": "Becky Robinson",
-      "venue": "The Comedy Store",
-      "date": "2026-08-02T00:00:00Z",
-      "time": "7:30 PM",
-      "description": "Comedy showcase",
-      "url": "https://thecomedystore.com/calendar/show/4149/2026-08-02t193000-0700-becky-robinson"
-    },
-    {
-      "title": "Sunday Headliners",
-      "venue": "The Comedy Store - Original Room",
-      "date": "2026-08-02T00:00:00Z",
-      "time": "8:00 PM",
-      "description": "Comedy showcase",
-      "url": "https://thecomedystore.com/calendar/show/3777/2026-08-02t200000-0700-sunday-headliners"
-    },
-    {
-      "title": "Monday Potluck Hosted by Felicia Michaels",
-      "venue": "The Comedy Store - Original Room",
-      "date": "2026-08-02T00:00:00Z",
-      "time": "9:00 PM",
-      "description": "SOLD OUT - Lineup: Felicia Michaels, Felicia Michaels, Felicia Michaels, Felicia Michaels, Whitney Cummings, Jay Leno, Donnell Rawlings, Shapel Lacey, Whitney Cummings, Jay Leno",
-      "url": "https://thecomedystore.com/calendar/show/3229/2026-07-27t180000-0700-monday-potluck-free-entry"
-    },
-    {
-      "title": "Bobby Lee & Friends",
-      "venue": "The Comedy Store - Belly Room",
-      "date": "2026-08-02T00:00:00Z",
-      "time": "9:00 PM",
-      "description": "Lineup: Bobby Lee, Bobby Lee",
-      "url": "https://thecomedystore.com/calendar/show/4362/2026-08-02t210000-0700-bobby-lee-friends"
     },
     {
       "title": "Fred Armisen and Friends",
@@ -1025,8 +513,8 @@
       "url": "https://wl.seetickets.us/event/tig-has-friends/696628?afflky=LargoAtTheCoronet"
     }
   ],
-  "lastUpdated": "2026-07-25T09:58:25.852761Z",
-  "totalShows": 128,
+  "lastUpdated": "2026-07-27T10:08:58.398463Z",
+  "totalShows": 64,
   "sources": [
     "DoLA",
     "UCB FRANKLIN",
