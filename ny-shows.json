@@ -1,158 +1,6 @@
 {
   "shows": [
     {
-      "title": "An hour with Nataly Aukar (Work In Progress)",
-      "venue": "Union Hall",
-      "date": "2026-07-31T00:00:00.000Z",
-      "time": null,
-      "description": "An hour with Nataly Aukar (Work In Progress)",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Devon Walker: please don’t make me famous",
-      "venue": "Union Hall",
-      "date": "2026-07-31T00:00:00.000Z",
-      "time": null,
-      "description": "Devon Walker: please don’t make me famous",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "KARAOKE TREMENDOUS **Union Hall 20th Anniversary Edition**",
-      "venue": "Union Hall",
-      "date": "2026-07-31T00:00:00.000Z",
-      "time": null,
-      "description": "KARAOKE TREMENDOUS **Union Hall 20th Anniversary Edition**",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-07-31T00:00:00.000Z",
-      "time": "10:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-07-31T00:00:00.000Z",
-      "time": "10:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-07-31T00:00:00.000Z",
-      "time": "11:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-07-31T00:00:00.000Z",
-      "time": "11:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-07-31T00:00:00.000Z",
-      "time": "11:55 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-07-31T00:00:00.000Z",
-      "time": "12:30 am",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-07-31T00:00:00.000Z",
-      "time": "12:55 am",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-07-31T00:00:00.000Z",
-      "time": "6:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-07-31T00:00:00.000Z",
-      "time": "6:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-07-31T00:00:00.000Z",
-      "time": "7:01 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-07-31T00:00:00.000Z",
-      "time": "7:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-07-31T00:00:00.000Z",
-      "time": "8:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-07-31T00:00:00.000Z",
-      "time": "8:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-07-31T00:00:00.000Z",
-      "time": "9:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-07-31T00:00:00.000Z",
-      "time": "9:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Demi Adejuyigbe Sells Out",
-      "venue": "The Bell House",
-      "date": "2026-07-31T00:00:00.000Z",
-      "time": "9:30PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/7/31/demi-adejuyigbe-sells-out-tickets"
-    },
-    {
       "title": "Jaboukie & Friends",
       "venue": "Union Hall",
       "date": "2026-08-01T00:00:00.000Z",
@@ -233,14 +81,6 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
-      "title": "ACTOR ON PAROLE",
-      "venue": "Caveat",
-      "date": "2026-08-01T00:00:00.000Z",
-      "time": "4:00 PM",
-      "description": "A hilarious and deeply human true story about Ari Brisbon two years inside a minimum-security prison...",
-      "url": "https://caveat.nyc/events/actor-on-parole-8-1-2026"
-    },
-    {
       "title": "Comedy Showcase",
       "venue": "Comedy Cellar - Village Underground",
       "date": "2026-08-01T00:00:00.000Z",
@@ -255,14 +95,6 @@
       "time": "6:45 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "RUINED",
-      "venue": "Caveat",
-      "date": "2026-08-01T00:00:00.000Z",
-      "time": "7:00 PM",
-      "description": "Join Halle Kiefer and Alison Leiby for a live episode of the hit podcast, Ruined!",
-      "url": "https://caveat.nyc/events/ruined-8-1-2026"
     },
     {
       "title": "Comedy Showcase",
@@ -311,14 +143,6 @@
       "time": "9:00 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "INFALLIBLE JOKE FORMULA",
-      "venue": "Caveat",
-      "date": "2026-08-01T00:00:00.000Z",
-      "time": "9:30 PM",
-      "description": "The Infallible Joke Formula is 1/2 comedy show, 1/2 science experiment, 1/2 variety show.",
-      "url": "https://caveat.nyc/events/infallible-joke-formula-2026-08-01"
     },
     {
       "title": "Comedy Showcase",
@@ -1009,12 +833,28 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "HEY ALMA PRESENTS: A 'FIDDLER ON THE ROOF' SING-ALONG",
+      "venue": "Caveat",
+      "date": "2026-08-09T00:00:00.000Z",
+      "time": "4:00 PM",
+      "description": "Craving some Jewish joy and TRADITION? Join Jewish pop culture site Hey Alma for a sing-along to the...",
+      "url": "https://caveat.nyc/events/hey-alma-presents-a-fiddler-on-the-roof-sing-along-2026-08-09"
+    },
+    {
       "title": "Comedy Showcase",
       "venue": "Comedy Cellar",
       "date": "2026-08-09T00:00:00.000Z",
       "time": "4:00 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "THE SOUND WITHIN WITH EISENBERG & STERN",
+      "venue": "Caveat",
+      "date": "2026-08-09T00:00:00.000Z",
+      "time": "7:30 PM",
+      "description": "A highly satirical masterclass on “the miracle of the organic voice,\" featuring character comedy at ...",
+      "url": "https://caveat.nyc/events/the-sound-within-with-eisenberg-stern-2026-08-09"
     },
     {
       "title": "Pierce: Un Sense Ored",
@@ -1297,6 +1137,14 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
+      "title": "The Late Show w/ Stephen Colbert's Writers Present:",
+      "venue": "The Bell House",
+      "date": "2026-08-18T00:00:00.000Z",
+      "time": "7:30PM",
+      "description": null,
+      "url": "https://donyc.com/venues/the-bell-house"
+    },
+    {
       "title": "Rising Starlets: Jessie Lee and Evan Lazarus",
       "venue": "Union Hall",
       "date": "2026-08-19T00:00:00.000Z",
@@ -1311,6 +1159,14 @@
       "time": "7:00 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "James Austin Johnson, Michael Longfellow, and Devon Walker LIVE",
+      "venue": "The Bell House",
+      "date": "2026-08-19T00:00:00.000Z",
+      "time": "7:30PM",
+      "description": null,
+      "url": "https://donyc.com/events/2026/8/19/james-austin-johnson-michael-longfellow-and-devon-walker-live-tickets"
     },
     {
       "title": "RUPI KAUR: UNCUT – A RESIDENCY",
@@ -1473,14 +1329,6 @@
       "url": "https://donyc.com/events/2026/8/10/the-moth-storyslam-tickets"
     },
     {
-      "title": "**Cancelled** Nico Carney & Friends!",
-      "venue": "Union Hall",
-      "date": "2026-08-27T00:00:00.000Z",
-      "time": null,
-      "description": "**Cancelled** Nico Carney & Friends!",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
       "title": "UpDating",
       "venue": "The Bell House",
       "date": "2026-08-27T00:00:00.000Z",
@@ -1577,14 +1425,6 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "100% Eat Live!",
-      "venue": "The Bell House",
-      "date": "2026-09-03T00:00:00.000Z",
-      "time": "7:30PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/9/3/100-eat-live-tickets"
-    },
-    {
       "title": "Shaunak Does Improvised Standup",
       "venue": "Union Hall",
       "date": "2026-09-05T00:00:00.000Z",
@@ -1614,6 +1454,14 @@
       "date": "2026-09-14T00:00:00.000Z",
       "time": null,
       "description": "Alex Moffat: Moffat’s Mouth-Watering Must-Stops",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "LAUGH",
+      "venue": "Union Hall",
+      "date": "2026-09-15T00:00:00.000Z",
+      "time": null,
+      "description": "LAUGH",
       "url": "https://unionhallny.com/calendar"
     },
     {
@@ -1697,6 +1545,14 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "Caroline & Jack and Friends",
+      "venue": "Union Hall",
+      "date": "2026-09-27T00:00:00.000Z",
+      "time": null,
+      "description": "Caroline & Jack and Friends",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
       "title": "JOKE MACHINE with Emmy Blotnick & Joe Zimmerman",
       "venue": "Union Hall",
       "date": "2026-09-30T00:00:00.000Z",
@@ -1737,6 +1593,14 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "LAUGH",
+      "venue": "Union Hall",
+      "date": "2026-10-16T00:00:00.000Z",
+      "time": null,
+      "description": "LAUGH",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
       "title": "Chris Gethard And Dave Ross Leave For Fest",
       "venue": "Union Hall",
       "date": "2026-10-17T00:00:00.000Z",
@@ -1769,23 +1633,31 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "PROJECT CHOO CHOO SCREENING",
+      "title": "ACTOR ON PAROLE",
       "venue": "Caveat",
-      "date": "2027-07-31T00:00:00.000Z",
-      "time": "7:00 PM",
-      "description": "A Comedy Special by Max Carlson written for the stage and filmed by Max, alone, on a Cross-Country T...",
-      "url": "https://caveat.nyc/events/project-choo-choo-screening-7-31-2026"
+      "date": "2027-08-01T00:00:00.000Z",
+      "time": "4:00 PM",
+      "description": "A hilarious and deeply human true story about Ari Brisbon two years inside a minimum-security prison...",
+      "url": "https://caveat.nyc/events/actor-on-parole-8-1-2026"
     },
     {
-      "title": "GUSH",
+      "title": "RUINED",
       "venue": "Caveat",
-      "date": "2027-07-31T00:00:00.000Z",
+      "date": "2027-08-01T00:00:00.000Z",
+      "time": "7:00 PM",
+      "description": "Join Halle Kiefer and Alison Leiby for a live episode of the hit podcast, Ruined!",
+      "url": "https://caveat.nyc/events/ruined-8-1-2026"
+    },
+    {
+      "title": "INFALLIBLE JOKE FORMULA",
+      "venue": "Caveat",
+      "date": "2027-08-01T00:00:00.000Z",
       "time": "9:30 PM",
-      "description": "Thirty performers, thirty things we love. Fuck the idea that you can't be positive.",
-      "url": "https://caveat.nyc/events/gush-2026-07-31"
+      "description": "The Infallible Joke Formula is 1/2 comedy show, 1/2 science experiment, 1/2 variety show.",
+      "url": "https://caveat.nyc/events/infallible-joke-formula-2026-08-01"
     }
   ],
-  "lastUpdated": "2026-07-31T09:05:10.677318Z",
+  "lastUpdated": "2026-08-01T08:35:56.203609Z",
   "sources": [
     "DoNYC",
     "Caveat",
@@ -1795,5 +1667,5 @@
     "UCB Theatre",
     "The Bell House"
   ],
-  "totalShows": 223
+  "totalShows": 207
 }
