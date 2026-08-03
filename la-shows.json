@@ -1,252 +1,20 @@
 {
   "shows": [
     {
-      "title": "How Did This Get Made? Live!",
-      "venue": "Largo at the Coronet",
-      "date": "2026-08-01T00:00:00",
-      "time": "8:00 PM",
-      "description": "$40.00",
-      "url": "https://wl.seetickets.us/event/how-did-this-get-made-live/695359?afflky=LargoAtTheCoronet"
+      "title": "Harold After Dark! ft. S.O.F.T. & Cowboy Mama",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-03T00:00:00Z",
+      "time": "10:00 PM",
+      "description": "Monday, August 3, 2026 @ 10:00 PMLA - FRANKLINImprovHarold After Dark! ft. S.O.F.T. & Cowboy MamaA late-night dose of UCB’s house improv ensembles! Let your hair down and pump up the jams cuz it’s time to get weird, Harold Night! Anything goes tonight, so long as it isn’t normal. ------ Featuring:  S.O.F.T. &  Cowboy Mama…Buy Now",
+      "url": "https://ucbcomedy.com/show/harold-after-dark-ft-soft-cowboy-mama/"
     },
     {
-      "venue": "The Elysian Theater",
-      "title": "Tomorrow! w/ Ron Lynch",
-      "date": "2026-08-01T00:00:00Z",
-      "time": "11:55PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/1/tomorrow-w-ron-lynch-tickets"
-    },
-    {
-      "venue": "Hollywood Improv",
-      "title": "Next Generation Comedy",
-      "date": "2026-08-01T00:00:00Z",
-      "time": "4:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/1/next-generation-comedy-tickets"
-    },
-    {
-      "venue": "The Ice House Comedy Club",
-      "title": "Mr. Bishop",
-      "date": "2026-08-01T00:00:00Z",
-      "time": "5:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/1/mr-bishop-tickets"
-    },
-    {
-      "venue": "Fox Performing Arts Center",
-      "title": "Concrete & Jerry Garcia",
-      "date": "2026-08-01T00:00:00Z",
-      "time": "6:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/1/concrete-tickets"
-    },
-    {
-      "venue": "Hollywood Improv",
-      "title": "Tonight at The Improv",
-      "date": "2026-08-01T00:00:00Z",
-      "time": "7:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/1/tonight-at-the-improv-tickets"
-    },
-    {
-      "venue": "The Ice House Comedy Club",
-      "title": "Maz Jobrani",
-      "date": "2026-08-01T00:00:00Z",
-      "time": "7:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/1/maz-jobrani-tickets"
-    },
-    {
-      "venue": "The Ice House Comedy Club",
-      "title": "Shark Taint",
-      "date": "2026-08-01T00:00:00Z",
-      "time": "7:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/1/shark-taint-tickets"
-    },
-    {
-      "venue": "Hollywood Improv",
-      "title": "Tonight at The Lab!",
-      "date": "2026-08-01T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/1/tonight-at-the-lab-tickets"
-    },
-    {
-      "venue": "The Laugh Factory",
-      "title": "Saturday Night All-Stars",
-      "date": "2026-08-01T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/1/saturday-night-all-stars-tickets"
-    },
-    {
-      "venue": "The Elysian Theater",
-      "title": "Sweeps",
-      "date": "2026-08-01T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/1/sweeps-tickets"
-    },
-    {
-      "venue": "Largo",
-      "title": "How Did This Get Made? Live!",
-      "date": "2026-08-01T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/1/how-did-this-get-made-live-tickets"
-    },
-    {
-      "venue": "The Nitecap",
-      "title": "Three Comics",
-      "date": "2026-08-01T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/1/three-comics-tickets"
-    },
-    {
-      "venue": "The Upstairs LA",
-      "title": "The Upstairs Comedy Showcase",
-      "date": "2026-08-01T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/1/the-upstairs-comedy-showcase-tickets"
-    },
-    {
-      "venue": "The Elysian Theater",
-      "title": "Wuhan Clan Ain’t Nuthin’ ta Duck Wit",
-      "date": "2026-08-01T00:00:00Z",
-      "time": "8:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/1/wuhan-clan-ain-t-nuthin-ta-duck-wit-tickets"
-    },
-    {
-      "venue": "The Ice House Comedy Club",
-      "title": "Coury Comedy & Friends",
-      "date": "2026-08-01T00:00:00Z",
-      "time": "9:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/1/coury-comedy-friends-tickets"
-    },
-    {
-      "venue": "Hollywood Improv",
-      "title": "Tonight at The Improv Ft. Amir K, Leslie Liao, Chris Martin, and More Tba!",
-      "date": "2026-08-01T00:00:00Z",
-      "time": "9:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/1/tonight-at-the-improv-tickets-qrqo3kl"
-    },
-    {
-      "venue": "The Elysian Theater",
-      "title": "Tbd Sketch Show",
-      "date": "2026-08-01T00:00:00Z",
-      "time": "9:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/1/tbd-sketch-show-tickets"
-    },
-    {
-      "venue": "The Elysian Theater",
-      "title": "Pornstars Are Funny *IN-Person & Livestream*",
-      "date": "2026-08-01T00:00:00Z",
-      "time": "9:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/1/pornstars-are-funny-in-person-livestream-tickets"
-    },
-    {
-      "venue": "Hollywood Improv",
-      "title": "Clown Medicine Ft. Sarah Lawrence, Wrenn Woods, Maddi Mays, King Bo and More Tba",
-      "date": "2026-08-01T00:00:00Z",
-      "time": "9:45PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/1/clown-medicine-ft-sarah-lawrence-wrenn-woods-and-more-tba-tickets"
-    },
-    {
-      "venue": "The Elysian Theater",
-      "title": "VHS Workout Class",
-      "date": "2026-08-02T00:00:00Z",
-      "time": "2:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/2/vhs-workout-class-tickets"
-    },
-    {
-      "venue": "The Ice House Comedy Club",
-      "title": "The Unteachables",
-      "date": "2026-08-02T00:00:00Z",
-      "time": "4:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/2/the-unteachables-tickets"
-    },
-    {
-      "venue": "The Ice House Comedy Club",
-      "title": "Samuel J Comroe",
-      "date": "2026-08-02T00:00:00Z",
-      "time": "5:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/2/samuel-j-comroe-tickets"
-    },
-    {
-      "venue": "The Ice House Comedy Club",
-      "title": "Pretty Good Comedy",
-      "date": "2026-08-02T00:00:00Z",
-      "time": "6:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/2/pretty-good-comedy-tickets"
-    },
-    {
-      "venue": "Hollywood Improv",
-      "title": "Tonight at The Improv Ft. Jimmy Shin and More Tba",
-      "date": "2026-08-02T00:00:00Z",
-      "time": "7:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/2/tonight-at-the-improv-ft-jimmy-shin-and-more-tba-tickets"
-    },
-    {
-      "venue": "The Laugh Factory",
-      "title": "Chocolate Sundaes",
-      "date": "2026-08-02T00:00:00Z",
-      "time": "7:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/2/chocolate-sundaes-tickets"
-    },
-    {
-      "venue": "The Elysian Theater",
-      "title": "Yeti or Not!",
-      "date": "2026-08-02T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/2/yeti-or-not-tickets"
-    },
-    {
-      "venue": "The Townhouse",
-      "title": "The Setup at Townhouse Venice",
-      "date": "2026-08-02T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/2/the-setup-at-townhouse-venice-tickets"
-    },
-    {
-      "venue": "The Elysian Theater",
-      "title": "Being on Your Phone: LIVE!",
-      "date": "2026-08-02T00:00:00Z",
-      "time": "8:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/2/being-on-your-phone-live-tickets"
-    },
-    {
-      "venue": "Upright Citizens Brigade Theatre",
-      "title": "Famous People Improv Show",
-      "date": "2026-08-02T00:00:00Z",
-      "time": "9:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/2/the-matinee-free-comedy-at-a-reasonable-hour-tickets"
-    },
-    {
-      "venue": "The Elysian Theater",
-      "title": "The Famous People Improv Show",
-      "date": "2026-08-02T00:00:00Z",
-      "time": "9:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/2/the-famous-people-improv-show-tickets"
+      "title": "The Incubator: PTO + The Fantasy",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-03T00:00:00Z",
+      "time": "5:30 PM",
+      "description": "Monday, August 3, 2026 @ 5:30 PMLA - FRANKLINImprovThe Incubator: PTO + The FantasyLooking for the best live improv comedy in Los Angeles? The Incubator at the Upright Citizens Brigade Theatre is a must-see monthly show featuring the next generation of performers alongside some of UCB’s most exciting veteran teams—all on one stage.…Buy Now",
+      "url": "https://ucbcomedy.com/show/the-incubator-pto-the-fantasy-2026-08-03/"
     },
     {
       "venue": "The Elysian Theater",
@@ -255,6 +23,14 @@
       "time": "6:00PM",
       "description": "",
       "url": "https://dolosangeles.com/events/2026/8/3/all-in-clown-and-improv-jam-tickets"
+    },
+    {
+      "title": "Harold Night ft. Darnell Hollywood & Branzino",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-03T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Monday, August 3, 2026 @ 7:00 PMLA - FRANKLINImprovHarold Night ft. Darnell Hollywood & BranzinoYour one stop shop to see UCB's house improv ensembles perform every Monday! Harold Night is UCB's long-running weekly improv show featuring homegrown teams at the top of their game performing, you guessed it, The Harold. ------ Featuring: Darnell Hollywood…Buy Now",
+      "url": "https://ucbcomedy.com/show/harold-night-ft-darnell-hollywood-branzino-2026-08-03/"
     },
     {
       "venue": "The Comedy Store",
@@ -289,12 +65,44 @@
       "url": "https://dolosangeles.com/events/2026/8/3/spillway-music-series-a-stream-of-consciousness-music-event-tickets"
     },
     {
+      "title": "The Punch-up with Beth Stelling",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-03T00:00:00Z",
+      "time": "8:30 PM",
+      "description": "Monday, August 3, 2026 @ 8:30 PMLA - ANNEXStandupThe Punch-up with Beth StellingA good-natured stand-up open mic where Beth Stelling punches your jokes up (when possible) Hi! I'm comedian Beth Stelling. I headlined Omaha Comedy Festival a few years ago and they asked me to lead a stand-up workshop, which I don't…Read more",
+      "url": "https://ucbcomedy.com/show/the-punch-up-with-beth-stelling-2026-08-03/"
+    },
+    {
+      "title": "Harold Night ft. Gas Money & Dance Club Remix",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-03T00:00:00Z",
+      "time": "8:30 PM",
+      "description": "Monday, August 3, 2026 @ 8:30 PMLA - FRANKLINImprovHarold Night ft. Gas Money & Dance Club RemixYour one stop shop to see UCB's house improv ensembles perform every Monday! Harold Night is UCB's long-running weekly improv show featuring homegrown teams at the top of their game performing, you guessed it, The Harold. ------ Featuring: Gas Money…Buy Now",
+      "url": "https://ucbcomedy.com/show/harold-night-ft-gas-money-dance-club-remix-2026-08-03/"
+    },
+    {
       "venue": "Hollywood Improv",
       "title": "Happy Hour Open Mic",
       "date": "2026-08-04T00:00:00Z",
       "time": "5:15PM",
       "description": "",
       "url": "https://dolosangeles.com/events/2026/8/4/happy-hour-open-mic-tickets"
+    },
+    {
+      "venue": "Interwoven Studios Hollywood",
+      "title": "Lovett or Leave It with Jon Lovett",
+      "date": "2026-08-04T00:00:00Z",
+      "time": "6:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/4/lovett-or-leave-it-with-jon-lovett-tickets"
+    },
+    {
+      "title": "Mic Drop",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-04T00:00:00Z",
+      "time": "6:30 PM",
+      "description": "Tuesday, August 4, 2026 @ 6:30 PMLA - ANNEXStandupMic DropTomorrow’s headliners, tonight! Mic Drop is a stand-up comedy open mic and showcase at the UCB Annex featuring rising comics, new material, and surprise sets from some of LA’s funniest performers. Built around a supportive, comedy-first atmosphere, Mic Drop is…Buy Now",
+      "url": "https://ucbcomedy.com/show/mic-drop-2026-07-07-2/"
     },
     {
       "venue": "Hollywood Improv",
@@ -305,12 +113,28 @@
       "url": "https://dolosangeles.com/events/2026/8/4/john-campanelli-special-guest-ft-john-campanelli-and-more-tba-tickets"
     },
     {
+      "venue": "Hollywood Improv",
+      "title": "Tonight at The Improv Ft. Brian Monarch and More Tba",
+      "date": "2026-08-04T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/4/tonight-at-the-improv-ft-brian-monarch-and-more-tba-tickets"
+    },
+    {
       "venue": "The Laugh Factory",
       "title": "Rubee Tuesdays",
       "date": "2026-08-04T00:00:00Z",
       "time": "7:45PM",
       "description": "",
       "url": "https://dolosangeles.com/events/2026/8/4/rubee-tuesdays-tickets"
+    },
+    {
+      "title": "SOLID: a stand-up comedy show",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-04T00:00:00Z",
+      "time": "8:00 PM",
+      "description": "Tuesday, August 4, 2026 @ 8:00 PMLA - ANNEXStandupSOLID: a stand-up comedy showAn evening of stand-up comedy featuring the best comics in the city! Hosted by Joe Kwaczala (Comedy Central) and Clare O'Kane (Saturday Night Live), SOLID is a stand-up comedy show that features the funniest comics in Los Angeles at an affordable price. These…Buy Now",
+      "url": "https://ucbcomedy.com/show/solid-a-stand-up-comedy-show-2026-07-28/"
     },
     {
       "venue": "The Elysian Theater",
@@ -337,12 +161,92 @@
       "url": "https://dolosangeles.com/events/2026/8/4/green-tickets"
     },
     {
+      "title": "Experimental Mic",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-04T00:00:00Z",
+      "time": "9:30 PM",
+      "description": "Tuesday, August 4, 2026 @ 9:30 PMLA - ANNEXStandupExperimental MicAn open mic where comedians can push boundaries, try bold new ideas, and embrace the unpredictable. The comedy laboratory where anything can happen! Every Tuesday at the UCB Annex, this isn’t your average open mic. It’s a playground for comedians…Read more",
+      "url": "https://ucbcomedy.com/show/experimental-mic-2026-07-28/"
+    },
+    {
       "venue": "Hollywood Improv",
       "title": "Sophie Buddle",
       "date": "2026-08-04T00:00:00Z",
       "time": "9:30PM",
       "description": "",
       "url": "https://dolosangeles.com/events/2026/8/4/sophie-buddle-tickets"
+    },
+    {
+      "venue": "Hollywood Improv",
+      "title": "Lab Work",
+      "date": "2026-08-05T00:00:00Z",
+      "time": "6:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/5/lab-work-tickets"
+    },
+    {
+      "title": "Convoy & Hebecky Drysbell",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-05T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Wednesday, August 5, 2026 @ 7:00 PMLA - FRANKLINLivestreamImprovConvoy & Hebecky DrysbellA night of improv comedy featuring veteran improvisers Convoy and Hebecky Drysbell. Convoy was described by Time Out LA as “what can happen when a few players know each other’s brains so well that they function as a very funny…Buy Now",
+      "url": "https://ucbcomedy.com/show/convoy-hebecky-drysbell-2026-08-05/"
+    },
+    {
+      "venue": "Hollywood Improv",
+      "title": "Tonight at The Improv Ft. Howie Mandel, Dane Cook, Vinny Fasline and More Tba",
+      "date": "2026-08-05T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/5/tonight-at-the-improv-ft-howie-mandel-dane-cook-vinny-fasline-and-more-tba-tickets"
+    },
+    {
+      "venue": "The Laugh Factory",
+      "title": "Hollywood All-Stars",
+      "date": "2026-08-05T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/5/hollywood-all-stars-tickets"
+    },
+    {
+      "venue": "Baby Battista @ Nico's",
+      "title": "Gabriel Saint Trio | Live Jazz",
+      "date": "2026-08-05T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/5/gabriel-saint-trio-live-jazz-tickets"
+    },
+    {
+      "title": "Maude Night: The Family Business",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-05T00:00:00Z",
+      "time": "8:30 PM",
+      "description": "Wednesday, August 5, 2026 @ 8:30 PMLA - FRANKLINSketchMaude Night: The Family BusinessMaude Night boasts brand new material by UCB’s house sketch teams every month. Come see top-notch sketch comedy featuring two teams of UCB’s finest writers and performers. ----- Featuring: The Family Business --- Complete List of Maude Teams THE FAMILY…Buy Now",
+      "url": "https://ucbcomedy.com/show/maude-night-the-family-business-2026-08-05/"
+    },
+    {
+      "venue": "Hollywood Improv",
+      "title": "Circus of Joy Ft. Henry Phillips, Patrick Keane, Chris Fairbanks, Mike O'connell, Cecily Knobler & Special Guests",
+      "date": "2026-08-05T00:00:00Z",
+      "time": "8:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/5/circus-of-joy-ft-henry-phillips-patrick-keane-chris-fairbanks-mike-o-connell-cecily-knobler-special-guests-tickets"
+    },
+    {
+      "title": "Night School",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-05T00:00:00Z",
+      "time": "9:30 PM",
+      "description": "Wednesday, August 5, 2026 @ 9:30 PMLA - ANNEXImprovNight SchoolGet a chance to perform with a rotating cast of your favorite UCB teachers, or just sit back and enjoy the lesson. Night School is in session, but we swear it'll be fun this time. Come watch a rotating cast…Read more",
+      "url": "https://ucbcomedy.com/show/night-school-2026-08-05/"
+    },
+    {
+      "venue": "The Laugh Factory",
+      "title": "Vaca Flocka Wednesdays",
+      "date": "2026-08-05T00:00:00Z",
+      "time": "9:45PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/5/hollywood-all-stars-tickets-rmo5a8p"
     },
     {
       "title": "Fred Armisen and Friends",
@@ -353,12 +257,156 @@
       "url": "https://wl.seetickets.us/event/fred-armisen-and-friends/698560?afflky=LargoAtTheCoronet"
     },
     {
+      "title": "UCB Cagematch at the Annex: The Fab 4 (14-0) vs. Buggy",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-06T00:00:00Z",
+      "time": "10:00 PM",
+      "description": "Thursday, August 6, 2026 @ 10:00 PMLA - ANNEXImprovUCB Cagematch at the Annex: The Fab 4 (14-0) vs. BuggyAn intergalactic improv battle between the best teams in LA where YOU choose the winner! Two teams enter, one team leaves! Long, long ago alien Queen Titi and her army overtook our peaceful planet Earth-UCB and mandated that the best,…Buy Now",
+      "url": "https://ucbcomedy.com/show/ucb-cagematch-2026-07-30-2/"
+    },
+    {
+      "venue": "Interwoven Studios Hollywood",
+      "title": "Lovett or Leave It with Jon Lovett",
+      "date": "2026-08-06T00:00:00Z",
+      "time": "6:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/6/lovett-or-leave-it-with-jon-lovett-tickets"
+    },
+    {
+      "venue": "The Ice House Comedy Club",
+      "title": "Social Hour",
+      "date": "2026-08-06T00:00:00Z",
+      "time": "6:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/6/social-hour-tickets"
+    },
+    {
+      "title": "The Watch List Industry Showcase",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-06T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Thursday, August 6, 2026 @ 7:00 PMLA - FRANKLINCharacterStandupThe Watch List Industry ShowcaseA showcase of LA's performers you should know! The Watch List is an industry event designed to highlight LA's most exciting comedic talent. Skip the guesswork and discover the next wave of standup and character performers! Featuring: TBA --- All…Read more",
+      "url": "https://ucbcomedy.com/show/the-watch-list-industry-showcase-2026-08-06/"
+    },
+    {
+      "venue": "The Ice House Comedy Club",
+      "title": "Breaking the Ice: Open Mic Hosted By Goldie Gareza",
+      "date": "2026-08-06T00:00:00Z",
+      "time": "7:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/6/breaking-the-ice-open-mic-hosted-by-goldie-gareza-tickets"
+    },
+    {
+      "venue": "The Laugh Factory",
+      "title": "Hollywood All-Stars",
+      "date": "2026-08-06T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/6/hollywood-all-stars-tickets"
+    },
+    {
+      "title": "Lloyd Night ft. Freak Trap & PTO",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-06T00:00:00Z",
+      "time": "8:00 PM",
+      "description": "Thursday, August 6, 2026 @ 8:00 PMLA - ANNEXImprovLloyd Night ft. Freak Trap & PTOYour one stop shop to see UCB’s house improv ensembles perform every Monday! Lloyd Night is where UCB’s homegrown talent comes to test their mettle and tackle improv’s legendary form: the Harold. Every. Single. Week. Get in on the ground…Read more",
+      "url": "https://ucbcomedy.com/show/lloyd-night-ft-freak-trap-pto-2026-07-16-2/"
+    },
+    {
+      "venue": "Largo",
+      "title": "Fred Armisen and Friends",
+      "date": "2026-08-06T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/6/fred-armisen-and-friends-tickets"
+    },
+    {
+      "venue": "The Upstairs LA",
+      "title": "Mark Hayes & Friends",
+      "date": "2026-08-06T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/6/mark-hayes-friends-tickets"
+    },
+    {
+      "venue": "Club Fat Sal's",
+      "title": "FAT SAL'S COMEDY CONTEST!",
+      "date": "2026-08-06T00:00:00Z",
+      "time": "8:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/6/fat-sal-s-comedy-contest-tickets"
+    },
+    {
+      "title": "Club 401: A Harold Jam",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-06T00:00:00Z",
+      "time": "9:00 PM",
+      "description": "Thursday, August 6, 2026 @ 9:00 PMLA - ANNEXImprovClub 401: A Harold JamClub 401 is a Harold-focused jam for anyone who's completed Improv 401. Come hang, watch, and maybe even play alongside performers from current AND former Harold/Lloyd night rosters. Get extra reps or just hang - either way, join us for…Read more",
+      "url": "https://ucbcomedy.com/show/club-401-a-harold-jam-2026-07-30-2/"
+    },
+    {
+      "title": "Soundtrack",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-06T00:00:00Z",
+      "time": "9:00 PM",
+      "description": "Thursday, August 6, 2026 @ 9:00 PMLA - FRANKLINLivestreamImprovSoundtrackLong form improvisation by some of the best to ever do it! Soundtrack is one of UCB’s most popular shows, playing to critical acclaim and sold out audiences in NYC and LA for 16 years running. Soundtrack performs live spontaneous…Buy Now",
+      "url": "https://ucbcomedy.com/show/soundtrack-2026-07-02-2/"
+    },
+    {
+      "venue": "The Laugh Factory",
+      "title": "Tehran Thursdays",
+      "date": "2026-08-06T00:00:00Z",
+      "time": "9:45PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/6/tehran-thursdays-tickets"
+    },
+    {
       "title": "Watkins Family Hour",
       "venue": "Largo at the Coronet",
       "date": "2026-08-07T00:00:00",
       "time": "8:00 PM",
       "description": "$40.00",
       "url": "https://wl.seetickets.us/event/watkins-family-hour/695641?afflky=LargoAtTheCoronet"
+    },
+    {
+      "title": "Asian AF Jam",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-07T00:00:00Z",
+      "time": "5:30 PM",
+      "description": "Friday, August 7, 2026 @ 5:30 PMLA - FRANKLINImprovAsian AF JamA completely free jam for AAPI improvisers of all experience levels! Whether you’ve never tried improv before, are a current student, or an established improviser who wants to try something new, this jam is a low pressure FREE opportunity to…Read more",
+      "url": "https://ucbcomedy.com/show/asian-af-jam-2026-07-03-2/"
+    },
+    {
+      "title": "Armenian All-Stars",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-07T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Friday, August 7, 2026 @ 7:00 PMLA - FRANKLINCharacterImprovStandupArmenian All-StarsThe greatest Armenian comedians of all time have finally assembled. What if we were able to bring Glendale to the UCB Franklin stage? Well we've done just that by assembling the greatest Armenian character performers, stand ups, and improvisers to…Buy Now",
+      "url": "https://ucbcomedy.com/show/armenian-all-stars-2026-08-07/"
+    },
+    {
+      "title": "Character Mic!!",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-07T00:00:00Z",
+      "time": "8:00 PM",
+      "description": "Friday, August 7, 2026 @ 8:00 PMLA - ANNEXCharacterCharacter Mic!!It's a character open mic! Have a character you've been looking to work out? This is the place for you! We offer a low stakes venue to test out that new character or bit you've been working on. Don't have…Read more",
+      "url": "https://ucbcomedy.com/show/character-mic-2026-07-03-2/"
+    },
+    {
+      "venue": "The Comedy Store",
+      "title": "Closed for a Private Event {BILT}",
+      "date": "2026-08-07T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/7/closed-for-a-private-event-bilt-tickets"
+    },
+    {
+      "title": "FRIDAY FIX! The Smokes & The Big Team",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-07T00:00:00Z",
+      "time": "8:30 PM",
+      "description": "Friday, August 7, 2026 @ 8:30 PMLA - FRANKLINLivestreamImprovFRIDAY FIX! The Smokes & The Big TeamUCB's weekly improv double header! A night of improv comedy featuring two of LA's top teams performing back-to-back. Get your FIX every FRIDAY. Featuring: THE SMOKES: No gimmicks, no pyrotechnics – just a single suggestion and these friends of (gulp)…Buy Now",
+      "url": "https://ucbcomedy.com/show/friday-fix-the-smokes-the-big-team-2026-07-03-2/"
     },
     {
       "title": "Sarah Silverman and Friends",
@@ -369,12 +417,164 @@
       "url": "https://wl.seetickets.us/event/sarah-silverman-and-friends/699519?afflky=LargoAtTheCoronet"
     },
     {
+      "title": "Too Many Cooks",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-08T00:00:00Z",
+      "time": "10:30 PM",
+      "description": "Saturday, August 8, 2026 @ 10:30 PMLA - FRANKLINStandupToo Many CooksSix comedians. One recipe. Stand-up comedy has never tasted so good. Too Many Cooks is a one-of-a-kind live comedy experience where stand-up and cooking collide in real time. Each comedian takes the mic and performs their regular set — but…Buy Now",
+      "url": "https://ucbcomedy.com/show/too-many-cooks-2026-07-20/"
+    },
+    {
+      "title": "The Sober Show",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-08T00:00:00Z",
+      "time": "5:30 PM",
+      "description": "Saturday, August 8, 2026 @ 5:30 PMLA - FRANKLINLivestreamImprovThe Sober ShowImprov comedy based on your drunk stories, performed by sober improvisers. Featuring an all sober cast (like, in-recovery sober), we’ll get drinking stories from audience volunteers and perform improv based on those stories. Have a crazy drinking tale? We want…Buy Now",
+      "url": "https://ucbcomedy.com/show/the-sober-show-2026-08-08/"
+    },
+    {
+      "title": "ASSSSKETCH LA",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-08T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Saturday, August 8, 2026 @ 7:00 PMLA - FRANKLINLivestreamSketchASSSSKETCH LAUCB's Weekend Sketch Extravaganza! Our premier bimonthly sketch show featuring UCB’s top writers and performers from film and TV. Brand new show each month! Featuring... DIRECTOR / HEAD WRITER: Ashleigh Hairston WRITERS: Paige Williams, Madeleine Paul, Jess Svendsgaard, Steven Kreager, Patrick…Buy Now",
+      "url": "https://ucbcomedy.com/show/assssketch-la-2026-08-08/"
+    },
+    {
+      "title": "Upright Citizens BINGO!",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-08T00:00:00Z",
+      "time": "8:00 PM",
+      "description": "Saturday, August 8, 2026 @ 8:00 PMLA - ANNEXImprovUpright Citizens BINGO!This has NEVER been done B4....as you watch the cast perform, check off each bingo square as it happens and first one to BINGO wins! Improv and Bingo...two of the greatest inventions known to humankind...finally together in one show. Your…Buy Now",
+      "url": "https://ucbcomedy.com/show/upright-citizens-bingo-2026-08-08/"
+    },
+    {
+      "title": "ASSSSCAT LA",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-08T00:00:00Z",
+      "time": "8:30 PM",
+      "description": "Saturday, August 8, 2026 @ 8:30 PMLA - FRANKLINLivestreamImprovASSSSCAT LAASSSSCAT—UCB’s signature improv juggernaut—is a live improv comedy show in Los Angeles at the Upright Citizens Brigade Theatre. An all-star comedy show featuring comedians you know from SNL, Dropout, and the world of Film & Television doing improv inspired by…Buy Now",
+      "url": "https://ucbcomedy.com/show/asssscat-la-2026-08-02/"
+    },
+    {
+      "title": "Spank: Stop, Drop & Comedy! / Who’s My Daddy?",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-09T00:00:00Z",
+      "time": "4:00 PM",
+      "description": "Sunday, August 9, 2026 @ 4:00 PMLA - FRANKLINSketchSoloSpank: Stop, Drop & Comedy! / Who’s My Daddy?See a brand new sketch or solo show birthed right before your eyes that is auditioning for a run at the UCB theater. It's a show where we let sketch teams and solo performers try some shit out! Some will…Buy Now",
+      "url": "https://ucbcomedy.com/show/spank-stop-drop-comedy-whos-my-daddy-2026-08-09/"
+    },
+    {
+      "title": "ONE BIG JAM!",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-09T00:00:00Z",
+      "time": "5:30 PM",
+      "description": "Sunday, August 9, 2026 @ 5:30 PMLA - FRANKLINImprovONE BIG JAM!Come and JAM Sundays @ UCB Franklin 5:30-6:30! Students of all levels are welcome! It’s free and a great way to get on stage and get reps! An inclusive improv jam for UCB students, performers, and fans! Anna Rajo, Joe…Read more",
+      "url": "https://ucbcomedy.com/show/one-big-jam-2026-08-09/"
+    },
+    {
+      "title": "QT’s Presents… JOY!",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-09T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Sunday, August 9, 2026 @ 7:00 PMLA - FRANKLINImprovQT’s Presents… JOY!Your favorite trans/gnc/non binary improvisers perform a set inspired by your tales of joy! We are UCB’s first all trans/gender nonconforming/non binary improv team, and what better way to celebrate than doing some improv based on your most joyful memories?!…Buy Now",
+      "url": "https://ucbcomedy.com/show/qts-presents-joy-2026-08-09/"
+    },
+    {
+      "title": "Not Too Shabby",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-09T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Sunday, August 9, 2026 @ 7:00 PMLA - ANNEXCharacterSketchNot Too ShabbyA weekly show where everyone can try out bits, sketches and characters! Not Too Shabby is UCB's long-running sketch open mic night every Sunday at 7pm at the UCB Annex on Bronson. Sketches! Characters! Bits! Songs! Come see future comedy…Read more",
+      "url": "https://ucbcomedy.com/show/not-too-shabby-2026-08-02-2/"
+    },
+    {
+      "title": "BYOT (Bring Your Own Team)",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-09T00:00:00Z",
+      "time": "8:30 PM",
+      "description": "Sunday, August 9, 2026 @ 8:30 PMLA - ANNEXImprovBYOT (Bring Your Own Team)A weekly show where you can bring your improv team to perform! AUGUST HOSTS: BIG GIRLS DON'T CRUD Featuring: Max Debczak, Jennifer Bologna, Madelynne Whitt, Kalen Garnett, Dustin Emery, Michael Klasek Want to bring your team? We’re looking for teams…Read more",
+      "url": "https://ucbcomedy.com/show/byot-bring-your-own-team-2026-08-09/"
+    },
+    {
+      "title": "ASSSSCAT LA",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-09T00:00:00Z",
+      "time": "8:30 PM",
+      "description": "Sunday, August 9, 2026 @ 8:30 PMLA - FRANKLINLivestreamImprovASSSSCAT LAASSSSCAT—UCB’s signature improv juggernaut—is a live improv comedy show in Los Angeles at the Upright Citizens Brigade Theatre. An all-star comedy show featuring comedians you know from SNL, Dropout, and the world of Film & Television doing improv inspired by…Buy Now",
+      "url": "https://ucbcomedy.com/show/asssscat-la-2026-08-08/"
+    },
+    {
+      "title": "Harold Night: Dance Club Remix Graduation Show #1",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-10T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Monday, August 10, 2026 @ 7:00 PMLA - FRANKLINImprovHarold Night: Dance Club Remix Graduation Show #1Come join the graduation ceremony for one of Harold Night's departing house teams! Harold Night is UCB's long-running weekly improv show featuring homegrown teams at the top of their game performing, you guessed it, The Harold. ------ Featuring... Dance Club…Read more",
+      "url": "https://ucbcomedy.com/show/harold-night-dcr-graduation-show-1/"
+    },
+    {
+      "title": "Harold Night: Dance Club Remix Graduation Show #2",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-10T00:00:00Z",
+      "time": "8:30 PM",
+      "description": "Monday, August 10, 2026 @ 8:30 PMLA - FRANKLINImprovHarold Night: Dance Club Remix Graduation Show #2Come join the graduation ceremony for one of Harold Night's departing house teams! Harold Night is UCB's long-running weekly improv show featuring homegrown teams at the top of their game performing, you guessed it, The Harold. ------ Featuring... Dance Club…Read more",
+      "url": "https://ucbcomedy.com/show/harold-night-dcr-graduation-show-2/"
+    },
+    {
+      "title": "The Punch-up with Beth Stelling",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-10T00:00:00Z",
+      "time": "8:30 PM",
+      "description": "Monday, August 10, 2026 @ 8:30 PMLA - ANNEXStandupThe Punch-up with Beth StellingA good-natured stand-up open mic where Beth Stelling punches your jokes up (when possible) Hi! I'm comedian Beth Stelling. I headlined Omaha Comedy Festival a few years ago and they asked me to lead a stand-up workshop, which I don't…Read more",
+      "url": "https://ucbcomedy.com/show/the-punch-up-with-beth-stelling-2026-08-10/"
+    },
+    {
       "title": "Pete Holmes: Living At Largo (Moved from 8/22)",
       "venue": "Largo at the Coronet",
       "date": "2026-08-11T00:00:00",
       "time": "8:00 PM",
       "description": "$40.00",
       "url": "https://wl.seetickets.us/event/pete-holmes-living-at-largo/695736?afflky=LargoAtTheCoronet"
+    },
+    {
+      "title": "The Breakdown!",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-11T00:00:00Z",
+      "time": "6:30 PM",
+      "description": "Tuesday, August 11, 2026 @ 6:30 PMLA - ANNEXStandupThe Breakdown!A monthly show where stand up comedians can work on their craft 5 minutes at a time! Are you a stand up comedian looking for a stage to work out your material? Are you a comedy fan who loves watching…Buy Now",
+      "url": "https://ucbcomedy.com/show/the-breakdown-2026-07-14-2/"
+    },
+    {
+      "title": "Sing Out, Louise! ft. Voulez-Vous & Starlight",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-11T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Tuesday, August 11, 2026 @ 7:00 PMLA - FRANKLINImprovSing Out, Louise! ft. Voulez-Vous & StarlightThe Next Generation of Musical Improv. Sing Out, Louise! is a late-night musical improv show featuring the next generation of performers shaping the future of the form. Every 2nd and 4th Tuesday at 7pm, 8 show-stopping teams deliver completely improvised…Buy Now",
+      "url": "https://ucbcomedy.com/show/sing-out-louise-ft-voulez-vous-starlight-2026-08-11/"
+    },
+    {
+      "title": "SOLID: a stand-up comedy show",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-11T00:00:00Z",
+      "time": "8:00 PM",
+      "description": "Tuesday, August 11, 2026 @ 8:00 PMLA - ANNEXStandupSOLID: a stand-up comedy showAn evening of stand-up comedy featuring the best comics in the city! Hosted by Joe Kwaczala (Comedy Central) and Clare O'Kane (Saturday Night Live), SOLID is a stand-up comedy show that features the funniest comics in Los Angeles at an affordable price. These…Buy Now",
+      "url": "https://ucbcomedy.com/show/solid-a-stand-up-comedy-show-2026-08-04/"
+    },
+    {
+      "title": "Back Pocket Presents: LIGHTS! CAMERA! BACK POCKET!",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-11T00:00:00Z",
+      "time": "8:30 PM",
+      "description": "Tuesday, August 11, 2026 @ 8:30 PMLA - FRANKLINLivestreamCharacterBack Pocket Presents: LIGHTS! CAMERA! BACK POCKET!QUIET ON SET! AND ACTION! Step onto the set of Back Pocket's wacky cast of characters as they strive to make the newest indie box office hit! Back Pocket returns to UCB with a new show, new theme! A unique…Buy Now",
+      "url": "https://ucbcomedy.com/show/back-pocket-presents-2026-08-11/"
+    },
+    {
+      "title": "Experimental Mic",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-11T00:00:00Z",
+      "time": "9:30 PM",
+      "description": "Tuesday, August 11, 2026 @ 9:30 PMLA - ANNEXStandupExperimental MicAn open mic where comedians can push boundaries, try bold new ideas, and embrace the unpredictable. The comedy laboratory where anything can happen! Every Tuesday at the UCB Annex, this isn’t your average open mic. It’s a playground for comedians…Read more",
+      "url": "https://ucbcomedy.com/show/experimental-mic-2026-08-04/"
     },
     {
       "title": "Anthony Jeselnik and Enemies",
@@ -385,12 +585,172 @@
       "url": "https://wl.seetickets.us/event/anthony-jeselnik-and-enemies/695092?afflky=LargoAtTheCoronet"
     },
     {
+      "title": "Bisexual Intervention",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-12T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Wednesday, August 12, 2026 @ 7:00 PMLA - FRANKLINBisexual InterventionA REAL dating show for bisexuals sick of only dating men, where YOU, the audience, might just leave with a date. Hosted by Griffin Kelly Featuring: Brittany Miller, Joan Ford, Lyndsey Frank With special guests Jack McLaughlin, Rebecca Shrom & Emmett…Buy Now",
+      "url": "https://ucbcomedy.com/show/bisexual-intervention-2026-08-12/"
+    },
+    {
+      "title": "Maude Night: The Faculty & Big Time",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-12T00:00:00Z",
+      "time": "8:30 PM",
+      "description": "Wednesday, August 12, 2026 @ 8:30 PMLA - FRANKLINSketchMaude Night: The Faculty & Big TimeMaude Night boasts brand new material by UCB’s house sketch teams every month. Come see top-notch sketch comedy featuring two teams of UCB’s finest writers and performers. ----- Featuring: The Faculty & Big Time --- Complete List of Maude Teams…Buy Now",
+      "url": "https://ucbcomedy.com/show/maude-night-the-faculty-big-time-2026-08-12/"
+    },
+    {
+      "title": "Night School",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-12T00:00:00Z",
+      "time": "9:30 PM",
+      "description": "Wednesday, August 12, 2026 @ 9:30 PMLA - ANNEXImprovNight SchoolGet a chance to perform with a rotating cast of your favorite UCB teachers, or just sit back and enjoy the lesson. Night School is in session, but we swear it'll be fun this time. Come watch a rotating cast…Read more",
+      "url": "https://ucbcomedy.com/show/night-school-2026-08-05-2/"
+    },
+    {
       "title": "Margaret Cho and Friends (Moved from 7/25)",
       "venue": "Largo at the Coronet",
       "date": "2026-08-13T00:00:00",
       "time": "8:00 PM",
       "description": "$40.00",
       "url": "https://wl.seetickets.us/event/margaret-cho-and-friends-moved-from-725/696943?afflky=LargoAtTheCoronet"
+    },
+    {
+      "title": "UCB Cagematch",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-13T00:00:00Z",
+      "time": "10:00 PM",
+      "description": "Thursday, August 13, 2026 @ 10:00 PMLA - FRANKLINImprovUCB CagematchAn intergalactic improv battle between the best teams in LA where YOU choose the winner! Two teams enter, one team leaves! Long, long ago alien Queen Titi and her army overtook our peaceful planet Earth-UCB and mandated that the best,…Buy Now",
+      "url": "https://ucbcomedy.com/show/ucb-cagematch-2026-08-13/"
+    },
+    {
+      "title": "The Harold Annex-Periment ft. yikes! & Cowboy Mama",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-13T00:00:00Z",
+      "time": "6:30 PM",
+      "description": "Thursday, August 13, 2026 @ 6:30 PMLA - ANNEXImprovThe Harold Annex-Periment ft. yikes! & Cowboy MamaCome get freaky with your favorite Harold teams as they test out experimental Harolds and push the boundaries of the form. The Harold Annex-Periment is the mad science lab where Harold teams try something so crazy it just might work.…Read more",
+      "url": "https://ucbcomedy.com/show/the-harold-annex-periment-ft-yikes-cowboy-mama-2026-08-13/"
+    },
+    {
+      "title": "Gunk & Shag",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-13T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Thursday, August 13, 2026 @ 7:00 PMLA - FRANKLINImprovGunk & ShagInfamous improv trio, Gunk, and beloved powerhouse, Shag, combine forces for this hour-long improv show! GUNK An INFAMOUS improv trio known for their chaotic, irreverent play style. “It felt like I was in a k-hole,” one audience member said of…Buy Now",
+      "url": "https://ucbcomedy.com/show/gunk-shag-2026-08-13/"
+    },
+    {
+      "title": "Lloyd Night ft. Jinx & Freak Trap",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-13T00:00:00Z",
+      "time": "8:00 PM",
+      "description": "Thursday, August 13, 2026 @ 8:00 PMLA - ANNEXImprovLloyd Night ft. Jinx & Freak TrapYour one stop shop to see UCB’s house improv ensembles perform every Monday! Lloyd Night is where UCB’s homegrown talent comes to test their mettle and tackle improv’s legendary form: the Harold. Every. Single. Week. Get in on the ground…Read more",
+      "url": "https://ucbcomedy.com/show/lloyd-night-ft-jinx-freak-trap-2026-07-23-2/"
+    },
+    {
+      "title": "Fuck This Month",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-13T00:00:00Z",
+      "time": "8:30 PM",
+      "description": "Thursday, August 13, 2026 @ 8:30 PMLA - FRANKLINLivestreamImprovFuck This MonthImprov comedy based on your shitty month! Let’s face it; this month was trash. We’re here to help! Come to the Upright Citizens Brigade Theatre and watch the best comedians in Los Angeles turn your misery into comedy. Featuring some…Buy Now",
+      "url": "https://ucbcomedy.com/show/fuck-this-month-2026-08-13/"
+    },
+    {
+      "title": "Club 401: A Harold Jam",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-13T00:00:00Z",
+      "time": "9:00 PM",
+      "description": "Thursday, August 13, 2026 @ 9:00 PMLA - ANNEXImprovClub 401: A Harold JamClub 401 is a Harold-focused jam for anyone who's completed Improv 401. Come hang, watch, and maybe even play alongside performers from current AND former Harold/Lloyd night rosters. Get extra reps or just hang - either way, join us for…Read more",
+      "url": "https://ucbcomedy.com/show/club-401-a-harold-jam-2026-08-06/"
+    },
+    {
+      "title": "The Text & DM Show: Improv Based On Your Best Bad Messages",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-14T00:00:00Z",
+      "time": "10:00 PM",
+      "description": "Friday, August 14, 2026 @ 10:00 PMLA - FRANKLINLivestreamImprovThe Text & DM Show: Improv Based On Your Best Bad MessagesBitchin’ does improv based off your text messages while Rita Repulsa goes straight to the audience for some juicy DMs. PUT DOWN YOUR PHONE AND GET OUT YOUR PHONE! We all send those beautiful, well-worded, grammatically perfect texts we regret…Buy Now",
+      "url": "https://ucbcomedy.com/show/text-and-dm-show-2026-08-14/"
+    },
+    {
+      "title": "Musical Improv Jam",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-14T00:00:00Z",
+      "time": "5:30 PM",
+      "description": "Friday, August 14, 2026 @ 5:30 PMLA - FRANKLINImprovMusical Improv JamA free musical improv jam. Musical improv is improv with the added conventions of musical theatre, meaning that your improvised scenes turn to songs, and you make up all the sung lyrics and choreography along with the scene. Whether you've…Read more",
+      "url": "https://ucbcomedy.com/show/musical-improv-jam-2026-07-10-2/"
+    },
+    {
+      "title": "Baby Wants Candy: Musical Improv",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-14T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Friday, August 14, 2026 @ 7:00 PMLA - FRANKLINLivestreamImprovBaby Wants Candy: Musical ImprovThe world's most popular completely improvised full band musical! Baby Wants Candy is a critically acclaimed comedy ensemble with casts in Chicago, LA, NY and an international touring company. The audience shouts out a title of a musical that has…Buy Now",
+      "url": "https://ucbcomedy.com/show/baby-wants-candy-musical-improv-2026-07-10/"
+    },
+    {
+      "title": "Sketch Jam",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-14T00:00:00Z",
+      "time": "8:00 PM",
+      "description": "Friday, August 14, 2026 @ 8:00 PMLA - ANNEXSketchSketch JamSketch Jam is every 2nd Friday of the month at 8pm at the UCB Annex and is open to all UCB Sketch and Character students. Submissions are due the 2nd Wednesday of the month (the Wednesday before the show) Actors…Read more",
+      "url": "https://ucbcomedy.com/show/sketch-jam-2026-07-10-2/"
+    },
+    {
+      "title": "FRIDAY FIX! JV & Bangarang",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-14T00:00:00Z",
+      "time": "8:30 PM",
+      "description": "Friday, August 14, 2026 @ 8:30 PMLA - FRANKLINLivestreamImprovFRIDAY FIX! JV & BangarangUCB's weekly improv double header! A night of improv comedy featuring two of LA's top teams performing back-to-back. Get your FIX every FRIDAY. Featuring: JV improvises scenes based on stories from special guests! JV members have acted/written on: Crazy Ex…Buy Now",
+      "url": "https://ucbcomedy.com/show/friday-fix-jv-bangarang-2026-07-10-2/"
+    },
+    {
+      "title": "Sketch Cram",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-15T00:00:00Z",
+      "time": "10:30 PM",
+      "description": "Saturday, August 15, 2026 @ 10:30 PMLA - FRANKLINSketchSketch CramAn all-new sketch comedy show written, rehearsed, and performed in a single day. 14 hours, 20 people, 1 all-new sketch comedy show written, rehearsed and performed in a single day. It's SKETCH CRAM! Every month UCB's top writers meet on…Buy Now",
+      "url": "https://ucbcomedy.com/show/sketch-cram-2026-08-15/"
+    },
+    {
+      "title": "SuperStore SuperShow",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-15T00:00:00Z",
+      "time": "5:30 PM",
+      "description": "Saturday, August 15, 2026 @ 5:30 PMLA - FRANKLINImprovSuperStore SuperShowWelcome to SuperShow! A night of comedy with your favorites from the cast of NBC's SuperStore! SuperStore is back, and this time there's no closing shift. For six seasons, the employees of Cloud 9 clocked in, clowned around, and (barely)…Buy Now",
+      "url": "https://ucbcomedy.com/show/superstore-supershow-2026-08-15/"
+    },
+    {
+      "title": "High Functioning",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-15T00:00:00Z",
+      "time": "6:30 PM",
+      "description": "Saturday, August 15, 2026 @ 6:30 PMLA - ANNEXImprovHigh FunctioningIan Roberts & Will Hines do improv together every month. Ian Roberts, UCB founder and co-author of the Upright Citizens Brigade Comedy Improvisation Manual, and Will Hines, 20-year veteran UCB teacher and performer, and former Academic Director of the UCB,…Buy Now",
+      "url": "https://ucbcomedy.com/show/high-functioning-2026-08-15/"
+    },
+    {
+      "title": "ASSSS(SING)",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-15T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Saturday, August 15, 2026 @ 7:00 PMLA - FRANKLINLivestreamSketchASSSS(SING)ASSSS(SING) is an all-star improvised musical comedy show featuring LA's best musical improvisers, inspired by the stories of a celebrity guest. ASSSS(SING) is one of the best improv comedy shows in Los Angeles. Each show is a one-of-a-kind live comedy…Buy Now",
+      "url": "https://ucbcomedy.com/show/asssssing-la-2026-08-15/"
+    },
+    {
+      "title": "The Midsummer Masquerade: Scandal-Inspired Improv, Incognito",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-15T00:00:00Z",
+      "time": "8:00 PM",
+      "description": "Saturday, August 15, 2026 @ 8:00 PMLA - ANNEXImprovThe Midsummer Masquerade: Scandal-Inspired Improv, IncognitoAn evening of elegant buffoonery. Comics don masks and evening dress to improvise scenes inspired by scandalous stories. You are cordially invited. Featuring: Lily Du, Griffin Kelly, Artoun Nazareth, Nnamdi Ngwe, Tucker Reynolds, Monika Smith, Ruha Taslimi, and Luke Wink-Moran…Buy Now",
+      "url": "https://ucbcomedy.com/show/the-midsummer-masquerade-2026-08-15/"
+    },
+    {
+      "title": "ASSSSCAT LA",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-15T00:00:00Z",
+      "time": "8:30 PM",
+      "description": "Saturday, August 15, 2026 @ 8:30 PMLA - FRANKLINLivestreamImprovASSSSCAT LAASSSSCAT—UCB’s signature improv juggernaut—is a live improv comedy show in Los Angeles at the Upright Citizens Brigade Theatre. An all-star comedy show featuring comedians you know from SNL, Dropout, and the world of Film & Television doing improv inspired by…Buy Now",
+      "url": "https://ucbcomedy.com/show/asssscat-la-2026-08-09/"
     },
     {
       "title": "Patton Oswalt and Friends",
@@ -401,12 +761,140 @@
       "url": "https://wl.seetickets.us/event/patton-oswalt-and-friends/695141?afflky=LargoAtTheCoronet"
     },
     {
+      "title": "Spank: Nette & Nellie Present “Cheers to Us!”",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-16T00:00:00Z",
+      "time": "4:00 PM",
+      "description": "Sunday, August 16, 2026 @ 4:00 PMLA - FRANKLINStandupSpank: Nette & Nellie Present “Cheers to Us!”See a brand new sketch or solo show birthed right before your eyes that is auditioning for a run at the UCB theater. It's a show where we let sketch teams and solo performers try some shit out! Some will…Buy Now",
+      "url": "https://ucbcomedy.com/show/spank-nette-nellie-cheers-to-us-2026-08-16/"
+    },
+    {
+      "title": "ONE BIG JAM!",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-16T00:00:00Z",
+      "time": "5:30 PM",
+      "description": "Sunday, August 16, 2026 @ 5:30 PMLA - FRANKLINImprovONE BIG JAM!Come and JAM Sundays @ UCB Franklin 5:30-6:30! Students of all levels are welcome! It’s free and a great way to get on stage and get reps! An inclusive improv jam for UCB students, performers, and fans! Anna Rajo, Joe…Read more",
+      "url": "https://ucbcomedy.com/show/one-big-jam-2026-08-16/"
+    },
+    {
+      "title": "Not Too Shabby",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-16T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Sunday, August 16, 2026 @ 7:00 PMLA - ANNEXCharacterSketchNot Too ShabbyA weekly show where everyone can try out bits, sketches and characters! Not Too Shabby is UCB's long-running sketch open mic night every Sunday at 7pm at the UCB Annex on Bronson. Sketches! Characters! Bits! Songs! Come see future comedy…Read more",
+      "url": "https://ucbcomedy.com/show/not-too-shabby-2026-08-09/"
+    },
+    {
+      "title": "Big Grande Live!",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-16T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Sunday, August 16, 2026 @ 7:00 PMLA - FRANKLINImprovBig Grande Live!Big Grande hops onto the UCB stage for a live improv show that will leave you laughing (hopefully), and them sweating (definitely). Big Grande has been bringing their brand of rapid, honest, and wild live shows to sold out crowds…Buy Now",
+      "url": "https://ucbcomedy.com/show/big-grande-live-2026-08-16/"
+    },
+    {
+      "title": "BYOT (Bring Your Own Team)",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-16T00:00:00Z",
+      "time": "8:30 PM",
+      "description": "Sunday, August 16, 2026 @ 8:30 PMLA - ANNEXImprovBYOT (Bring Your Own Team)A weekly show where you can bring your improv team to perform! AUGUST HOSTS: BIG GIRLS DON'T CRUD Featuring: Max Debczak, Jennifer Bologna, Madelynne Whitt, Kalen Garnett, Dustin Emery, Michael Klasek Want to bring your team? We’re looking for teams…Read more",
+      "url": "https://ucbcomedy.com/show/byot-bring-your-own-team-2026-08-16/"
+    },
+    {
+      "title": "ASSSSCAT LA",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-16T00:00:00Z",
+      "time": "8:30 PM",
+      "description": "Sunday, August 16, 2026 @ 8:30 PMLA - FRANKLINLivestreamImprovASSSSCAT LAASSSSCAT—UCB’s signature improv juggernaut—is a live improv comedy show in Los Angeles at the Upright Citizens Brigade Theatre. An all-star comedy show featuring comedians you know from SNL, Dropout, and the world of Film & Television doing improv inspired by…Buy Now",
+      "url": "https://ucbcomedy.com/show/asssscat-la-2026-08-15/"
+    },
+    {
+      "title": "Harold After Dark! ft. Gas Money & Darnell Hollywood",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-17T00:00:00Z",
+      "time": "10:00 PM",
+      "description": "Monday, August 17, 2026 @ 10:00 PMLA - FRANKLINImprovHarold After Dark! ft. Gas Money & Darnell HollywoodA late-night dose of UCB’s house improv ensembles! Let your hair down and pump up the jams cuz it’s time to get weird, Harold Night! Anything goes tonight, so long as it isn’t normal. ------ Featuring:  Gas Money &  Darnell…Buy Now",
+      "url": "https://ucbcomedy.com/show/harold-after-dark-ft-gas-money-darnell-hollywood-2026-08-17/"
+    },
+    {
+      "title": "The Incubator: Freak Trap + Dance Club Remix",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-17T00:00:00Z",
+      "time": "5:30 PM",
+      "description": "Monday, August 17, 2026 @ 5:30 PMLA - FRANKLINImprovThe Incubator: Freak Trap + Dance Club RemixLooking for the best live improv comedy in Los Angeles? The Incubator at the Upright Citizens Brigade Theatre is a must-see monthly show featuring the next generation of performers alongside some of UCB’s most exciting veteran teams—all on one stage.…Buy Now",
+      "url": "https://ucbcomedy.com/show/the-incubator-freak-trap-dance-club-remix-2026-08-17/"
+    },
+    {
+      "title": "Harold Night ft. Cowboy Mama & S.O.F.T.",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-17T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Monday, August 17, 2026 @ 7:00 PMLA - FRANKLINImprovHarold Night ft. Cowboy Mama & S.O.F.T.Your one stop shop to see UCB's house improv ensembles perform every Monday! Harold Night is UCB's long-running weekly improv show featuring homegrown teams at the top of their game performing, you guessed it, The Harold. ------ Featuring: Cowboy Mama…Buy Now",
+      "url": "https://ucbcomedy.com/show/harold-night-ft-s-o-f-t-cowboy-mama-2026-08-17/"
+    },
+    {
+      "title": "Harold Night ft. The Fantasy & yikes!",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-17T00:00:00Z",
+      "time": "8:30 PM",
+      "description": "Monday, August 17, 2026 @ 8:30 PMLA - FRANKLINImprovHarold Night ft. The Fantasy & yikes!Your one stop shop to see UCB's house improv ensembles perform every Monday! Harold Night is UCB's long-running weekly improv show featuring homegrown teams at the top of their game performing, you guessed it, The Harold. ------ Featuring: The Fantasy…Buy Now",
+      "url": "https://ucbcomedy.com/show/harold-night-ft-the-fantasy-yikes-2026-08-17/"
+    },
+    {
+      "title": "All Out!: An LGBTQ+forward Open Mic",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-18T00:00:00Z",
+      "time": "6:30 PM",
+      "description": "Tuesday, August 18, 2026 @ 6:30 PMLA - ANNEXStandupAll Out!: An LGBTQ+forward Open MicAll Out! is UCB’s newest LGBTQ+forward stand-up open mic for queer-identifying comics and allies! All Out! is UCB's brand new LGBTQ+ focussed monthly stand-up open mic here to cultivate a safe, supportive space for queer-identifying comics (and allies!) to take…Buy Now",
+      "url": "https://ucbcomedy.com/show/all-out-an-lgbtqforward-open-mic-2026-07-21-2/"
+    },
+    {
+      "title": "SOLID: a stand-up comedy show",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-18T00:00:00Z",
+      "time": "8:00 PM",
+      "description": "Tuesday, August 18, 2026 @ 8:00 PMLA - ANNEXStandupSOLID: a stand-up comedy showAn evening of stand-up comedy featuring the best comics in the city! Hosted by Joe Kwaczala (Comedy Central) and Clare O'Kane (Saturday Night Live), SOLID is a stand-up comedy show that features the funniest comics in Los Angeles at an affordable price. These…Buy Now",
+      "url": "https://ucbcomedy.com/show/solid-a-stand-up-comedy-show-2026-08-11/"
+    },
+    {
+      "title": "TRIFECTA 10",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-18T00:00:00Z",
+      "time": "8:30 PM",
+      "description": "Tuesday, August 18, 2026 @ 8:30 PMLA - FRANKLINSketchTRIFECTA 10You’re officially invited to Trifecta’s 10 year anniversary! Trifecta Comedy is turning 10 and we are putting on a sketch show to celebrate! This 50 minute show will feature sketches by Trifecta Comedy full of big characters, musical numbers, and…Buy Now",
+      "url": "https://ucbcomedy.com/show/trifecta-10-2026-08-18/"
+    },
+    {
+      "title": "Experimental Mic",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-18T00:00:00Z",
+      "time": "9:30 PM",
+      "description": "Tuesday, August 18, 2026 @ 9:30 PMLA - ANNEXStandupExperimental MicAn open mic where comedians can push boundaries, try bold new ideas, and embrace the unpredictable. The comedy laboratory where anything can happen! Every Tuesday at the UCB Annex, this isn’t your average open mic. It’s a playground for comedians…Read more",
+      "url": "https://ucbcomedy.com/show/experimental-mic-2026-08-11/"
+    },
+    {
       "title": "Fortune and Tom and Friends",
       "venue": "Largo at the Coronet",
       "date": "2026-08-19T00:00:00",
       "time": "8:00 PM",
       "description": "$40.00",
       "url": "https://wl.seetickets.us/event/fortune-and-tom-and-friends/699768?afflky=LargoAtTheCoronet"
+    },
+    {
+      "title": "Maude Night: Mash-Up Team & Rodeo Baby",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-19T00:00:00Z",
+      "time": "8:30 PM",
+      "description": "Wednesday, August 19, 2026 @ 8:30 PMLA - FRANKLINSketchMaude Night: Mash-Up Team & Rodeo BabyMaude Night boasts brand new material by UCB’s house sketch teams every month. Come see top-notch sketch comedy featuring two teams of UCB’s finest writers and performers. ----- Featuring: Mash-Up Team Writers - Anushka Thorat, Talia Lefkowitz, Kevin Brunette, Talon…Buy Now",
+      "url": "https://ucbcomedy.com/show/maude-night-town-crier-rodeo-baby-2026-08-19/"
+    },
+    {
+      "title": "Night School",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-19T00:00:00Z",
+      "time": "9:30 PM",
+      "description": "Wednesday, August 19, 2026 @ 9:30 PMLA - ANNEXImprovNight SchoolGet a chance to perform with a rotating cast of your favorite UCB teachers, or just sit back and enjoy the lesson. Night School is in session, but we swear it'll be fun this time. Come watch a rotating cast…Read more",
+      "url": "https://ucbcomedy.com/show/night-school-2026-08-12/"
     },
     {
       "title": "Chris Fleming and Friends",
@@ -417,6 +905,54 @@
       "url": "https://wl.seetickets.us/event/chris-fleming-and-friends/698562?afflky=LargoAtTheCoronet"
     },
     {
+      "title": "UCB Cagematch",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-20T00:00:00Z",
+      "time": "10:00 PM",
+      "description": "Thursday, August 20, 2026 @ 10:00 PMLA - FRANKLINImprovUCB CagematchAn intergalactic improv battle between the best teams in LA where YOU choose the winner! Two teams enter, one team leaves! Long, long ago alien Queen Titi and her army overtook our peaceful planet Earth-UCB and mandated that the best,…Buy Now",
+      "url": "https://ucbcomedy.com/show/ucb-cagematch-2026-08-20/"
+    },
+    {
+      "title": "The Harold Annex-Periment ft. Branzino & The Fantasy",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-20T00:00:00Z",
+      "time": "6:30 PM",
+      "description": "Thursday, August 20, 2026 @ 6:30 PMLA - ANNEXImprovThe Harold Annex-Periment ft. Branzino & The FantasyCome get freaky with your favorite Harold teams as they test out experimental Harolds and push the boundaries of the form. The Harold Annex-Periment is the mad science lab where Harold teams try something so crazy it just might work.…Read more",
+      "url": "https://ucbcomedy.com/show/the-harold-annex-periment-ft-branzino-the-fantasy/"
+    },
+    {
+      "title": "Three-Day Champion",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-20T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Thursday, August 20, 2026 @ 7:00 PMLA - FRANKLINThree-Day ChampionThree-Day Champion is a fast, fun comedic storytelling show wrapped inside a game show. Three-Day Champion is a storytelling game show where three comedian guests compete to tell their favorite, funniest, most revealing anecdotes for bragging rights and real prizes!…Buy Now",
+      "url": "https://ucbcomedy.com/show/three-day-champion-08-20-2026/"
+    },
+    {
+      "title": "Lloyd Night ft. PTO & Jinx",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-20T00:00:00Z",
+      "time": "8:00 PM",
+      "description": "Thursday, August 20, 2026 @ 8:00 PMLA - ANNEXImprovLloyd Night ft. PTO & JinxYour one stop shop to see UCB’s house improv ensembles perform every Monday! Lloyd Night is where UCB’s homegrown talent comes to test their mettle and tackle improv’s legendary form: the Harold. Every. Single. Week. Get in on the ground…Read more",
+      "url": "https://ucbcomedy.com/show/lloyd-night-ft-pto-jinx-2026-07-30/"
+    },
+    {
+      "title": "JEREMY! An All-Jeremy Comedy Event",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-20T00:00:00Z",
+      "time": "8:30 PM",
+      "description": "Thursday, August 20, 2026 @ 8:30 PMLA - FRANKLINLivestreamImprovJEREMY! An All-Jeremy Comedy EventDARE TO JER AGAIN. A once in a lifetime opportunity. Enjoy the splendor of EIGHT (8) actual Jeremys entertaining you with everything they’ve got. There will be improv, there will be games, there will be music, there will be a…Buy Now",
+      "url": "https://ucbcomedy.com/show/jeremy-an-all-jeremy-comedy-event-2026-08-20/"
+    },
+    {
+      "title": "Club 401: A Harold Jam",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-20T00:00:00Z",
+      "time": "9:00 PM",
+      "description": "Thursday, August 20, 2026 @ 9:00 PMLA - ANNEXImprovClub 401: A Harold JamClub 401 is a Harold-focused jam for anyone who's completed Improv 401. Come hang, watch, and maybe even play alongside performers from current AND former Harold/Lloyd night rosters. Get extra reps or just hang - either way, join us for…Read more",
+      "url": "https://ucbcomedy.com/show/club-401-a-harold-jam-2026-08-13/"
+    },
+    {
       "title": "Marc Maron – Stand-Up Show",
       "venue": "Largo at the Coronet",
       "date": "2026-08-21T00:00:00",
@@ -425,12 +961,68 @@
       "url": "https://wl.seetickets.us/event/marc-maron-stand-up-show/698587?afflky=LargoAtTheCoronet"
     },
     {
+      "title": "Pinot Noir",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-21T00:00:00Z",
+      "time": "10:00 PM",
+      "description": "Friday, August 21, 2026 @ 10:00 PMLA - FRANKLINImprovPinot NoirPinot Noir is a monthly chaotic wine-fueled murder mystery improv show where the performers each drink a bottle of Pinot Noir while solving a Noir murder mystery. It's a night the performers will never remember and the audience will never…Buy Now",
+      "url": "https://ucbcomedy.com/show/pinot-noir-2026-08-21/"
+    },
+    {
+      "title": "Friday Block Party",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-21T00:00:00Z",
+      "time": "5:30 PM",
+      "description": "Friday, August 21, 2026 @ 5:30 PMLA - FRANKLINImprovFriday Block PartyA comedy mashup show featuring teams made up of your favorite Black and POC improvisers! Just got off work and you don't wanna go home yet? Kick your weekend off the right way and come watch your favorite comedians as…Read more",
+      "url": "https://ucbcomedy.com/show/friday-block-party-2026-08-21/"
+    },
+    {
+      "title": "jess is afraid: a pilot screening",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-21T00:00:00Z",
+      "time": "8:00 PM",
+      "description": "Friday, August 21, 2026 @ 8:00 PMLA - ANNEXjess is afraid: a pilot screeningA pilot screening about understanding that things that scare us. As the title suggests, Jess Uhler is afraid. Of what? Well kind of a lot. After a life of running on fear, they want to better understand the things that…Buy Now",
+      "url": "https://ucbcomedy.com/show/jess-is-afraid-2026-08-21/"
+    },
+    {
+      "title": "FRIDAY FIX! Winslow & Queen George",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-21T00:00:00Z",
+      "time": "8:30 PM",
+      "description": "Friday, August 21, 2026 @ 8:30 PMLA - FRANKLINLivestreamImprovFRIDAY FIX! Winslow & Queen GeorgeUCB's weekly improv double header! A night of improv comedy featuring two of LA's top teams performing back-to-back. Get your FIX every FRIDAY. Featuring: Winslow understands our loved ones - they plague our lives with never-ending texts, chain emails, and…Buy Now",
+      "url": "https://ucbcomedy.com/show/friday-fix-winslow-queen-george-2026-08-21/"
+    },
+    {
       "title": "Mae Martin and Friends",
       "venue": "Largo at the Coronet",
       "date": "2026-08-22T00:00:00",
       "time": "8:00 PM",
       "description": "$40.00",
       "url": "https://wl.seetickets.us/event/mae-martin-and-friends/699769?afflky=LargoAtTheCoronet"
+    },
+    {
+      "title": "Menudo’s Feliz Hour",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-22T00:00:00Z",
+      "time": "5:30 PM",
+      "description": "Saturday, August 22, 2026 @ 5:30 PMLA - FRANKLINImprovMenudo’s Feliz Hour40 Latine Improvisers Come Together to Play & PARTY! LA’s longest running Latine improv team — MENUDO — hosts an all-star show featuring a rotating cast of the hottest Latine improvisers in town. Feliz Hour is more than a comedy show……Buy Now",
+      "url": "https://ucbcomedy.com/show/menudos-feliz-hour-2026-08-22/"
+    },
+    {
+      "title": "ASSSSKETCH LA",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-22T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Saturday, August 22, 2026 @ 7:00 PMLA - FRANKLINLivestreamSketchASSSSKETCH LAUCB's Weekend Sketch Extravaganza! Our premier bimonthly sketch show featuring UCB’s top writers and performers from film and TV. Brand new show each month! Produced by Laurie Magers & Chris Renfro --- Tickets are $20 in advance and $25 on…Buy Now",
+      "url": "https://ucbcomedy.com/show/assssketch-la-2026-08-22/"
+    },
+    {
+      "title": "SAHD (Stay-At-Home Dad)",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-22T00:00:00Z",
+      "time": "8:00 PM",
+      "description": "Saturday, August 22, 2026 @ 8:00 PMLA - ANNEXSAHD (Stay-At-Home Dad)A brutally honest comedy about keeping tiny humans alive when you are dying inside. Created and performed by playwright, comedian, and viral creator Brandon Ogborn, SAHD (Stay-At-Home Dad) is a brutally honest one-man show about what happens when someone who…Buy Now",
+      "url": "https://ucbcomedy.com/show/sahd-stay-at-home-dad/"
     },
     {
       "title": "Kate Berlant and Friends",
@@ -447,6 +1039,14 @@
       "time": "8:00 PM",
       "description": "$40.00",
       "url": "https://wl.seetickets.us/event/silly-gilly-and-friends/699617?afflky=LargoAtTheCoronet"
+    },
+    {
+      "title": "JAMES AUSTIN JOHNSON & ANDREW DISMUKES",
+      "venue": "Largo at the Coronet",
+      "date": "2026-08-31T00:00:00",
+      "time": "8:00 PM",
+      "description": "$40.00",
+      "url": "https://wl.seetickets.us/event/james-austin-johnson-and-andrew-dismukes/701099?afflky=LargoAtTheCoronet"
     },
     {
       "title": "Edi Patterson: PLAYGIRL",
@@ -569,8 +1169,8 @@
       "url": "https://wl.seetickets.us/event/tig-has-friends/696628?afflky=LargoAtTheCoronet"
     }
   ],
-  "lastUpdated": "2026-08-01T10:08:20.271291Z",
-  "totalShows": 71,
+  "lastUpdated": "2026-08-03T11:00:21.425185Z",
+  "totalShows": 146,
   "sources": [
     "DoLA",
     "UCB FRANKLIN",
