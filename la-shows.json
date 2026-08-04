@@ -1,86 +1,6 @@
 {
   "shows": [
     {
-      "title": "Harold After Dark! ft. S.O.F.T. & Cowboy Mama",
-      "venue": "UCB FRANKLIN",
-      "date": "2026-08-03T00:00:00Z",
-      "time": "10:00 PM",
-      "description": "Monday, August 3, 2026 @ 10:00 PMLA - FRANKLINImprovHarold After Dark! ft. S.O.F.T. & Cowboy MamaA late-night dose of UCB’s house improv ensembles! Let your hair down and pump up the jams cuz it’s time to get weird, Harold Night! Anything goes tonight, so long as it isn’t normal. ------ Featuring:  S.O.F.T. &  Cowboy Mama…Buy Now",
-      "url": "https://ucbcomedy.com/show/harold-after-dark-ft-soft-cowboy-mama/"
-    },
-    {
-      "title": "The Incubator: PTO + The Fantasy",
-      "venue": "UCB FRANKLIN",
-      "date": "2026-08-03T00:00:00Z",
-      "time": "5:30 PM",
-      "description": "Monday, August 3, 2026 @ 5:30 PMLA - FRANKLINImprovThe Incubator: PTO + The FantasyLooking for the best live improv comedy in Los Angeles? The Incubator at the Upright Citizens Brigade Theatre is a must-see monthly show featuring the next generation of performers alongside some of UCB’s most exciting veteran teams—all on one stage.…Buy Now",
-      "url": "https://ucbcomedy.com/show/the-incubator-pto-the-fantasy-2026-08-03/"
-    },
-    {
-      "venue": "The Elysian Theater",
-      "title": "All In - Clown and Improv Jam",
-      "date": "2026-08-03T00:00:00Z",
-      "time": "6:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/3/all-in-clown-and-improv-jam-tickets"
-    },
-    {
-      "title": "Harold Night ft. Darnell Hollywood & Branzino",
-      "venue": "UCB FRANKLIN",
-      "date": "2026-08-03T00:00:00Z",
-      "time": "7:00 PM",
-      "description": "Monday, August 3, 2026 @ 7:00 PMLA - FRANKLINImprovHarold Night ft. Darnell Hollywood & BranzinoYour one stop shop to see UCB's house improv ensembles perform every Monday! Harold Night is UCB's long-running weekly improv show featuring homegrown teams at the top of their game performing, you guessed it, The Harold. ------ Featuring: Darnell Hollywood…Buy Now",
-      "url": "https://ucbcomedy.com/show/harold-night-ft-darnell-hollywood-branzino-2026-08-03/"
-    },
-    {
-      "venue": "The Comedy Store",
-      "title": "Top Tier Comedy",
-      "date": "2026-08-03T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/3/top-tier-comedy-tickets"
-    },
-    {
-      "venue": "The Comedy Store",
-      "title": "Jay Leno, Howie Mandel, Matt Friend and more!",
-      "date": "2026-08-03T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/3/jay-leno-howie-mandel-matt-friend-and-more-tickets"
-    },
-    {
-      "venue": "The Laugh Factory",
-      "title": "Hollywood All-Stars",
-      "date": "2026-08-03T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/3/hollywood-all-stars-tickets"
-    },
-    {
-      "venue": "Baby Battista @ Nico's",
-      "title": "SPILLWAY Music Series | A Stream of Consciousness Music Event",
-      "date": "2026-08-03T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/3/spillway-music-series-a-stream-of-consciousness-music-event-tickets"
-    },
-    {
-      "title": "The Punch-up with Beth Stelling",
-      "venue": "UCB FRANKLIN",
-      "date": "2026-08-03T00:00:00Z",
-      "time": "8:30 PM",
-      "description": "Monday, August 3, 2026 @ 8:30 PMLA - ANNEXStandupThe Punch-up with Beth StellingA good-natured stand-up open mic where Beth Stelling punches your jokes up (when possible) Hi! I'm comedian Beth Stelling. I headlined Omaha Comedy Festival a few years ago and they asked me to lead a stand-up workshop, which I don't…Read more",
-      "url": "https://ucbcomedy.com/show/the-punch-up-with-beth-stelling-2026-08-03/"
-    },
-    {
-      "title": "Harold Night ft. Gas Money & Dance Club Remix",
-      "venue": "UCB FRANKLIN",
-      "date": "2026-08-03T00:00:00Z",
-      "time": "8:30 PM",
-      "description": "Monday, August 3, 2026 @ 8:30 PMLA - FRANKLINImprovHarold Night ft. Gas Money & Dance Club RemixYour one stop shop to see UCB's house improv ensembles perform every Monday! Harold Night is UCB's long-running weekly improv show featuring homegrown teams at the top of their game performing, you guessed it, The Harold. ------ Featuring: Gas Money…Buy Now",
-      "url": "https://ucbcomedy.com/show/harold-night-ft-gas-money-dance-club-remix-2026-08-03/"
-    },
-    {
       "venue": "Hollywood Improv",
       "title": "Happy Hour Open Mic",
       "date": "2026-08-04T00:00:00Z",
@@ -150,7 +70,7 @@
       "date": "2026-08-04T00:00:00Z",
       "time": "8:00PM",
       "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/4/sad-funny-a-comedy-show-about-the-things-that-make-you-sad-tickets"
+      "url": "https://dolosangeles.com/events/2026/8/4/sad-funny-a-comedy-show-about-the-things-that-make-you-sad-nico-s-tickets"
     },
     {
       "venue": "The Elysian Theater",
@@ -377,12 +297,60 @@
       "url": "https://ucbcomedy.com/show/asian-af-jam-2026-07-03-2/"
     },
     {
+      "venue": "The Ice House Comedy Club",
+      "title": "Social Hour",
+      "date": "2026-08-07T00:00:00Z",
+      "time": "6:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/7/social-hour-tickets"
+    },
+    {
       "title": "Armenian All-Stars",
       "venue": "UCB FRANKLIN",
       "date": "2026-08-07T00:00:00Z",
       "time": "7:00 PM",
       "description": "Friday, August 7, 2026 @ 7:00 PMLA - FRANKLINCharacterImprovStandupArmenian All-StarsThe greatest Armenian comedians of all time have finally assembled. What if we were able to bring Glendale to the UCB Franklin stage? Well we've done just that by assembling the greatest Armenian character performers, stand ups, and improvisers to…Buy Now",
       "url": "https://ucbcomedy.com/show/armenian-all-stars-2026-08-07/"
+    },
+    {
+      "venue": "The Ice House Comedy Club",
+      "title": "Joe Machi",
+      "date": "2026-08-07T00:00:00Z",
+      "time": "7:15PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/7/joe-machi-tickets"
+    },
+    {
+      "venue": "Hollywood Improv",
+      "title": "Panic! at The Lab Ft. Curtis Cook, Natalie Mcgill, Kyle Rehl, Julia Stone, Von Decarlo, Silvia De Anda, Drew Landry, Jonathon Ho",
+      "date": "2026-08-07T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/7/panic-at-the-lab-tickets"
+    },
+    {
+      "venue": "The Laugh Factory",
+      "title": "Friday Night All-stars",
+      "date": "2026-08-07T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/7/friday-night-all-stars-tickets"
+    },
+    {
+      "venue": "The Ice House Comedy Club",
+      "title": "Chris Andrade: M.U.T.A.R (En Espanol)",
+      "date": "2026-08-07T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/7/chris-andrade-m-u-t-a-r-en-espanol-tickets"
+    },
+    {
+      "venue": "The Elysian Theater",
+      "title": "Kap’s Funniest Friends",
+      "date": "2026-08-07T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/7/kap-s-funniest-friends-tickets"
     },
     {
       "title": "Character Mic!!",
@@ -401,12 +369,36 @@
       "url": "https://dolosangeles.com/events/2026/8/7/closed-for-a-private-event-bilt-tickets"
     },
     {
+      "venue": "Largo",
+      "title": "Watkins Family Hour",
+      "date": "2026-08-07T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/7/watkins-family-hour-tickets"
+    },
+    {
+      "venue": "Fox Performing Arts Center",
+      "title": "Jo Jo Jorge Falcon",
+      "date": "2026-08-07T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/7/jo-jo-jorge-falcon-tickets"
+    },
+    {
       "title": "FRIDAY FIX! The Smokes & The Big Team",
       "venue": "UCB FRANKLIN",
       "date": "2026-08-07T00:00:00Z",
       "time": "8:30 PM",
       "description": "Friday, August 7, 2026 @ 8:30 PMLA - FRANKLINLivestreamImprovFRIDAY FIX! The Smokes & The Big TeamUCB's weekly improv double header! A night of improv comedy featuring two of LA's top teams performing back-to-back. Get your FIX every FRIDAY. Featuring: THE SMOKES: No gimmicks, no pyrotechnics – just a single suggestion and these friends of (gulp)…Buy Now",
       "url": "https://ucbcomedy.com/show/friday-fix-the-smokes-the-big-team-2026-07-03-2/"
+    },
+    {
+      "venue": "The Elysian Theater",
+      "title": "The Birthday Experience",
+      "date": "2026-08-07T00:00:00Z",
+      "time": "8:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/7/the-birthday-experience-tickets"
     },
     {
       "title": "Sarah Silverman and Friends",
@@ -1097,6 +1089,14 @@
       "url": "https://wl.seetickets.us/event/tig-has-friends/696625?afflky=LargoAtTheCoronet"
     },
     {
+      "title": "Benmont Tench with Taylor Goldsmith, Sebastian Steinberg, and Jonathan Wilson",
+      "venue": "Largo at the Coronet",
+      "date": "2026-10-09T00:00:00",
+      "time": "8:00 PM",
+      "description": "$40.00",
+      "url": "https://wl.seetickets.us/event/benmont-tench/701169?afflky=LargoAtTheCoronet"
+    },
+    {
       "title": "Tig Has Friends",
       "venue": "Largo at the Coronet",
       "date": "2026-10-10T00:00:00",
@@ -1169,7 +1169,7 @@
       "url": "https://wl.seetickets.us/event/tig-has-friends/696628?afflky=LargoAtTheCoronet"
     }
   ],
-  "lastUpdated": "2026-08-03T11:00:21.425185Z",
+  "lastUpdated": "2026-08-04T08:52:49.832883Z",
   "totalShows": 146,
   "sources": [
     "DoLA",
