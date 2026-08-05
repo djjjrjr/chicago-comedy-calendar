@@ -2,102 +2,6 @@
   "shows": [
     {
       "venue": "Hollywood Improv",
-      "title": "Happy Hour Open Mic",
-      "date": "2026-08-04T00:00:00Z",
-      "time": "5:15PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/4/happy-hour-open-mic-tickets"
-    },
-    {
-      "venue": "Interwoven Studios Hollywood",
-      "title": "Lovett or Leave It with Jon Lovett",
-      "date": "2026-08-04T00:00:00Z",
-      "time": "6:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/4/lovett-or-leave-it-with-jon-lovett-tickets"
-    },
-    {
-      "title": "Mic Drop",
-      "venue": "UCB FRANKLIN",
-      "date": "2026-08-04T00:00:00Z",
-      "time": "6:30 PM",
-      "description": "Tuesday, August 4, 2026 @ 6:30 PMLA - ANNEXStandupMic DropTomorrow’s headliners, tonight! Mic Drop is a stand-up comedy open mic and showcase at the UCB Annex featuring rising comics, new material, and surprise sets from some of LA’s funniest performers. Built around a supportive, comedy-first atmosphere, Mic Drop is…Buy Now",
-      "url": "https://ucbcomedy.com/show/mic-drop-2026-07-07-2/"
-    },
-    {
-      "venue": "Hollywood Improv",
-      "title": "John Campanelli & Special Guest Ft. John Campanelli and More Tba",
-      "date": "2026-08-04T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/4/john-campanelli-special-guest-ft-john-campanelli-and-more-tba-tickets"
-    },
-    {
-      "venue": "Hollywood Improv",
-      "title": "Tonight at The Improv Ft. Brian Monarch and More Tba",
-      "date": "2026-08-04T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/4/tonight-at-the-improv-ft-brian-monarch-and-more-tba-tickets"
-    },
-    {
-      "venue": "The Laugh Factory",
-      "title": "Rubee Tuesdays",
-      "date": "2026-08-04T00:00:00Z",
-      "time": "7:45PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/4/rubee-tuesdays-tickets"
-    },
-    {
-      "title": "SOLID: a stand-up comedy show",
-      "venue": "UCB FRANKLIN",
-      "date": "2026-08-04T00:00:00Z",
-      "time": "8:00 PM",
-      "description": "Tuesday, August 4, 2026 @ 8:00 PMLA - ANNEXStandupSOLID: a stand-up comedy showAn evening of stand-up comedy featuring the best comics in the city! Hosted by Joe Kwaczala (Comedy Central) and Clare O'Kane (Saturday Night Live), SOLID is a stand-up comedy show that features the funniest comics in Los Angeles at an affordable price. These…Buy Now",
-      "url": "https://ucbcomedy.com/show/solid-a-stand-up-comedy-show-2026-07-28/"
-    },
-    {
-      "venue": "The Elysian Theater",
-      "title": "ROOMIES with Dylan Adler, Sam Morrison & Kylie Vincent",
-      "date": "2026-08-04T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/4/roomies-with-dylan-adler-sam-morrison-kylie-vincent-tickets"
-    },
-    {
-      "venue": "Baby Battista @ Nico's",
-      "title": "Sad Funny | A Comedy Show About The Things That Make You Sad",
-      "date": "2026-08-04T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/4/sad-funny-a-comedy-show-about-the-things-that-make-you-sad-nico-s-tickets"
-    },
-    {
-      "venue": "The Elysian Theater",
-      "title": "Green",
-      "date": "2026-08-04T00:00:00Z",
-      "time": "8:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/4/green-tickets"
-    },
-    {
-      "title": "Experimental Mic",
-      "venue": "UCB FRANKLIN",
-      "date": "2026-08-04T00:00:00Z",
-      "time": "9:30 PM",
-      "description": "Tuesday, August 4, 2026 @ 9:30 PMLA - ANNEXStandupExperimental MicAn open mic where comedians can push boundaries, try bold new ideas, and embrace the unpredictable. The comedy laboratory where anything can happen! Every Tuesday at the UCB Annex, this isn’t your average open mic. It’s a playground for comedians…Read more",
-      "url": "https://ucbcomedy.com/show/experimental-mic-2026-07-28/"
-    },
-    {
-      "venue": "Hollywood Improv",
-      "title": "Sophie Buddle",
-      "date": "2026-08-04T00:00:00Z",
-      "time": "9:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/4/sophie-buddle-tickets"
-    },
-    {
-      "venue": "Hollywood Improv",
       "title": "Lab Work",
       "date": "2026-08-05T00:00:00Z",
       "time": "6:00PM",
@@ -127,6 +31,14 @@
       "time": "7:30PM",
       "description": "",
       "url": "https://dolosangeles.com/events/2026/8/5/hollywood-all-stars-tickets"
+    },
+    {
+      "venue": "Hollywood Palladium",
+      "title": "Natasha Leggero - \"Right After You Left\"",
+      "date": "2026-08-05T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/5/natasha-leggero-right-after-you-left-vinyl-room-the-palladium-tickets"
     },
     {
       "venue": "Baby Battista @ Nico's",
@@ -215,6 +127,22 @@
       "time": "7:00PM",
       "description": "",
       "url": "https://dolosangeles.com/events/2026/8/6/breaking-the-ice-open-mic-hosted-by-goldie-gareza-tickets"
+    },
+    {
+      "venue": "Hollywood Improv",
+      "title": "Tonight at The Improv Ft. Anthony Jeselnik, Ron Funches, Adam Ray, Brian Monarch and Very Special Guests",
+      "date": "2026-08-06T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/6/tonight-at-the-improv-ft-anthony-jeselnik-ron-funches-adam-ray-brian-monarch-and-very-special-guests-tickets"
+    },
+    {
+      "venue": "Hollywood Improv",
+      "title": "Tonight at The Improv Ft. Anthony Jeselnik, Brian Monarch and Very Special Guests",
+      "date": "2026-08-06T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/6/tonight-at-the-improv-ft-anthony-jeselnik-brian-monarch-and-very-special-guests-tickets"
     },
     {
       "venue": "The Laugh Factory",
@@ -321,28 +249,12 @@
       "url": "https://dolosangeles.com/events/2026/8/7/joe-machi-tickets"
     },
     {
-      "venue": "Hollywood Improv",
-      "title": "Panic! at The Lab Ft. Curtis Cook, Natalie Mcgill, Kyle Rehl, Julia Stone, Von Decarlo, Silvia De Anda, Drew Landry, Jonathon Ho",
-      "date": "2026-08-07T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/7/panic-at-the-lab-tickets"
-    },
-    {
       "venue": "The Laugh Factory",
       "title": "Friday Night All-stars",
       "date": "2026-08-07T00:00:00Z",
       "time": "7:30PM",
       "description": "",
       "url": "https://dolosangeles.com/events/2026/8/7/friday-night-all-stars-tickets"
-    },
-    {
-      "venue": "The Ice House Comedy Club",
-      "title": "Chris Andrade: M.U.T.A.R (En Espanol)",
-      "date": "2026-08-07T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/7/chris-andrade-m-u-t-a-r-en-espanol-tickets"
     },
     {
       "venue": "The Elysian Theater",
@@ -353,6 +265,22 @@
       "url": "https://dolosangeles.com/events/2026/8/7/kap-s-funniest-friends-tickets"
     },
     {
+      "venue": "Hollywood Improv",
+      "title": "Panic! at The Lab Ft. Curtis Cook, Natalie Mcgill, Kyle Rehl, Julia Stone, Von Decarlo, Silvia De Anda, Drew Landry, Jonathon Ho",
+      "date": "2026-08-07T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/7/panic-at-the-lab-tickets"
+    },
+    {
+      "venue": "The Ice House Comedy Club",
+      "title": "Chris Andrade: M.U.T.A.R (En Espanol)",
+      "date": "2026-08-07T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/7/chris-andrade-m-u-t-a-r-en-espanol-tickets"
+    },
+    {
       "title": "Character Mic!!",
       "venue": "UCB FRANKLIN",
       "date": "2026-08-07T00:00:00Z",
@@ -361,20 +289,20 @@
       "url": "https://ucbcomedy.com/show/character-mic-2026-07-03-2/"
     },
     {
-      "venue": "The Comedy Store",
-      "title": "Closed for a Private Event {BILT}",
-      "date": "2026-08-07T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/7/closed-for-a-private-event-bilt-tickets"
-    },
-    {
       "venue": "Largo",
       "title": "Watkins Family Hour",
       "date": "2026-08-07T00:00:00Z",
       "time": "8:00PM",
       "description": "",
       "url": "https://dolosangeles.com/events/2026/8/7/watkins-family-hour-tickets"
+    },
+    {
+      "venue": "The Comedy Store",
+      "title": "Closed for a Private Event {BILT}",
+      "date": "2026-08-07T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/7/closed-for-a-private-event-bilt-tickets"
     },
     {
       "venue": "Fox Performing Arts Center",
@@ -399,6 +327,30 @@
       "time": "8:30PM",
       "description": "",
       "url": "https://dolosangeles.com/events/2026/8/7/the-birthday-experience-tickets"
+    },
+    {
+      "venue": "The Ice House Comedy Club",
+      "title": "Michael Yo",
+      "date": "2026-08-07T00:00:00Z",
+      "time": "9:15PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/7/michael-yo-tickets"
+    },
+    {
+      "venue": "Hollywood Improv",
+      "title": "Tonight at The Improv",
+      "date": "2026-08-07T00:00:00Z",
+      "time": "9:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/7/tonight-at-the-improv-tickets-6z7y1qd"
+    },
+    {
+      "venue": "The Ice House Comedy Club",
+      "title": "The Renegades",
+      "date": "2026-08-07T00:00:00Z",
+      "time": "9:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/7/the-renegades-tickets"
     },
     {
       "title": "Sarah Silverman and Friends",
@@ -575,6 +527,14 @@
       "time": "8:00 PM",
       "description": "$40.00",
       "url": "https://wl.seetickets.us/event/anthony-jeselnik-and-enemies/695092?afflky=LargoAtTheCoronet"
+    },
+    {
+      "title": "The Drop: An Open Clown Rehearsal",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-12T00:00:00Z",
+      "time": "12:00 PM",
+      "description": "Wednesday, August 12, 2026 @ 12:00 PMLA - ANNEXClownThe Drop: An Open Clown RehearsalHere’s your chance to see how a clown show is built from absolutely nothing. And it’s completely free! Clown Boss Chad Damiani is building a brand-new clown ensemble show. One that mixes modern clown with elements of improv, sketch and…Read more",
+      "url": "https://ucbcomedy.com/show/the-drop-an-open-clown-rehearsal-2026-08-12/"
     },
     {
       "title": "Bisexual Intervention",
@@ -993,6 +953,14 @@
       "url": "https://wl.seetickets.us/event/mae-martin-and-friends/699769?afflky=LargoAtTheCoronet"
     },
     {
+      "title": "It’s a Match! A Speed Dating Show for Characters",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-22T00:00:00Z",
+      "time": "10:30 PM",
+      "description": "Saturday, August 22, 2026 @ 10:30 PMLA - FRANKLINImprovIt’s a Match! A Speed Dating Show for CharactersImprovised Speed Dates chosen by the audience! Will it be friendship or romance? What happens when 10 Speed Daters played by your favorite improvisational actors costumed as characters seeking connection, go on three rounds of two minute speed dates chosen…Buy Now",
+      "url": "https://ucbcomedy.com/show/its-a-match-2026-08-22/"
+    },
+    {
       "title": "Menudo’s Feliz Hour",
       "venue": "UCB FRANKLIN",
       "date": "2026-08-22T00:00:00Z",
@@ -1017,6 +985,46 @@
       "url": "https://ucbcomedy.com/show/sahd-stay-at-home-dad/"
     },
     {
+      "title": "ASSSSCAT LA",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-22T00:00:00Z",
+      "time": "8:30 PM",
+      "description": "Saturday, August 22, 2026 @ 8:30 PMLA - FRANKLINLivestreamImprovASSSSCAT LAASSSSCAT—UCB’s signature improv juggernaut—is a live improv comedy show in Los Angeles at the Upright Citizens Brigade Theatre. An all-star comedy show featuring comedians you know from SNL, Dropout, and the world of Film & Television doing improv inspired by…Buy Now",
+      "url": "https://ucbcomedy.com/show/asssscat-la-2026-08-16/"
+    },
+    {
+      "title": "Spank: Trust Me, I’m from Essex",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-23T00:00:00Z",
+      "time": "4:00 PM",
+      "description": "Sunday, August 23, 2026 @ 4:00 PMLA - FRANKLINCharacterSketchSpank: Trust Me, I’m from EssexSee a brand new sketch or solo show birthed right before your eyes that is auditioning for a run at the UCB theater. It's a show where we let sketch teams and solo performers try some shit out! Some will…Buy Now",
+      "url": "https://ucbcomedy.com/show/spank-trust-me-im-from-essex-2026-08-23/"
+    },
+    {
+      "title": "ONE BIG JAM!",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-23T00:00:00Z",
+      "time": "5:30 PM",
+      "description": "Sunday, August 23, 2026 @ 5:30 PMLA - FRANKLINImprovONE BIG JAM!Come and JAM Sundays @ UCB Franklin 5:30-6:30! Students of all levels are welcome! It’s free and a great way to get on stage and get reps! An inclusive improv jam for UCB students, performers, and fans! Anna Rajo, Joe…Read more",
+      "url": "https://ucbcomedy.com/show/one-big-jam-2026-08-23/"
+    },
+    {
+      "title": "Mike & Kellen Self-Destruct",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-23T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Sunday, August 23, 2026 @ 7:00 PMLA - FRANKLINLivestreamStandupMike & Kellen Self-DestructWe burnt it all down. Come hear how we plan to blow it back up. If you've ever wanted to hear the words, \"so the Swifties were battling the Nazis,\" come to this show. As Kanye West said, \"it's good…Buy Now",
+      "url": "https://ucbcomedy.com/show/mike-kellen-self-destruct-2026-08-23/"
+    },
+    {
+      "title": "Not Too Shabby",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-08-23T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Sunday, August 23, 2026 @ 7:00 PMLA - ANNEXCharacterSketchNot Too ShabbyA weekly show where everyone can try out bits, sketches and characters! Not Too Shabby is UCB's long-running sketch open mic night every Sunday at 7pm at the UCB Annex on Bronson. Sketches! Characters! Bits! Songs! Come see future comedy…Read more",
+      "url": "https://ucbcomedy.com/show/not-too-shabby-2026-08-16/"
+    },
+    {
       "title": "Kate Berlant and Friends",
       "venue": "Largo at the Coronet",
       "date": "2026-08-28T00:00:00",
@@ -1039,6 +1047,14 @@
       "time": "8:00 PM",
       "description": "$40.00",
       "url": "https://wl.seetickets.us/event/james-austin-johnson-and-andrew-dismukes/701099?afflky=LargoAtTheCoronet"
+    },
+    {
+      "title": "Sona Movsesian presents: The World’s Worst Mom",
+      "venue": "Largo at the Coronet",
+      "date": "2026-09-01T00:00:00",
+      "time": "8:00 PM",
+      "description": "$40.00",
+      "url": "https://wl.seetickets.us/event/sona-movsesian-presents-the-worlds-worst-mom/701217?afflky=LargoAtTheCoronet"
     },
     {
       "title": "Edi Patterson: PLAYGIRL",
@@ -1071,6 +1087,14 @@
       "time": "8:00 PM",
       "description": "$40.00",
       "url": "https://wl.seetickets.us/event/anthony-jeselnik-and-enemies/695093?afflky=LargoAtTheCoronet"
+    },
+    {
+      "title": "Maria Bamford and Friends",
+      "venue": "Largo at the Coronet",
+      "date": "2026-09-18T00:00:00",
+      "time": "8:00 PM",
+      "description": "$40.00",
+      "url": "https://wl.seetickets.us/event/maria-bamford-and-friends/701365?afflky=LargoAtTheCoronet"
     },
     {
       "title": "Patton Oswalt and Friends",
@@ -1169,8 +1193,8 @@
       "url": "https://wl.seetickets.us/event/tig-has-friends/696628?afflky=LargoAtTheCoronet"
     }
   ],
-  "lastUpdated": "2026-08-04T08:52:49.832883Z",
-  "totalShows": 146,
+  "lastUpdated": "2026-08-05T10:37:13.539444Z",
+  "totalShows": 149,
   "sources": [
     "DoLA",
     "UCB FRANKLIN",
