@@ -1,302 +1,6 @@
 {
   "shows": [
     {
-      "title": "Extremely Accurate Bird Songs: Live!",
-      "venue": "Union Hall",
-      "date": "2026-08-08T00:00:00.000Z",
-      "time": null,
-      "description": "Extremely Accurate Bird Songs: Live!",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Clash Talk",
-      "venue": "Union Hall",
-      "date": "2026-08-08T00:00:00.000Z",
-      "time": null,
-      "description": "Clash Talk",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Dyketopia & Friends",
-      "venue": "Union Hall",
-      "date": "2026-08-08T00:00:00.000Z",
-      "time": null,
-      "description": "Dyketopia & Friends",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Young Adult Friction: an indie + alt dance party",
-      "venue": "Union Hall",
-      "date": "2026-08-08T00:00:00.000Z",
-      "time": null,
-      "description": "Young Adult Friction: an indie + alt dance party",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-08-08T00:00:00.000Z",
-      "time": "10:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-08-08T00:00:00.000Z",
-      "time": "10:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-08-08T00:00:00.000Z",
-      "time": "11:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-08-08T00:00:00.000Z",
-      "time": "11:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-08-08T00:00:00.000Z",
-      "time": "11:55 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-08-08T00:00:00.000Z",
-      "time": "12:30 am",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-08-08T00:00:00.000Z",
-      "time": "12:55 am",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-08-08T00:00:00.000Z",
-      "time": "6:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-08-08T00:00:00.000Z",
-      "time": "6:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-08-08T00:00:00.000Z",
-      "time": "7:01 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-08-08T00:00:00.000Z",
-      "time": "7:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Brett And Mo Try New Things",
-      "venue": "The Bell House",
-      "date": "2026-08-08T00:00:00.000Z",
-      "time": "7:30PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/8/8/brett-and-mo-try-new-things-tickets"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-08-08T00:00:00.000Z",
-      "time": "8:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-08-08T00:00:00.000Z",
-      "time": "8:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-08-08T00:00:00.000Z",
-      "time": "9:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-08-08T00:00:00.000Z",
-      "time": "9:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Meat Cats Comedy Presents: Sunday Sauce",
-      "venue": "Union Hall",
-      "date": "2026-08-09T00:00:00.000Z",
-      "time": null,
-      "description": "Meat Cats Comedy Presents: Sunday Sauce",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-08-09T00:00:00.000Z",
-      "time": "10:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-08-09T00:00:00.000Z",
-      "time": "10:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-08-09T00:00:00.000Z",
-      "time": "11:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-08-09T00:00:00.000Z",
-      "time": "1:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "HEY ALMA PRESENTS: A 'FIDDLER ON THE ROOF' SING-ALONG",
-      "venue": "Caveat",
-      "date": "2026-08-09T00:00:00.000Z",
-      "time": "4:00 PM",
-      "description": "Craving some Jewish joy and TRADITION? Join Jewish pop culture site Hey Alma for a sing-along to the...",
-      "url": "https://caveat.nyc/events/hey-alma-presents-a-fiddler-on-the-roof-sing-along-2026-08-09"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar",
-      "date": "2026-08-09T00:00:00.000Z",
-      "time": "4:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-08-09T00:00:00.000Z",
-      "time": "6:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-08-09T00:00:00.000Z",
-      "time": "6:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-08-09T00:00:00.000Z",
-      "time": "7:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "THE SOUND WITHIN WITH EISENBERG & STERN",
-      "venue": "Caveat",
-      "date": "2026-08-09T00:00:00.000Z",
-      "time": "7:30 PM",
-      "description": "A highly satirical masterclass on “the miracle of the organic voice,\" featuring character comedy at ...",
-      "url": "https://caveat.nyc/events/the-sound-within-with-eisenberg-stern-2026-08-09"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-08-09T00:00:00.000Z",
-      "time": "7:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Pierce: Un Sense Ored",
-      "venue": "The Bell House",
-      "date": "2026-08-09T00:00:00.000Z",
-      "time": "7:30PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/8/9/pierce-un-sense-ored-tickets"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-08-09T00:00:00.000Z",
-      "time": "8:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-08-09T00:00:00.000Z",
-      "time": "8:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-08-09T00:00:00.000Z",
-      "time": "9:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-08-09T00:00:00.000Z",
-      "time": "9:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
       "title": "Asher Perlman: Back to the Drawing Board",
       "venue": "Union Hall",
       "date": "2026-08-10T00:00:00.000Z",
@@ -337,14 +41,6 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
-      "title": "LECTURES ON TAP",
-      "venue": "Caveat",
-      "date": "2026-08-10T00:00:00.000Z",
-      "time": "7:00 PM",
-      "description": "Lectures on Tap -  \"Parenting: What to Do When Your Child Tries to Kill You\"",
-      "url": "https://caveat.nyc/events/lectures-on-tap-2026-08-10"
-    },
-    {
       "title": "Comedy Showcase",
       "venue": "Comedy Cellar",
       "date": "2026-08-10T00:00:00.000Z",
@@ -383,6 +79,14 @@
       "time": "8:00PM",
       "description": null,
       "url": "https://donyc.com/events/2026/8/10/the-moth-storyslam-tickets"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Fat Black Pussycat",
+      "date": "2026-08-10T00:00:00.000Z",
+      "time": "8:30 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
       "title": "Comedy Showcase",
@@ -513,16 +217,16 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "Matteo Lane",
-      "venue": "Comedy Cellar",
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Village Underground",
       "date": "2026-08-12T00:00:00.000Z",
       "time": "10:00 pm",
-      "description": "Matteo Lane: The Advice Special",
+      "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
       "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
+      "venue": "Comedy Cellar - Fat Black Pussycat",
       "date": "2026-08-12T00:00:00.000Z",
       "time": "10:30 pm",
       "description": "Lineup to be announced",
@@ -553,11 +257,11 @@
       "url": "https://caveat.nyc/events/peer-revue-8-12-2026"
     },
     {
-      "title": "Comedy Showcase",
+      "title": "An Hour with Keith Robinson Show",
       "venue": "Comedy Cellar",
       "date": "2026-08-12T00:00:00.000Z",
       "time": "7:00 pm",
-      "description": "Lineup to be announced",
+      "description": "An Hour with Keith Robinson Show: Final Fat",
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
@@ -585,11 +289,11 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
-      "title": "Matteo Lane",
-      "venue": "Comedy Cellar",
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Village Underground",
       "date": "2026-08-12T00:00:00.000Z",
       "time": "8:00 pm",
-      "description": "Matteo Lane: The Advice Special",
+      "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
@@ -849,6 +553,14 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "Good God",
+      "venue": "Union Hall",
+      "date": "2026-08-16T00:00:00.000Z",
+      "time": null,
+      "description": "Good God",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
       "title": "DEATH BECOMES DER",
       "venue": "Caveat",
       "date": "2026-08-16T00:00:00.000Z",
@@ -953,12 +665,28 @@
       "url": "https://donyc.com/venues/the-bell-house"
     },
     {
+      "title": "STORY-OKE: SING AND TELL",
+      "venue": "Caveat",
+      "date": "2026-08-18T00:00:00.000Z",
+      "time": "9:30 PM",
+      "description": "Part karaoke, part confessional. Share a story about a song… then sing the hell out of it.",
+      "url": "https://caveat.nyc/events/story-oke-sing-and-tell-2026-08-18"
+    },
+    {
       "title": "Rising Starlets: Jessie Lee and Evan Lazarus",
       "venue": "Union Hall",
       "date": "2026-08-19T00:00:00.000Z",
       "time": null,
       "description": "Rising Starlets: Jessie Lee and Evan Lazarus",
       "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "PITCH ROAST LIVE",
+      "venue": "Caveat",
+      "date": "2026-08-19T00:00:00.000Z",
+      "time": "7:00 PM",
+      "description": "​Pitch Roast Live️‍ brings comedy, startups, and venture capital together.",
+      "url": "https://caveat.nyc/events/pitch-roast-live-2026-08-19"
     },
     {
       "title": "Comedy Showcase",
@@ -977,6 +705,14 @@
       "url": "https://donyc.com/events/2026/8/19/james-austin-johnson-michael-longfellow-and-devon-walker-live-tickets"
     },
     {
+      "title": "SORRY WE'RE HERE",
+      "venue": "Caveat",
+      "date": "2026-08-19T00:00:00.000Z",
+      "time": "9:30 PM",
+      "description": "Sorry We're Here presents an original sketch comedy show",
+      "url": "https://caveat.nyc/events/sorry-were-here-2026-08-19"
+    },
+    {
       "title": "RUPI KAUR: UNCUT – A RESIDENCY",
       "venue": "Union Hall",
       "date": "2026-08-20T00:00:00.000Z",
@@ -993,12 +729,28 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "FACTS MACHINE: SCIENCE, COMEDY & TRIVIA!",
+      "venue": "Caveat",
+      "date": "2026-08-20T00:00:00.000Z",
+      "time": "7:00 PM",
+      "description": "A science comedy show + trivia showdown by and for people who are curious about everything – but esp...",
+      "url": "https://caveat.nyc/events/facts-machine-science-comedy--trivia-8-20-2026"
+    },
+    {
       "title": "Joe Mande Con Amici",
       "venue": "The Bell House",
       "date": "2026-08-20T00:00:00.000Z",
       "time": "7:30PM",
       "description": null,
       "url": "https://donyc.com/events/2026/8/20/joe-mande-con-amici-tickets"
+    },
+    {
+      "title": "ASK A FUCKBOY: THE BACHELORETTE PARTY",
+      "venue": "Caveat",
+      "date": "2026-08-20T00:00:00.000Z",
+      "time": "9:30 PM",
+      "description": "Girls tell unhinged dating stories, a panel of fuckboys weighs in.",
+      "url": "https://caveat.nyc/events/ask-a-fuckboy-2026-08-20"
     },
     {
       "title": "Nico Carney & Friends!",
@@ -1023,6 +775,14 @@
       "time": null,
       "description": "KARAOKE TREMENDOUS",
       "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "OUR FINDINGS SHOW",
+      "venue": "Caveat",
+      "date": "2026-08-21T00:00:00.000Z",
+      "time": "7:00 PM",
+      "description": "The science game show that's academically rigorous and comically ridiculous.",
+      "url": "https://caveat.nyc/events/our-findings-show-8-21-2026"
     },
     {
       "title": "Binchtopia: The Shake Up Your Life Tour",
@@ -1281,6 +1041,14 @@
       "url": "https://donyc.com/events/2026/9/2/jon-glaser-live-special-taping-tickets"
     },
     {
+      "title": "100% Eat Live!",
+      "venue": "The Bell House",
+      "date": "2026-09-03T00:00:00.000Z",
+      "time": "7:30PM",
+      "description": null,
+      "url": "https://donyc.com/events/2026/9/3/100-eat-live-tickets"
+    },
+    {
       "title": "Body Count hosted by Tessa Belle and Jo Sunday",
       "venue": "Union Hall",
       "date": "2026-09-04T00:00:00.000Z",
@@ -1303,6 +1071,14 @@
       "time": null,
       "description": "Shaunak Does Improvised Standup",
       "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "The Silver Lining with Gianmarco Soresi",
+      "venue": "The Bell House",
+      "date": "2026-09-07T00:00:00.000Z",
+      "time": "7:30PM",
+      "description": null,
+      "url": "https://donyc.com/events/2026/9/7/the-silver-lining-with-gianmarco-soresi-tickets"
     },
     {
       "title": "PRETTY MAJOR Hosted by Jay Jurden",
@@ -1529,47 +1305,23 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "Jerrod Carmichael On Stage In Brooklyn",
+      "title": "Pierce: Un Sense Ored",
       "venue": "The Bell House",
-      "date": "2027-08-07T00:00:00.000Z",
-      "time": null,
+      "date": "2027-08-09T00:00:00.000Z",
+      "time": "8:00PM",
       "description": null,
-      "url": "https://donyc.com/events/2026/8/7/jerrod-carmichael-on-stage-in-brooklyn-tickets"
+      "url": "https://donyc.com/events/2026/8/9/pierce-un-sense-ored-tickets"
     },
     {
-      "title": "GET WORK: COMICS INTERVIEW FOR REAL JOBS",
+      "title": "LECTURES ON TAP",
       "venue": "Caveat",
-      "date": "2027-08-08T00:00:00.000Z",
-      "time": "1:30 PM",
-      "description": "Comedians interview for real jobs using fake resumes.",
-      "url": "https://caveat.nyc/events/get-work-2026-08-08"
-    },
-    {
-      "title": "MODERN WHITNEY",
-      "venue": "Caveat",
-      "date": "2027-08-08T00:00:00.000Z",
-      "time": "4:00 PM",
-      "description": "Comedians interpret art, then an expert tells us how close they got",
-      "url": "https://caveat.nyc/events/modern-whitney-2026-08-08"
-    },
-    {
-      "title": "COLLEGE RADIO",
-      "venue": "Caveat",
-      "date": "2027-08-08T00:00:00.000Z",
+      "date": "2027-08-10T00:00:00.000Z",
       "time": "7:00 PM",
-      "description": "A comedy show about music. Like your Spotify Wrapped...but funny.",
-      "url": "https://caveat.nyc/events/college-radio-8-8-2026"
-    },
-    {
-      "title": "THE FANTASY TAVERN",
-      "venue": "Caveat",
-      "date": "2027-08-08T00:00:00.000Z",
-      "time": "9:30 PM",
-      "description": "Nerdy costume party with a live band, interactive characters, party games, and drinking songs!",
-      "url": "https://caveat.nyc/events/the-fantasy-tavern-8-8-2026"
+      "description": "Lectures on Tap -  \"Parenting: What to Do When Your Child Tries to Kill You\"",
+      "url": "https://caveat.nyc/events/lectures-on-tap-2026-08-10"
     }
   ],
-  "lastUpdated": "2026-08-08T07:04:41.636702Z",
+  "lastUpdated": "2026-08-10T07:30:43.904448Z",
   "sources": [
     "DoNYC",
     "Caveat",
@@ -1579,5 +1331,5 @@
     "UCB Theatre",
     "The Bell House"
   ],
-  "totalShows": 196
+  "totalShows": 165
 }
