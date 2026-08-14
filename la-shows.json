@@ -1,134 +1,6 @@
 {
   "shows": [
     {
-      "title": "Margaret Cho and Friends (Moved from 7/25)",
-      "venue": "Largo at the Coronet",
-      "date": "2026-08-13T00:00:00",
-      "time": "8:00 PM",
-      "description": "$40.00",
-      "url": "https://wl.seetickets.us/event/margaret-cho-and-friends-moved-from-725/696943?afflky=LargoAtTheCoronet"
-    },
-    {
-      "venue": "Interwoven Studios Hollywood",
-      "title": "Lovett or Leave It with Jon Lovett ( Special Guest: Rep. Ted Lieu )",
-      "date": "2026-08-13T00:00:00Z",
-      "time": "6:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/13/lovett-or-leave-it-with-jon-lovett-special-guest-rep-ted-lieu-tickets"
-    },
-    {
-      "venue": "Upright Citizens Brigade Theatre",
-      "title": "GUNK & SHAG",
-      "date": "2026-08-13T00:00:00Z",
-      "time": "7:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/13/gunk-shag-an-improv-comedy-show-tickets"
-    },
-    {
-      "venue": "The Glendale Room",
-      "title": "SPEED TRAP COMEDY - THE GLENDALE ROOM FEATURING LGBTQIA+ AND ALLY PERFORMERS",
-      "date": "2026-08-13T00:00:00Z",
-      "time": "7:00PM\n              \n                (doors)",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/13/speed-trap-comedy-the-glendale-room-featuring-lgbtqia-and-ally-performers-tickets"
-    },
-    {
-      "venue": "Hollywood Improv",
-      "title": "Tonight at The Improv Ft. Damon Wayans, Howie Mandel, Ron Funches, Jen Murphy and Very Special Guests",
-      "date": "2026-08-13T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/13/tonight-at-the-improv-ft-anthony-jeselnik-brian-monarch-and-very-special-guests-tickets"
-    },
-    {
-      "venue": "Hollywood Improv",
-      "title": "New Joke Night Ft. Mike Falzone & Jf Harris",
-      "date": "2026-08-13T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/13/new-joke-night-ft-mike-falzone-jf-harris-tickets"
-    },
-    {
-      "venue": "The Laugh Factory",
-      "title": "Hollywood All-Stars",
-      "date": "2026-08-13T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/13/hollywood-all-stars-tickets"
-    },
-    {
-      "venue": "Largo",
-      "title": "Margaret Cho and Friends (Moved from 7/25)",
-      "date": "2026-08-13T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/13/margaret-cho-and-friends-moved-from-7-25-tickets"
-    },
-    {
-      "venue": "The Comedy Store",
-      "title": "Jay Leno, Howie Mandel, ILIZA, Harland Williams and more!",
-      "date": "2026-08-13T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/13/jay-leno-howie-mandel-iliza-harland-williams-and-more-tickets"
-    },
-    {
-      "venue": "The Upstairs LA",
-      "title": "Mark Hayes & Friends",
-      "date": "2026-08-13T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/13/mark-hayes-friends-tickets"
-    },
-    {
-      "venue": "Upright Citizens Brigade Theatre",
-      "title": "Fuck This Month",
-      "date": "2026-08-13T00:00:00Z",
-      "time": "8:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/13/fuck-this-month-tickets"
-    },
-    {
-      "venue": "The Elysian Theater",
-      "title": "Coyote Fugly: A Stand-up Hoedown",
-      "date": "2026-08-13T00:00:00Z",
-      "time": "8:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/13/coyote-fugly-a-stand-up-hoedown-tickets"
-    },
-    {
-      "venue": "Hollywood Improv",
-      "title": "Deon Cole: Does This Work?",
-      "date": "2026-08-13T00:00:00Z",
-      "time": "9:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/13/deon-cole-does-this-work-tickets"
-    },
-    {
-      "venue": "Hollywood Improv",
-      "title": "Michael Blackson",
-      "date": "2026-08-13T00:00:00Z",
-      "time": "9:45PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/13/michael-blackson-tickets"
-    },
-    {
-      "venue": "The Laugh Factory",
-      "title": "Tehran Thursdays",
-      "date": "2026-08-13T00:00:00Z",
-      "time": "9:45PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/13/tehran-thursdays-tickets"
-    },
-    {
-      "venue": "Santa Monica Playhouse",
-      "title": "Drunk Theatre LA",
-      "date": "2026-08-13T07:39:06.984649Z",
-      "time": "9:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/weeklies/2026/08/14"
-    },
-    {
       "venue": "The Ice House Comedy Club",
       "title": "Social Hour",
       "date": "2026-08-14T00:00:00Z",
@@ -143,22 +15,6 @@
       "time": "7:00PM",
       "description": "",
       "url": "https://dolosangeles.com/events/2026/8/14/little-shop-of-horrors-40th-anniversary-screening-tickets"
-    },
-    {
-      "venue": "The Laugh Factory",
-      "title": "Friday Night All-stars",
-      "date": "2026-08-14T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/14/friday-night-all-stars-tickets"
-    },
-    {
-      "venue": "The Ice House Comedy Club",
-      "title": "Craig Conant",
-      "date": "2026-08-14T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/14/craig-conant-tickets"
     },
     {
       "venue": "Hollywood Improv",
@@ -185,20 +41,28 @@
       "url": "https://dolosangeles.com/events/2026/8/14/lingerie-laughter-ft-pink-foxx-tickets"
     },
     {
+      "venue": "The Laugh Factory",
+      "title": "Friday Night All-stars",
+      "date": "2026-08-14T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/14/friday-night-all-stars-tickets"
+    },
+    {
+      "venue": "The Ice House Comedy Club",
+      "title": "Craig Conant",
+      "date": "2026-08-14T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/14/craig-conant-tickets"
+    },
+    {
       "venue": "The Ice House Comedy Club",
       "title": "MOB Comics",
       "date": "2026-08-14T00:00:00Z",
       "time": "7:45PM",
       "description": "",
       "url": "https://dolosangeles.com/events/2026/8/14/mob-comics-tickets"
-    },
-    {
-      "venue": "The Elysian Theater",
-      "title": "The Ope! Hello! Show",
-      "date": "2026-08-14T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/14/the-ope-hello-show-tickets"
     },
     {
       "venue": "Three Clubs",
@@ -215,6 +79,14 @@
       "time": "8:00PM",
       "description": "",
       "url": "https://dolosangeles.com/events/2026/8/14/mark-hayes-friends-tickets"
+    },
+    {
+      "venue": "The Elysian Theater",
+      "title": "The Ope! Hello! Show",
+      "date": "2026-08-14T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/14/the-ope-hello-show-tickets"
     },
     {
       "venue": "Pico Union Project",
@@ -234,6 +106,14 @@
     },
     {
       "venue": "Hollywood Improv",
+      "title": "Tonight at The Improv",
+      "date": "2026-08-14T00:00:00Z",
+      "time": "9:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/14/tonight-at-the-improv-tickets-menzabj"
+    },
+    {
+      "venue": "Hollywood Improv",
       "title": "Comedy Grind Ft. Kristy Quinn, Lachlan Patterson, Thom Tran, Isaac Chu, Jim Gallagher, Amy Ashton, Willie Krisztal, Dustin David",
       "date": "2026-08-14T00:00:00Z",
       "time": "9:30PM",
@@ -250,11 +130,11 @@
     },
     {
       "venue": "Hollywood Improv",
-      "title": "Tonight at The Improv",
+      "title": "Michael Blackson",
       "date": "2026-08-14T00:00:00Z",
-      "time": "9:30PM",
+      "time": "9:45PM",
       "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/14/tonight-at-the-improv-tickets-menzabj"
+      "url": "https://dolosangeles.com/events/2026/8/14/michael-blackson-tickets"
     },
     {
       "venue": "The Ice House Comedy Club",
@@ -265,12 +145,28 @@
       "url": "https://dolosangeles.com/events/2026/8/14/laugh-bombs-tickets"
     },
     {
-      "venue": "Hollywood Improv",
-      "title": "Michael Blackson",
-      "date": "2026-08-14T00:00:00Z",
-      "time": "9:45PM",
+      "venue": "Santa Monica Playhouse",
+      "title": "Drunk Theatre LA",
+      "date": "2026-08-14T07:36:30.289160Z",
+      "time": "9:00PM",
       "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/14/michael-blackson-tickets"
+      "url": "https://dolosangeles.com/events/weeklies/2026/08/14"
+    },
+    {
+      "venue": "Palace Theatre",
+      "title": "The Setup",
+      "date": "2026-08-14T07:36:37.033556Z",
+      "time": "8:30PM\n              \n                (doors)",
+      "description": "",
+      "url": "https://dolosangeles.com/events/weeklies/2026/08/15"
+    },
+    {
+      "venue": "The Elysian Theater",
+      "title": "Laugh Heist",
+      "date": "2026-08-15T00:00:00Z",
+      "time": "10:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/15/laugh-heist-tickets"
     },
     {
       "venue": "The Elysian Theater",
@@ -281,12 +177,36 @@
       "url": "https://dolosangeles.com/events/2026/8/15/lovers-must-die-tickets"
     },
     {
+      "venue": "The Ice House Comedy Club",
+      "title": "Bleep Comedy",
+      "date": "2026-08-15T00:00:00Z",
+      "time": "5:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/15/bleep-comedy-tickets"
+    },
+    {
       "venue": "The Elysian Theater",
       "title": "Bad Student Film Fest",
       "date": "2026-08-15T00:00:00Z",
       "time": "6:30PM",
       "description": "",
       "url": "https://dolosangeles.com/events/2026/8/15/bad-student-film-fest-tickets"
+    },
+    {
+      "venue": "Hollywood Improv",
+      "title": "Tonight at The Improv Ft. Iliza Shlesinger, Orny Adams, Gary Cannon and More Tba",
+      "date": "2026-08-15T00:00:00Z",
+      "time": "7:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/15/tonight-at-the-improv-tickets"
+    },
+    {
+      "venue": "The Ice House Comedy Club",
+      "title": "Al Madrigal & Friends",
+      "date": "2026-08-15T00:00:00Z",
+      "time": "7:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/15/al-madrigal-friends-tickets"
     },
     {
       "venue": "The Laugh Factory",
@@ -305,12 +225,116 @@
       "url": "https://dolosangeles.com/events/2026/8/15/cardinal-redbird-nooni-tickets"
     },
     {
+      "venue": "Hollywood Improv",
+      "title": "Damon Wayans: Under Construction",
+      "date": "2026-08-15T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/15/tonight-at-the-lab-tickets"
+    },
+    {
+      "venue": "The Ice House Comedy Club",
+      "title": "Craig Conant",
+      "date": "2026-08-15T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/15/craig-conant-tickets"
+    },
+    {
+      "venue": "Upright Citizens Brigade Theatre",
+      "title": "The Midsummer Masquerade: Scandal-Inspired Improv, Incognito",
+      "date": "2026-08-15T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/15/the-midsummer-masquerade-scandal-inspired-improv-incognito-tickets"
+    },
+    {
+      "venue": "The Upstairs LA",
+      "title": "Richard Villa",
+      "date": "2026-08-15T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/15/richard-villa-tickets"
+    },
+    {
+      "venue": "Baby Battista @ Nico's",
+      "title": "LINGER: the night you never want to end | DJ's",
+      "date": "2026-08-15T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/15/linger-the-night-you-never-want-to-end-dj-s-tickets"
+    },
+    {
+      "venue": "The Elysian Theater",
+      "title": "Daniel Koren / Kevin Chu",
+      "date": "2026-08-15T00:00:00Z",
+      "time": "8:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/15/daniel-koren-kevin-chu-tickets"
+    },
+    {
+      "venue": "The Ice House Comedy Club",
+      "title": "Auguste DeRose-Jones & Jokers - 3 year anniversary",
+      "date": "2026-08-15T00:00:00Z",
+      "time": "9:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/15/auguste-derose-jones-jokers-3-year-anniversary-tickets"
+    },
+    {
+      "venue": "Hollywood Improv",
+      "title": "Tonight at The Improv Ft. Steph Tolev, Bt Kingsley, and More Tba!",
+      "date": "2026-08-15T00:00:00Z",
+      "time": "9:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/15/tonight-at-the-improv-tickets-yme98zo"
+    },
+    {
+      "venue": "Hollywood Improv",
+      "title": "John Campanelli & Special Guest Ft. John Campanelli and More Tba",
+      "date": "2026-08-15T00:00:00Z",
+      "time": "9:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/15/john-campanelli-special-guest-ft-john-campanelli-and-more-tba-tickets"
+    },
+    {
+      "venue": "Hollywood Improv",
+      "title": "Reid The Room Ft. Reid Brackenbury and More Tba!",
+      "date": "2026-08-15T00:00:00Z",
+      "time": "9:45PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/15/reid-the-room-ft-reid-brackenbury-and-more-tba-tickets"
+    },
+    {
       "title": "Patton Oswalt and Friends",
       "venue": "Largo at the Coronet",
       "date": "2026-08-16T00:00:00",
       "time": "7:30 PM",
       "description": "$40.00",
       "url": "https://wl.seetickets.us/event/patton-oswalt-and-friends/695141?afflky=LargoAtTheCoronet"
+    },
+    {
+      "venue": "Hollywood Improv",
+      "title": "Ron Funches: Funchadelic",
+      "date": "2026-08-16T00:00:00Z",
+      "time": "7:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/16/ron-funches-funchadelic-tickets"
+    },
+    {
+      "venue": "Hollywood Improv",
+      "title": "Jack Jr.",
+      "date": "2026-08-16T00:00:00Z",
+      "time": "7:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/16/jack-jr-tickets"
+    },
+    {
+      "venue": "The Laugh Factory",
+      "title": "Chocolate Sundaes",
+      "date": "2026-08-16T00:00:00Z",
+      "time": "7:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/16/chocolate-sundaes-tickets"
     },
     {
       "title": "Fortune and Tom and Friends",
@@ -593,8 +617,8 @@
       "url": "https://wl.seetickets.us/event/tig-has-friends/696628?afflky=LargoAtTheCoronet"
     }
   ],
-  "lastUpdated": "2026-08-13T09:17:08.504481Z",
-  "totalShows": 74,
+  "lastUpdated": "2026-08-14T08:18:04.974706Z",
+  "totalShows": 77,
   "sources": [
     "DoLA",
     "UCB FRANKLIN",
