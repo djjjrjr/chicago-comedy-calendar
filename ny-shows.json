@@ -1,118 +1,6 @@
 {
   "shows": [
     {
-      "title": "Rising Starlets: Jessie Lee and Evan Lazarus",
-      "venue": "Union Hall",
-      "date": "2026-08-19T00:00:00.000Z",
-      "time": null,
-      "description": "Rising Starlets: Jessie Lee and Evan Lazarus",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-08-19T00:00:00.000Z",
-      "time": "10:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-08-19T00:00:00.000Z",
-      "time": "10:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-08-19T00:00:00.000Z",
-      "time": "11:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "An Hour with Keith Robinson Show",
-      "venue": "Comedy Cellar",
-      "date": "2026-08-19T00:00:00.000Z",
-      "time": "7:00 pm",
-      "description": "An Hour with Keith Robinson Show: Final Fat",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-08-19T00:00:00.000Z",
-      "time": "7:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "James Austin Johnson, Michael Longfellow, and Devon Walker LIVE",
-      "venue": "The Bell House",
-      "date": "2026-08-19T00:00:00.000Z",
-      "time": "7:30PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/8/19/james-austin-johnson-michael-longfellow-and-devon-walker-live-tickets"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-08-19T00:00:00.000Z",
-      "time": "7:35 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-08-19T00:00:00.000Z",
-      "time": "8:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-08-19T00:00:00.000Z",
-      "time": "8:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-08-19T00:00:00.000Z",
-      "time": "9:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-08-19T00:00:00.000Z",
-      "time": "9:35 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Back to College vs Cancer",
-      "venue": "UCB Theatre",
-      "date": "2026-08-19T00:00:00Z",
-      "time": "7:00 PM",
-      "description": "Wednesday, August 19, 2026 @ 7:00 PMLivestreamNY - 14TH ST. MainstageStandupBack to College vs CancerCancer isn't funny but college kids are!   Back to College vs Cancer is a one-night comedy event that brings together college-aged and professional stand-up comedians to make a difference through laughter. Join us for an unforgettable night featuring some…Buy Now",
-      "url": "https://ucbcomedy.com/show/back-to-college-vs-cancer-08-19-26/"
-    },
-    {
-      "title": "Shamilton, the Improvised Hip-Hop Musical",
-      "venue": "UCB Theatre",
-      "date": "2026-08-19T00:00:00Z",
-      "time": "8:30 PM",
-      "description": "Wednesday, August 19, 2026 @ 8:30 PMLivestreamNY - 14TH ST. MainstageImprovShamilton, the Improvised Hip-Hop MusicalImprovised hip-hop homage to Hamilton. You shout the celebrity, we make up the musical! Baby Wants Candy’s improvised hit Hamilton-inspired hip hop homage returns to UCBNY! New York Times “One of the Top 5 Comedy’s to Catch”. Ever heard of…Buy Now",
-      "url": "https://ucbcomedy.com/show/shamilton-the-improvised-hip-hop-musical-08-19-26/"
-    },
-    {
       "title": "RUPI KAUR: UNCUT – A RESIDENCY",
       "venue": "Union Hall",
       "date": "2026-08-20T00:00:00.000Z",
@@ -169,14 +57,6 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
-      "title": "FACTS MACHINE: SCIENCE, COMEDY & TRIVIA!",
-      "venue": "Caveat",
-      "date": "2026-08-20T00:00:00.000Z",
-      "time": "7:00 PM",
-      "description": "A science comedy show + trivia showdown by and for people who are curious about everything – but esp...",
-      "url": "https://caveat.nyc/events/facts-machine-science-comedy--trivia-8-20-2026"
-    },
-    {
       "title": "Comedy Showcase",
       "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
       "date": "2026-08-20T00:00:00.000Z",
@@ -191,14 +71,6 @@
       "time": "7:30 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Joe Mande Con Amici",
-      "venue": "The Bell House",
-      "date": "2026-08-20T00:00:00.000Z",
-      "time": "7:30PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/8/20/joe-mande-con-amici-tickets"
     },
     {
       "title": "Comedy Showcase",
@@ -223,14 +95,6 @@
       "time": "9:00 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "ASK A FUCKBOY: THE BACHELORETTE PARTY",
-      "venue": "Caveat",
-      "date": "2026-08-20T00:00:00.000Z",
-      "time": "9:30 PM",
-      "description": "Girls tell unhinged dating stories, a panel of fuckboys weighs in.",
-      "url": "https://caveat.nyc/events/ask-a-fuckboy-2026-08-20"
     },
     {
       "title": "Comedy Showcase",
@@ -391,14 +255,6 @@
       "time": "7:30 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Binchtopia: The Shake Up Your Life Tour",
-      "venue": "The Bell House",
-      "date": "2026-08-21T00:00:00.000Z",
-      "time": "7:30PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/8/21/binchtopia-the-shake-up-your-life-tour-tickets"
     },
     {
       "title": "Comedy Showcase",
@@ -599,14 +455,6 @@
       "time": "7:30 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Ben Palmer",
-      "venue": "The Bell House",
-      "date": "2026-08-22T00:00:00.000Z",
-      "time": "7:30PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/8/22/ben-palmer-tickets"
     },
     {
       "title": "Comedy Showcase",
@@ -977,14 +825,6 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
-      "title": "Morning Brew Performance Revue",
-      "venue": "The Bell House",
-      "date": "2026-08-25T00:00:00.000Z",
-      "time": "7:30PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/8/25/morning-brew-performance-revue-tickets"
-    },
-    {
       "title": "Comedy Showcase",
       "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
       "date": "2026-08-25T00:00:00.000Z",
@@ -1074,6 +914,14 @@
     },
     {
       "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
+      "date": "2026-08-26T00:00:00.000Z",
+      "time": "10:30 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
       "venue": "Comedy Cellar - MacDougal Street",
       "date": "2026-08-26T00:00:00.000Z",
       "time": "11:30 pm",
@@ -1119,14 +967,6 @@
       "time": "8:00 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "The Moth StorySLAM",
-      "venue": "The Bell House",
-      "date": "2026-08-26T00:00:00.000Z",
-      "time": "8:00PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/8/26/the-moth-storyslam-tickets"
     },
     {
       "title": "Comedy Showcase",
@@ -1218,6 +1058,14 @@
     },
     {
       "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
+      "date": "2026-08-27T00:00:00.000Z",
+      "time": "11:00 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
       "venue": "Comedy Cellar - Village Underground",
       "date": "2026-08-27T00:00:00.000Z",
       "time": "11:30 pm",
@@ -1255,14 +1103,6 @@
       "time": "7:30 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "UpDating",
-      "venue": "The Bell House",
-      "date": "2026-08-27T00:00:00.000Z",
-      "time": "7:30PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/8/27/updating-tickets"
     },
     {
       "title": "Comedy Showcase",
@@ -1377,14 +1217,6 @@
       "url": "https://caveat.nyc/events/abolish-everything-2026-08-28"
     },
     {
-      "title": "FunkyFrogBait Presents:",
-      "venue": "The Bell House",
-      "date": "2026-08-28T00:00:00.000Z",
-      "time": "7:30PM",
-      "description": null,
-      "url": "https://donyc.com/venues/the-bell-house"
-    },
-    {
       "title": "The Trash King",
       "venue": "UCB Theatre",
       "date": "2026-08-28T00:00:00Z",
@@ -1433,12 +1265,20 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "Therapy Gecko: A One Lizard Show Special Taping",
-      "venue": "The Bell House",
+      "title": "TALK HEAVY COMEDY",
+      "venue": "Caveat",
       "date": "2026-08-29T00:00:00.000Z",
-      "time": "9:30PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/8/29/therapy-gecko-tickets"
+      "time": "1:30 PM",
+      "description": "Talk Heavy Comedy is a curated stand-up show featuring bold voices, sharp humor, and real perspectiv...",
+      "url": "https://caveat.nyc/events/talk-heavy-comedy-2026-08-29"
+    },
+    {
+      "title": "RIPSTICKIN' & BURPIN'",
+      "venue": "Caveat",
+      "date": "2026-08-29T00:00:00.000Z",
+      "time": "4:00 PM",
+      "description": "A stand-up / storytelling show exploring the absurdities of modern life? Also there's a Ripstick. No...",
+      "url": "https://caveat.nyc/events/ripstickin--burpin-8-29-2026"
     },
     {
       "title": "UCBNY Staff Show",
@@ -1471,14 +1311,6 @@
       "time": null,
       "description": "Nina Lane presents: We're All Walking Out of Here Alive",
       "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Kaiju Big Battel: Game Show Show 2",
-      "venue": "The Bell House",
-      "date": "2026-08-30T00:00:00.000Z",
-      "time": "6:00PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/8/30/kaiju-big-battel-game-show-show-2-tickets"
     },
     {
       "title": "Lloyd Night: Cruise Control & WET",
@@ -1524,6 +1356,14 @@
       "title": "Comedy Showcase",
       "venue": "Comedy Cellar",
       "date": "2026-08-31T00:00:00.000Z",
+      "time": "6:00 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar",
+      "date": "2026-08-31T00:00:00.000Z",
       "time": "7:00 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
@@ -1561,14 +1401,6 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
-      "title": "Jon Ronson presents",
-      "venue": "The Bell House",
-      "date": "2026-09-01T00:00:00.000Z",
-      "time": "7:30PM",
-      "description": null,
-      "url": "https://donyc.com/venues/the-bell-house"
-    },
-    {
       "title": "Harold Night: Hot FM & Club Gator & Rhubarb & Your Girlfriend",
       "venue": "UCB Theatre",
       "date": "2026-09-01T00:00:00Z",
@@ -1593,14 +1425,6 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
-      "title": "Jon Glaser - Live Special Taping",
-      "venue": "The Bell House",
-      "date": "2026-09-02T00:00:00.000Z",
-      "time": "7:30PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/9/2/jon-glaser-live-special-taping-tickets"
-    },
-    {
       "title": "Rumpleteaser Musical Improv",
       "venue": "UCB Theatre",
       "date": "2026-09-02T00:00:00Z",
@@ -1623,14 +1447,6 @@
       "time": null,
       "description": "George Civeris: Brand New Stuff!",
       "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "100% Eat Live!",
-      "venue": "The Bell House",
-      "date": "2026-09-03T00:00:00.000Z",
-      "time": "7:30PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/9/3/100-eat-live-tickets"
     },
     {
       "title": "Cage Match: TBD vs. TBD",
@@ -1769,14 +1585,6 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
-      "title": "The Silver Lining with Gianmarco Soresi",
-      "venue": "The Bell House",
-      "date": "2026-09-07T00:00:00.000Z",
-      "time": "7:30PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/9/7/the-silver-lining-with-gianmarco-soresi-tickets"
-    },
-    {
       "title": "PRETTY MAJOR Hosted by Jay Jurden",
       "venue": "Union Hall",
       "date": "2026-09-08T00:00:00.000Z",
@@ -1817,14 +1625,6 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
-      "title": "Gus Heagerty, Live! Is This the New Me?",
-      "venue": "The Bell House",
-      "date": "2026-09-09T00:00:00.000Z",
-      "time": "7:30PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/9/9/gus-heagerty-live-is-this-the-new-me-tickets"
-    },
-    {
       "title": "Comedy Showcase",
       "venue": "Comedy Cellar",
       "date": "2026-09-09T00:00:00.000Z",
@@ -1855,14 +1655,6 @@
       "time": null,
       "description": "LOVE THAT: Hosted by Jessie Lee & Megan Rosenblum",
       "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Stamptown",
-      "venue": "The Bell House",
-      "date": "2026-09-10T00:00:00.000Z",
-      "time": "8:00PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/9/10/stamptown-tickets"
     },
     {
       "title": "Cage Match: TBD vs. Go Dummy",
@@ -1905,14 +1697,6 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "Joe Dombrowski",
-      "venue": "The Bell House",
-      "date": "2026-09-11T00:00:00.000Z",
-      "time": "9:30PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/9/11/joe-dombrowski-tickets"
-    },
-    {
       "title": "The Trash King",
       "venue": "UCB Theatre",
       "date": "2026-09-11T00:00:00Z",
@@ -1953,14 +1737,6 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "Joe Dombrowski",
-      "venue": "The Bell House",
-      "date": "2026-09-12T00:00:00.000Z",
-      "time": "8:30PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/9/11/joe-dombrowski-tickets"
-    },
-    {
       "title": "Duchovny",
       "venue": "UCB Theatre",
       "date": "2026-09-12T00:00:00Z",
@@ -1991,14 +1767,6 @@
       "time": "4:00 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Liza Treyger Presents:",
-      "venue": "The Bell House",
-      "date": "2026-09-13T00:00:00.000Z",
-      "time": "7:30PM",
-      "description": null,
-      "url": "https://donyc.com/venues/the-bell-house"
     },
     {
       "title": "Lloyd Night: WET & Cruise Control",
@@ -2065,14 +1833,6 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
-      "title": "The Moth StorySLAM",
-      "venue": "The Bell House",
-      "date": "2026-09-14T00:00:00.000Z",
-      "time": "8:00PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/8/26/the-moth-storyslam-tickets"
-    },
-    {
       "title": "MAUDE NIGHT: Fridge Magnet & First Wife",
       "venue": "UCB Theatre",
       "date": "2026-09-14T00:00:00Z",
@@ -2113,14 +1873,6 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
-      "title": "Stamptown",
-      "venue": "The Bell House",
-      "date": "2026-09-15T00:00:00.000Z",
-      "time": "8:00PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/9/10/stamptown-tickets"
-    },
-    {
       "title": "The Diversity Jam",
       "venue": "UCB Theatre",
       "date": "2026-09-15T00:00:00Z",
@@ -2143,6 +1895,30 @@
       "time": "9:30 PM",
       "description": "Tuesday, September 15, 2026 @ 9:30 PMNY - 14TH ST. MainstageImprovTeacher FeatureUCB Teachers improvise for you! UCB Teachers Donald Chang, Ray Cordova, and Molly Thomas host a group of UCB Teachers who’ll improvise for you. Prepare to have your minds blown as these vets prove they can walk the walk. Hosts: Donald Chang, Raymond Cordova,…Buy Now",
       "url": "https://ucbcomedy.com/show/teacher-feature-09-15-26/"
+    },
+    {
+      "title": "Matteo Lane",
+      "venue": "Comedy Cellar",
+      "date": "2026-09-16T00:00:00.000Z",
+      "time": "10:00 pm",
+      "description": "Matteo Lane: The Advice Special",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar",
+      "date": "2026-09-16T00:00:00.000Z",
+      "time": "7:00 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Matteo Lane",
+      "venue": "Comedy Cellar",
+      "date": "2026-09-16T00:00:00.000Z",
+      "time": "8:00 pm",
+      "description": "Matteo Lane: The Advice Special",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
       "title": "John and Scott: Two Person Improv",
@@ -2287,6 +2063,22 @@
       "time": null,
       "description": "PRETTY MAJOR Hosted by Jay Jurden",
       "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Harold Night: Club Gator & Your Girlfriend & The Mall & Rhubarb",
+      "venue": "UCB Theatre",
+      "date": "2026-09-22T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Tuesday, September 22, 2026 @ 7:00 PMNY - 14TH ST. MainstageImprovHarold Night: Club Gator & Your Girlfriend & The Mall & RhubarbYour one-stop shop to see UCB’s house improv ensembles perform every Tuesday! Harold Night is UCB’s long-running weekly improv show featuring homegrown teams at the top of their game performing, you guessed it, The Harold.   Featuring: Club Gator &…Buy Now",
+      "url": "https://ucbcomedy.com/show/harold-night-club-gator-your-girlfriend-the-mall-rhubarb-2026-09-22/"
+    },
+    {
+      "title": "Top Shelf Stories",
+      "venue": "UCB Theatre",
+      "date": "2026-09-23T00:00:00Z",
+      "time": "7:30 PM",
+      "description": "Wednesday, September 23, 2026 @ 7:30 PMNY - 14TH ST. UpstairsStorytellingTop Shelf StoriesServing the best stories from the best people in the best city in the world! Julia Whitehouse hosts the best of the best storytelling with all her funny friends and one lucky audience member. 11 years of hosting NYC’s longest running…Buy Now",
+      "url": "https://ucbcomedy.com/show/top-shelf-stories-09-23-26/"
     },
     {
       "title": "RUPI KAUR: UNCUT – A RESIDENCY",
@@ -2465,6 +2257,102 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "Shaunak Does Improvised Standup",
+      "venue": "Union Hall",
+      "date": "2026-11-06T00:00:00.000Z",
+      "time": null,
+      "description": "Shaunak Does Improvised Standup",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Charlie Flynn: Live at Union Hall",
+      "venue": "Union Hall",
+      "date": "2026-11-07T00:00:00.000Z",
+      "time": null,
+      "description": "Charlie Flynn: Live at Union Hall",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Honey Pluton and Spike Einbinder present: Changes",
+      "venue": "Union Hall",
+      "date": "2026-11-07T00:00:00.000Z",
+      "time": null,
+      "description": "Honey Pluton and Spike Einbinder present: Changes",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "The Untitled Tessa and Freddie Project",
+      "venue": "Union Hall",
+      "date": "2026-11-07T00:00:00.000Z",
+      "time": null,
+      "description": "The Untitled Tessa and Freddie Project",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Gag Reflex: a sketch show",
+      "venue": "Union Hall",
+      "date": "2026-11-08T00:00:00.000Z",
+      "time": null,
+      "description": "Gag Reflex: a sketch show",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Gabrielle Kennedy Presents Costume Party",
+      "venue": "Union Hall",
+      "date": "2026-11-08T00:00:00.000Z",
+      "time": null,
+      "description": "Gabrielle Kennedy Presents Costume Party",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Peyton Dix and Friends",
+      "venue": "Union Hall",
+      "date": "2026-11-09T00:00:00.000Z",
+      "time": null,
+      "description": "Peyton Dix and Friends",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Critical Grace Theory",
+      "venue": "Union Hall",
+      "date": "2026-11-09T00:00:00.000Z",
+      "time": null,
+      "description": "Critical Grace Theory",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "PRETTY MAJOR Hosted by Jay Jurden NYCF Edition",
+      "venue": "Union Hall",
+      "date": "2026-11-10T00:00:00.000Z",
+      "time": null,
+      "description": "PRETTY MAJOR Hosted by Jay Jurden NYCF Edition",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Eddie Pepitone Headlining Union Hall",
+      "venue": "Union Hall",
+      "date": "2026-11-10T00:00:00.000Z",
+      "time": null,
+      "description": "Eddie Pepitone Headlining Union Hall",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Maddy Kelly",
+      "venue": "Union Hall",
+      "date": "2026-11-11T00:00:00.000Z",
+      "time": null,
+      "description": "Maddy Kelly",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Eddie Pepitone Headlining Union Hall",
+      "venue": "Union Hall",
+      "date": "2026-11-11T00:00:00.000Z",
+      "time": null,
+      "description": "Eddie Pepitone Headlining Union Hall",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
       "title": "Sienna Hubert-Ross & Friends",
       "venue": "Union Hall",
       "date": "2026-11-12T00:00:00.000Z",
@@ -2473,31 +2361,71 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "The Late Show w/ Stephen Colbert's Writers Present:",
-      "venue": "The Bell House",
-      "date": "2027-08-18T00:00:00.000Z",
+      "title": "Extremely Loud and Incredibly Cute",
+      "venue": "Union Hall",
+      "date": "2026-11-12T00:00:00.000Z",
       "time": null,
-      "description": null,
-      "url": "https://donyc.com/venues/the-bell-house"
+      "description": "Extremely Loud and Incredibly Cute",
+      "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "PITCH ROAST LIVE",
+      "title": "Jake Lambert Live in New York",
+      "venue": "Union Hall",
+      "date": "2026-11-13T00:00:00.000Z",
+      "time": null,
+      "description": "Jake Lambert Live in New York",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Neel Ghosh: Pagol",
+      "venue": "Union Hall",
+      "date": "2026-11-13T00:00:00.000Z",
+      "time": null,
+      "description": "Neel Ghosh: Pagol",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Sureni Does an Hour of Comedy",
+      "venue": "Union Hall",
+      "date": "2026-11-14T00:00:00.000Z",
+      "time": null,
+      "description": "Sureni Does an Hour of Comedy",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Business Casual: Sicko Psycho Mode Reunion",
+      "venue": "Union Hall",
+      "date": "2026-11-14T00:00:00.000Z",
+      "time": null,
+      "description": "Business Casual: Sicko Psycho Mode Reunion",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Kel Cripe: Easily Swindled",
+      "venue": "Union Hall",
+      "date": "2026-11-15T00:00:00.000Z",
+      "time": null,
+      "description": "Kel Cripe: Easily Swindled",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "FACTS MACHINE: SCIENCE, COMEDY & TRIVIA!",
       "venue": "Caveat",
-      "date": "2027-08-19T00:00:00.000Z",
+      "date": "2027-08-20T00:00:00.000Z",
       "time": "7:00 PM",
-      "description": "​Pitch Roast Live️‍ brings comedy, startups, and venture capital together.",
-      "url": "https://caveat.nyc/events/pitch-roast-live-2026-08-19"
+      "description": "A science comedy show + trivia showdown by and for people who are curious about everything – but esp...",
+      "url": "https://caveat.nyc/events/facts-machine-science-comedy--trivia-8-20-2026"
     },
     {
-      "title": "SORRY WE'RE HERE: A SKETCH COMEDY SHOW",
+      "title": "ASK A FUCKBOY: THE BACHELORETTE PARTY",
       "venue": "Caveat",
-      "date": "2027-08-19T00:00:00.000Z",
+      "date": "2027-08-20T00:00:00.000Z",
       "time": "9:30 PM",
-      "description": "Sorry We're Here presents an original sketch comedy show",
-      "url": "https://caveat.nyc/events/sorry-were-here-2026-08-19"
+      "description": "Girls tell unhinged dating stories, a panel of fuckboys weighs in.",
+      "url": "https://caveat.nyc/events/ask-a-fuckboy-2026-08-20"
     }
   ],
-  "lastUpdated": "2026-08-19T06:54:46.098707Z",
+  "lastUpdated": "2026-08-20T06:44:00.165659Z",
   "sources": [
     "DoNYC",
     "Caveat",
@@ -2507,5 +2435,5 @@
     "UCB Theatre",
     "The Bell House"
   ],
-  "totalShows": 312
+  "totalShows": 303
 }

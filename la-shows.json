@@ -1,158 +1,6 @@
 {
   "shows": [
     {
-      "title": "Fortune and Tom and Friends",
-      "venue": "Largo at the Coronet",
-      "date": "2026-08-19T00:00:00",
-      "time": "8:00 PM",
-      "description": "$40.00",
-      "url": "https://wl.seetickets.us/event/fortune-and-tom-and-friends/699768?afflky=LargoAtTheCoronet"
-    },
-    {
-      "venue": "Hollywood Improv",
-      "title": "Lab Work",
-      "date": "2026-08-19T00:00:00Z",
-      "time": "6:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/19/lab-work-tickets"
-    },
-    {
-      "venue": "The Ice House Comedy Club",
-      "title": "Social Hour",
-      "date": "2026-08-19T00:00:00Z",
-      "time": "6:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/19/social-hour-tickets"
-    },
-    {
-      "venue": "Hollywood Improv",
-      "title": "Legends Ft. Jay Leno, Iliza Shlesinger, Arsenio Hall, Kevin Nealon, Greg Baldwin, Peter Murphy",
-      "date": "2026-08-19T00:00:00Z",
-      "time": "7:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/19/legends-ft-jay-leno-greg-baldwin-and-more-tba-tickets"
-    },
-    {
-      "venue": "The Laugh Factory",
-      "title": "Hollywood All-Stars",
-      "date": "2026-08-19T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/19/hollywood-all-stars-tickets"
-    },
-    {
-      "venue": "The Ice House Comedy Club",
-      "title": "ADAM RAY JUST ADDED! Dusted Company Presents: Damon Wayans, Harland William, Steph Tolev & More!",
-      "date": "2026-08-19T00:00:00Z",
-      "time": "7:45PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/19/adam-ray-just-added-dusted-company-presents-damon-wayans-harland-william-steph-tolev-more-tickets"
-    },
-    {
-      "venue": "The Ice House Comedy Club",
-      "title": "ADAM RAY JUST ADDED! Dusted Company Presents: Harland Williams, Steph Tolev, Jefferson McDonald & More!",
-      "date": "2026-08-19T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/19/adam-ray-just-added-dusted-company-presents-harland-williams-steph-tolev-jefferson-mcdonald-more-tickets"
-    },
-    {
-      "venue": "Largo",
-      "title": "Fortune and Tom and Friends",
-      "date": "2026-08-19T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/19/fortune-and-tom-and-friends-tickets"
-    },
-    {
-      "venue": "Baby Battista @ Nico's",
-      "title": "Improvised Trio | Spencer Zahn, Soyoon Hwang + Friends",
-      "date": "2026-08-19T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/19/improvised-trio-spencer-zahn-soyoon-hwang-friends-tickets"
-    },
-    {
-      "venue": "Baby Battista @ Nico's",
-      "title": "Bead-a-long with Okay Gems | build your own beaded jewelry",
-      "date": "2026-08-19T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/19/bead-a-long-with-okay-gems-build-your-own-beaded-jewelry-tickets"
-    },
-    {
-      "venue": "The Upstairs LA",
-      "title": "Mark Hayes & Friends",
-      "date": "2026-08-19T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/19/mark-hayes-friends-tickets"
-    },
-    {
-      "venue": "N17 The Lane",
-      "title": "Comedy in Mar Vista",
-      "date": "2026-08-19T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/19/comedy-in-mar-vista-tickets"
-    },
-    {
-      "title": "Maude Night: Mash-Up Team & Rodeo Baby",
-      "venue": "UCB FRANKLIN",
-      "date": "2026-08-19T00:00:00Z",
-      "time": "8:30 PM",
-      "description": "Wednesday, August 19, 2026 @ 8:30 PMLA - FRANKLINSketchMaude Night: Mash-Up Team & Rodeo BabyMaude Night boasts brand new material by UCB’s house sketch teams every month. Come see top-notch sketch comedy featuring two teams of UCB’s finest writers and performers. ----- Featuring: Mash-Up Team Writers - Anushka Thorat, Talia Lefkowitz, Kevin Brunette, Talon…Buy Now",
-      "url": "https://ucbcomedy.com/show/maude-night-town-crier-rodeo-baby-2026-08-19/"
-    },
-    {
-      "venue": "Bar Lubitsch",
-      "title": "Totally! Standup Comedy With Comics from HBO and Netflix",
-      "date": "2026-08-19T00:00:00Z",
-      "time": "8:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/19/totally-standup-comedy-with-comics-from-hbo-and-netflix-1784227980"
-    },
-    {
-      "venue": "Hollywood Improv",
-      "title": "Babe Stoppp Ft. Aparna Nancherla, Rachel Scanlon, The Sklar Brothers, Kyle Prue, Bebe Katsenes, Rachel Pegram, Danny Sellers, Ca",
-      "date": "2026-08-19T00:00:00Z",
-      "time": "8:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/19/babe-stoppp-ft-caroline-timoney-and-hannah-schoen-tickets"
-    },
-    {
-      "venue": "The Elysian Theater",
-      "title": "Hoop",
-      "date": "2026-08-19T00:00:00Z",
-      "time": "8:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/19/hoop-tickets"
-    },
-    {
-      "title": "Night School",
-      "venue": "UCB FRANKLIN",
-      "date": "2026-08-19T00:00:00Z",
-      "time": "9:30 PM",
-      "description": "Wednesday, August 19, 2026 @ 9:30 PMLA - ANNEXImprovNight SchoolGet a chance to perform with a rotating cast of your favorite UCB teachers, or just sit back and enjoy the lesson. Night School is in session, but we swear it'll be fun this time. Come watch a rotating cast…Read more",
-      "url": "https://ucbcomedy.com/show/night-school-2026-08-12/"
-    },
-    {
-      "venue": "The Elysian Theater",
-      "title": "Whose Line Is It Anywho?",
-      "date": "2026-08-19T00:00:00Z",
-      "time": "9:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/19/whose-line-is-it-anywho-tickets"
-    },
-    {
-      "venue": "Hollywood Improv",
-      "title": "Hannibal Buress",
-      "date": "2026-08-19T00:00:00Z",
-      "time": "9:45PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/19/hannibal-buress-tickets"
-    },
-    {
       "title": "Chris Fleming and Friends",
       "venue": "Largo at the Coronet",
       "date": "2026-08-20T00:00:00",
@@ -225,20 +73,20 @@
       "url": "https://dolosangeles.com/events/2026/8/20/the-download-comedy-show-ft-kate-lav-oj-stellar-and-more-tba-tickets"
     },
     {
-      "venue": "The Laugh Factory",
-      "title": "Hollywood All-Stars",
-      "date": "2026-08-20T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/20/hollywood-all-stars-tickets"
-    },
-    {
       "venue": "Hollywood Improv",
       "title": "Tonight at The Improv Ft. Brian Monarch and More Tba",
       "date": "2026-08-20T00:00:00Z",
       "time": "7:30PM",
       "description": "",
       "url": "https://dolosangeles.com/events/2026/8/20/tonight-at-the-improv-ft-brian-monarch-and-more-tba-tickets"
+    },
+    {
+      "venue": "The Laugh Factory",
+      "title": "Hollywood All-Stars",
+      "date": "2026-08-20T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/20/hollywood-all-stars-tickets"
     },
     {
       "title": "Lloyd Night ft. PTO & Jinx",
@@ -289,6 +137,14 @@
       "url": "https://dolosangeles.com/events/2026/8/20/duce-night-tickets"
     },
     {
+      "venue": "Clark Street Diner",
+      "title": "I Need This: A Comedy Show (8/20)",
+      "date": "2026-08-20T00:00:00Z",
+      "time": "8:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/20/i-need-this-a-comedy-show-820-tickets"
+    },
+    {
       "title": "Club 401: A Harold Jam",
       "venue": "UCB FRANKLIN",
       "date": "2026-08-20T00:00:00Z",
@@ -311,6 +167,14 @@
       "time": "9:45PM",
       "description": "",
       "url": "https://dolosangeles.com/events/2026/8/20/tehran-thursdays-tickets"
+    },
+    {
+      "venue": "Santa Monica Playhouse",
+      "title": "Drunk Theatre LA",
+      "date": "2026-08-20T06:44:20.516388Z",
+      "time": "9:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/weeklies/2026/08/21"
     },
     {
       "title": "Marc Maron – Stand-Up Show",
@@ -385,20 +249,20 @@
       "url": "https://dolosangeles.com/events/2026/8/21/marc-maron-stand-up-show-tickets"
     },
     {
-      "venue": "The Upstairs LA",
-      "title": "Mark Hayes & Friends",
-      "date": "2026-08-21T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/21/mark-hayes-friends-tickets"
-    },
-    {
       "venue": "The Elysian Theater",
       "title": "Tstmrkt",
       "date": "2026-08-21T00:00:00Z",
       "time": "8:00PM",
       "description": "",
       "url": "https://dolosangeles.com/events/2026/8/21/tstmrkt-tickets"
+    },
+    {
+      "venue": "The Upstairs LA",
+      "title": "Mark Hayes & Friends",
+      "date": "2026-08-21T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/21/mark-hayes-friends-tickets"
     },
     {
       "title": "FRIDAY FIX! Winslow & Queen George",
@@ -433,6 +297,14 @@
       "url": "https://dolosangeles.com/events/2026/8/21/the-hypnosis-improv-show-tickets"
     },
     {
+      "venue": "Hollywood Improv",
+      "title": "Nika King and Friends",
+      "date": "2026-08-21T00:00:00Z",
+      "time": "9:45PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/21/nika-king-and-friends-tickets"
+    },
+    {
       "title": "Mae Martin and Friends",
       "venue": "Largo at the Coronet",
       "date": "2026-08-22T00:00:00",
@@ -449,12 +321,28 @@
       "url": "https://ucbcomedy.com/show/its-a-match-2026-08-22/"
     },
     {
+      "venue": "The Regent Theater",
+      "title": "I Said What I Said: Live In Los Angeles",
+      "date": "2026-08-22T00:00:00Z",
+      "time": "5:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/22/i-said-what-i-said-live-in-los-angeles-tickets"
+    },
+    {
       "title": "Menudo’s Feliz Hour: Improv in English, Spanish y Espanglish!",
       "venue": "UCB FRANKLIN",
       "date": "2026-08-22T00:00:00Z",
       "time": "5:30 PM",
       "description": "Saturday, August 22, 2026 @ 5:30 PMLA - FRANKLINImprovMenudo’s Feliz Hour: Improv in English, Spanish y Espanglish!An Hour of Improv Featuring the BEST Latine Performers in LA! LA’s longest running Latine improv team — MENUDO — hosts an all-star show featuring a rotating cast of the hottest Latine improvisers in town. Feliz Hour is more than…Buy Now",
       "url": "https://ucbcomedy.com/show/menudos-feliz-hour-2026-08-22/"
+    },
+    {
+      "venue": "The Elysian Theater",
+      "title": "Freakus! An Improv Show",
+      "date": "2026-08-22T00:00:00Z",
+      "time": "6:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/22/freakus-an-improv-show-tickets"
     },
     {
       "title": "ASSSSKETCH LA",
@@ -465,6 +353,30 @@
       "url": "https://ucbcomedy.com/show/assssketch-la-2026-08-22/"
     },
     {
+      "venue": "Hollywood Improv",
+      "title": "Tonight at The Improv",
+      "date": "2026-08-22T00:00:00Z",
+      "time": "7:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/22/tonight-at-the-improv-tickets"
+    },
+    {
+      "venue": "The Laugh Factory",
+      "title": "Saturday Night All-Stars",
+      "date": "2026-08-22T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/22/saturday-night-all-stars-tickets"
+    },
+    {
+      "venue": "The Elysian Theater",
+      "title": "Night Shift",
+      "date": "2026-08-22T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/22/night-shift-tickets"
+    },
+    {
       "title": "SAHD (Stay-At-Home Dad)",
       "venue": "UCB FRANKLIN",
       "date": "2026-08-22T00:00:00Z",
@@ -473,12 +385,44 @@
       "url": "https://ucbcomedy.com/show/sahd-stay-at-home-dad/"
     },
     {
+      "venue": "Largo",
+      "title": "Mae Martin and Friends",
+      "date": "2026-08-22T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/22/pete-holmes-living-at-largo-tickets"
+    },
+    {
+      "venue": "The Elysian Theater",
+      "title": "Hang-her WIP",
+      "date": "2026-08-22T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/22/hang-her-wip-tickets"
+    },
+    {
       "title": "ASSSSCAT LA",
       "venue": "UCB FRANKLIN",
       "date": "2026-08-22T00:00:00Z",
       "time": "8:30 PM",
       "description": "Saturday, August 22, 2026 @ 8:30 PMLA - FRANKLINLivestreamImprovASSSSCAT LAASSSSCAT—UCB’s signature improv juggernaut—is a live improv comedy show in Los Angeles at the Upright Citizens Brigade Theatre. An all-star comedy show featuring comedians you know from SNL, Dropout, and the world of Film & Television doing improv inspired by…Buy Now",
       "url": "https://ucbcomedy.com/show/asssscat-la-2026-08-16/"
+    },
+    {
+      "venue": "The Elysian Theater",
+      "title": "Tomorrow! w/ Ron Lynch *EARLY EDITION!*",
+      "date": "2026-08-22T00:00:00Z",
+      "time": "9:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/22/tomorrow-w-ron-lynch-early-edition-tickets"
+    },
+    {
+      "venue": "Hollywood Improv",
+      "title": "La Vs Transplants Ft. Kayla Hardy, Amber Easton, and More Tba",
+      "date": "2026-08-22T00:00:00Z",
+      "time": "9:45PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/22/la-vs-transplants-ft-kayla-hardy-amber-easton-and-more-tba-tickets"
     },
     {
       "title": "Spank: Trust Me, I’m from Essex",
@@ -1145,12 +1089,28 @@
       "url": "https://wl.seetickets.us/event/pete-holmes-living-at-largo/701829?afflky=LargoAtTheCoronet"
     },
     {
+      "title": "Club 401: A Harold Jam",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-09-10T00:00:00Z",
+      "time": "9:00 PM",
+      "description": "Thursday, September 10, 2026 @ 9:00 PMLA - ANNEXImprovClub 401: A Harold JamClub 401 is a Harold-focused jam for anyone who's completed Improv 401. Come hang, watch, and maybe even play alongside performers from current AND former Harold/Lloyd night rosters. Get extra reps or just hang - either way, join us for…Read more",
+      "url": "https://ucbcomedy.com/show/club-401-a-harold-jam-2026-09-03/"
+    },
+    {
       "title": "Dinosaur Improv w/ Paul Scheer",
       "venue": "Largo at the Coronet",
       "date": "2026-09-11T00:00:00",
       "time": "8:00 PM",
       "description": "$40.00",
       "url": "https://wl.seetickets.us/event/dinosaur-improv-w-paul-scheer/701830?afflky=LargoAtTheCoronet"
+    },
+    {
+      "title": "Musical Improv Jam",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-09-11T00:00:00Z",
+      "time": "5:30 PM",
+      "description": "Friday, September 11, 2026 @ 5:30 PMLA - FRANKLINImprovMusical Improv JamA free musical improv jam. Musical improv is improv with the added conventions of musical theatre, meaning that your improvised scenes turn to songs, and you make up all the sung lyrics and choreography along with the scene. Whether you've…Read more",
+      "url": "https://ucbcomedy.com/show/musical-improv-jam-2026-08-14/"
     },
     {
       "title": "Josh Johnson Live – Late Show",
@@ -1177,6 +1137,14 @@
       "url": "https://wl.seetickets.us/event/the-improvised-shakespeare-company/702580?afflky=LargoAtTheCoronet"
     },
     {
+      "title": "Chris Fleming and Friends",
+      "venue": "Largo at the Coronet",
+      "date": "2026-09-15T00:00:00",
+      "time": "8:00 PM",
+      "description": "$40.00",
+      "url": "https://wl.seetickets.us/event/chris-fleming-and-friends/703017?afflky=LargoAtTheCoronet"
+    },
+    {
       "title": "Maria Bamford and Friends",
       "venue": "Largo at the Coronet",
       "date": "2026-09-18T00:00:00",
@@ -1199,6 +1167,14 @@
       "time": "8:00 PM",
       "description": "$40.00",
       "url": "https://wl.seetickets.us/event/tig-has-friends/696625?afflky=LargoAtTheCoronet"
+    },
+    {
+      "title": "Chris Fleming and Friends",
+      "venue": "Largo at the Coronet",
+      "date": "2026-09-29T00:00:00",
+      "time": "8:00 PM",
+      "description": "$40.00",
+      "url": "https://wl.seetickets.us/event/chris-fleming-and-friends/703018?afflky=LargoAtTheCoronet"
     },
     {
       "title": "Jamie Lee: My Friend Katy",
@@ -1329,8 +1305,8 @@
       "url": "https://wl.seetickets.us/event/watkins-family-hour-holiday-show/702451?afflky=LargoAtTheCoronet"
     }
   ],
-  "lastUpdated": "2026-08-19T07:59:12.220355Z",
-  "totalShows": 166,
+  "lastUpdated": "2026-08-20T06:54:50.561212Z",
+  "totalShows": 163,
   "sources": [
     "DoLA",
     "UCB FRANKLIN",
