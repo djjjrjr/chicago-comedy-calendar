@@ -1,102 +1,6 @@
 {
   "shows": [
     {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-08-24T00:00:00.000Z",
-      "time": "10:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar",
-      "date": "2026-08-24T00:00:00.000Z",
-      "time": "10:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-08-24T00:00:00.000Z",
-      "time": "11:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar",
-      "date": "2026-08-24T00:00:00.000Z",
-      "time": "7:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-08-24T00:00:00.000Z",
-      "time": "7:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-08-24T00:00:00.000Z",
-      "time": "7:35 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-08-24T00:00:00.000Z",
-      "time": "8:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat",
-      "date": "2026-08-24T00:00:00.000Z",
-      "time": "8:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-08-24T00:00:00.000Z",
-      "time": "9:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-08-24T00:00:00.000Z",
-      "time": "9:35 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Gravid Water",
-      "venue": "UCB Theatre",
-      "date": "2026-08-24T00:00:00Z",
-      "time": "7:00 PM",
-      "description": "Monday, August 24, 2026 @ 7:00 PMLivestreamNY - 14TH ST. MainstageImprovGravid WaterGravid Water is a theater/improv mash-up featuring the biggest names in comedy, theater, TV, and film. Gravid Water is a theatrical-comedy experiment where actors are given real scenes from real plays that they prepare as they would for a regular…Buy Now",
-      "url": "https://ucbcomedy.com/show/gravid-water-08-24-26/"
-    },
-    {
-      "title": "Final Callback",
-      "venue": "UCB Theatre",
-      "date": "2026-08-24T00:00:00Z",
-      "time": "8:30 PM",
-      "description": "Monday, August 24, 2026 @ 8:30 PMLivestreamNY - 14TH ST. MainstageImprovFinal CallbackMusical Comedy is dying in NYC….unless these performers can save it. WELCOME TO Final Callback: MEGACHURCH We have a problem - Tony Harkin “found God” and is becoming a megachurch pastor! With this titan missing, someone has to preserve musical…Buy Now",
-      "url": "https://ucbcomedy.com/show/final-callback-08-24-26/"
-    },
-    {
       "title": "Aaron Chen New Material Show",
       "venue": "Union Hall",
       "date": "2026-08-25T00:00:00.000Z",
@@ -127,14 +31,6 @@
       "time": "11:30 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "LET'S SEE, WHAT ELSE 10-YEAR ANNIVERSARY",
-      "venue": "Caveat",
-      "date": "2026-08-25T00:00:00.000Z",
-      "time": "7:00 PM",
-      "description": "Hosts Courtney Maginnis & Tom Delgado celebrate the 10-year anniversary of their popular weekly stan...",
-      "url": "https://caveat.nyc/events/lets-see-what-else-10-year-anniversary-8-25-2026"
     },
     {
       "title": "Robert Kelly",
@@ -183,14 +79,6 @@
       "time": "8:30 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "OFF THE RECORD: A MUSICAL DOCUMENTARY",
-      "venue": "Caveat",
-      "date": "2026-08-25T00:00:00.000Z",
-      "time": "9:30 PM",
-      "description": "Off The Record presents true crime documentaries like you've never seen them before - as improvised ...",
-      "url": "https://caveat.nyc/events/off-the-record-a-musical-documentary-2026-08-25"
     },
     {
       "title": "Comedy Showcase",
@@ -865,6 +753,14 @@
       "url": "https://caveat.nyc/events/sagematch-2026-09-01"
     },
     {
+      "title": "The Lady Jam",
+      "venue": "UCB Theatre",
+      "date": "2026-09-01T00:00:00Z",
+      "time": "5:30 PM",
+      "description": "Tuesday, September 1, 2026 @ 5:30 PMNY - 14TH ST. MainstageImprovThe Lady JamA jam-meets-dance-party for women and non-binary improvisors of all levels <3 Lady Jam is a longstanding UCB tradition — a free, inclusive, and welcoming improv jam for UCB students, performers, and fans who identify as women or non-binary! All you…Read more",
+      "url": "https://ucbcomedy.com/show/the-lady-jam-09-01-26/"
+    },
+    {
       "title": "Harold Night: Hot FM & Club Gator & Rhubarb & Your Girlfriend",
       "venue": "UCB Theatre",
       "date": "2026-09-01T00:00:00Z",
@@ -887,6 +783,14 @@
       "time": null,
       "description": "Cold Plunge with Kurt Braunohler",
       "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "DOCTORS WITHOUT BOUNDARIES",
+      "venue": "Caveat",
+      "date": "2026-09-02T00:00:00.000Z",
+      "time": "7:00 PM",
+      "description": "Comedy and medicine live, hosted by ER doctor Aaron Bola",
+      "url": "https://caveat.nyc/events/doctors-without-boundaries-9-2-2026"
     },
     {
       "title": "Comedy Showcase",
@@ -1135,6 +1039,22 @@
       "time": "9:30 PM",
       "description": "Tuesday, September 8, 2026 @ 9:30 PMLivestreamNY - 14TH ST. MainstageClownStandupStand Up and ClownThe cruelest show in clown. “The father of modern clown in LA” – NPR Chad Damiani is on a mission. Save comedy from cleverness. Or burn it all down. Watch as he directs nine NYC comics through a perilous modern…Buy Now",
       "url": "https://ucbcomedy.com/show/stand-up-and-clown-09-8-26/"
+    },
+    {
+      "title": "Mary Beth's New Joke Night",
+      "venue": "Union Hall",
+      "date": "2026-09-09T00:00:00.000Z",
+      "time": null,
+      "description": "Mary Beth's New Joke Night",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Mary Beth's New Joke Night *late show*",
+      "venue": "Union Hall",
+      "date": "2026-09-09T00:00:00.000Z",
+      "time": null,
+      "description": "Mary Beth's New Joke Night *late show*",
+      "url": "https://unionhallny.com/calendar"
     },
     {
       "title": "Comedy Showcase",
@@ -1729,6 +1649,14 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
+      "title": "Improv With My Friends From Work",
+      "venue": "UCB Theatre",
+      "date": "2026-09-20T00:00:00Z",
+      "time": "8:30 PM",
+      "description": "Sunday, September 20, 2026 @ 8:30 PMNY - 14TH ST. MainstageImprovImprov With My Friends From WorkImprov With My Friends From Work – w/ Cast and Writers From SNL   Ceara Jane O’Sullivan (SNL) hosts this long-form improv show with cast and writers from Saturday Night Live. We might read rejected sketches, we’ll definitely do improv,…Buy Now",
+      "url": "https://ucbcomedy.com/show/improv-with-my-friends-from-work-09-20-26/"
+    },
+    {
       "title": "BYOT",
       "venue": "UCB Theatre",
       "date": "2026-09-20T00:00:00Z",
@@ -1743,6 +1671,14 @@
       "time": null,
       "description": "Frankenstein's Baby",
       "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar",
+      "date": "2026-09-21T00:00:00.000Z",
+      "time": "7:00 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
       "title": "MAUDE NIGHT: Pamela & Golden Hour",
@@ -1783,6 +1719,14 @@
       "time": "7:30 PM",
       "description": "Wednesday, September 23, 2026 @ 7:30 PMNY - 14TH ST. UpstairsStorytellingTop Shelf StoriesServing the best stories from the best people in the best city in the world! Julia Whitehouse hosts the best of the best storytelling with all her funny friends and one lucky audience member. 11 years of hosting NYC’s longest running…Buy Now",
       "url": "https://ucbcomedy.com/show/top-shelf-stories-09-23-26/"
+    },
+    {
+      "title": "First Wife & babygirl",
+      "venue": "UCB Theatre",
+      "date": "2026-09-23T00:00:00Z",
+      "time": "8:30 PM",
+      "description": "Wednesday, September 23, 2026 @ 8:30 PMNY - 14TH ST. MainstageImprovSketchFirst Wife & babygirlTwo shows for the price of one!!!   First Wife – One of UCB's premier Maude Night teams: First Wife will showcase their best sketches from their 2026 run for this exclusive New York Comedy Fest preview! First Wife is…Buy Now",
+      "url": "https://ucbcomedy.com/show/first-wife-babygirl-09-23-26/"
     },
     {
       "title": "RUPI KAUR: UNCUT – A RESIDENCY",
@@ -2225,15 +2169,23 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "ECONLOL: AN ECONOMICS-THEMED COMEDY SHOW",
+      "title": "LET'S SEE, WHAT ELSE 10-YEAR ANNIVERSARY",
       "venue": "Caveat",
-      "date": "2027-08-24T00:00:00.000Z",
+      "date": "2027-08-25T00:00:00.000Z",
       "time": "7:00 PM",
-      "description": "EconLoL is the world’s first, best, and only economics-themed comedy variety show.",
-      "url": "https://caveat.nyc/events/econlol-an-economics-themed-comedy-show-8-24-2026"
+      "description": "Hosts Courtney Maginnis & Tom Delgado celebrate the 10-year anniversary of their popular weekly stan...",
+      "url": "https://caveat.nyc/events/lets-see-what-else-10-year-anniversary-8-25-2026"
+    },
+    {
+      "title": "OFF THE RECORD: A MUSICAL DOCUMENTARY",
+      "venue": "Caveat",
+      "date": "2027-08-25T00:00:00.000Z",
+      "time": "9:30 PM",
+      "description": "Off The Record presents true crime documentaries like you've never seen them before - as improvised ...",
+      "url": "https://caveat.nyc/events/off-the-record-a-musical-documentary-2026-08-25"
     }
   ],
-  "lastUpdated": "2026-08-24T06:54:41.277828Z",
+  "lastUpdated": "2026-08-25T06:56:11.639095Z",
   "sources": [
     "DoNYC",
     "Caveat",
@@ -2243,5 +2195,5 @@
     "UCB Theatre",
     "The Bell House"
   ],
-  "totalShows": 279
+  "totalShows": 273
 }
