@@ -1,150 +1,6 @@
 {
   "shows": [
     {
-      "title": "Sarah Silverman and Friends",
-      "venue": "Largo at the Coronet",
-      "date": "2026-08-27T00:00:00",
-      "time": "8:00 PM",
-      "description": "$40.00",
-      "url": "https://wl.seetickets.us/event/sarah-silverman-and-friends/701849?afflky=LargoAtTheCoronet"
-    },
-    {
-      "venue": "Interwoven Studios Hollywood",
-      "title": "Lovett or Leave It with Jon Lovett",
-      "date": "2026-08-27T00:00:00Z",
-      "time": "6:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/27/lovett-or-leave-it-with-jon-lovett-tickets"
-    },
-    {
-      "venue": "Dynasty Typewriter",
-      "title": "Terminator 2 Live: W/Andy Daly, Paul Scheer & Colton Dunn",
-      "date": "2026-08-27T00:00:00Z",
-      "time": "7:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/27/terminator-2-live-w-andy-daly-paul-scheer-colton-dunn-tickets"
-    },
-    {
-      "venue": "Hollywood Improv",
-      "title": "Tonight at The Improv Ft. Anthony Jeselnik, Fiona Cauley, Brian Monarch and Very Special Guests",
-      "date": "2026-08-27T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/27/tonight-at-the-improv-ft-anthony-jeselnik-brian-monarch-and-very-special-guests-tickets"
-    },
-    {
-      "venue": "Hollywood Improv",
-      "title": "The Download Comedy Show Ft. Kate Lav, Oj Stellar and More Tba",
-      "date": "2026-08-27T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/27/the-download-comedy-show-ft-kate-lav-oj-stellar-and-more-tba-tickets"
-    },
-    {
-      "venue": "Hollywood Improv",
-      "title": "Tonight at The Improv Ft. Brian Monarch and More Tba",
-      "date": "2026-08-27T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/27/tonight-at-the-improv-ft-brian-monarch-and-more-tba-tickets"
-    },
-    {
-      "venue": "The Laugh Factory",
-      "title": "Hollywood All-Stars",
-      "date": "2026-08-27T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/27/hollywood-all-stars-tickets"
-    },
-    {
-      "venue": "Baby Battista @ Nico's",
-      "title": "Loud Mouths | Standup Comedy @ baby battista",
-      "date": "2026-08-27T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/27/loud-mouths-standup-comedy-baby-battista-tickets"
-    },
-    {
-      "venue": "Largo",
-      "title": "Sarah Silverman and Friends",
-      "date": "2026-08-27T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/27/sarah-silverman-and-friends-tickets"
-    },
-    {
-      "venue": "The Upstairs LA",
-      "title": "Mark Hayes & Friends",
-      "date": "2026-08-27T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/27/mark-hayes-friends-tickets"
-    },
-    {
-      "venue": "The Upstairs LA",
-      "title": "The \"Aye Yung\" Comedy Show. Produced by Herb The Entertainment Specialist and Eric Young Productions (2)",
-      "date": "2026-08-27T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/27/the-aye-yung-comedy-show-produced-by-herb-the-entertainment-specialist-and-eric-young-productions-2-tickets"
-    },
-    {
-      "venue": "UCB FRANKLIN",
-      "title": "Fuck This Month",
-      "date": "2026-08-27T00:00:00Z",
-      "time": "8:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/27/fuck-this-month-live-and-livestreamed-1727193807"
-    },
-    {
-      "venue": "The Elysian Theater",
-      "title": "WRONG! A F*ckeD Up Game Show",
-      "date": "2026-08-27T00:00:00Z",
-      "time": "8:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/27/wrong-a-f-cked-up-game-show-tickets"
-    },
-    {
-      "venue": "The Ice House Comedy Club",
-      "title": "Secret Comedy Show",
-      "date": "2026-08-27T00:00:00Z",
-      "time": "8:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/27/secret-comedy-show-tickets"
-    },
-    {
-      "venue": "Baby Battista @ Nico's",
-      "title": "Cara and Ever Do It On Stage for an Hour and a Half AGAIN | Comedy",
-      "date": "2026-08-27T00:00:00Z",
-      "time": "9:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/27/cara-and-ever-do-it-on-stage-for-an-hour-and-a-half-again-comedy-tickets"
-    },
-    {
-      "venue": "Hollywood Improv",
-      "title": "Clown Medicine Ft. Sarah Lawrence, Wrenn Woods and More Tba",
-      "date": "2026-08-27T00:00:00Z",
-      "time": "9:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/27/clown-medicine-ft-sarah-lawrence-wrenn-woods-and-more-tba-tickets"
-    },
-    {
-      "venue": "The Laugh Factory",
-      "title": "Tehran Thursdays",
-      "date": "2026-08-27T00:00:00Z",
-      "time": "9:45PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/27/tehran-thursdays-tickets"
-    },
-    {
-      "venue": "Santa Monica Playhouse",
-      "title": "Drunk Theatre LA",
-      "date": "2026-08-27T17:31:02.650382Z",
-      "time": "9:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/weeklies/2026/08/28"
-    },
-    {
       "venue": "The Pack Theater",
       "title": "Good Fat",
       "date": "2026-08-28T00:00:00Z",
@@ -159,6 +15,14 @@
       "time": "6:30PM",
       "description": "",
       "url": "https://dolosangeles.com/events/2026/8/28/social-hour-tickets"
+    },
+    {
+      "venue": "Hollywood Improv",
+      "title": "Tonight at The Improv",
+      "date": "2026-08-28T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/28/tonight-at-the-improv-tickets"
     },
     {
       "venue": "Hollywood Improv",
@@ -185,12 +49,12 @@
       "url": "https://dolosangeles.com/events/2026/8/28/robot-karaoke-show-tickets"
     },
     {
-      "venue": "Hollywood Improv",
-      "title": "Tonight at The Improv",
+      "venue": "The Elysian Theater",
+      "title": "Robot Karaoke",
       "date": "2026-08-28T00:00:00Z",
       "time": "7:30PM",
       "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/28/tonight-at-the-improv-tickets"
+      "url": "https://dolosangeles.com/events/2026/8/28/robot-karaoke-tickets-ne0dw0j"
     },
     {
       "venue": "The Ice House Comedy Club",
@@ -233,28 +97,20 @@
       "url": "https://dolosangeles.com/events/2026/8/28/the-setup-1785870293"
     },
     {
-      "venue": "The Elysian Theater",
-      "title": "Robot Karaoke: Sing Against The Machine",
-      "date": "2026-08-28T00:00:00Z",
-      "time": "9:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/28/robot-karaoke-sing-against-the-machine-tickets"
-    },
-    {
-      "venue": "The Elysian Theater",
-      "title": "Robot Karaoke",
-      "date": "2026-08-28T00:00:00Z",
-      "time": "9:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/8/28/robot-karaoke-tickets"
-    },
-    {
       "venue": "Santa Monica Playhouse",
       "title": "Drunk Theatre LA | Wildest Comedy Show!",
       "date": "2026-08-28T00:00:00Z",
       "time": "9:00PM",
       "description": "",
       "url": "https://dolosangeles.com/events/2026/8/28/drunk-theatre-la-wildest-comedy-show-tickets"
+    },
+    {
+      "venue": "The Elysian Theater",
+      "title": "Robot Karaoke: Sing Against The Machine",
+      "date": "2026-08-28T00:00:00Z",
+      "time": "9:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/28/robot-karaoke-sing-against-the-machine-tickets"
     },
     {
       "venue": "The Elysian Theater",
@@ -281,12 +137,68 @@
       "url": "https://dolosangeles.com/events/2026/8/28/hardy-party-tickets"
     },
     {
+      "venue": "Santa Monica Playhouse",
+      "title": "Drunk Theatre LA",
+      "date": "2026-08-28T18:13:02.365806Z",
+      "time": "9:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/weeklies/2026/08/28"
+    },
+    {
       "title": "Silly Gilly & Friends",
       "venue": "Largo at the Coronet",
       "date": "2026-08-29T00:00:00",
       "time": "8:00 PM",
       "description": "$40.00",
       "url": "https://wl.seetickets.us/event/silly-gilly-and-friends/699617?afflky=LargoAtTheCoronet"
+    },
+    {
+      "venue": "The Elysian Theater",
+      "title": "Tomorrow! w/ Ron Lynch",
+      "date": "2026-08-29T00:00:00Z",
+      "time": "11:55PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/29/tomorrow-w-ron-lynch-tickets"
+    },
+    {
+      "venue": "The Ice House Comedy Club",
+      "title": "Laugh Bombs",
+      "date": "2026-08-29T00:00:00Z",
+      "time": "5:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/29/laugh-bombs-tickets"
+    },
+    {
+      "venue": "The Elysian Theater",
+      "title": "Comedy Mafia",
+      "date": "2026-08-29T00:00:00Z",
+      "time": "6:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/29/comedy-mafia-tickets"
+    },
+    {
+      "venue": "Transplants Brewing Company",
+      "title": "COMEDY NIGHT WITH GEORGE PEREZ",
+      "date": "2026-08-29T00:00:00Z",
+      "time": "6:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/29/comedy-night-with-george-perez-tickets"
+    },
+    {
+      "venue": "I.F.B. Studios",
+      "title": "Drunk On Boba Comedy",
+      "date": "2026-08-29T00:00:00Z",
+      "time": "6:30PM\n              \n                (doors)",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/29/drunk-on-boba-comedy-tickets"
+    },
+    {
+      "venue": "The Ice House Comedy Club",
+      "title": "Cid & Rocky Present",
+      "date": "2026-08-29T00:00:00Z",
+      "time": "7:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/29/cid-rocky-present-tickets"
     },
     {
       "venue": "The Laugh Factory",
@@ -297,6 +209,22 @@
       "url": "https://dolosangeles.com/events/2026/8/29/saturday-night-all-stars-tickets"
     },
     {
+      "venue": "Hollywood Improv",
+      "title": "Tonight at The Lab!",
+      "date": "2026-08-29T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/29/tonight-at-the-lab-tickets"
+    },
+    {
+      "venue": "The Elysian Theater",
+      "title": "Marty Doesn’t Live Here Anymore",
+      "date": "2026-08-29T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/29/marty-doesn-t-live-here-anymore-tickets"
+    },
+    {
       "venue": "Fox Performing Arts Center",
       "title": "Teo Gonzalez and Mario Aguilar: 90 vs 60 La Comedia Perfecta",
       "date": "2026-08-29T00:00:00Z",
@@ -305,12 +233,100 @@
       "url": "https://dolosangeles.com/events/2026/8/29/teo-gonzalez-and-mario-aguilar-90-vs-60-la-comedia-perfecta-tickets"
     },
     {
+      "venue": "Largo",
+      "title": "Silly Gilly & Friends",
+      "date": "2026-08-29T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/29/silly-gilly-friends-tickets"
+    },
+    {
+      "venue": "The Upstairs LA",
+      "title": "SET ME UP hosted by Vinny Fasline",
+      "date": "2026-08-29T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/29/set-me-up-hosted-by-vinny-fasline-tickets"
+    },
+    {
+      "venue": "The Upstairs LA",
+      "title": "The Upstairs Comedy Showcase",
+      "date": "2026-08-29T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/29/the-upstairs-comedy-showcase-tickets"
+    },
+    {
       "venue": "The Elysian Theater",
       "title": "Nu Noyz Nite",
       "date": "2026-08-29T00:00:00Z",
       "time": "8:30PM",
       "description": "",
       "url": "https://dolosangeles.com/events/2026/8/29/nu-noyz-nite-tickets"
+    },
+    {
+      "venue": "The Elysian Theater",
+      "title": "Ashley Apap",
+      "date": "2026-08-29T00:00:00Z",
+      "time": "8:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/29/ashley-apap-tickets"
+    },
+    {
+      "venue": "Hollywood Improv",
+      "title": "Tonight at The Improv",
+      "date": "2026-08-29T00:00:00Z",
+      "time": "9:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/29/tonight-at-the-improv-tickets"
+    },
+    {
+      "venue": "Hollywood Improv",
+      "title": "Ego Death Ft. Lauren Michaels, Alex Hooper, Bryan Suppan, Nina Dicker, Sha' Lenoir, Demar Randy, John Conroy and More Tba",
+      "date": "2026-08-29T00:00:00Z",
+      "time": "9:45PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/29/ego-death-ft-lauren-michaels-and-more-tba-tickets"
+    },
+    {
+      "venue": "The Elysian Theater",
+      "title": "Hannah & Meg WIP",
+      "date": "2026-08-30T00:00:00Z",
+      "time": "6:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/30/hannah-meg-wip-tickets"
+    },
+    {
+      "venue": "Hollywood Improv",
+      "title": "Never Ending Comedy Ft. Devyn Perry, Avry Ross, Audrey Stewart, B.T. Kingsley, Fumi Abe, Joe Mezeraani, Peter Murphy, Greg Hoffm",
+      "date": "2026-08-30T00:00:00Z",
+      "time": "7:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/30/neverending-comedy-ft-devyn-perry-avry-ross-and-more-tba-tickets"
+    },
+    {
+      "venue": "The Laugh Factory",
+      "title": "Chocolate Sundaes",
+      "date": "2026-08-30T00:00:00Z",
+      "time": "7:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/30/chocolate-sundaes-tickets"
+    },
+    {
+      "venue": "The Elysian Theater",
+      "title": "Being on Your Phone: LIVE!",
+      "date": "2026-08-30T00:00:00Z",
+      "time": "8:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/30/being-on-your-phone-live-tickets"
+    },
+    {
+      "venue": "The Elysian Theater",
+      "title": "The Famous People Improv Show",
+      "date": "2026-08-30T00:00:00Z",
+      "time": "9:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/8/30/the-famous-people-improv-show-tickets"
     },
     {
       "title": "JAMES AUSTIN JOHNSON & ANDREW DISMUKES",
@@ -601,8 +617,8 @@
       "url": "https://wl.seetickets.us/event/watkins-family-hour-holiday-show/702451?afflky=LargoAtTheCoronet"
     }
   ],
-  "lastUpdated": "2026-08-27T18:10:12.489335Z",
-  "totalShows": 75,
+  "lastUpdated": "2026-08-28T18:15:11.439379Z",
+  "totalShows": 77,
   "sources": [
     "DoLA",
     "UCB FRANKLIN",
