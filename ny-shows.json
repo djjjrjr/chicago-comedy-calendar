@@ -1,94 +1,6 @@
 {
   "shows": [
     {
-      "title": "Peyton Dix: Hot & Bothered",
-      "venue": "Union Hall",
-      "date": "2026-08-31T00:00:00.000Z",
-      "time": null,
-      "description": "Peyton Dix: Hot & Bothered",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-08-31T00:00:00.000Z",
-      "time": "10:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-08-31T00:00:00.000Z",
-      "time": "11:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar",
-      "date": "2026-08-31T00:00:00.000Z",
-      "time": "6:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar",
-      "date": "2026-08-31T00:00:00.000Z",
-      "time": "7:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-08-31T00:00:00.000Z",
-      "time": "7:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-08-31T00:00:00.000Z",
-      "time": "7:35 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-08-31T00:00:00.000Z",
-      "time": "8:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat",
-      "date": "2026-08-31T00:00:00.000Z",
-      "time": "8:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-08-31T00:00:00.000Z",
-      "time": "9:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-08-31T00:00:00.000Z",
-      "time": "9:35 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
       "title": "George Civeris: Brand New Stuff!",
       "venue": "Union Hall",
       "date": "2026-09-01T00:00:00.000Z",
@@ -119,14 +31,6 @@
       "time": "11:30 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "NEW YORK GROOVE: LABOR DAYS",
-      "venue": "Caveat",
-      "date": "2026-09-01T00:00:00.000Z",
-      "time": "7:00 PM",
-      "description": "A live show about how to be a better New Yorker, from the journalists behind The New York Groove!",
-      "url": "https://caveat.nyc/events/new-york-groove-2026-09-01"
     },
     {
       "title": "Comedy Showcase",
@@ -175,14 +79,6 @@
       "time": "8:30 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "SAGEMATCH",
-      "venue": "Caveat",
-      "date": "2026-09-01T00:00:00.000Z",
-      "time": "9:30 PM",
-      "description": "Four contenders. Four talks. One victor. You decide.",
-      "url": "https://caveat.nyc/events/sagematch-2026-09-01"
     },
     {
       "title": "Comedy Showcase",
@@ -433,11 +329,11 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "Body Count hosted by Tessa Belle and Jo Sunday",
+      "title": "Jo Sunday: Another Man’s Treasure",
       "venue": "Union Hall",
       "date": "2026-09-04T00:00:00.000Z",
       "time": null,
-      "description": "Body Count hosted by Tessa Belle and Jo Sunday",
+      "description": "Jo Sunday: Another Man’s Treasure",
       "url": "https://unionhallny.com/calendar"
     },
     {
@@ -665,6 +561,22 @@
       "url": "https://caveat.nyc/events/lectures-on-tap-the-neuroscience-of-auditory-perception-2026-09-10"
     },
     {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar",
+      "date": "2026-09-10T00:00:00.000Z",
+      "time": "7:00 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar",
+      "date": "2026-09-10T00:00:00.000Z",
+      "time": "8:00 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
       "title": "Stamptown",
       "venue": "The Bell House",
       "date": "2026-09-10T00:00:00.000Z",
@@ -743,6 +655,22 @@
       "time": null,
       "description": "Young Adult Friction: an indie + alt dance party",
       "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "GET WORK: COMICS INTERVIEW FOR REAL JOBS",
+      "venue": "Caveat",
+      "date": "2026-09-12T00:00:00.000Z",
+      "time": "1:30 PM",
+      "description": "Comedians interview for real jobs using fake resumes.",
+      "url": "https://caveat.nyc/events/get-work-2026-09-12"
+    },
+    {
+      "title": "MODERN WHITNEY",
+      "venue": "Caveat",
+      "date": "2026-09-12T00:00:00.000Z",
+      "time": "4:00 PM",
+      "description": "Comedians interpret art, then an expert tells us how close they got",
+      "url": "https://caveat.nyc/events/modern-whitney-2026-09-12"
     },
     {
       "title": "Joe Dombrowski",
@@ -830,6 +758,14 @@
       "date": "2026-09-15T00:00:00.000Z",
       "time": null,
       "description": "LAUGH",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Richard Perez: For One Night Okay",
+      "venue": "Union Hall",
+      "date": "2026-09-15T00:00:00.000Z",
+      "time": null,
+      "description": "Richard Perez: For One Night Okay",
       "url": "https://unionhallny.com/calendar"
     },
     {
@@ -1169,6 +1105,22 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "An Hour with Keith Robinson Show",
+      "venue": "Comedy Cellar",
+      "date": "2026-09-28T00:00:00.000Z",
+      "time": "7:00 pm",
+      "description": "An Hour with Keith Robinson Show: Final Fat",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Para Colombia",
+      "venue": "Union Hall",
+      "date": "2026-09-29T00:00:00.000Z",
+      "time": null,
+      "description": "Comedy Para Colombia",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
       "title": "JOKE MACHINE with Emmy Blotnick & Joe Zimmerman",
       "venue": "Union Hall",
       "date": "2026-09-30T00:00:00.000Z",
@@ -1198,6 +1150,14 @@
       "date": "2026-10-02T00:00:00.000Z",
       "time": null,
       "description": "KARAOKE TREMENDOUS",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "The Liva Experiment",
+      "venue": "Union Hall",
+      "date": "2026-10-03T00:00:00.000Z",
+      "time": null,
+      "description": "The Liva Experiment",
       "url": "https://unionhallny.com/calendar"
     },
     {
@@ -1318,6 +1278,14 @@
       "date": "2026-10-24T00:00:00.000Z",
       "time": null,
       "description": "Sureni & Lovers",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Garrett and Allison's Big Night",
+      "venue": "Union Hall",
+      "date": "2026-10-30T00:00:00.000Z",
+      "time": null,
+      "description": "Garrett and Allison's Big Night",
       "url": "https://unionhallny.com/calendar"
     },
     {
@@ -1497,23 +1465,23 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "DOOMSCROLL",
+      "title": "NEW YORK GROOVE: LABOR DAYS",
       "venue": "Caveat",
-      "date": "2027-08-31T00:00:00.000Z",
+      "date": "2027-09-01T00:00:00.000Z",
       "time": "7:00 PM",
-      "description": "What if your explore page was just one guy?",
-      "url": "https://caveat.nyc/events/doomscroll-2026-08-31"
+      "description": "It's a new show about how to be a better New Yorker, from the journalists behind The New York Groove...",
+      "url": "https://caveat.nyc/events/new-york-groove-2026-09-01"
     },
     {
-      "title": "GOD, I’M IN TROUBLE AGAIN",
+      "title": "SAGEMATCH",
       "venue": "Caveat",
-      "date": "2027-08-31T00:00:00.000Z",
+      "date": "2027-09-01T00:00:00.000Z",
       "time": "9:30 PM",
-      "description": "God, I’m in Trouble Again- a Song Cycle by Spencer J. Vigil",
-      "url": "https://caveat.nyc/events/god-im-in-trouble-again-2026-08-31"
+      "description": "Four contenders. Four talks. One victor. You decide.",
+      "url": "https://caveat.nyc/events/sagematch-2026-09-01"
     }
   ],
-  "lastUpdated": "2026-08-31T12:36:55.083169Z",
+  "lastUpdated": "2026-09-01T11:04:43.532225Z",
   "sources": [
     "DoNYC",
     "Caveat",
@@ -1523,5 +1491,5 @@
     "UCB Theatre",
     "The Bell House"
   ],
-  "totalShows": 189
+  "totalShows": 185
 }
