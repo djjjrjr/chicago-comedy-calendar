@@ -1,102 +1,6 @@
 {
   "shows": [
     {
-      "title": "Cold Plunge with Kurt Braunohler",
-      "venue": "Union Hall",
-      "date": "2026-09-02T00:00:00.000Z",
-      "time": null,
-      "description": "Cold Plunge with Kurt Braunohler",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-09-02T00:00:00.000Z",
-      "time": "10:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat",
-      "date": "2026-09-02T00:00:00.000Z",
-      "time": "10:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-09-02T00:00:00.000Z",
-      "time": "11:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar",
-      "date": "2026-09-02T00:00:00.000Z",
-      "time": "7:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-09-02T00:00:00.000Z",
-      "time": "7:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Jon Glaser - Live Special Taping",
-      "venue": "The Bell House",
-      "date": "2026-09-02T00:00:00.000Z",
-      "time": "7:30PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/9/2/jon-glaser-live-special-taping-tickets"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-09-02T00:00:00.000Z",
-      "time": "7:35 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-09-02T00:00:00.000Z",
-      "time": "8:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar",
-      "date": "2026-09-02T00:00:00.000Z",
-      "time": "8:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-09-02T00:00:00.000Z",
-      "time": "9:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-09-02T00:00:00.000Z",
-      "time": "9:35 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
       "title": "George Civeris: Brand New Stuff!",
       "venue": "Union Hall",
       "date": "2026-09-03T00:00:00.000Z",
@@ -143,14 +47,6 @@
       "time": "6:45 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "DAMMIT, MARK! NOT NOT THE SOCIAL NETWORK",
-      "venue": "Caveat",
-      "date": "2026-09-03T00:00:00.000Z",
-      "time": "7:00 PM",
-      "description": "We tear The Social Network to shreds in campy parody play of your dreams.",
-      "url": "https://caveat.nyc/events/morning-brew-2026-09-03"
     },
     {
       "title": "Comedy Showcase",
@@ -234,9 +130,9 @@
     },
     {
       "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
+      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
       "date": "2026-09-04T00:00:00.000Z",
-      "time": "10:00 pm",
+      "time": "10:30 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
@@ -250,7 +146,7 @@
     },
     {
       "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
+      "venue": "Comedy Cellar - Fat Black Pussycat",
       "date": "2026-09-04T00:00:00.000Z",
       "time": "11:00 pm",
       "description": "Lineup to be announced",
@@ -258,41 +154,9 @@
     },
     {
       "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
+      "venue": "Comedy Cellar - Village Underground",
       "date": "2026-09-04T00:00:00.000Z",
       "time": "11:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-09-04T00:00:00.000Z",
-      "time": "11:55 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-09-04T00:00:00.000Z",
-      "time": "12:30 am",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-09-04T00:00:00.000Z",
-      "time": "12:55 am",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-09-04T00:00:00.000Z",
-      "time": "6:00 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
@@ -314,17 +178,9 @@
     },
     {
       "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
+      "venue": "Comedy Cellar",
       "date": "2026-09-04T00:00:00.000Z",
-      "time": "7:01 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-09-04T00:00:00.000Z",
-      "time": "7:30 pm",
+      "time": "7:00 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
@@ -332,7 +188,15 @@
       "title": "Comedy Showcase",
       "venue": "Comedy Cellar - Village Underground",
       "date": "2026-09-04T00:00:00.000Z",
-      "time": "8:00 pm",
+      "time": "7:30 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
+      "date": "2026-09-04T00:00:00.000Z",
+      "time": "8:30 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
@@ -346,7 +210,7 @@
     },
     {
       "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
+      "venue": "Comedy Cellar",
       "date": "2026-09-04T00:00:00.000Z",
       "time": "9:00 pm",
       "description": "Lineup to be announced",
@@ -362,7 +226,7 @@
     },
     {
       "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
+      "venue": "Comedy Cellar - Village Underground",
       "date": "2026-09-04T00:00:00.000Z",
       "time": "9:30 pm",
       "description": "Lineup to be announced",
@@ -382,6 +246,14 @@
       "date": "2026-09-05T00:00:00.000Z",
       "time": null,
       "description": "Shaunak Does Improvised Standup",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "DJ Lord Easy Plays Songs You Like To Dance To",
+      "venue": "Union Hall",
+      "date": "2026-09-05T00:00:00.000Z",
+      "time": null,
+      "description": "DJ Lord Easy Plays Songs You Like To Dance To",
       "url": "https://unionhallny.com/calendar"
     },
     {
@@ -530,9 +402,33 @@
     },
     {
       "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - MacDougal Street",
+      "date": "2026-09-06T00:00:00.000Z",
+      "time": "10:45 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
+      "date": "2026-09-06T00:00:00.000Z",
+      "time": "11:00 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
       "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
       "date": "2026-09-06T00:00:00.000Z",
-      "time": "10:30 pm",
+      "time": "11:30 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Village Underground",
+      "date": "2026-09-06T00:00:00.000Z",
+      "time": "11:55 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
@@ -540,7 +436,7 @@
       "title": "Comedy Showcase",
       "venue": "Comedy Cellar - MacDougal Street",
       "date": "2026-09-06T00:00:00.000Z",
-      "time": "11:30 pm",
+      "time": "12:30 am",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
@@ -578,9 +474,9 @@
     },
     {
       "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
+      "venue": "Comedy Cellar - MacDougal Street",
       "date": "2026-09-06T00:00:00.000Z",
-      "time": "6:30 pm",
+      "time": "6:45 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
@@ -588,7 +484,7 @@
       "title": "Comedy Showcase",
       "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
       "date": "2026-09-06T00:00:00.000Z",
-      "time": "7:00 pm",
+      "time": "7:01 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
@@ -602,7 +498,7 @@
     },
     {
       "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
+      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
       "date": "2026-09-06T00:00:00.000Z",
       "time": "7:30 pm",
       "description": "Lineup to be announced",
@@ -618,9 +514,9 @@
     },
     {
       "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
+      "venue": "Comedy Cellar - MacDougal Street",
       "date": "2026-09-06T00:00:00.000Z",
-      "time": "8:30 pm",
+      "time": "8:45 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
@@ -634,7 +530,7 @@
     },
     {
       "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
+      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
       "date": "2026-09-06T00:00:00.000Z",
       "time": "9:30 pm",
       "description": "Lineup to be announced",
@@ -962,7 +858,15 @@
     },
     {
       "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
+      "venue": "Comedy Cellar - Village Underground",
+      "date": "2026-09-10T00:00:00.000Z",
+      "time": "10:00 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
       "date": "2026-09-10T00:00:00.000Z",
       "time": "10:30 pm",
       "description": "Lineup to be announced",
@@ -972,31 +876,7 @@
       "title": "Comedy Showcase",
       "venue": "Comedy Cellar - MacDougal Street",
       "date": "2026-09-10T00:00:00.000Z",
-      "time": "10:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-09-10T00:00:00.000Z",
-      "time": "11:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-09-10T00:00:00.000Z",
       "time": "11:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-09-10T00:00:00.000Z",
-      "time": "6:45 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
@@ -1010,7 +890,7 @@
     },
     {
       "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
+      "venue": "Comedy Cellar",
       "date": "2026-09-10T00:00:00.000Z",
       "time": "7:00 pm",
       "description": "Lineup to be announced",
@@ -1018,9 +898,25 @@
     },
     {
       "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
+      "venue": "Comedy Cellar - MacDougal Street",
       "date": "2026-09-10T00:00:00.000Z",
       "time": "7:30 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
+      "date": "2026-09-10T00:00:00.000Z",
+      "time": "7:35 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar",
+      "date": "2026-09-10T00:00:00.000Z",
+      "time": "8:00 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
@@ -1034,7 +930,7 @@
     },
     {
       "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
+      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
       "date": "2026-09-10T00:00:00.000Z",
       "time": "8:30 pm",
       "description": "Lineup to be announced",
@@ -1044,23 +940,15 @@
       "title": "Comedy Showcase",
       "venue": "Comedy Cellar - MacDougal Street",
       "date": "2026-09-10T00:00:00.000Z",
-      "time": "8:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-09-10T00:00:00.000Z",
-      "time": "9:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-09-10T00:00:00.000Z",
       "time": "9:30 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
+      "date": "2026-09-10T00:00:00.000Z",
+      "time": "9:35 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
@@ -1193,12 +1081,28 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "QUACKS & WHACKS: A CANCER COMEDY",
+      "venue": "Caveat",
+      "date": "2026-09-13T00:00:00.000Z",
+      "time": "2:30 PM",
+      "description": "Absurdist humor, clowning, puppetry, music, and animation bring the circus of healthcare and cancer ...",
+      "url": "https://caveat.nyc/events/quacks-whacks-a-cancer-comedy-patient-advocacy-panel-to-follow-2026-09-13"
+    },
+    {
       "title": "Comedy Showcase",
       "venue": "Comedy Cellar - Village Underground",
       "date": "2026-09-13T00:00:00.000Z",
       "time": "4:00 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "FUNNY MONEY",
+      "venue": "Caveat",
+      "date": "2026-09-13T00:00:00.000Z",
+      "time": "5:00 PM",
+      "description": "Part jokes. Part actionable financial advice.",
+      "url": "https://caveat.nyc/events/funny-money-2026-09-13"
     },
     {
       "title": "Comedy Showcase",
@@ -1289,12 +1193,12 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "Matteo Lane",
-      "venue": "Comedy Cellar",
+      "title": "Jamie Wolf: Psycho",
+      "venue": "Union Hall",
       "date": "2026-09-16T00:00:00.000Z",
-      "time": "10:00 pm",
-      "description": "Matteo Lane: The Advice Special",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
+      "time": null,
+      "description": "Jamie Wolf: Psycho",
+      "url": "https://unionhallny.com/calendar"
     },
     {
       "title": "Comedy Showcase",
@@ -1311,14 +1215,6 @@
       "time": "7:30PM",
       "description": null,
       "url": "https://donyc.com/events/2026/9/16/grim-tidings-b-k-borison-in-conversation-with-iman-hariri-kia-tickets"
-    },
-    {
-      "title": "Matteo Lane",
-      "venue": "Comedy Cellar",
-      "date": "2026-09-16T00:00:00.000Z",
-      "time": "8:00 pm",
-      "description": "Matteo Lane: The Advice Special",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
       "title": "RUPI KAUR: UNCUT – A RESIDENCY",
@@ -1441,11 +1337,19 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "An Hour with Keith Robinson Show",
+      "title": "Comedy Showcase",
       "venue": "Comedy Cellar",
       "date": "2026-09-21T00:00:00.000Z",
-      "time": "7:00 pm",
-      "description": "An Hour with Keith Robinson Show: Final Fat",
+      "time": "5:00 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Village Underground",
+      "date": "2026-09-21T00:00:00.000Z",
+      "time": "6:00 pm",
+      "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
@@ -1455,6 +1359,14 @@
       "time": "7:30PM",
       "description": null,
       "url": "https://donyc.com/events/2026/9/21/climate-town-town-hall-tickets"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Village Underground",
+      "date": "2026-09-21T00:00:00.000Z",
+      "time": "8:00 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
       "title": "PRETTY MAJOR Hosted by Jay Jurden",
@@ -1777,6 +1689,14 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "Nico Carney Live!",
+      "venue": "Union Hall",
+      "date": "2026-10-22T00:00:00.000Z",
+      "time": null,
+      "description": "Nico Carney Live!",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
       "title": "Adam Cayton-Holland Stares Wistfully Toward the Horizon",
       "venue": "Union Hall",
       "date": "2026-10-23T00:00:00.000Z",
@@ -1985,23 +1905,23 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "DOCTORS WITHOUT BOUNDARIES",
-      "venue": "Caveat",
-      "date": "2027-09-02T00:00:00.000Z",
-      "time": "7:00 PM",
-      "description": "Comedy and medicine live, hosted by ER doctor Aaron Bola",
-      "url": "https://caveat.nyc/events/doctors-without-boundaries-9-2-2026"
+      "title": "Conor Janda",
+      "venue": "Union Hall",
+      "date": "2026-12-12T00:00:00.000Z",
+      "time": null,
+      "description": "Conor Janda",
+      "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "CLIFF HANGER",
+      "title": "DAMMIT, MARK! NOT NOT THE SOCIAL NETWORK",
       "venue": "Caveat",
-      "date": "2027-09-02T00:00:00.000Z",
-      "time": "9:30 PM",
-      "description": "A sketch comedy show that will have you begging to see what happens next!",
-      "url": "https://caveat.nyc/events/cliff-hanger-2026-09-02"
+      "date": "2027-09-03T00:00:00.000Z",
+      "time": "7:00 PM",
+      "description": "We tear The Social Network to shreds in campy parody play of your dreams.",
+      "url": "https://caveat.nyc/events/morning-brew-2026-09-03"
     }
   ],
-  "lastUpdated": "2026-09-02T10:38:09.665493Z",
+  "lastUpdated": "2026-09-03T10:46:49.459659Z",
   "sources": [
     "DoNYC",
     "Caveat",
@@ -2011,5 +1931,5 @@
     "UCB Theatre",
     "The Bell House"
   ],
-  "totalShows": 250
+  "totalShows": 240
 }
