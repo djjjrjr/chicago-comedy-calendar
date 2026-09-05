@@ -1,118 +1,6 @@
 {
   "shows": [
     {
-      "title": "Rhys Darby’s Saying Funny Things Society",
-      "venue": "Largo at the Coronet",
-      "date": "2026-09-04T00:00:00",
-      "time": "8:00 PM",
-      "description": "$40.00",
-      "url": "https://wl.seetickets.us/event/rhys-darbys-saying-funny-things-society/698933?afflky=LargoAtTheCoronet"
-    },
-    {
-      "venue": "The Elysian Theater",
-      "title": "Put Together",
-      "date": "2026-09-04T00:00:00Z",
-      "time": "5:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/4/put-together-tickets"
-    },
-    {
-      "venue": "The Ice House Comedy Club",
-      "title": "Social Hour",
-      "date": "2026-09-04T00:00:00Z",
-      "time": "6:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/4/social-hour-tickets"
-    },
-    {
-      "venue": "Hollywood Improv",
-      "title": "Tonight at The Improv",
-      "date": "2026-09-04T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/4/tonight-at-the-improv-tickets"
-    },
-    {
-      "venue": "Hollywood Improv",
-      "title": "Hannah Jones",
-      "date": "2026-09-04T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/4/hannah-jones-tickets"
-    },
-    {
-      "venue": "The Laugh Factory",
-      "title": "Friday Night All-stars",
-      "date": "2026-09-04T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/4/friday-night-all-stars-tickets"
-    },
-    {
-      "venue": "The Ice House Comedy Club",
-      "title": "Alfred Robles: The Big Drama Show (Live Taping)",
-      "date": "2026-09-04T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/4/alfred-robles-the-big-drama-show-live-taping-tickets"
-    },
-    {
-      "venue": "The Ice House Comedy Club",
-      "title": "Tracey MacDonald",
-      "date": "2026-09-04T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/4/tracey-macdonald-tickets"
-    },
-    {
-      "venue": "Largo",
-      "title": "Rhys Darby's Saying Funny Things Society",
-      "date": "2026-09-04T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/4/rhys-darby-s-saying-funny-things-society-tickets"
-    },
-    {
-      "venue": "The Comedy Store",
-      "title": "Closed for a Private Event {BILT}",
-      "date": "2026-09-04T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/4/closed-for-a-private-event-bilt-tickets"
-    },
-    {
-      "venue": "The Upstairs LA",
-      "title": "Mark Hayes & Friends",
-      "date": "2026-09-04T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/4/mark-hayes-friends-tickets"
-    },
-    {
-      "venue": "Santa Monica Playhouse",
-      "title": "Drunk Theatre LA | Wildest Comedy Show!",
-      "date": "2026-09-04T00:00:00Z",
-      "time": "9:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/4/drunk-theatre-la-wildest-comedy-show-1786573263"
-    },
-    {
-      "venue": "Santa Monica Playhouse",
-      "title": "Drunk Theatre LA",
-      "date": "2026-09-04T10:40:28.130945Z",
-      "time": "9:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/weeklies/2026/09/04"
-    },
-    {
-      "venue": "Palace Theatre",
-      "title": "The Setup",
-      "date": "2026-09-04T10:40:40.915660Z",
-      "time": "8:30PM\n              \n                (doors)",
-      "description": "",
-      "url": "https://dolosangeles.com/events/weeklies/2026/09/05"
-    },
-    {
       "title": "Susanna Hoffs and her band play the hits",
       "venue": "Largo at the Coronet",
       "date": "2026-09-05T00:00:00",
@@ -177,20 +65,20 @@
       "url": "https://dolosangeles.com/events/2026/9/5/andre-hyland-pres-the-jesse-miller-talk-show-tickets"
     },
     {
-      "venue": "The Elysian Theater",
-      "title": "Hang-her WIP",
-      "date": "2026-09-05T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/5/hang-her-wip-tickets"
-    },
-    {
       "venue": "Largo",
       "title": "Susanna Hoffs and her band play the hits",
       "date": "2026-09-05T00:00:00Z",
       "time": "8:00PM",
       "description": "",
       "url": "https://dolosangeles.com/events/2026/9/5/susanna-hoffs-and-her-band-play-the-hits-tickets"
+    },
+    {
+      "venue": "The Elysian Theater",
+      "title": "Hang-her WIP",
+      "date": "2026-09-05T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/5/hang-her-wip-tickets"
     },
     {
       "venue": "The Elysian Theater",
@@ -231,6 +119,30 @@
       "time": "9:45PM",
       "description": "",
       "url": "https://dolosangeles.com/events/2026/9/5/house-party-tickets"
+    },
+    {
+      "venue": "Palace Theatre",
+      "title": "The Setup",
+      "date": "2026-09-05T10:07:45.821723Z",
+      "time": "8:30PM\n              \n                events.view.doors",
+      "description": "",
+      "url": "https://dolosangeles.com/events/weeklies/2026/09/05"
+    },
+    {
+      "venue": "The Green Room on Ventura",
+      "title": "The Higher Mic Comedy Open Mic Night",
+      "date": "2026-09-05T10:07:56.937630Z",
+      "time": "6:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/weeklies/2026/09/08"
+    },
+    {
+      "venue": "The Ice House Comedy Club",
+      "title": "Tommy Davidson",
+      "date": "2026-09-06T00:00:00Z",
+      "time": "6:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/6/tommy-davidson-tickets"
     },
     {
       "venue": "Hollywood Improv",
@@ -289,12 +201,124 @@
       "url": "https://dolosangeles.com/events/2026/9/6/murder-house-tickets"
     },
     {
+      "venue": "Hollywood Improv",
+      "title": "Monderays with Deray Davis & More",
+      "date": "2026-09-07T00:00:00Z",
+      "time": "7:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/7/monderays-with-deray-davis-more-tickets"
+    },
+    {
+      "venue": "The Laugh Factory",
+      "title": "Hollywood All-Stars",
+      "date": "2026-09-07T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/7/hollywood-all-stars-tickets"
+    },
+    {
+      "venue": "Jam in the Van Comedy Shows",
+      "title": "Jam Comedy Open Mic - Los Angeles",
+      "date": "2026-09-07T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/7/jam-comedy-open-mic-los-angeles-tickets"
+    },
+    {
+      "venue": "The Elysian Theater",
+      "title": "Superbloom Comedy",
+      "date": "2026-09-07T00:00:00Z",
+      "time": "8:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/7/superbloom-comedy-tickets"
+    },
+    {
       "title": "Anthony Jeselnik and Enemies",
       "venue": "Largo at the Coronet",
       "date": "2026-09-08T00:00:00",
       "time": "8:00 PM",
       "description": "$40.00",
       "url": "https://wl.seetickets.us/event/anthony-jeselnik-and-enemies/695093?afflky=LargoAtTheCoronet"
+    },
+    {
+      "venue": "Hollywood Improv",
+      "title": "Just Pull Up Ft. Dulcé Sloan, Camille Waters, Zainab Johnson, Chris Spencer, Jasmine Ellis, Skyler Higley, Langston Kerman and M",
+      "date": "2026-09-08T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/8/just-pull-up-ft-dulce-sloan-and-more-tba-tickets"
+    },
+    {
+      "venue": "Hollywood Improv",
+      "title": "Tonight at The Improv Ft. Brian Monarch and More Tba",
+      "date": "2026-09-08T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/8/tonight-at-the-improv-ft-brian-monarch-and-more-tba-tickets"
+    },
+    {
+      "venue": "Dynasty Typewriter",
+      "title": "Josh Thomas: Jiggle, Jiggle",
+      "date": "2026-09-08T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/8/josh-thomas-jiggle-jiggle-tickets"
+    },
+    {
+      "venue": "The Laugh Factory",
+      "title": "Rubee Tuesdays",
+      "date": "2026-09-08T00:00:00Z",
+      "time": "7:45PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/8/rubee-tuesdays-tickets"
+    },
+    {
+      "venue": "Largo",
+      "title": "Anthony Jeselnik and Enemies",
+      "date": "2026-09-08T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/8/anthony-jeselnik-and-enemies-tickets"
+    },
+    {
+      "venue": "The Elysian Theater",
+      "title": "ROOMIES with Dylan Adler, Sam Morrison & Kylie Vincent",
+      "date": "2026-09-08T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/8/roomies-with-dylan-adler-sam-morrison-kylie-vincent-tickets"
+    },
+    {
+      "venue": "Hollywood Improv",
+      "title": "Comedy Crush Ft. Avery Pearson, Justine Marino and More Tba",
+      "date": "2026-09-09T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/9/comedy-crush-ft-avery-pearson-justine-marino-and-more-tba-tickets"
+    },
+    {
+      "venue": "The Laugh Factory",
+      "title": "Neon Moon with Steve Furey",
+      "date": "2026-09-09T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/9/hollywood-all-stars-tickets"
+    },
+    {
+      "venue": "The Elysian Theater",
+      "title": "Clown Spoon River Anthology",
+      "date": "2026-09-09T00:00:00Z",
+      "time": "9:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/9/clown-spoon-river-anthology-tickets"
+    },
+    {
+      "venue": "The Laugh Factory",
+      "title": "Hollywood All-Stars",
+      "date": "2026-09-09T00:00:00Z",
+      "time": "9:45PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/9/hollywood-all-stars-tickets-3eero1x"
     },
     {
       "title": "Pete Holmes: Living At Largo",
@@ -433,6 +457,14 @@
       "url": "https://wl.seetickets.us/event/gary-gulman-grandiloquent/703902?afflky=LargoAtTheCoronet"
     },
     {
+      "title": "Nick Kroll and Friends",
+      "venue": "Largo at the Coronet",
+      "date": "2026-10-07T00:00:00",
+      "time": "8:00 PM",
+      "description": "$40.00",
+      "url": "https://wl.seetickets.us/event/nick-kroll-and-friends/704547?afflky=LargoAtTheCoronet"
+    },
+    {
       "title": "Benmont Tench with Taylor Goldsmith, Sebastian Steinberg, and Jonathan Wilson",
       "venue": "Largo at the Coronet",
       "date": "2026-10-09T00:00:00",
@@ -471,6 +503,14 @@
       "time": "8:00 PM",
       "description": "$40.00",
       "url": "https://wl.seetickets.us/event/megan-mullally-and-her-band-nancy-and-beth/697715?afflky=LargoAtTheCoronet"
+    },
+    {
+      "title": "Chris Fleming and Friends",
+      "venue": "Largo at the Coronet",
+      "date": "2026-10-16T00:00:00",
+      "time": "8:00 PM",
+      "description": "$40.00",
+      "url": "https://wl.seetickets.us/event/chris-fleming-and-friends/704553?afflky=LargoAtTheCoronet"
     },
     {
       "title": "Lloyd Cole",
@@ -513,6 +553,14 @@
       "url": "https://wl.seetickets.us/event/sarah-silverman-and-friends/703969?afflky=LargoAtTheCoronet"
     },
     {
+      "title": "Kate Berlant and Friends",
+      "venue": "Largo at the Coronet",
+      "date": "2026-10-24T00:00:00",
+      "time": "8:00 PM",
+      "description": "$40.00",
+      "url": "https://wl.seetickets.us/event/kate-berlant-and-friends/704555?afflky=LargoAtTheCoronet"
+    },
+    {
       "title": "THE IMPROVISED SHAKESPEARE COMPANY",
       "venue": "Largo at the Coronet",
       "date": "2026-10-25T00:00:00",
@@ -535,6 +583,14 @@
       "time": "8:00 PM",
       "description": "$40.00",
       "url": "https://wl.seetickets.us/event/jake-cornell/703903?afflky=LargoAtTheCoronet"
+    },
+    {
+      "title": "Silly Gilly & Friends – Halloween Eve",
+      "venue": "Largo at the Coronet",
+      "date": "2026-10-30T00:00:00",
+      "time": "8:00 PM",
+      "description": "$40.00",
+      "url": "https://wl.seetickets.us/event/silly-gilly-and-friends-halloween-eve/704557?afflky=LargoAtTheCoronet"
     },
     {
       "title": "Two Dykes and a Mic: Soaking Wet Tour",
@@ -609,8 +665,8 @@
       "url": "https://wl.seetickets.us/event/watkins-family-hour-holiday-show/702451?afflky=LargoAtTheCoronet"
     }
   ],
-  "lastUpdated": "2026-09-04T11:14:24.355078Z",
-  "totalShows": 76,
+  "lastUpdated": "2026-09-05T12:00:21.429764Z",
+  "totalShows": 83,
   "sources": [
     "DoLA",
     "UCB FRANKLIN",
