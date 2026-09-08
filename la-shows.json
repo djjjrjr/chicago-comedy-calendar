@@ -1,86 +1,6 @@
 {
   "shows": [
     {
-      "title": "Harold After Dark! ft. yikes! & S.O.F.T.",
-      "venue": "UCB FRANKLIN",
-      "date": "2026-09-07T00:00:00Z",
-      "time": "10:00 PM",
-      "description": "Monday, September 7, 2026 @ 10:00 PMLA - FRANKLINImprovHarold After Dark! ft. yikes! & S.O.F.T.A late-night dose of UCB’s house improv ensembles! Let your hair down and pump up the jams cuz it’s time to get weird, Harold Night! Anything goes tonight, so long as it isn’t normal. ------ Featuring:  yikes! &  S.O.F.T. ---…Buy Now",
-      "url": "https://ucbcomedy.com/show/harold-after-dark-ft-yikes-s-o-f-t-2026-09-07/"
-    },
-    {
-      "title": "The Incubator: Freak Trap + Dance Club Remix",
-      "venue": "UCB FRANKLIN",
-      "date": "2026-09-07T00:00:00Z",
-      "time": "5:30 PM",
-      "description": "Monday, September 7, 2026 @ 5:30 PMLA - FRANKLINImprovThe Incubator: Freak Trap + Dance Club RemixLooking for the best live improv comedy in Los Angeles? The Incubator at the Upright Citizens Brigade Theatre is a must-see monthly show featuring the next generation of performers alongside some of UCB’s most exciting veteran teams—all on one stage.…Buy Now",
-      "url": "https://ucbcomedy.com/show/the-incubator-freak-trap-dance-club-remix-2026-09-07/"
-    },
-    {
-      "title": "Harold Night ft. Gas Money & Branzino",
-      "venue": "UCB FRANKLIN",
-      "date": "2026-09-07T00:00:00Z",
-      "time": "7:00 PM",
-      "description": "Monday, September 7, 2026 @ 7:00 PMLA - FRANKLINImprovHarold Night ft. Gas Money & BranzinoYour one stop shop to see UCB's house improv ensembles perform every Monday! Harold Night is UCB's long-running weekly improv show featuring homegrown teams at the top of their game performing, you guessed it, The Harold. ------ Featuring: Gas Money…Buy Now",
-      "url": "https://ucbcomedy.com/show/harold-night-ft-gas-money-branzino-2026-09-07/"
-    },
-    {
-      "venue": "Hollywood Improv",
-      "title": "Monderays with Deray Davis & More",
-      "date": "2026-09-07T00:00:00Z",
-      "time": "7:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/7/monderays-with-deray-davis-more-tickets"
-    },
-    {
-      "venue": "The Laugh Factory",
-      "title": "Hollywood All-Stars",
-      "date": "2026-09-07T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/7/hollywood-all-stars-tickets"
-    },
-    {
-      "venue": "Jam in the Van Comedy Shows",
-      "title": "Jam Comedy Open Mic - Los Angeles",
-      "date": "2026-09-07T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/7/jam-comedy-open-mic-los-angeles-tickets"
-    },
-    {
-      "title": "The Punch-up with Beth Stelling & Jena Friedman",
-      "venue": "UCB FRANKLIN",
-      "date": "2026-09-07T00:00:00Z",
-      "time": "8:30 PM",
-      "description": "Monday, September 7, 2026 @ 8:30 PMLA - ANNEXStandupThe Punch-up with Beth Stelling & Jena FriedmanA good-natured stand-up open mic where Beth Stelling punches your jokes up (when possible) Hi! I'm comedian Beth Stelling. I headlined Omaha Comedy Festival a few years ago and they asked me to lead a stand-up workshop, which I don't…Read more",
-      "url": "https://ucbcomedy.com/show/the-punch-up-with-beth-stelling-2026-09-07/"
-    },
-    {
-      "title": "Harold Night ft. The Fantasy & Darnell Hollywood",
-      "venue": "UCB FRANKLIN",
-      "date": "2026-09-07T00:00:00Z",
-      "time": "8:30 PM",
-      "description": "Monday, September 7, 2026 @ 8:30 PMLA - FRANKLINImprovHarold Night ft. The Fantasy & Darnell HollywoodYour one stop shop to see UCB's house improv ensembles perform every Monday! Harold Night is UCB's long-running weekly improv show featuring homegrown teams at the top of their game performing, you guessed it, The Harold. ------ Featuring: The Fantasy…Buy Now",
-      "url": "https://ucbcomedy.com/show/harold-night-ft-darnell-hollywood-cowboy-mama/"
-    },
-    {
-      "venue": "The Elysian Theater",
-      "title": "Superbloom Comedy",
-      "date": "2026-09-07T00:00:00Z",
-      "time": "8:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/7/superbloom-comedy-tickets"
-    },
-    {
-      "venue": "The Green Room on Ventura",
-      "title": "The Higher Mic Comedy Open Mic Night",
-      "date": "2026-09-07T11:24:37.178006Z",
-      "time": "6:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/weeklies/2026/09/08"
-    },
-    {
       "title": "Anthony Jeselnik and Enemies",
       "venue": "Largo at the Coronet",
       "date": "2026-09-08T00:00:00",
@@ -175,6 +95,14 @@
       "time": "9:30 PM",
       "description": "Tuesday, September 8, 2026 @ 9:30 PMLA - ANNEXStandupExperimental MicAn open mic where comedians can push boundaries, try bold new ideas, and embrace the unpredictable. The comedy laboratory where anything can happen! Every Tuesday, Experimental Mic puts a different spin on the traditional open mic. Every show has its…Read more",
       "url": "https://ucbcomedy.com/show/experimental-mic-2026-09-08/"
+    },
+    {
+      "venue": "The Green Room on Ventura",
+      "title": "The Higher Mic Comedy Open Mic Night",
+      "date": "2026-09-08T10:36:26.514085Z",
+      "time": "6:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/weeklies/2026/09/08"
     },
     {
       "venue": "Hollywood Improv",
@@ -321,6 +249,14 @@
       "url": "https://dolosangeles.com/events/2026/9/10/the-download-comedy-show-ft-kate-lav-oj-stellar-and-more-tba-tickets"
     },
     {
+      "venue": "Hollywood Improv",
+      "title": "Tonight at The Improv Ft. Brian Monarch and More Tba",
+      "date": "2026-09-10T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/10/tonight-at-the-improv-ft-brian-monarch-and-more-tba-tickets"
+    },
+    {
       "venue": "The Laugh Factory",
       "title": "Hollywood All-Stars",
       "date": "2026-09-10T00:00:00Z",
@@ -335,14 +271,6 @@
       "time": "7:30PM",
       "description": "",
       "url": "https://dolosangeles.com/events/2026/9/10/brendan-scannell-the-abyss-tickets"
-    },
-    {
-      "venue": "Hollywood Improv",
-      "title": "Tonight at The Improv Ft. Brian Monarch and More Tba",
-      "date": "2026-09-10T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/10/tonight-at-the-improv-ft-brian-monarch-and-more-tba-tickets"
     },
     {
       "title": "Lloyd Night ft. PTO & Jinx",
@@ -393,20 +321,20 @@
       "url": "https://ucbcomedy.com/show/club-401-a-harold-jam-2026-09-03/"
     },
     {
-      "venue": "The Laugh Factory",
-      "title": "Tehran Thursdays",
-      "date": "2026-09-10T00:00:00Z",
-      "time": "9:45PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/10/tehran-thursdays-tickets"
-    },
-    {
       "venue": "Hollywood Improv",
       "title": "Basshole Ft. Doug Bass and More Tba!",
       "date": "2026-09-10T00:00:00Z",
       "time": "9:45PM",
       "description": "",
       "url": "https://dolosangeles.com/events/2026/9/10/basshole-ft-doug-bass-and-more-tba-tickets"
+    },
+    {
+      "venue": "The Laugh Factory",
+      "title": "Tehran Thursdays",
+      "date": "2026-09-10T00:00:00Z",
+      "time": "9:45PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/10/tehran-thursdays-tickets"
     },
     {
       "title": "Dinosaur Improv w/ Paul Scheer",
@@ -433,6 +361,14 @@
       "url": "https://ucbcomedy.com/show/musical-improv-jam-2026-08-14/"
     },
     {
+      "venue": "The Ice House Comedy Club",
+      "title": "Social Hour",
+      "date": "2026-09-11T00:00:00Z",
+      "time": "6:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/11/social-hour-tickets"
+    },
+    {
       "title": "Baby Wants Candy: Musical Improv",
       "venue": "UCB FRANKLIN",
       "date": "2026-09-11T00:00:00Z",
@@ -441,12 +377,44 @@
       "url": "https://ucbcomedy.com/show/baby-wants-candy-musical-improv-2026-08-14/"
     },
     {
+      "venue": "The Wilshire Ebell Theatre",
+      "title": "Dan and Phil: Hard Launch World Tour",
+      "date": "2026-09-11T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/11/dan-and-phil-hard-launch-world-tour-tickets"
+    },
+    {
+      "venue": "The Laugh Factory",
+      "title": "Friday Night All-stars",
+      "date": "2026-09-11T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/11/friday-night-all-stars-tickets"
+    },
+    {
+      "venue": "The Ice House Comedy Club",
+      "title": "Reg Thomas",
+      "date": "2026-09-11T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/11/reg-thomas-tickets"
+    },
+    {
       "title": "Sketch Jam",
       "venue": "UCB FRANKLIN",
       "date": "2026-09-11T00:00:00Z",
       "time": "8:00 PM",
       "description": "Friday, September 11, 2026 @ 8:00 PMLA - ANNEXSketchSketch JamSketch Jam is every 2nd Friday of the month at 8pm at the UCB Annex and is open to all UCB Sketch and Character students. Submissions are due the 2nd Wednesday of the month (the Wednesday before the show) Actors…Read more",
       "url": "https://ucbcomedy.com/show/sketch-jam-2026-08-14/"
+    },
+    {
+      "venue": "The Elysian Theater",
+      "title": "The Ope! Hello! Show",
+      "date": "2026-09-11T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/11/the-ope-hello-show-tickets"
     },
     {
       "title": "FRIDAY FIX! JV & Bangarang",
@@ -1033,6 +1001,14 @@
       "url": "https://ucbcomedy.com/show/friday-fix-leroy-sentimental-lady-2026-09-25/"
     },
     {
+      "title": "CLOWN HAUL",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-09-25T00:00:00Z",
+      "time": "9:30 PM",
+      "description": "Friday, September 25, 2026 @ 9:30 PMLA - ANNEXClownCLOWN HAULAn immersive night of comedy that just might change your life. Welcome to CLOWN HAUL, hosted by the highly immersive elegant performance art clown troupe, FLWLS (pronounced flawless). A heavenly salon where you can experience the mystical world of clowning.…Buy Now",
+      "url": "https://ucbcomedy.com/show/clown-haul-2026-09-25/"
+    },
+    {
       "title": "Silly Gilly & Friends",
       "venue": "Largo at the Coronet",
       "date": "2026-09-26T00:00:00",
@@ -1289,8 +1265,8 @@
       "url": "https://wl.seetickets.us/event/watkins-family-hour-holiday-show/702451?afflky=LargoAtTheCoronet"
     }
   ],
-  "lastUpdated": "2026-09-07T12:15:41.171254Z",
-  "totalShows": 161,
+  "lastUpdated": "2026-09-08T12:37:11.714153Z",
+  "totalShows": 158,
   "sources": [
     "DoLA",
     "UCB FRANKLIN",
