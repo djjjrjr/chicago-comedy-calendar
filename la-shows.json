@@ -1,142 +1,6 @@
 {
   "shows": [
     {
-      "title": "Chris Fleming and Friends",
-      "venue": "Largo at the Coronet",
-      "date": "2026-09-15T00:00:00",
-      "time": "8:00 PM",
-      "description": "$40.00",
-      "url": "https://wl.seetickets.us/event/chris-fleming-and-friends/703017?afflky=LargoAtTheCoronet"
-    },
-    {
-      "title": "All Out!: An LGBTQ+forward Open Mic",
-      "venue": "UCB FRANKLIN",
-      "date": "2026-09-15T00:00:00Z",
-      "time": "6:30 PM",
-      "description": "Tuesday, September 15, 2026 @ 6:30 PMLA - ANNEXStandupAll Out!: An LGBTQ+forward Open MicAll Out! is UCB’s newest LGBTQ+forward stand-up open mic for queer-identifying comics and allies! All Out! is UCB's brand new LGBTQ+ focussed monthly stand-up open mic here to cultivate a safe, supportive space for queer-identifying comics (and allies!) to take…Buy Now",
-      "url": "https://ucbcomedy.com/show/all-out-an-lgbtqforward-open-mic-2026-08-18/"
-    },
-    {
-      "venue": "The Ice House Comedy Club",
-      "title": "Social Hour",
-      "date": "2026-09-15T00:00:00Z",
-      "time": "6:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/15/social-hour-tickets"
-    },
-    {
-      "title": "Sing Out, Louise! ft. Small Town Mayor & Sweet Sweet Fantasy Musical",
-      "venue": "UCB FRANKLIN",
-      "date": "2026-09-15T00:00:00Z",
-      "time": "7:00 PM",
-      "description": "Tuesday, September 15, 2026 @ 7:00 PMLA - FRANKLINImprovSing Out, Louise! ft. Small Town Mayor & Sweet Sweet Fantasy MusicalThe Next Generation of Musical Improv. Sing Out, Louise! is a late-night musical improv show featuring the next generation of performers shaping the future of the form. Every 2nd and 4th Tuesday at 7pm, 8 show-stopping teams deliver completely improvised…Buy Now",
-      "url": "https://ucbcomedy.com/show/sing-out-louise-ft-small-town-mayor-sweet-sweet-fantasy-musical-2026-09-15/"
-    },
-    {
-      "venue": "Transplants Brewing Company",
-      "title": "FREE SHOW: WILD CARD COMEDY SHOW AND OPEN MIC",
-      "date": "2026-09-15T00:00:00Z",
-      "time": "7:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/15/free-show-wild-card-comedy-show-and-open-mic-tickets"
-    },
-    {
-      "venue": "Hollywood Improv",
-      "title": "Tonight at The Improv Ft. Brian Monarch and More Tba",
-      "date": "2026-09-15T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/15/tonight-at-the-improv-ft-brian-monarch-and-more-tba-tickets"
-    },
-    {
-      "venue": "The Laugh Factory",
-      "title": "Rubee Tuesdays",
-      "date": "2026-09-15T00:00:00Z",
-      "time": "7:45PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/15/rubee-tuesdays-tickets"
-    },
-    {
-      "title": "SOLID: a stand-up comedy show",
-      "venue": "UCB FRANKLIN",
-      "date": "2026-09-15T00:00:00Z",
-      "time": "8:00 PM",
-      "description": "Tuesday, September 15, 2026 @ 8:00 PMLA - ANNEXStandupSOLID: a stand-up comedy showAn evening of stand-up comedy featuring the best comics in the city! Hosted by Joe Kwaczala (Comedy Central) and Clare O'Kane (Saturday Night Live), SOLID is a stand-up comedy show that features the funniest comics in Los Angeles at an affordable price. These…Buy Now",
-      "url": "https://ucbcomedy.com/show/solid-a-stand-up-comedy-show-2026-09-15/"
-    },
-    {
-      "venue": "Largo",
-      "title": "Chris Fleming and Friends",
-      "date": "2026-09-15T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/15/chris-fleming-and-friends-tickets"
-    },
-    {
-      "venue": "The Elysian Theater",
-      "title": "ROOMIES with Dylan Adler, Sam Morrison & Kylie Vincent",
-      "date": "2026-09-15T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/15/roomies-with-dylan-adler-sam-morrison-kylie-vincent-tickets"
-    },
-    {
-      "venue": "The Ice House Comedy Club",
-      "title": "Jiaoying Summers",
-      "date": "2026-09-15T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/15/jiaoying-summers-tickets"
-    },
-    {
-      "venue": "Baby Battista @ Nico's",
-      "title": "That Rocks Comedy ft. headline standups in LA",
-      "date": "2026-09-15T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/15/that-rocks-comedy-ft-headline-standups-in-la-tickets"
-    },
-    {
-      "venue": "Baby Battista @ Nico's",
-      "title": "LINDA | A Comedy Show",
-      "date": "2026-09-15T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/15/linda-a-comedy-show-tickets"
-    },
-    {
-      "title": "The Public Breakup Show",
-      "venue": "UCB FRANKLIN",
-      "date": "2026-09-15T00:00:00Z",
-      "time": "8:30 PM",
-      "description": "Tuesday, September 15, 2026 @ 8:30 PMLA - FRANKLINLivestreamSketchThe Public Breakup ShowComedy closure your ex will never give you. A comedy show full of sketches, audience breakup stories, giveaways to help you bounce back, and PROOF that you won your last breakup. Hold that grudge and put on another coat of…Buy Now",
-      "url": "https://ucbcomedy.com/show/the-public-breakup-show-2026-09-15/"
-    },
-    {
-      "title": "The Punch-up with Beth Stelling & Chinedu Unaka",
-      "venue": "UCB FRANKLIN",
-      "date": "2026-09-15T00:00:00Z",
-      "time": "9:30 PM",
-      "description": "Tuesday, September 15, 2026 @ 9:30 PMLA - ANNEXStandupThe Punch-up with Beth Stelling & Chinedu UnakaA good-natured stand-up open mic where Beth Stelling punches your jokes up (when possible) Hi! I'm comedian Beth Stelling. I headlined Omaha Comedy Festival a few years ago and they asked me to lead a stand-up workshop, which I don't…Read more",
-      "url": "https://ucbcomedy.com/show/the-punch-up-with-beth-stelling-2026-09-15/"
-    },
-    {
-      "venue": "Hollywood Improv",
-      "title": "John Campanelli & Special Guests",
-      "date": "2026-09-15T00:00:00Z",
-      "time": "9:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/15/john-campanelli-special-guests-tickets"
-    },
-    {
-      "venue": "The Green Room on Ventura",
-      "title": "The Higher Mic Comedy Open Mic Night",
-      "date": "2026-09-15T11:10:23.782435Z",
-      "time": "6:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/weeklies/2026/09/15"
-    },
-    {
       "title": "Mae Martin and Friends",
       "venue": "Largo at the Coronet",
       "date": "2026-09-16T00:00:00",
@@ -449,6 +313,54 @@
       "url": "https://ucbcomedy.com/show/holy-shit-improv-2026-09-18/"
     },
     {
+      "venue": "Riverside Municipal Auditorium",
+      "title": "[canceled]FOOS GONE WILD: The FOOS GONE WILD Tour 2026",
+      "date": "2026-09-18T00:00:00Z",
+      "time": "7:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/18/foos-gone-wild-the-foos-gone-wild-tour-2026-tickets"
+    },
+    {
+      "venue": "The Ice House Comedy Club",
+      "title": "New World Disorder w/ Francesca Fiorentini",
+      "date": "2026-09-18T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/18/new-world-disorder-w-francesca-fiorentini-tickets"
+    },
+    {
+      "venue": "Hollywood Improv",
+      "title": "Tonight at The Improv",
+      "date": "2026-09-18T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/18/tonight-at-the-improv-tickets"
+    },
+    {
+      "venue": "Hollywood Improv",
+      "title": "Dean Stanfield",
+      "date": "2026-09-18T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/18/dean-stanfield-tickets"
+    },
+    {
+      "venue": "The Laugh Factory",
+      "title": "Friday Night All-stars",
+      "date": "2026-09-18T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/18/friday-night-all-stars-tickets"
+    },
+    {
+      "venue": "The Elysian Theater",
+      "title": "Pot Hot",
+      "date": "2026-09-18T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/18/pot-hot-tickets"
+    },
+    {
       "title": "Paint and Sip",
       "venue": "UCB FRANKLIN",
       "date": "2026-09-18T00:00:00Z",
@@ -457,12 +369,60 @@
       "url": "https://ucbcomedy.com/show/paint-and-sip-2026-09-18/"
     },
     {
+      "venue": "Largo",
+      "title": "Maria Bamford and Friends",
+      "date": "2026-09-18T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/18/maria-bamford-and-friends-tickets"
+    },
+    {
+      "venue": "The Upstairs LA",
+      "title": "Mark Hayes & Friends",
+      "date": "2026-09-18T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/18/mark-hayes-friends-tickets"
+    },
+    {
+      "venue": "The Elysian Theater",
+      "title": "Hoop",
+      "date": "2026-09-18T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/18/hoop-tickets"
+    },
+    {
+      "venue": "The Nitecap",
+      "title": "Prime Time Fridays",
+      "date": "2026-09-18T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/18/prime-time-fridays-tickets"
+    },
+    {
       "title": "FRIDAY FIX! Winslow & Queen George",
       "venue": "UCB FRANKLIN",
       "date": "2026-09-18T00:00:00Z",
       "time": "8:30 PM",
       "description": "Friday, September 18, 2026 @ 8:30 PMLA - FRANKLINLivestreamImprovFRIDAY FIX! Winslow & Queen GeorgeUCB's weekly improv double header! A night of improv comedy featuring two of LA's top teams performing back-to-back. Get your FIX every FRIDAY. Featuring: Winslow understands our loved ones - they plague our lives with never-ending texts, chain emails, and…Buy Now",
       "url": "https://ucbcomedy.com/show/friday-fix-winslow-queen-george-2026-09-18/"
+    },
+    {
+      "venue": "Santa Monica Playhouse",
+      "title": "Drunk Theatre LA | Wildest Comedy Show!",
+      "date": "2026-09-18T00:00:00Z",
+      "time": "9:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/18/drunk-theatre-la-wildest-comedy-show-tickets"
+    },
+    {
+      "venue": "The Ice House Comedy Club",
+      "title": "Cid & Rocky Present",
+      "date": "2026-09-18T00:00:00Z",
+      "time": "9:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/18/cid-rocky-present-tickets"
     },
     {
       "title": "Aziz Ansari and Friends",
@@ -1097,6 +1057,14 @@
       "url": "https://ucbcomedy.com/show/asssscat-la-2026-10-04/"
     },
     {
+      "title": "The Incubator: Jinx + Dance Club Remix",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-10-05T00:00:00Z",
+      "time": "5:30 PM",
+      "description": "Monday, October 5, 2026 @ 5:30 PMLA - FRANKLINImprovThe Incubator: Jinx + Dance Club RemixLooking for the best live improv comedy in Los Angeles? The Incubator at the Upright Citizens Brigade Theatre is a must-see monthly show featuring the next generation of performers alongside some of UCB’s most exciting veteran teams—all on one stage.…Buy Now",
+      "url": "https://ucbcomedy.com/show/the-incubator-jinx-dance-club-remix-2026-10-05/"
+    },
+    {
       "title": "Gary Gulman: Grandiloquent",
       "venue": "Largo at the Coronet",
       "date": "2026-10-06T00:00:00",
@@ -1177,12 +1145,12 @@
       "url": "https://wl.seetickets.us/event/lloyd-cole/690996?afflky=LargoAtTheCoronet"
     },
     {
-      "title": "Brett Goldstein tries a new hour out (with special guests)",
+      "title": "Brett Goldstein Hopes This Hour Is Ready (with special guest Mo Welch)",
       "venue": "Largo at the Coronet",
       "date": "2026-10-18T00:00:00",
       "time": "7:30 PM",
       "description": "$40.00",
-      "url": "https://wl.seetickets.us/event/brett-goldstein-tries-a-new-hour-out-with-special-guests/704980?afflky=LargoAtTheCoronet"
+      "url": "https://wl.seetickets.us/event/brett-goldstein-hopes-this-hour-is-ready/704980?afflky=LargoAtTheCoronet"
     },
     {
       "title": "Marc Maron – Stand-Up Show",
@@ -1345,8 +1313,8 @@
       "url": "https://wl.seetickets.us/event/watkins-family-hour-holiday-show/702451?afflky=LargoAtTheCoronet"
     }
   ],
-  "lastUpdated": "2026-09-15T12:37:44.280074Z",
-  "totalShows": 168,
+  "lastUpdated": "2026-09-16T11:25:15.852793Z",
+  "totalShows": 164,
   "sources": [
     "DoLA",
     "UCB FRANKLIN",
