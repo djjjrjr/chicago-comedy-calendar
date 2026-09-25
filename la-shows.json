@@ -1,174 +1,6 @@
 {
   "shows": [
     {
-      "venue": "UCB FRANKLIN",
-      "title": "UCB Cagematch",
-      "date": "2026-09-24T00:00:00Z",
-      "time": "10:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/24/ucb-cagematch-tickets"
-    },
-    {
-      "venue": "UCB Annex",
-      "title": "The Harold Annex-Periment ft. S.O.F.T. & Cowboy Mama",
-      "date": "2026-09-24T00:00:00Z",
-      "time": "6:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/24/the-harold-annex-periment-ft-s-o-f-t-cowboy-mama-tickets"
-    },
-    {
-      "venue": "Pacific Electric",
-      "title": "Grief Sucks: A KevOnStage Comedy Special(Early Show)",
-      "date": "2026-09-24T00:00:00Z",
-      "time": "7:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/24/grief-sucks-a-kevonstage-comedy-special-early-show-tickets"
-    },
-    {
-      "venue": "UCB FRANKLIN",
-      "title": "Yeti 4 Real",
-      "date": "2026-09-24T00:00:00Z",
-      "time": "7:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/24/yeti-4-real-tickets"
-    },
-    {
-      "venue": "Hollywood Improv",
-      "title": "The Download Comedy Show Ft. Kate Lav, Oj Stellar, and More Tba!",
-      "date": "2026-09-24T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/24/the-download-comedy-show-ft-kate-lav-oj-stellar-and-more-tba-tickets"
-    },
-    {
-      "venue": "The Elysian Theater",
-      "title": "Michelle Collins: WAIT, WHY DON'T I KNOW YOU?",
-      "date": "2026-09-24T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/24/michelle-collins-wait-why-don-t-i-know-you-tickets-zmdplvm"
-    },
-    {
-      "venue": "The Laugh Factory",
-      "title": "Hollywood All-Stars",
-      "date": "2026-09-24T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/24/hollywood-all-stars-tickets"
-    },
-    {
-      "venue": "Baby Battista @ Nico's",
-      "title": "Noah & Naz Live! wine bar",
-      "date": "2026-09-24T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/24/noah-naz-live-wine-bar-tickets"
-    },
-    {
-      "venue": "Largo",
-      "title": "Kate Berlant and Friends",
-      "date": "2026-09-24T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/24/kate-berlant-and-friends-tickets"
-    },
-    {
-      "venue": "The Upstairs LA",
-      "title": "Mark Hayes & Friends",
-      "date": "2026-09-24T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/24/mark-hayes-friends-tickets"
-    },
-    {
-      "venue": "The Ice House Comedy Club",
-      "title": "Rick Izquieta’s Coolasso Comedy Show",
-      "date": "2026-09-24T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/24/rick-izquieta-s-coolasso-comedy-show-tickets"
-    },
-    {
-      "venue": "UCB Annex",
-      "title": "Lloyd Night ft. Jinx & Freak Trap",
-      "date": "2026-09-24T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/24/lloyd-night-ft-jinx-freak-trap-tickets"
-    },
-    {
-      "venue": "Upright Citizens Brigade Theatre",
-      "title": "Fuck This Month: Improv Comedy",
-      "date": "2026-09-24T00:00:00Z",
-      "time": "8:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/24/fuck-this-month-improv-comedy-tickets"
-    },
-    {
-      "venue": "Club Fat Sal's",
-      "title": "One Year Anniversary of Shows @ Club Fat Sal's in Hollywood...SHOW!",
-      "date": "2026-09-24T00:00:00Z",
-      "time": "8:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/24/one-year-of-shows-anniversary-show-club-fat-sal-s-in-hollywood-tickets"
-    },
-    {
-      "venue": "The Elysian Theater",
-      "title": "WRONG! A F*ckeD Up Game Show",
-      "date": "2026-09-24T00:00:00Z",
-      "time": "8:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/24/wrong-a-f-cked-up-game-show-tickets"
-    },
-    {
-      "venue": "UCB FRANKLIN",
-      "title": "Fuck This Month",
-      "date": "2026-09-24T00:00:00Z",
-      "time": "8:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/24/fuck-this-month-tickets"
-    },
-    {
-      "venue": "UCB Annex",
-      "title": "Club 401: A Harold Jam",
-      "date": "2026-09-24T00:00:00Z",
-      "time": "9:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/24/club-401-a-harold-jam-tickets"
-    },
-    {
-      "venue": "Hollywood Improv",
-      "title": "Hardy Party",
-      "date": "2026-09-24T00:00:00Z",
-      "time": "9:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/24/hardy-party-tickets"
-    },
-    {
-      "venue": "Pacific Electric",
-      "title": "Grief Sucks: A KevOnStage Comedy Special(Late Show)",
-      "date": "2026-09-24T00:00:00Z",
-      "time": "9:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/24/grief-sucks-a-kevonstage-comedy-special-late-show-tickets"
-    },
-    {
-      "venue": "The Laugh Factory",
-      "title": "Tehran Thursdays",
-      "date": "2026-09-24T00:00:00Z",
-      "time": "9:45PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/24/tehran-thursdays-tickets"
-    },
-    {
-      "venue": "Santa Monica Playhouse",
-      "title": "Drunk Theatre LA",
-      "date": "2026-09-24T11:17:02.163857Z",
-      "time": "9:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/weeklies/2026/09/25"
-    },
-    {
       "title": "Tig Has Friends",
       "venue": "Largo at the Coronet",
       "date": "2026-09-25T00:00:00",
@@ -202,6 +34,14 @@
     },
     {
       "venue": "Hollywood Improv",
+      "title": "Tonight at The Improv",
+      "date": "2026-09-25T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/25/tonight-at-the-improv-tickets"
+    },
+    {
+      "venue": "Hollywood Improv",
       "title": "Horror Nerd Ft. Samantha Hale and More Tba",
       "date": "2026-09-25T00:00:00Z",
       "time": "7:30PM",
@@ -217,6 +57,14 @@
       "url": "https://dolosangeles.com/events/2026/9/25/friday-night-all-stars-tickets"
     },
     {
+      "venue": "The Ice House Comedy Club",
+      "title": "Alex Reymundo: Toxic MEXculinity",
+      "date": "2026-09-25T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/25/alex-reymundo-toxic-mexculinity-tickets"
+    },
+    {
       "venue": "The Elysian Theater",
       "title": "CONNOR RATLIFF presents THE ACTING CLASS",
       "date": "2026-09-25T00:00:00Z",
@@ -225,20 +73,12 @@
       "url": "https://dolosangeles.com/events/2026/9/25/connor-ratliff-presents-the-acting-class-tickets"
     },
     {
-      "venue": "Hollywood Improv",
-      "title": "Tonight at The Improv",
+      "venue": "The Groundlings Theatre",
+      "title": "CIRQUE-DU-GROUNDLINGS - IN PREVIEWS!",
       "date": "2026-09-25T00:00:00Z",
       "time": "7:30PM",
       "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/25/tonight-at-the-improv-tickets"
-    },
-    {
-      "venue": "The Ice House Comedy Club",
-      "title": "Alex Reymundo: Toxic MEXculinity",
-      "date": "2026-09-25T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/25/alex-reymundo-toxic-mexculinity-tickets"
+      "url": "https://dolosangeles.com/events/2026/9/25/cirque-du-groundlings-in-previews-tickets"
     },
     {
       "venue": "Largo",
@@ -297,12 +137,52 @@
       "url": "https://dolosangeles.com/events/2026/9/25/comedy-grind-tickets"
     },
     {
+      "venue": "Santa Monica Playhouse",
+      "title": "Drunk Theatre LA",
+      "date": "2026-09-25T11:18:37.850471Z",
+      "time": "9:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/weeklies/2026/09/25"
+    },
+    {
       "title": "Silly Gilly & Friends",
       "venue": "Largo at the Coronet",
       "date": "2026-09-26T00:00:00",
       "time": "8:00 PM",
       "description": "$40.00",
       "url": "https://wl.seetickets.us/event/silly-gilly-and-friends/703974?afflky=LargoAtTheCoronet"
+    },
+    {
+      "venue": "UCB FRANKLIN",
+      "title": "DOUBLE FEATURE: Improvlesque & We’re Gross with Gilli Nissim",
+      "date": "2026-09-26T00:00:00Z",
+      "time": "10:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/26/double-feature-improvlesque-we-re-gross-with-gilli-nissim-tickets"
+    },
+    {
+      "venue": "The Elysian Theater",
+      "title": "Tomorrow! w/ Ron Lynch",
+      "date": "2026-09-26T00:00:00Z",
+      "time": "11:55PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/26/tomorrow-w-ron-lynch-tickets"
+    },
+    {
+      "venue": "UCB FRANKLIN",
+      "title": "Menudo’s Feliz Hour: Improv in English, Spanish y Espanglish!",
+      "date": "2026-09-26T00:00:00Z",
+      "time": "5:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/26/menudo-s-feliz-hour-improv-in-english-spanish-y-espanglish-tickets"
+    },
+    {
+      "venue": "UCB Annex",
+      "title": "Life is Shorts: An Hour of Comedy Films",
+      "date": "2026-09-26T00:00:00Z",
+      "time": "6:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/26/life-is-shorts-an-hour-of-comedy-films-tickets"
     },
     {
       "venue": "Fox Performing Arts Center",
@@ -321,12 +201,76 @@
       "url": "https://dolosangeles.com/events/2026/9/26/the-george-lucas-talk-show-tickets"
     },
     {
+      "venue": "Hollywood Improv",
+      "title": "Tonight at The Improv",
+      "date": "2026-09-26T00:00:00Z",
+      "time": "7:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/26/tonight-at-the-improv-tickets"
+    },
+    {
+      "venue": "UCB FRANKLIN",
+      "title": "Assssketch La",
+      "date": "2026-09-26T00:00:00Z",
+      "time": "7:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/26/assssketch-la-tickets"
+    },
+    {
       "venue": "The Laugh Factory",
       "title": "Saturday Night All-Stars",
       "date": "2026-09-26T00:00:00Z",
       "time": "7:30PM",
       "description": "",
       "url": "https://dolosangeles.com/events/2026/9/26/saturday-night-all-stars-tickets"
+    },
+    {
+      "venue": "Hollywood Improv",
+      "title": "Tonight at The Lab!",
+      "date": "2026-09-26T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/26/tonight-at-the-lab-tickets"
+    },
+    {
+      "venue": "Largo",
+      "title": "Silly Gilly & Friends",
+      "date": "2026-09-26T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/26/silly-gilly-friends-tickets"
+    },
+    {
+      "venue": "LA Connection Comedy Theater",
+      "title": "The Pumpkin Spice Improv Special!",
+      "date": "2026-09-26T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/26/the-pumpkin-spice-improv-special-tickets"
+    },
+    {
+      "venue": "True Love Barbershop",
+      "title": "The Good Good Show",
+      "date": "2026-09-26T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/26/the-good-good-show-tickets"
+    },
+    {
+      "venue": "UCB Annex",
+      "title": "Our Long Harold: An Hour-Long Harold",
+      "date": "2026-09-26T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/26/our-long-harold-an-hour-long-harold-tickets"
+    },
+    {
+      "venue": "The Upstairs LA",
+      "title": "The Upstairs Comedy Showcase",
+      "date": "2026-09-26T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/26/the-upstairs-comedy-showcase-tickets"
     },
     {
       "venue": "The Elysian Theater",
@@ -337,6 +281,22 @@
       "url": "https://dolosangeles.com/events/2026/9/26/ashley-apap-tickets"
     },
     {
+      "venue": "UCB FRANKLIN",
+      "title": "Asssscat La",
+      "date": "2026-09-26T00:00:00Z",
+      "time": "8:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/26/asssscat-la-tickets"
+    },
+    {
+      "venue": "Viibz Restaurant & Bar",
+      "title": "Fly Swatter Comedy",
+      "date": "2026-09-26T00:00:00Z",
+      "time": "9:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/26/fly-swatter-comedy-tickets"
+    },
+    {
       "venue": "Dynasty Typewriter",
       "title": "The George Lucas Talk Show After Dark",
       "date": "2026-09-26T00:00:00Z",
@@ -345,12 +305,28 @@
       "url": "https://dolosangeles.com/events/2026/9/26/the-george-lucas-talk-show-after-dark-tickets"
     },
     {
+      "venue": "The Elysian Theater",
+      "title": "Hands!",
+      "date": "2026-09-26T00:00:00Z",
+      "time": "9:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/26/hands-tickets"
+    },
+    {
       "venue": "The Ice House Comedy Club",
       "title": "Laugh Bombs",
       "date": "2026-09-26T00:00:00Z",
       "time": "9:30PM",
       "description": "",
       "url": "https://dolosangeles.com/events/2026/9/26/laugh-bombs-tickets"
+    },
+    {
+      "venue": "Hollywood Improv",
+      "title": "LA vs. Transplants ft. Kayla Hardy, Amber Easton and more TBA",
+      "date": "2026-09-26T00:00:00Z",
+      "time": "9:45PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/26/la-vs-transplants-ft-kayla-hardy-amber-easton-and-more-tba-tickets"
     },
     {
       "title": "Chris Fleming and Friends",
@@ -713,8 +689,8 @@
       "url": "https://wl.seetickets.us/event/a-history-worth-repeating-songs-and-stories-from-lucius/706015?afflky=LargoAtTheCoronet"
     }
   ],
-  "lastUpdated": "2026-09-24T12:32:12.897029Z",
-  "totalShows": 89,
+  "lastUpdated": "2026-09-25T13:21:29.844599Z",
+  "totalShows": 86,
   "sources": [
     "DoLA",
     "UCB FRANKLIN",
