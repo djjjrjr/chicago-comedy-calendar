@@ -1,158 +1,6 @@
 {
   "shows": [
     {
-      "title": "RUPI KAUR: UNCUT – A RESIDENCY",
-      "venue": "Union Hall",
-      "date": "2026-09-25T00:00:00.000Z",
-      "time": null,
-      "description": "RUPI KAUR: UNCUT – A RESIDENCY",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Girl Church hosted by Amelia Ritthaler",
-      "venue": "Union Hall",
-      "date": "2026-09-25T00:00:00.000Z",
-      "time": null,
-      "description": "Girl Church hosted by Amelia Ritthaler",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "KARAOKE TREMENDOUS",
-      "venue": "Union Hall",
-      "date": "2026-09-25T00:00:00.000Z",
-      "time": null,
-      "description": "KARAOKE TREMENDOUS",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-09-25T00:00:00.000Z",
-      "time": "10:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-09-25T00:00:00.000Z",
-      "time": "10:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-09-25T00:00:00.000Z",
-      "time": "11:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-09-25T00:00:00.000Z",
-      "time": "11:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-09-25T00:00:00.000Z",
-      "time": "11:55 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-09-25T00:00:00.000Z",
-      "time": "12:30 am",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-09-25T00:00:00.000Z",
-      "time": "12:55 am",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-09-25T00:00:00.000Z",
-      "time": "6:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-09-25T00:00:00.000Z",
-      "time": "6:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Don't Stop I'm About to Jazz",
-      "venue": "The Bell House",
-      "date": "2026-09-25T00:00:00.000Z",
-      "time": "7:00PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/9/25/don-t-stop-i-m-about-to-jazz-tickets"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-09-25T00:00:00.000Z",
-      "time": "7:01 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-09-25T00:00:00.000Z",
-      "time": "7:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-09-25T00:00:00.000Z",
-      "time": "8:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-09-25T00:00:00.000Z",
-      "time": "8:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-09-25T00:00:00.000Z",
-      "time": "9:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-09-25T00:00:00.000Z",
-      "time": "9:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
       "title": "Piece Of Work: A New Hour From Michael Cruz Kayne",
       "venue": "Union Hall",
       "date": "2026-09-26T00:00:00.000Z",
@@ -233,14 +81,6 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
-      "title": "IMPROVISING THE HERO'S JOURNEY: FOR GOOD!",
-      "venue": "Caveat",
-      "date": "2026-09-26T00:00:00.000Z",
-      "time": "4:00 PM",
-      "description": "Greek mythology podcasters unite to improvise a never-before-heard EPIC MYTH, raising money for the ...",
-      "url": "https://caveat.nyc/events/improvising-the-heros-journey-for-good-2026-09-26"
-    },
-    {
       "title": "Comedy Showcase",
       "venue": "Comedy Cellar - Village Underground",
       "date": "2026-09-26T00:00:00.000Z",
@@ -255,22 +95,6 @@
       "time": "6:45 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "THE POWER JOKER: A ROBERT MOSES COMEDY SHOW",
-      "venue": "Caveat",
-      "date": "2026-09-26T00:00:00.000Z",
-      "time": "7:00 PM",
-      "description": "What if RM hosted The Tonight Show? Comedy, special guests, music, and more.",
-      "url": "https://caveat.nyc/events/the-power-joker-a-robert-moses-comedy-show-2026-09-26"
-    },
-    {
-      "title": "Beth Stelling: Let Me Get Loose",
-      "venue": "The Bell House",
-      "date": "2026-09-26T00:00:00.000Z",
-      "time": "7:00PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/9/26/beth-stelling-let-me-get-loose-tickets-qr6qrmq"
     },
     {
       "title": "Comedy Showcase",
@@ -311,14 +135,6 @@
       "time": "9:00 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "DRUNK PLANET EARTH",
-      "venue": "Caveat",
-      "date": "2026-09-26T00:00:00.000Z",
-      "time": "9:30 PM",
-      "description": "A live drinking game show.",
-      "url": "https://caveat.nyc/events/drunk-planet-earth-2026-09-26"
     },
     {
       "title": "Comedy Showcase",
@@ -383,14 +199,6 @@
       "time": "1:30 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "The Musicians of Comedy with Pat Byrne and Tom Peters",
-      "venue": "The Bell House",
-      "date": "2026-09-27T00:00:00.000Z",
-      "time": "3:30PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/9/27/the-musicians-of-comedy-with-pat-byrne-and-tom-peters-tickets"
     },
     {
       "title": "Comedy Showcase",
@@ -545,14 +353,6 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
-      "title": "Jimmy Chin: Rules to Live By",
-      "venue": "The Bell House",
-      "date": "2026-09-28T00:00:00.000Z",
-      "time": "7:30PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/9/28/jimmy-chin-rules-to-live-by-tickets"
-    },
-    {
       "title": "Comedy Showcase",
       "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
       "date": "2026-09-28T00:00:00.000Z",
@@ -641,6 +441,14 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar",
+      "date": "2026-09-29T00:00:00.000Z",
+      "time": "5:30 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
       "title": "TGS: DRAFT OF SHAME - CHEERFUL EARFUL",
       "venue": "Caveat",
       "date": "2026-09-29T00:00:00.000Z",
@@ -663,14 +471,6 @@
       "time": "7:30 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Michelle Buteau",
-      "venue": "The Bell House",
-      "date": "2026-09-29T00:00:00.000Z",
-      "time": "7:30PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/9/29/michelle-buteau-tickets"
     },
     {
       "title": "Comedy Showcase",
@@ -785,28 +585,12 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
-      "title": "The Moth StorySLAM",
-      "venue": "The Bell House",
-      "date": "2026-09-30T00:00:00.000Z",
-      "time": "8:00PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/9/30/the-moth-storyslam-tickets"
-    },
-    {
       "title": "Comedy Showcase",
       "venue": "Comedy Cellar",
       "date": "2026-09-30T00:00:00.000Z",
       "time": "8:30 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "THE NOVELIZERS - CHEERFUL EARFUL",
-      "venue": "Caveat",
-      "date": "2026-09-30T00:00:00.000Z",
-      "time": "9:30 PM",
-      "description": "Celebrate the 35th anniversary of Terminator 2 the same way the T-800 would: by ripping the film a n...",
-      "url": "https://caveat.nyc/events/the-novelizers-cheerful-earful-2026-09-30"
     },
     {
       "title": "Comedy Showcase",
@@ -905,14 +689,6 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
-      "title": "Brendan Scannell: The Abyss",
-      "venue": "The Bell House",
-      "date": "2026-10-01T00:00:00.000Z",
-      "time": "7:30PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/10/1/brendan-scannell-the-abyss-tickets"
-    },
-    {
       "title": "Comedy Showcase",
       "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
       "date": "2026-10-01T00:00:00.000Z",
@@ -985,14 +761,6 @@
       "url": "https://caveat.nyc/events/immigrant-jam-2026-10-02"
     },
     {
-      "title": "Phoebe Robinson: Feral & Fired Up!",
-      "venue": "The Bell House",
-      "date": "2026-10-02T00:00:00.000Z",
-      "time": "7:30PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/10/2/phoebe-robinson-feral-fired-up-tickets-9ebqrxm"
-    },
-    {
       "title": "ROOMIES LIVE!",
       "venue": "Caveat",
       "date": "2026-10-02T00:00:00.000Z",
@@ -1041,14 +809,6 @@
       "url": "https://caveat.nyc/events/tom-ds-big-new-york-show-2026-10-03"
     },
     {
-      "title": "Two Dykes and a Mic: Soaking Wet Tour",
-      "venue": "The Bell House",
-      "date": "2026-10-03T00:00:00.000Z",
-      "time": "7:00PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/10/3/two-dykes-and-a-mic-soaking-wet-tour-tickets"
-    },
-    {
       "title": "RIVET PRESENTS SOCIALLY MATCHED!",
       "venue": "Caveat",
       "date": "2026-10-03T00:00:00.000Z",
@@ -1065,12 +825,28 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "COMEDY GIRL AUTUMN : A Live Comedy Show Hosted by Larry Owens",
-      "venue": "The Bell House",
+      "title": "HOUSE RULES",
+      "venue": "Caveat",
       "date": "2026-10-04T00:00:00.000Z",
-      "time": "6:00PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/10/4/larry-owens-you-autumn-have-a-comedy-show-tickets"
+      "time": "2:30 PM",
+      "description": "Comedians compete in NYC's dumbest game show.",
+      "url": "https://caveat.nyc/events/house-rules-2026-10-04"
+    },
+    {
+      "title": "SKIPPED HISTORY PRESENTS: THE POWER BROKER, PT. 3",
+      "venue": "Caveat",
+      "date": "2026-10-04T00:00:00.000Z",
+      "time": "5:00 PM",
+      "description": "Satirist Ben Tumin explores Robert Moses' transformation of New York City",
+      "url": "https://caveat.nyc/events/skipped-history-presents-the-power-broker-pt-3-2026-10-04"
+    },
+    {
+      "title": "COMEDIANS INTERVIEW EXPERTS: THE CRAFT OF PUZZLES WITH NEGIN FARSAD AND WYNA LIU",
+      "venue": "Caveat",
+      "date": "2026-10-04T00:00:00.000Z",
+      "time": "7:30 PM",
+      "description": "Negin Farsad talks to Wyna Liu about puzzles and her game Connections",
+      "url": "https://caveat.nyc/events/comedians-interview-experts-puzzles-with-negin-farsad-and-wyna-liu-10-4-2026"
     },
     {
       "title": "Comedy Showcase",
@@ -1079,14 +855,6 @@
       "time": "7:00 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Hot Butter Train",
-      "venue": "The Bell House",
-      "date": "2026-10-05T00:00:00.000Z",
-      "time": "7:30PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/10/5/hot-butter-train-tickets"
     },
     {
       "title": "Hear Me Out: Hosted by Nick Smith",
@@ -1113,14 +881,6 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
-      "title": "YANKEL THE ROOSTER Live!",
-      "venue": "The Bell House",
-      "date": "2026-10-06T00:00:00.000Z",
-      "time": "8:00PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/10/6/yankel-the-rooster-live-tickets"
-    },
-    {
       "title": "Cold Plunge with Kurt Braunohler",
       "venue": "Union Hall",
       "date": "2026-10-07T00:00:00.000Z",
@@ -1137,28 +897,12 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
-      "title": "Joe Mande Con Amici",
-      "venue": "The Bell House",
-      "date": "2026-10-07T00:00:00.000Z",
-      "time": "7:30PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/10/7/joe-mande-con-amici-tickets"
-    },
-    {
       "title": "Musical Comedy Is Cool",
       "venue": "Union Hall",
       "date": "2026-10-08T00:00:00.000Z",
       "time": null,
       "description": "Musical Comedy Is Cool",
       "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Molly Kearney",
-      "venue": "The Bell House",
-      "date": "2026-10-08T00:00:00.000Z",
-      "time": "7:30PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/10/8/molly-kearney-tickets"
     },
     {
       "title": "Hack City Comedy with Mic Nguyen and Jenny Arimoto",
@@ -1185,14 +929,6 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "Poly Díaz (En Español)",
-      "venue": "The Bell House",
-      "date": "2026-10-09T00:00:00.000Z",
-      "time": "7:30PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/10/9/poly-diaz-en-espanol-tickets"
-    },
-    {
       "title": "Mohanad Elshieky: Green Books (work in progress)",
       "venue": "Union Hall",
       "date": "2026-10-10T00:00:00.000Z",
@@ -1207,14 +943,6 @@
       "time": null,
       "description": "NO DJ: Downstairs showroom closed for a private event (upstairs bar open)",
       "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Maria Bamford",
-      "venue": "The Bell House",
-      "date": "2026-10-10T00:00:00.000Z",
-      "time": "6:00PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/10/10/maria-bamford-tickets"
     },
     {
       "title": "Aparna Nancherla Is Trying…Again!",
@@ -1239,14 +967,6 @@
       "time": "5:00 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Maria Bamford",
-      "venue": "The Bell House",
-      "date": "2026-10-11T00:00:00.000Z",
-      "time": "5:00PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/10/10/maria-bamford-tickets"
     },
     {
       "title": "Aparna Nancherla Is Trying…Again!",
@@ -1713,23 +1433,31 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "ABOLISH EVERYTHING",
+      "title": "IMPROVISING THE HERO'S JOURNEY: FOR GOOD!",
       "venue": "Caveat",
-      "date": "2027-09-25T00:00:00.000Z",
-      "time": "10:00 PM",
-      "description": "ABOLISH EVERYTHING is a fun, dumb comedy debate show! Comedians testify against societal ills and im...",
-      "url": "https://caveat.nyc/events/abolish-everything-2026-09-25"
+      "date": "2027-09-26T00:00:00.000Z",
+      "time": "4:00 PM",
+      "description": "Greek mythology podcasters unite to improvise a never-before-heard EPIC MYTH, raising money for the ...",
+      "url": "https://caveat.nyc/events/improvising-the-heros-journey-for-good-2026-09-26"
     },
     {
-      "title": "ABOLISH REDEMPTION!",
+      "title": "THE POWER JOKER: A ROBERT MOSES COMEDY SHOW",
       "venue": "Caveat",
-      "date": "2027-09-25T00:00:00.000Z",
+      "date": "2027-09-26T00:00:00.000Z",
       "time": "7:00 PM",
-      "description": "ABOLISH EVERYTHING is a fun, dumb comedy debate show! Comedians testify against societal ills and im...",
-      "url": "https://caveat.nyc/events/abolish-everything-2026-09-25-7pm"
+      "description": "What if RM hosted The Tonight Show? Comedy, special guests, music, and more.",
+      "url": "https://caveat.nyc/events/the-power-joker-a-robert-moses-comedy-show-2026-09-26"
+    },
+    {
+      "title": "DRUNK PLANET EARTH",
+      "venue": "Caveat",
+      "date": "2027-09-26T00:00:00.000Z",
+      "time": "9:30 PM",
+      "description": "A live drinking game show.",
+      "url": "https://caveat.nyc/events/drunk-planet-earth-2026-09-26"
     }
   ],
-  "lastUpdated": "2026-09-25T11:18:31.010868Z",
+  "lastUpdated": "2026-09-26T10:49:44.464901Z",
   "sources": [
     "DoNYC",
     "Caveat",
@@ -1739,5 +1467,5 @@
     "UCB Theatre",
     "The Bell House"
   ],
-  "totalShows": 216
+  "totalShows": 182
 }
