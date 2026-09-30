@@ -1,110 +1,6 @@
 {
   "shows": [
     {
-      "title": "Chris Fleming and Friends",
-      "venue": "Largo at the Coronet",
-      "date": "2026-09-29T00:00:00",
-      "time": "8:00 PM",
-      "description": "$40.00",
-      "url": "https://wl.seetickets.us/event/chris-fleming-and-friends/703018?afflky=LargoAtTheCoronet"
-    },
-    {
-      "title": "Omnipop Presents…",
-      "venue": "UCB FRANKLIN",
-      "date": "2026-09-29T00:00:00Z",
-      "time": "7:00 PM",
-      "description": "Tuesday, September 29, 2026 @ 7:00 PMLA - FRANKLINVarietyOmnipop Presents…A variety showcase featuring the talents of Omnipop's hottest rising comedians. Omnipop is a full-service talent management and production company representing comedians, writers, actors, and multi-hyphenate creatives. Featuring... LIVE SETS FROM Andres Parada Alex Collyard Jake Delaney John Norris Claire…Buy Now",
-      "url": "https://ucbcomedy.com/show/omnipop-presents-2026-09-29/"
-    },
-    {
-      "venue": "UCB FRANKLIN",
-      "title": "Omnipop Presents",
-      "date": "2026-09-29T00:00:00Z",
-      "time": "7:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/29/omnipop-presents-tickets"
-    },
-    {
-      "venue": "Hollywood Improv",
-      "title": "Tonight at The Improv Ft. Brian Monarch and More Tba",
-      "date": "2026-09-29T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/29/tonight-at-the-improv-ft-brian-monarch-and-more-tba-tickets"
-    },
-    {
-      "venue": "Hollywood Improv",
-      "title": "Plant Mob Ft. Kyle Tomlin, and More Tba",
-      "date": "2026-09-29T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/29/plant-mob-ft-kyle-tomlin-and-more-tba-tickets"
-    },
-    {
-      "venue": "The Laugh Factory",
-      "title": "Rubee Tuesdays",
-      "date": "2026-09-29T00:00:00Z",
-      "time": "7:45PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/29/rubee-tuesdays-tickets"
-    },
-    {
-      "venue": "Largo",
-      "title": "Chris Fleming and Friends",
-      "date": "2026-09-29T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/29/chris-fleming-and-friends-tickets"
-    },
-    {
-      "venue": "The Comedy Store",
-      "title": "Amber Autry",
-      "date": "2026-09-29T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/29/amber-autry-tickets"
-    },
-    {
-      "venue": "The Elysian Theater",
-      "title": "ROOMIES with Dylan Adler, Sam Morrison & Kylie Vincent",
-      "date": "2026-09-29T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/29/roomies-with-dylan-adler-sam-morrison-kylie-vincent-tickets"
-    },
-    {
-      "venue": "Baby Battista @ Nico's",
-      "title": "SPILLWAY Music Series | A Stream of Consciousness Music Event",
-      "date": "2026-09-29T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/29/spillway-music-series-a-stream-of-consciousness-music-event-tickets"
-    },
-    {
-      "venue": "UCB Annex",
-      "title": "SOLID: a stand-up comedy show",
-      "date": "2026-09-29T00:00:00Z",
-      "time": "8:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/29/solid-a-stand-up-comedy-show-tickets"
-    },
-    {
-      "title": "Duo It Again: Latino Heritage Month Edition",
-      "venue": "UCB FRANKLIN",
-      "date": "2026-09-29T00:00:00Z",
-      "time": "8:30 PM",
-      "description": "Tuesday, September 29, 2026 @ 8:30 PMLA - FRANKLINImprovDuo It Again: Latino Heritage Month Edition20+ improv duos improvise the same scene over and over again to infinity! Special Latino Month Heritage Edition featuring some of LA’s best and funniest Latino/Latine/Latinx improvisers! Duo It Again is an improv experiment that asks the question, “What happens…Buy Now",
-      "url": "https://ucbcomedy.com/show/duo-it-again-latino-heritage-month-edition-792365/"
-    },
-    {
-      "venue": "The Green Room on Ventura",
-      "title": "The Higher Mic Comedy Open Mic Night",
-      "date": "2026-09-29T12:08:18.904830Z",
-      "time": "6:00PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/weeklies/2026/09/29"
-    },
-    {
       "title": "John C. Reilly is Mister Romantic",
       "venue": "Largo at the Coronet",
       "date": "2026-09-30T00:00:00",
@@ -130,19 +26,19 @@
     },
     {
       "venue": "Hollywood Improv",
-      "title": "Pitch and Pair",
-      "date": "2026-09-30T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/9/30/pitch-and-pair-tickets"
-    },
-    {
-      "venue": "Hollywood Improv",
       "title": "Pitch & Pair",
       "date": "2026-09-30T00:00:00Z",
       "time": "7:30PM",
       "description": "",
       "url": "https://dolosangeles.com/events/2026/9/30/pitch-pair-tickets"
+    },
+    {
+      "venue": "Hollywood Improv",
+      "title": "Pitch and Pair",
+      "date": "2026-09-30T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/9/30/pitch-and-pair-tickets"
     },
     {
       "venue": "The Laugh Factory",
@@ -233,6 +129,14 @@
       "url": "https://ucbcomedy.com/show/ucb-cagematch-2026-10-01/"
     },
     {
+      "venue": "UCB FRANKLIN",
+      "title": "UCB Cagematch",
+      "date": "2026-10-01T00:00:00Z",
+      "time": "10:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/10/1/ucb-cagematch-tickets"
+    },
+    {
       "venue": "The Ice House Comedy Club",
       "title": "Breaking the Ice Open Mic",
       "date": "2026-10-01T00:00:00Z",
@@ -281,20 +185,20 @@
       "url": "https://dolosangeles.com/events/2026/10/1/frackula-tickets"
     },
     {
-      "venue": "The Laugh Factory",
-      "title": "ALEXANDRE KOMINEK - Bâtard sensible",
-      "date": "2026-10-01T00:00:00Z",
-      "time": "7:30PM",
-      "description": "",
-      "url": "https://dolosangeles.com/events/2026/10/1/alex-kominek-live-tickets"
-    },
-    {
       "venue": "Hollywood Improv",
       "title": "The Download Comedy Show Ft. Kate Lav, Oj Stellar and More Tba",
       "date": "2026-10-01T00:00:00Z",
       "time": "7:30PM",
       "description": "",
       "url": "https://dolosangeles.com/events/2026/10/1/the-download-comedy-show-ft-kate-lav-oj-stellar-and-more-tba-tickets"
+    },
+    {
+      "venue": "The Laugh Factory",
+      "title": "ALEXANDRE KOMINEK - Bâtard sensible",
+      "date": "2026-10-01T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/10/1/alex-kominek-live-tickets"
     },
     {
       "venue": "The Elysian Theater",
@@ -345,6 +249,14 @@
       "url": "https://ucbcomedy.com/show/soundtrack-2026-10-01/"
     },
     {
+      "venue": "UCB FRANKLIN",
+      "title": "Soundtrack",
+      "date": "2026-10-01T00:00:00Z",
+      "time": "8:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/10/1/soundtrack-tickets"
+    },
+    {
       "title": "Club 401: A Harold Jam",
       "venue": "UCB FRANKLIN",
       "date": "2026-10-01T00:00:00Z",
@@ -359,6 +271,14 @@
       "time": "9:00PM",
       "description": "",
       "url": "https://dolosangeles.com/events/2026/10/1/headliner-oscar-collazos-club-fat-sal-s-in-hollywood-tickets"
+    },
+    {
+      "venue": "UCB Annex",
+      "title": "Club 401: A Harold Jam",
+      "date": "2026-10-01T00:00:00Z",
+      "time": "9:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/10/1/club-401-a-harold-jam-tickets"
     },
     {
       "venue": "The Laugh Factory",
@@ -401,12 +321,68 @@
       "url": "https://ucbcomedy.com/show/holy-shit-improv-2026-10-02/"
     },
     {
+      "venue": "Pico Union Project",
+      "title": "Love Isn't Blind: A comedy/dating show where the men can't speak.",
+      "date": "2026-10-02T00:00:00Z",
+      "time": "7:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/10/2/love-isn-t-blind-a-comedy-dating-show-where-the-men-can-t-speak-tickets"
+    },
+    {
+      "venue": "The Ice House Comedy Club",
+      "title": "Des Bishop",
+      "date": "2026-10-02T00:00:00Z",
+      "time": "7:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/10/2/des-bishop-tickets"
+    },
+    {
+      "venue": "Hollywood Improv",
+      "title": "Secretly Trashed Ft. Sam Mamaghani, Monty Geer and More Tba",
+      "date": "2026-10-02T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/10/2/secretly-trashed-ft-sam-mamaghani-monty-geer-and-more-tba-tickets"
+    },
+    {
+      "venue": "Hollywood Improv",
+      "title": "Secretly Trashed",
+      "date": "2026-10-02T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/10/2/secretly-trashed-tickets"
+    },
+    {
+      "venue": "The Laugh Factory",
+      "title": "Friday Night All-stars",
+      "date": "2026-10-02T00:00:00Z",
+      "time": "7:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/10/2/friday-night-all-stars-tickets"
+    },
+    {
+      "venue": "The Comedy Store",
+      "title": "Closed for a Private Event {BILT}",
+      "date": "2026-10-02T00:00:00Z",
+      "time": "8:00PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/10/2/closed-for-a-private-event-bilt-tickets"
+    },
+    {
       "title": "FRIDAY FIX! The Smokes & The Big Team",
       "venue": "UCB FRANKLIN",
       "date": "2026-10-02T00:00:00Z",
       "time": "8:30 PM",
       "description": "Friday, October 2, 2026 @ 8:30 PMLA - FRANKLINLivestreamImprovFRIDAY FIX! The Smokes & The Big TeamUCB's weekly improv double header! A night of improv comedy featuring two of LA's top teams performing back-to-back. Get your FIX every FRIDAY. Featuring: THE SMOKES: No gimmicks, no pyrotechnics – just a single suggestion and these friends of (gulp)…Buy Now",
       "url": "https://ucbcomedy.com/show/friday-fix-the-smokes-the-big-team-2026-10-02/"
+    },
+    {
+      "venue": "The Elysian Theater",
+      "title": "Frank Sriracha: Home is Where the Stage is",
+      "date": "2026-10-02T00:00:00Z",
+      "time": "9:30PM",
+      "description": "",
+      "url": "https://dolosangeles.com/events/2026/10/2/frank-sriracha-home-is-where-the-stage-is-tickets"
     },
     {
       "title": "Watkins Family Hour",
@@ -597,7 +573,7 @@
       "venue": "UCB FRANKLIN",
       "date": "2026-10-08T00:00:00Z",
       "time": "8:30 PM",
-      "description": "Thursday, October 8, 2026 @ 8:30 PMLA - FRANKLINLivestreamImprovFuck This MonthImprov comedy based on your shitty month! Let’s face it; this month was trash. We’re here to help! Come to the Upright Citizens Brigade Theatre and watch the best comedians in Los Angeles turn your misery into comedy. Featuring some…Buy Now",
+      "description": "Thursday, October 8, 2026 @ 8:30 PMLA - FRANKLINLivestreamImprovFuck This MonthImprov comedy based on your shitty month! Cast: Paul Robalino, Zeke Nicholson, Kimia Behpoornia, Eli Gonzalez, Lauren Knutti, and Jeff Whitaker Let’s face it; this month was trash. We’re here to help! Come to the Upright Citizens Brigade Theatre and…Buy Now",
       "url": "https://ucbcomedy.com/show/fuck-this-month-2026-10-08/"
     },
     {
@@ -989,7 +965,7 @@
       "venue": "UCB FRANKLIN",
       "date": "2026-10-20T00:00:00Z",
       "time": "8:30 PM",
-      "description": "Tuesday, October 20, 2026 @ 8:30 PMLA - ANNEXStandupThe Punch-up with Beth StellingA good-natured stand-up open mic where Beth Stelling punches your jokes up (when possible)! Hi! I'm comedian Beth Stelling. I headlined Omaha Comedy Festival a few years ago and they asked me to lead a stand-up workshop, which I don't…Buy Now",
+      "description": "Tuesday, October 20, 2026 @ 8:30 PMLA - FRANKLINStandupThe Punch-up with Beth StellingA good-natured stand-up open mic where Beth Stelling punches your jokes up (when possible)! With special guest Guy Branum! Hi! I'm comedian Beth Stelling. I headlined Omaha Comedy Festival a few years ago and they asked me to lead a…Buy Now",
       "url": "https://ucbcomedy.com/show/the-punch-up-with-beth-stelling-789064/"
     },
     {
@@ -1033,12 +1009,28 @@
       "url": "https://ucbcomedy.com/show/yeti-4-real-796478/"
     },
     {
+      "title": "Fuck This Month",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-10-22T00:00:00Z",
+      "time": "8:30 PM",
+      "description": "Thursday, October 22, 2026 @ 8:30 PMLA - FRANKLINLivestreamImprovFuck This MonthImprov comedy based on your shitty month! Cast: Ashby, Demi Adejuyigbe, Jiavani, Amanda Breen, Stephanie Burchinow, Eli Gonzalez, Lauren Knutti, Jeff Whitaker Let’s face it; this month was trash. We’re here to help! Come to the Upright Citizens Brigade Theatre…Buy Now",
+      "url": "https://ucbcomedy.com/show/fuck-this-month-808564/"
+    },
+    {
       "title": "Sarah Silverman and Friends",
       "venue": "Largo at the Coronet",
       "date": "2026-10-23T00:00:00",
       "time": "8:00 PM",
       "description": "$40.00",
       "url": "https://wl.seetickets.us/event/sarah-silverman-and-friends/703969?afflky=LargoAtTheCoronet"
+    },
+    {
+      "title": "Drunk Theatre: Halloween Show",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-10-23T00:00:00Z",
+      "time": "10:00 PM",
+      "description": "Friday, October 23, 2026 @ 10:00 PMLA - FRANKLINImprovDrunk Theatre: Halloween ShowA comedian takes 5 shots of whiskey in a row and tries to perform an improvised play with a sober cast. What could go wrong?! Drunk Theatre is the entirely improvised, unpredictable, and crazy comedy show that’ll kick your weekend…Buy Now",
+      "url": "https://ucbcomedy.com/show/drunk-theatre-halloween-show-808552/"
     },
     {
       "title": "Shamilton, the Improvised Hip Hop Musical",
@@ -1129,12 +1121,12 @@
       "url": "https://ucbcomedy.com/show/the-incubator-jinx-dance-club-remix-806277/"
     },
     {
-      "title": "Carmen Christopher and Friends",
+      "title": "Carmen and Fiends",
       "venue": "Largo at the Coronet",
       "date": "2026-10-27T00:00:00",
       "time": "8:00 PM",
       "description": "$40.00",
-      "url": "https://wl.seetickets.us/event/carmen-christopher-and-friends/705856?afflky=LargoAtTheCoronet"
+      "url": "https://wl.seetickets.us/event/carmen-and-fiends/705856?afflky=LargoAtTheCoronet"
     },
     {
       "title": "Jake Cornell",
@@ -1145,12 +1137,44 @@
       "url": "https://wl.seetickets.us/event/jake-cornell/703903?afflky=LargoAtTheCoronet"
     },
     {
+      "title": "The Pre-Teen’s Guide to Dating",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-10-29T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Thursday, October 29, 2026 @ 7:00 PMLA - FRANKLINCharacterThe Pre-Teen’s Guide to DatingA solo show about a solo show I did when I was 12 years old. Do we ever really change? When I was a precocious 12-year-old, I wrote and performed a solo show called, \"A Pre-Teen’s Guide to Dating.” I…Buy Now",
+      "url": "https://ucbcomedy.com/show/the-pre-teens-guide-to-dating-2026-10-29/"
+    },
+    {
       "title": "Silly Gilly & Friends – The Halloween Show",
       "venue": "Largo at the Coronet",
       "date": "2026-10-30T00:00:00",
       "time": "8:00 PM",
       "description": "$40.00",
       "url": "https://wl.seetickets.us/event/silly-gilly-and-friends-the-halloween-show/704557?afflky=LargoAtTheCoronet"
+    },
+    {
+      "title": "ASSSS(SING)",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-10-30T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Friday, October 30, 2026 @ 7:00 PMLA - FRANKLINLivestreamImprovASSSS(SING)ASSSS(SING) is an all-star improvised musical comedy show featuring LA's best musical improvisers, inspired by the stories of a celebrity guest. ASSSS(SING) is one of the best improv comedy shows in Los Angeles. Each show is a one-of-a-kind live comedy…Buy Now",
+      "url": "https://ucbcomedy.com/show/asssssing-789436/"
+    },
+    {
+      "title": "FRIDAY FIX! Dance Club Remix & LOHAN",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-10-30T00:00:00Z",
+      "time": "8:30 PM",
+      "description": "Friday, October 30, 2026 @ 8:30 PMLA - FRANKLINLivestreamImprovFRIDAY FIX! Dance Club Remix & LOHANUCB's weekly improv double header! A night of improv comedy featuring two of LA's top teams performing back-to-back. Get your FIX every FRIDAY. Featuring: Dance Club Remix Have you ever wondered what it would be like to enter the world…Buy Now",
+      "url": "https://ucbcomedy.com/show/friday-fix-dance-club-remix-lohan-788902/"
+    },
+    {
+      "title": "ROCKY HORROR PICTURE SHOW",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-10-31T00:00:00Z",
+      "time": "10:30 PM",
+      "description": "Saturday, October 31, 2026 @ 10:30 PMLA - FRANKLINROCKY HORROR PICTURE SHOWA traditional ROCKY HORROR with comics you know and love! ROCKY HORROR PICTURE SHOW is one of the most iconic live experiences cinema has given us. As the film plays, a group of comics will mime/shadow cast the film. As…Buy Now",
+      "url": "https://ucbcomedy.com/show/rocky-horror-picture-show-808588/"
     },
     {
       "title": "Two Dykes and a Mic: Soaking Wet Tour",
@@ -1305,8 +1329,8 @@
       "url": "https://wl.seetickets.us/event/a-history-worth-repeating-songs-and-stories-from-lucius/706015?afflky=LargoAtTheCoronet"
     }
   ],
-  "lastUpdated": "2026-09-29T12:20:33.942204Z",
-  "totalShows": 163,
+  "lastUpdated": "2026-09-30T13:25:06.823367Z",
+  "totalShows": 166,
   "sources": [
     "DoLA",
     "UCB FRANKLIN",
