@@ -1,142 +1,6 @@
 {
   "shows": [
     {
-      "title": "Slumber Party with Clare Donaher and Shelby Latterman",
-      "venue": "Union Hall",
-      "date": "2026-10-01T00:00:00.000Z",
-      "time": null,
-      "description": "Slumber Party with Clare Donaher and Shelby Latterman",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Nick Mestad: Body Of Work",
-      "venue": "Union Hall",
-      "date": "2026-10-01T00:00:00.000Z",
-      "time": null,
-      "description": "Nick Mestad: Body Of Work",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-10-01T00:00:00.000Z",
-      "time": "10:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-10-01T00:00:00.000Z",
-      "time": "10:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-10-01T00:00:00.000Z",
-      "time": "11:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-10-01T00:00:00.000Z",
-      "time": "11:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-10-01T00:00:00.000Z",
-      "time": "6:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar",
-      "date": "2026-10-01T00:00:00.000Z",
-      "time": "7:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-10-01T00:00:00.000Z",
-      "time": "7:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Brendan Scannell: The Abyss",
-      "venue": "The Bell House",
-      "date": "2026-10-01T00:00:00.000Z",
-      "time": "7:30PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/10/1/brendan-scannell-the-abyss-tickets"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-10-01T00:00:00.000Z",
-      "time": "8:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-10-01T00:00:00.000Z",
-      "time": "8:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar",
-      "date": "2026-10-01T00:00:00.000Z",
-      "time": "9:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-10-01T00:00:00.000Z",
-      "time": "9:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Cage Match: Corner Bitchstro (8-0) vs. Ghost Stories",
-      "venue": "UCB Theatre",
-      "date": "2026-10-01T00:00:00Z",
-      "time": "10:00 PM",
-      "description": "Thursday, October 1, 2026 @ 10:00 PMNY - 14TH ST. MainstageImprovCage Match: Corner Bitchstro (8-0) vs. Ghost StoriesTwo Improv Teams Fight for the Future!   The World’s Most Dangerous Improv Show! In the year 2121, the World Government has outlawed LONG-FORM IMPROV. The very thing that will be the weapon for their downfall. Led by Chuck Cuckley…Buy Now",
-      "url": "https://ucbcomedy.com/show/cage-match-corner-bitchstro-8-0-vs-ghost-stories-787562/"
-    },
-    {
-      "title": "Baby Wants Candy, The Fully Improvised Musical",
-      "venue": "UCB Theatre",
-      "date": "2026-10-01T00:00:00Z",
-      "time": "7:00 PM",
-      "description": "Thursday, October 1, 2026 @ 7:00 PMNY - 14TH ST. MainstageImprovBaby Wants Candy, The Fully Improvised MusicalWorld famous, fully improvised musical. “TRULY AMAZING! CRITICS’ PICK” – The New York Times The world’s most popular completely improvised musical! Baby Wants Candy is a critically acclaimed comedy ensemble with casts in Chicago, LA, NY and an international touring…Buy Now",
-      "url": "https://ucbcomedy.com/show/baby-wants-candy-the-fully-improvised-musical-789972/"
-    },
-    {
-      "title": "NUNS/SLUTS/CUNTS – IMPROV WITHOUT MEN",
-      "venue": "UCB Theatre",
-      "date": "2026-10-01T00:00:00Z",
-      "time": "8:30 PM",
-      "description": "Thursday, October 1, 2026 @ 8:30 PMNY - 14TH ST. MainstageImprovNUNS/SLUTS/CUNTS – IMPROV WITHOUT MENThis is an Improv Show without men, the way it was intended and we can't wait to hear your tiny little sad dicks giggling in the audience.   STOP!!!! Look at this quote, it's infuriating! \"Men apply for a job…Buy Now",
-      "url": "https://ucbcomedy.com/show/nuns-sluts-cunts-improv-without-men-789282/"
-    },
-    {
       "title": "Whiplash",
       "venue": "Union Hall",
       "date": "2026-10-02T00:00:00.000Z",
@@ -233,14 +97,6 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
-      "title": "IMMIGRANT JAM",
-      "venue": "Caveat",
-      "date": "2026-10-02T00:00:00.000Z",
-      "time": "7:00 PM",
-      "description": "Lucie Pohl brings NYC's best immigrant & 1st-gen comics together to make you laugh so hard you’ll wi...",
-      "url": "https://caveat.nyc/events/immigrant-jam-2026-10-02"
-    },
-    {
       "title": "Comedy Showcase",
       "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
       "date": "2026-10-02T00:00:00.000Z",
@@ -287,14 +143,6 @@
       "time": "9:00 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "ROOMIES LIVE!",
-      "venue": "Caveat",
-      "date": "2026-10-02T00:00:00.000Z",
-      "time": "9:30 PM",
-      "description": "A live taping of a charmingly cheesy 90s sitcom. Join the live studio audience, and you could be the...",
-      "url": "https://caveat.nyc/events/roomies-live-2026-10-02"
     },
     {
       "title": "Comedy Showcase",
@@ -1289,6 +1137,22 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "GET WORK: HALLOWEEN EDITION!",
+      "venue": "Caveat",
+      "date": "2026-10-10T00:00:00.000Z",
+      "time": "1:30 PM",
+      "description": "Comedians interview for real jobs using fake resumes.",
+      "url": "https://caveat.nyc/events/get-work-2026-10-10"
+    },
+    {
+      "title": "MODERN WHITNEY",
+      "venue": "Caveat",
+      "date": "2026-10-10T00:00:00.000Z",
+      "time": "4:00 PM",
+      "description": "Comedians interpret art, then an expert tells us how close they got",
+      "url": "https://caveat.nyc/events/modern-whitney-2026-10-10"
+    },
+    {
       "title": "Maria Bamford",
       "venue": "The Bell House",
       "date": "2026-10-10T00:00:00.000Z",
@@ -1481,6 +1345,14 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "Comedian Lea’h Sampson Back At Union Hall ( ONE NIGHT ONLY )",
+      "venue": "Union Hall",
+      "date": "2026-10-14T00:00:00.000Z",
+      "time": null,
+      "description": "Comedian Lea’h Sampson Back At Union Hall ( ONE NIGHT ONLY )",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
       "title": "Comedy Showcase",
       "venue": "Comedy Cellar",
       "date": "2026-10-14T00:00:00.000Z",
@@ -1495,6 +1367,14 @@
       "time": "7:30PM",
       "description": null,
       "url": "https://donyc.com/events/2026/10/14/josh-aaron-do-improv-feat-hayden-johnson-tickets"
+    },
+    {
+      "title": "NYC College Comedy Night",
+      "venue": "UCB Theatre",
+      "date": "2026-10-14T00:00:00Z",
+      "time": "10:00 PM",
+      "description": "Wednesday, October 14, 2026 @ 10:00 PMLivestreamNY - 14TH ST. MainstageImprovStandupNYC College Comedy NightCollegiate Comedy at its Finest! Join us as four teams from colleges all around the city take the UCBNY stage!!   Hosted by Patricia Lee, Tess Restaino, and Piper Guiney Lineup: TBA —— Tickets are $5 plus fees. All sales…Buy Now",
+      "url": "https://ucbcomedy.com/show/nyc-college-comedy-night-810532/"
     },
     {
       "title": "John and Scott: Two Person Improv",
@@ -1583,6 +1463,14 @@
       "time": "7:30PM",
       "description": null,
       "url": "https://donyc.com/events/2026/10/16/blank-check-live-tickets"
+    },
+    {
+      "title": "Burnt Toast Freak Show!",
+      "venue": "UCB Theatre",
+      "date": "2026-10-16T00:00:00Z",
+      "time": "10:30 PM",
+      "description": "Friday, October 16, 2026 @ 10:30 PMNY - 14TH ST. MainstageSketchBurnt Toast Freak Show!Your favorite indie sketch team is back.... and we're freakier than ever....   Burnt Toast Sketch Show is a high-octane, fourth-wall breaking, absurdist take on sketch comedy, and this time, we’re getting FREAKY with it! Our act hits you hard…Buy Now",
+      "url": "https://ucbcomedy.com/show/burnt-toast-freak-show-810468/"
     },
     {
       "title": "The Stepfathers",
@@ -1689,6 +1577,14 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
+      "title": "Johnny Pemberton",
+      "venue": "The Bell House",
+      "date": "2026-10-18T00:00:00.000Z",
+      "time": "7:30PM",
+      "description": null,
+      "url": "https://donyc.com/events/2026/10/18/johnny-pemberton-tickets"
+    },
+    {
       "title": "SPANK: Welcome to Midday: History Repeating & Charlotte & CJ Fight to The Death",
       "venue": "UCB Theatre",
       "date": "2026-10-18T00:00:00Z",
@@ -1743,6 +1639,14 @@
       "time": "7:00 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Michelle Buteau",
+      "venue": "The Bell House",
+      "date": "2026-10-19T00:00:00.000Z",
+      "time": "7:30PM",
+      "description": null,
+      "url": "https://donyc.com/events/2026/10/19/michelle-buteau-tickets"
     },
     {
       "title": "MAUDE NIGHT: Golden Hour & Pamela",
@@ -1961,6 +1865,14 @@
       "url": "https://ucbcomedy.com/show/byot-10-25-26/"
     },
     {
+      "title": "Famous Last Words",
+      "venue": "Union Hall",
+      "date": "2026-10-26T00:00:00.000Z",
+      "time": null,
+      "description": "Famous Last Words",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
       "title": "Comedy Showcase",
       "venue": "Comedy Cellar",
       "date": "2026-10-26T00:00:00.000Z",
@@ -2121,6 +2033,14 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "The Stepfathers",
+      "venue": "UCB Theatre",
+      "date": "2026-10-31T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Saturday, October 31, 2026 @ 7:00 PMLivestreamNY - 14TH ST. MainstageImprovThe StepfathersWatch your favorite improvisers, Shannon O’Neill, Connor Ratliff, Alexandra Dickson, Sebastian Conelli, Zach Cherry, and Shane Nielsen make all the sad things funny.   The legendary improv group The Stepfathers has survived 2 decades performing in NYC. Born in the…Buy Now",
+      "url": "https://ucbcomedy.com/show/the-stepfathers-810428/"
+    },
+    {
       "title": "ASSSSCAT NY",
       "venue": "UCB Theatre",
       "date": "2026-10-31T00:00:00Z",
@@ -2249,6 +2169,14 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "LETS FUCKING GO!!: An Indie Improv Show & Jam",
+      "venue": "UCB Theatre",
+      "date": "2026-11-08T00:00:00Z",
+      "time": "6:30 PM",
+      "description": "Sunday, November 8, 2026 @ 6:30 PMNY - 14TH ST. UpstairsImprovLETS FUCKING GO!!: An Indie Improv Show & JamA bi-weekly improv show where you can bring your own improv team to perform, with a jam after!! Let's Fucking Go!! Want to bring your team? We’re looking for teams from all levels of experience - A practice group that's…Buy Now",
+      "url": "https://ucbcomedy.com/show/lets-fucking-go-an-indie-improv-show-jam-788047/"
+    },
+    {
       "title": "Peyton Dix and Friends",
       "venue": "Union Hall",
       "date": "2026-11-09T00:00:00.000Z",
@@ -2295,6 +2223,14 @@
       "time": null,
       "description": "Eddie Pepitone Headlining Union Hall",
       "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Best of NY Sketch Ft. First Wife & Pamela Presented By NYCF",
+      "venue": "UCB Theatre",
+      "date": "2026-11-11T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Wednesday, November 11, 2026 @ 7:00 PMLivestreamNew York Comedy FestivalNY - 14TH ST. MainstageSketchBest of NY Sketch Ft. First Wife & Pamela Presented By NYCFCome see two of the best sketch shows, all for the price of one!   First Wife - One of UCB's premier Maude Night teams: First Wife will showcase their best sketches from their 2026 run so far! First Wife…Buy Now",
+      "url": "https://ucbcomedy.com/show/best-of-ny-sketch-nycf-11-11-26/"
     },
     {
       "title": "Sienna Hubert-Ross & Friends",
@@ -2425,62 +2361,6 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "(CLASS) Intro to Public Speaking with Tyrone Thornhill",
-      "venue": "Union Hall",
-      "date": "2026-11-22T00:00:00.000Z",
-      "time": null,
-      "description": "(CLASS) Intro to Public Speaking with Tyrone Thornhill",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "KARAOKE TREMENDOUS",
-      "venue": "Union Hall",
-      "date": "2026-11-27T00:00:00.000Z",
-      "time": null,
-      "description": "KARAOKE TREMENDOUS",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Whiplash",
-      "venue": "Union Hall",
-      "date": "2026-12-04T00:00:00.000Z",
-      "time": null,
-      "description": "Whiplash",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Conor Janda",
-      "venue": "Union Hall",
-      "date": "2026-12-12T00:00:00.000Z",
-      "time": null,
-      "description": "Conor Janda",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Liza Treyger",
-      "venue": "Union Hall",
-      "date": "2026-12-12T00:00:00.000Z",
-      "time": null,
-      "description": "Liza Treyger",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Good God",
-      "venue": "Union Hall",
-      "date": "2026-12-20T00:00:00.000Z",
-      "time": null,
-      "description": "Good God",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Sophie Buddle",
-      "venue": "Union Hall",
-      "date": "2027-01-13T00:00:00.000Z",
-      "time": null,
-      "description": "Sophie Buddle",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
       "title": "(CLASS) Short-Form Humor Writing with Colin Stokes",
       "venue": "Union Hall",
       "date": "2027-09-27T00:00:00.000Z",
@@ -2489,23 +2369,23 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "GOOD WORK LIVE!",
+      "title": "IMMIGRANT JAM",
       "venue": "Caveat",
-      "date": "2027-10-01T00:00:00.000Z",
+      "date": "2027-10-02T00:00:00.000Z",
       "time": "7:00 PM",
-      "description": "At Good Work_ Live, Dan Toomey and his news associates bring their YouTube channel to the live stage...",
-      "url": "https://caveat.nyc/events/good-work-live-2026-10-01"
+      "description": "Lucie Pohl brings NYC's best immigrant & 1st-gen comics together to make you laugh so hard you’ll wi...",
+      "url": "https://caveat.nyc/events/immigrant-jam-2026-10-02"
     },
     {
-      "title": "MOMS AGAINST SKETCH COMEDY",
+      "title": "ROOMIES LIVE!",
       "venue": "Caveat",
-      "date": "2027-10-01T00:00:00.000Z",
+      "date": "2027-10-02T00:00:00.000Z",
       "time": "9:30 PM",
-      "description": "Moms Against Sketch Comedy performs entirely original, never-before-seen sketches.",
-      "url": "https://caveat.nyc/events/moms-against-sketch-comedy-2026-10-01"
+      "description": "A live taping of a charmingly cheesy 90s sitcom. Join the live studio audience, and you could be the...",
+      "url": "https://caveat.nyc/events/roomies-live-2026-10-02"
     }
   ],
-  "lastUpdated": "2026-10-01T12:27:32.677883Z",
+  "lastUpdated": "2026-10-02T12:02:21.441118Z",
   "sources": [
     "DoNYC",
     "Caveat",
@@ -2515,5 +2395,5 @@
     "UCB Theatre",
     "The Bell House"
   ],
-  "totalShows": 313
+  "totalShows": 298
 }
