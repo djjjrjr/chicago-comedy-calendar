@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-04T11:37:29.343377",
+  "lastUpdated": "2026-10-11T11:54:56.068149",
   "venues": {
     "29 Washington Pl": {
       "name": "29 Washington Pl",
@@ -1567,6 +1567,22 @@
       "phone": "888.307.0777",
       "website": "http://www.riverscasino.com/desplaines/",
       "lastUpdated": "2026-10-04T11:37:14.603052",
+      "source": "Do312"
+    },
+    "Gangnam Market": {
+      "name": "Gangnam Market",
+      "address": "1001 West Chicago Avenue",
+      "phone": "312-929-2204",
+      "website": "https://gangnammarketusa.com/",
+      "lastUpdated": "2026-10-11T11:54:12.904973",
+      "source": "Do312"
+    },
+    "Mano A Mano": {
+      "name": "Mano A Mano",
+      "address": "",
+      "phone": "(773) 819-7970",
+      "website": "",
+      "lastUpdated": "2026-10-11T11:54:30.334838",
       "source": "Do312"
     }
   }
