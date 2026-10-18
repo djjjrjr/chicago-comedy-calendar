@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-11T11:54:56.068149",
+  "lastUpdated": "2026-10-18T10:11:39.731887",
   "venues": {
     "29 Washington Pl": {
       "name": "29 Washington Pl",
@@ -1583,6 +1583,30 @@
       "phone": "(773) 819-7970",
       "website": "",
       "lastUpdated": "2026-10-11T11:54:30.334838",
+      "source": "Do312"
+    },
+    "Namiko Studio Cafe": {
+      "name": "Namiko Studio Cafe",
+      "address": "",
+      "phone": "",
+      "website": "https://www.namikostudio.com/namikostudiocafe",
+      "lastUpdated": "2026-10-18T10:11:06.440400",
+      "source": "DoLA"
+    },
+    "The Wilshire Ebell Theatre": {
+      "name": "The Wilshire Ebell Theatre",
+      "address": "4401 West 8th Street",
+      "phone": "",
+      "website": "http://www.wilshireebelltheatre.org/",
+      "lastUpdated": "2026-10-18T10:11:29.484390",
+      "source": "DoLA"
+    },
+    "Theater on the Lake": {
+      "name": "Theater on the Lake",
+      "address": "",
+      "phone": "(312) 742-7994",
+      "website": "https://theateronthelake.com/",
+      "lastUpdated": "2026-10-18T10:11:34.970094",
       "source": "Do312"
     }
   }
