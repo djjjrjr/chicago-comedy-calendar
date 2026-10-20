@@ -98,70 +98,6 @@
     },
     {
       "venue": "The Second City",
-      "title": "Best of The Second City",
-      "date": "2026-10-19T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/10/19/best-of-the-second-city-tickets"
-    },
-    {
-      "venue": "The Comedy Bar",
-      "title": "Late Nite Mic With Vik Pandya",
-      "date": "2026-10-19T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/10/19/late-nite-mic-with-vik-pandya-tickets"
-    },
-    {
-      "venue": "Zanies Comedy Club",
-      "title": "Todd Glover",
-      "date": "2026-10-19T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/10/19/todd-glover-tickets"
-    },
-    {
-      "venue": "Annoyance Theatre",
-      "title": "Short Form Improv Jam (Student Show)",
-      "date": "2026-10-19T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/10/19/short-form-improv-jam-student-show-tickets"
-    },
-    {
-      "venue": "Annoyance Theatre",
-      "title": "Improv - Student Jam (Student Show)",
-      "date": "2026-10-19T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/10/19/improv-student-jam-student-show-tickets"
-    },
-    {
-      "venue": "Laugh Factory",
-      "title": "Night Stand Up Comedy",
-      "date": "2026-10-19T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/10/19/night-stand-up-comedy-tickets"
-    },
-    {
-      "venue": "The Den Theatre",
-      "title": "4000 Miles",
-      "date": "2026-10-19T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/10/19/4000-miles-tickets"
-    },
-    {
-      "venue": "Burton Place",
-      "title": "Monday Meltdown: A Stand-Up Comedy Showcase",
-      "date": "2026-10-19T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/10/19/monday-meltdown-a-stand-up-comedy-showcase-tickets"
-    },
-    {
-      "venue": "The Second City",
       "title": "Pandemonium, Please Hold",
       "date": "2026-10-20T00:00:00Z",
       "time": "",
@@ -202,19 +138,19 @@
     },
     {
       "venue": "Annoyance Theatre",
-      "title": "Open Stage",
-      "date": "2026-10-20T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/10/20/open-stage-tickets"
-    },
-    {
-      "venue": "Annoyance Theatre",
       "title": "BYOT (Bring Your Own Team)",
       "date": "2026-10-20T00:00:00Z",
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/10/20/byot-bring-your-own-team-tickets"
+    },
+    {
+      "venue": "Annoyance Theatre",
+      "title": "Open Stage",
+      "date": "2026-10-20T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/10/20/open-stage-tickets"
     },
     {
       "venue": "Laugh Factory",
@@ -249,22 +185,6 @@
       "url": "https://do312.com/events/2026/10/20/tomato-throw-show-tickets"
     },
     {
-      "venue": "Judy's Beat Lounge",
-      "title": "Ten Dollar Comedy",
-      "date": "2026-10-20T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/10/20/ten-dollar-comedy-tickets"
-    },
-    {
-      "venue": "e.t.c. Theater",
-      "title": "Second City Presents – Thank You, Goodnight",
-      "date": "2026-10-20T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/10/20/second-city-presents-thank-you-goodnight-tickets"
-    },
-    {
       "venue": "The Lincoln Lodge",
       "title": "Read the Room: A Literary Competition Comedy Show",
       "date": "2026-10-20T00:00:00Z",
@@ -281,6 +201,22 @@
       "url": "https://do312.com/events/2026/10/20/boy-dog-comedy-presents-funnies-variety-show-tickets"
     },
     {
+      "venue": "e.t.c. Theater",
+      "title": "Second City Presents – Thank You, Goodnight",
+      "date": "2026-10-20T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/10/20/second-city-presents-thank-you-goodnight-tickets"
+    },
+    {
+      "venue": "Judy's Beat Lounge",
+      "title": "Ten Dollar Comedy",
+      "date": "2026-10-20T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/10/20/ten-dollar-comedy-tickets"
+    },
+    {
       "venue": "The Lincoln Lodge",
       "title": "Chicago’s Late Night Talk Show",
       "date": "2026-10-21T00:00:00Z",
@@ -295,6 +231,14 @@
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/10/21/cryptic-the-improvised-paranormal-documentary-tickets"
+    },
+    {
+      "venue": "Zanies Comedy Club",
+      "title": "John Goblikon’s Gobliween",
+      "date": "2026-10-21T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/10/21/john-goblikon-s-gobliween-tickets"
     },
     {
       "venue": "Annoyance Theatre",
@@ -343,14 +287,6 @@
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/10/21/comedy-open-mic-with-easy-laughs-tickets"
-    },
-    {
-      "venue": "Zanies Comedy Club",
-      "title": "John Goblikon’s Gobliween",
-      "date": "2026-10-21T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/10/21/john-goblikon-s-gobliween-tickets"
     },
     {
       "venue": "Laugh Factory",
@@ -434,7 +370,7 @@
     },
     {
       "venue": "The Comedy Bar",
-      "title": "Ohjay Lamont & Friends",
+      "title": "Ohjay Lamont & Friends (CANCELED)",
       "date": "2026-10-22T00:00:00Z",
       "time": "",
       "description": "",
@@ -447,6 +383,14 @@
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/10/22/natan-badalov-tickets"
+    },
+    {
+      "venue": "The Lincoln Lodge",
+      "title": "The Thursday Show: Chicago's Funniest Comedians with New Jokes!",
+      "date": "2026-10-22T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/10/22/the-thursday-show-chicago-s-funniest-comedians-with-new-jokes-tickets"
     },
     {
       "venue": "The Lincoln Lodge",
@@ -495,14 +439,6 @@
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/10/22/clued-in-presents-travel-can-be-murder-tickets"
-    },
-    {
-      "venue": "The Lincoln Lodge",
-      "title": "The Thursday Show: Chicago's Funniest Comedians with New Jokes!",
-      "date": "2026-10-22T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/10/22/the-thursday-show-chicago-s-funniest-comedians-with-new-jokes-tickets"
     },
     {
       "venue": "Zanies Rosemont",
@@ -721,6 +657,14 @@
       "url": "https://do312.com/events/2026/10/23/i-said-what-i-said-a-reality-tv-themed-comedy-show-tickets"
     },
     {
+      "venue": "Donny's Skybox Theater",
+      "title": "Shamilton",
+      "date": "2026-10-23T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/10/23/shamilton-tickets"
+    },
+    {
       "title": "The Regulars",
       "venue": "The Lincoln Lodge",
       "date": "2026-10-23T00:00:00Z",
@@ -743,6 +687,14 @@
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/10/23/laughter-hours-late-night-jazzy-themed-comedy-show-tickets"
+    },
+    {
+      "venue": "Reggies",
+      "title": "HA/HA To Hell - The Hottest Dark Comedy Show",
+      "date": "2026-10-24T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/10/24/ha-ha-to-hell-the-hottest-dark-comedy-show-tickets"
     },
     {
       "venue": "The Second City",
@@ -1113,6 +1065,14 @@
       "url": "https://do312.com/events/2026/10/25/baddieville-s-got-talent-standup-drag-music-more-tickets"
     },
     {
+      "venue": "Zanies Rosemont",
+      "title": "Roast Battle",
+      "date": "2026-10-25T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/10/25/roast-battle-tickets"
+    },
+    {
       "venue": "Gman Tavern",
       "title": "Redacted: Twilight – New Moon",
       "date": "2026-10-26T00:00:00Z",
@@ -1193,6 +1153,14 @@
       "url": "https://do312.com/events/2026/10/26/a-side-of-comedy-salerno-s-pizza-pasta-of-oak-park-tickets"
     },
     {
+      "venue": "Salernos Pizza & Pasta of Oak Park",
+      "title": "Side o' Comedy",
+      "date": "2026-10-26T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/10/26/side-o-comedy-tickets"
+    },
+    {
       "venue": "The Den Theatre",
       "title": "Taylor Tomlinson: Tries Out New Ideas",
       "date": "2026-10-27T00:00:00Z",
@@ -1207,14 +1175,6 @@
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/10/27/casey-rocket-tickets"
-    },
-    {
-      "venue": "Beat Kitchen",
-      "title": "Chicago Underground Comedy",
-      "date": "2026-10-27T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/10/27/chicago-underground-comedy-tickets"
     },
     {
       "venue": "Annoyance Theatre",
@@ -1303,6 +1263,14 @@
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/10/27/live-at-the-second-city-improvised-broadway-tickets"
+    },
+    {
+      "venue": "Beat Kitchen",
+      "title": "Chicago Underground Comedy",
+      "date": "2026-10-27T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/10/27/chicago-underground-comedy-tickets"
     },
     {
       "venue": "The Den Theatre",
@@ -1569,6 +1537,14 @@
       "url": "https://do312.com/events/2026/10/29/set-in-chicago-improvised-spooky-movie-sequels-tickets"
     },
     {
+      "venue": "Reed's Local",
+      "title": "Waldoween",
+      "date": "2026-10-29T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/10/29/waldoween-tickets"
+    },
+    {
       "venue": "Judy's Beat Lounge",
       "title": "Give It To Me Gay!",
       "date": "2026-10-29T00:00:00Z",
@@ -1607,14 +1583,6 @@
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/10/30/ahamed-weinberg-tickets"
-    },
-    {
-      "venue": "Annoyance Theatre",
-      "title": "Holy Fuck Comedy Hour",
-      "date": "2026-10-30T00:00:00Z",
-      "time": "",
-      "description": "",
-      "url": "https://do312.com/events/2026/10/30/holy-fuck-comedy-hour-tickets"
     },
     {
       "venue": "Bughouse Theater",
@@ -1663,6 +1631,14 @@
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/10/30/hitch-cocktails-tickets"
+    },
+    {
+      "venue": "Annoyance Theatre",
+      "title": "Holy Fuck Comedy Hour",
+      "date": "2026-10-30T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/10/30/holy-fuck-comedy-hour-tickets"
     },
     {
       "venue": "Laugh Factory",
@@ -6911,10 +6887,130 @@
       "time": "",
       "description": "",
       "url": "https://do312.com/events/2026/12/19/christian-johnson-tickets"
+    },
+    {
+      "venue": "Chicago Improv Comedy Club",
+      "title": "Natasha Leggero",
+      "date": "2026-12-19T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/12/19/natasha-leggero-tickets"
+    },
+    {
+      "venue": "Annoyance Theatre",
+      "title": "Father Figures",
+      "date": "2026-12-19T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/12/19/father-figures-tickets"
+    },
+    {
+      "venue": "Zanies Comedy Club",
+      "title": "Peyton Ruddy",
+      "date": "2026-12-19T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/12/19/peyton-ruddy-special-event-tickets"
+    },
+    {
+      "venue": "Annoyance Theatre",
+      "title": "Trigger Happy: Annoyance's Signature Improv Show",
+      "date": "2026-12-19T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/12/19/trigger-happy-annoyance-s-signature-improv-show-tickets"
+    },
+    {
+      "venue": "Annoyance Theatre",
+      "title": "Best of Annoyance Sketch",
+      "date": "2026-12-19T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/12/19/best-of-annoyance-sketch-tickets"
+    },
+    {
+      "venue": "Annoyance Theatre",
+      "title": "We Took Edibles an Hour Ago",
+      "date": "2026-12-19T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/12/19/we-took-edibles-an-hour-ago-tickets"
+    },
+    {
+      "venue": "The Den Theatre",
+      "title": "Ashley Gavin",
+      "date": "2026-12-19T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/12/19/ashley-gavin-tickets"
+    },
+    {
+      "venue": "The Lincoln Lodge",
+      "title": "Hecklers’ Happy Hour Comedy Show",
+      "date": "2026-12-19T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/12/19/hecklers-happy-hour-comedy-show-tickets"
+    },
+    {
+      "venue": "RED ROOM Comedy Club",
+      "title": "Red Room Comedy",
+      "date": "2026-12-19T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/12/19/red-room-comedy-tickets"
+    },
+    {
+      "venue": "The Lincoln Lodge",
+      "title": "“Ask a Comedian” Comedy Show w/ Kyrie Da Comic",
+      "date": "2026-12-19T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/12/19/ask-a-comedian-comedy-show-w-kyrie-da-comic-tickets"
+    },
+    {
+      "venue": "The Lincoln Lodge",
+      "title": "The Lincoln Lodge Comedy Showcase",
+      "date": "2026-12-19T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/12/19/the-lincoln-lodge-comedy-showcase-tickets"
+    },
+    {
+      "venue": "Zanies Comedy Club",
+      "title": "Jamie Lissow",
+      "date": "2026-12-20T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/12/20/jamie-lissow-tickets"
+    },
+    {
+      "venue": "Annoyance Theatre",
+      "title": "Guerrilla Press",
+      "date": "2026-12-20T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/12/20/guerrilla-press-tickets"
+    },
+    {
+      "venue": "The Lincoln Lodge",
+      "title": "Hot 5 Comedy Show",
+      "date": "2026-12-20T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/12/20/hot-5-comedy-show-tickets"
+    },
+    {
+      "venue": "aliveOne",
+      "title": "Crushes Comedy Show",
+      "date": "2026-12-20T00:00:00Z",
+      "time": "",
+      "description": "",
+      "url": "https://do312.com/events/2026/12/20/crushes-comedy-show-tickets"
     }
   ],
-  "lastUpdated": "2026-10-19T12:02:53.291685Z",
-  "totalShows": 864,
+  "lastUpdated": "2026-10-20T11:02:27.114655Z",
+  "totalShows": 876,
   "sources": [
     "Do312 Comedy Category",
     "Do312 Venue Pages"
