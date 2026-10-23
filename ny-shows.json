@@ -1,150 +1,6 @@
 {
   "shows": [
     {
-      "title": "Nico Carney Live!",
-      "venue": "Union Hall",
-      "date": "2026-10-22T00:00:00.000Z",
-      "time": null,
-      "description": "Nico Carney Live!",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Charlie Bardey Presents THE PROMISE OF THE HEARTH - Part I The Bidden Path",
-      "venue": "Union Hall",
-      "date": "2026-10-22T00:00:00.000Z",
-      "time": null,
-      "description": "Charlie Bardey Presents THE PROMISE OF THE HEARTH - Part I The Bidden Path",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar",
-      "date": "2026-10-22T00:00:00.000Z",
-      "time": "10:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-10-22T00:00:00.000Z",
-      "time": "10:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-10-22T00:00:00.000Z",
-      "time": "11:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-10-22T00:00:00.000Z",
-      "time": "11:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar",
-      "date": "2026-10-22T00:00:00.000Z",
-      "time": "6:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-10-22T00:00:00.000Z",
-      "time": "6:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-10-22T00:00:00.000Z",
-      "time": "7:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-10-22T00:00:00.000Z",
-      "time": "7:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "UpDating",
-      "venue": "The Bell House",
-      "date": "2026-10-22T00:00:00.000Z",
-      "time": "7:30PM",
-      "description": null,
-      "url": "https://donyc.com/events/2026/10/22/updating-tickets"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar",
-      "date": "2026-10-22T00:00:00.000Z",
-      "time": "8:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-10-22T00:00:00.000Z",
-      "time": "8:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-10-22T00:00:00.000Z",
-      "time": "9:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-10-22T00:00:00.000Z",
-      "time": "9:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Not In My Backyard!",
-      "venue": "UCB Theatre",
-      "date": "2026-10-22T00:00:00Z",
-      "time": "7:00 PM",
-      "description": "Thursday, October 22, 2026 @ 7:00 PMNY - 14TH ST. MainstageNot In My Backyard!Comedians, journalists, and politicians debate all the local issues causing drama in your neighborhood’s Facebook group. From bike lanes and outdoor dining to dog poop and rats, our panel of comedians and experts gets to the bottom of how this…Buy Now",
-      "url": "https://ucbcomedy.com/show/not-in-my-backyard-785486/"
-    },
-    {
-      "title": "Nice Girls Open Mic",
-      "venue": "UCB Theatre",
-      "date": "2026-10-22T00:00:00Z",
-      "time": "7:30 PM",
-      "description": "Thursday, October 22, 2026 @ 7:30 PMNY - 14TH ST. UpstairsStandupNice Girls Open MicBucket style mic! Drop your name in for an opportunity to get 3 minutes at the mic. Show fills up fast so come at 7:15pm to get a sign up slip. UCB Standup teachers Natasha Vaynblat, Mary Cella, and Kenice Mobley host this…Read more",
-      "url": "https://ucbcomedy.com/show/nice-girls-open-mic-791616/"
-    },
-    {
-      "title": "Cage Match: Corner Bitchstro (11-0) vs. Clint",
-      "venue": "UCB Theatre",
-      "date": "2026-10-22T00:00:00Z",
-      "time": "8:30 PM",
-      "description": "Thursday, October 22, 2026 @ 8:30 PMNY - 14TH ST. MainstageImprovCage Match: Corner Bitchstro (11-0) vs. ClintTwo Improv Teams Fight for the Future! The World’s Most Dangerous Improv Show! In the year 2121, the World Government has outlawed LONG-FORM IMPROV. The very thing that will be the weapon for their downfall. Led by Chuck Cuckley and…Buy Now",
-      "url": "https://ucbcomedy.com/show/cage-match-corner-bitchstro-11-0-vs-clint-787631/"
-    },
-    {
       "title": "Adam Cayton-Holland Stares Wistfully Toward the Horizon",
       "venue": "Union Hall",
       "date": "2026-10-23T00:00:00.000Z",
@@ -241,14 +97,6 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
-      "title": "LOOKING FOR LAUGHS",
-      "venue": "Caveat",
-      "date": "2026-10-23T00:00:00.000Z",
-      "time": "7:00 PM",
-      "description": "A Real Onstage Blind Date plus Live Comedy!",
-      "url": "https://caveat.nyc/events/looking-for-laughs-10-23-2026"
-    },
-    {
       "title": "Comedy Showcase",
       "venue": "Comedy Cellar",
       "date": "2026-10-23T00:00:00.000Z",
@@ -295,14 +143,6 @@
       "time": "9:00 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "YESTERDAY'S HOROSCOPE",
-      "venue": "Caveat",
-      "date": "2026-10-23T00:00:00.000Z",
-      "time": "9:30 PM",
-      "description": "In this romp through the constellations, The Skies predict the present by revealing the past—it’s Ye...",
-      "url": "https://caveat.nyc/events/yesterdays-horoscope-2026-10-23"
     },
     {
       "title": "Comedy Showcase",
@@ -898,6 +738,14 @@
     },
     {
       "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Village Underground",
+      "date": "2026-10-27T00:00:00.000Z",
+      "time": "6:00 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
       "venue": "Comedy Cellar",
       "date": "2026-10-27T00:00:00.000Z",
       "time": "7:00 pm",
@@ -1010,9 +858,25 @@
     },
     {
       "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
+      "date": "2026-10-28T00:00:00.000Z",
+      "time": "10:30 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
       "venue": "Comedy Cellar - MacDougal Street",
       "date": "2026-10-28T00:00:00.000Z",
       "time": "11:30 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Village Underground",
+      "date": "2026-10-28T00:00:00.000Z",
+      "time": "6:00 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
@@ -1146,6 +1010,14 @@
     },
     {
       "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
+      "date": "2026-10-29T00:00:00.000Z",
+      "time": "11:00 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
       "venue": "Comedy Cellar - Village Underground",
       "date": "2026-10-29T00:00:00.000Z",
       "time": "11:30 pm",
@@ -1257,11 +1129,11 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "Sup, Boo?",
+      "title": "Sup, Boo? with Alison Leiby and Josh Gondelman",
       "venue": "Union Hall",
       "date": "2026-10-30T00:00:00.000Z",
       "time": null,
-      "description": "Sup, Boo?",
+      "description": "Sup, Boo? with Alison Leiby and Josh Gondelman",
       "url": "https://unionhallny.com/calendar"
     },
     {
@@ -1369,12 +1241,28 @@
       "url": "https://caveat.nyc/events/3-days-notice-2026-10-31"
     },
     {
+      "title": "CATBARET! NYC’S CAT-THEMED VARIETY SHOW: MEOWLOWEEN!",
+      "venue": "Caveat",
+      "date": "2026-10-31T00:00:00.000Z",
+      "time": "7:00 PM",
+      "description": "Meow! Calling all cat lovers—join us for a purr-fect variety show!",
+      "url": "https://caveat.nyc/events/catbaret-nycs-cat-themed-variety-show-meowloween-10-31-2026"
+    },
+    {
       "title": "A Drinking Game NYC: The Nightmare Before Christmas",
       "venue": "The Bell House",
       "date": "2026-10-31T00:00:00.000Z",
       "time": "7:00PM",
       "description": null,
       "url": "https://donyc.com/events/2026/10/31/a-drinking-game-nyc-the-nightmare-before-christmas-tickets"
+    },
+    {
+      "title": "THE ROCKY HORROR PICTURE SHOW",
+      "venue": "Caveat",
+      "date": "2026-10-31T00:00:00.000Z",
+      "time": "9:30 PM",
+      "description": "The cult classic The Rocky Horror Picture Show performed by the NeckBiters Shadowcast",
+      "url": "https://caveat.nyc/events/rocky-horror-2026-10-31"
     },
     {
       "title": "The Stepfathers *HALLOWEEN EDITION*",
@@ -1639,6 +1527,14 @@
       "time": "10:00 PM",
       "description": "Thursday, November 5, 2026 @ 10:00 PMNY - 14TH ST. MainstageImprovCage Match: TBD vs TBDTwo Improv Teams Fight for the Future!   The World’s Most Dangerous Improv Show! In the year 2121, the World Government has outlawed LONG-FORM IMPROV. The very thing that will be the weapon for their downfall. Led by Chuck Cuckley…Buy Now",
       "url": "https://ucbcomedy.com/show/cage-match-tbd-vs-tbd-831228/"
+    },
+    {
+      "title": "Jenny & Alex Try New Jokes",
+      "venue": "UCB Theatre",
+      "date": "2026-11-05T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Thursday, November 5, 2026 @ 7:00 PMNY - 14TH ST. MainstageStandupJenny & Alex Try New JokesJenny Hagel, Alex Kumin, and other big names in comedy try out fresh new material!   Comedians Jenny Hagel (Late Night with Seth Meyers) and Alex Kumin (Comedy Cellar, Comedy Central) are trying out new jokes - and they're inviting…Buy Now",
+      "url": "https://ucbcomedy.com/show/jenny-alex-try-new-jokes-845007/"
     },
     {
       "title": "Top Shelf Stories",
@@ -1919,6 +1815,14 @@
       "time": "7:00 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Chris Vs. The People",
+      "venue": "The Bell House",
+      "date": "2026-11-10T00:00:00.000Z",
+      "time": "7:30PM",
+      "description": null,
+      "url": "https://donyc.com/events/2026/11/10/chris-vs-the-people-tickets"
     },
     {
       "title": "Harold Night: Club Gator & Rhubarb & Hot FM & The Mall",
@@ -2617,6 +2521,22 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "MAUDE NIGHT: Mom’s World & Reunion Tour",
+      "venue": "UCB Theatre",
+      "date": "2026-12-14T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Monday, December 14, 2026 @ 7:00 PMNY - 14TH ST. MainstageSketchMAUDE NIGHT: Mom’s World & Reunion TourMaude Night boasts brand new material by UCB’s house sketch teams every month. Come see top-notch sketch comedy featuring two teams of UCB’s finest writers and performers. —— Featuring: Mom's World & Reunion Tour —- Complete List of Maude Teams:…Buy Now",
+      "url": "https://ucbcomedy.com/show/maude-night-moms-world-reunion-tour-817539/"
+    },
+    {
+      "title": "MAUDE NIGHT: Golden Hour & Pamela",
+      "venue": "UCB Theatre",
+      "date": "2026-12-14T00:00:00Z",
+      "time": "8:30 PM",
+      "description": "Monday, December 14, 2026 @ 8:30 PMNY - 14TH ST. MainstageSketchMAUDE NIGHT: Golden Hour & PamelaMaude Night boasts brand new material by UCB’s house sketch teams every month. Come see top-notch sketch comedy featuring two teams of UCB’s finest writers and performers. —— Featuring: Golden Hour & Pamela —- Complete List of Maude Teams: Fridge…Buy Now",
+      "url": "https://ucbcomedy.com/show/maude-night-golden-hour-pamela-817567/"
+    },
+    {
       "title": "Charlie Bardey Presents THE PROMISE OF THE HEARTH Part III",
       "venue": "Union Hall",
       "date": "2026-12-15T00:00:00.000Z",
@@ -2665,23 +2585,23 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "LECTURES ON TAP - \"THE PSYCHOLOGY OF PSYCHOPATHY\"",
+      "title": "LOOKING FOR LAUGHS",
       "venue": "Caveat",
-      "date": "2027-10-22T00:00:00.000Z",
+      "date": "2027-10-23T00:00:00.000Z",
       "time": "7:00 PM",
-      "description": "Professors, experts, and storytellers giving thought-provoking lectures in NYC bars.",
-      "url": "https://caveat.nyc/events/lectures-on-tap-the-psychology-of-psychopathy-2026-10-22"
+      "description": "A Real Onstage Blind Date plus Live Comedy!",
+      "url": "https://caveat.nyc/events/looking-for-laughs-10-23-2026"
     },
     {
-      "title": "PUPPETS COME HOME FOR HALLOWEEN!",
+      "title": "YESTERDAY'S HOROSCOPE",
       "venue": "Caveat",
-      "date": "2027-10-22T00:00:00.000Z",
+      "date": "2027-10-23T00:00:00.000Z",
       "time": "9:30 PM",
-      "description": "Puppets Come Home presents and evening of haunting Halloween puppetry, featuring an array of puppetr...",
-      "url": "https://caveat.nyc/events/puppets-come-home-for-halloween-2026-10-22"
+      "description": "In this romp through the constellations, The Skies predict the present by revealing the past—it’s Ye...",
+      "url": "https://caveat.nyc/events/yesterdays-horoscope-2026-10-23"
     }
   ],
-  "lastUpdated": "2026-10-22T11:13:22.683889Z",
+  "lastUpdated": "2026-10-23T11:05:25.030141Z",
   "sources": [
     "DoNYC",
     "Caveat",
@@ -2691,5 +2611,5 @@
     "UCB Theatre",
     "The Bell House"
   ],
-  "totalShows": 335
+  "totalShows": 325
 }
