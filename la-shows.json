@@ -1,38 +1,6 @@
 {
   "shows": [
     {
-      "title": "Harold After Dark! ft. S.O.F.T. & PTO",
-      "venue": "UCB FRANKLIN",
-      "date": "2026-11-02T00:00:00Z",
-      "time": "10:00 PM",
-      "description": "Monday, November 2, 2026 @ 10:00 PMLA - FRANKLINImprovHarold After Dark! ft. S.O.F.T. & PTOA late-night dose of UCB’s house improv ensembles!Buy Now",
-      "url": "https://ucbcomedy.com/show/harold-after-dark-ft-s-o-f-t-pto-825242/"
-    },
-    {
-      "title": "The Incubator Finale: Dance Club Remix",
-      "venue": "UCB FRANKLIN",
-      "date": "2026-11-02T00:00:00Z",
-      "time": "5:30 PM",
-      "description": "Monday, November 2, 2026 @ 5:30 PMLA - FRANKLINImprovThe Incubator Finale: Dance Club RemixA must-see monthly show featuring the next generation of performers alongside some of UCB’s most exciting veteran teams.Buy Now",
-      "url": "https://ucbcomedy.com/show/the-incubator-finale-dance-club-remix-825134/"
-    },
-    {
-      "title": "Harold Night ft. Branzino & Jinx",
-      "venue": "UCB FRANKLIN",
-      "date": "2026-11-02T00:00:00Z",
-      "time": "7:00 PM",
-      "description": "Monday, November 2, 2026 @ 7:00 PMLA - FRANKLINImprovHarold Night ft. Branzino & JinxYour one stop shop to see UCB's house improv ensembles perform every Monday!Buy Now",
-      "url": "https://ucbcomedy.com/show/harold-night-ft-branzino-jinx-825170/"
-    },
-    {
-      "title": "Harold Night ft. The Fantasy & Freak Trap",
-      "venue": "UCB FRANKLIN",
-      "date": "2026-11-02T00:00:00Z",
-      "time": "8:30 PM",
-      "description": "Monday, November 2, 2026 @ 8:30 PMLA - FRANKLINImprovHarold Night ft. The Fantasy & Freak TrapYour one stop shop to see UCB's house improv ensembles perform every Monday!Buy Now",
-      "url": "https://ucbcomedy.com/show/harold-night-ft-the-fantasy-freak-trap-825222/"
-    },
-    {
       "title": "Sing Out, Louise! ft. Small Town Mayor & Sweet Sweet Fantasy Musical",
       "venue": "UCB FRANKLIN",
       "date": "2026-11-03T00:00:00Z",
@@ -45,7 +13,7 @@
       "venue": "UCB FRANKLIN",
       "date": "2026-11-03T00:00:00Z",
       "time": "8:30 PM",
-      "description": "Tuesday, November 3, 2026 @ 8:30 PMLA - FRANKLINStandupThe Punch-up with Beth StellingA good-natured stand-up open mic where Beth Stelling punches your jokes up (when possible)! Hi! I'm comedian Beth Stelling. I headlined Omaha Comedy Festival a few years ago and they asked me to lead a stand-up workshop, which I don't…Buy Now",
+      "description": "Tuesday, November 3, 2026 @ 8:30 PMLA - FRANKLINStandupThe Punch-up with Beth StellingA good-natured stand-up open mic where Beth Stelling punches your jokes up (when possible)! With special guest Jordan Temple!Buy Now",
       "url": "https://ucbcomedy.com/show/the-punch-up-with-beth-stelling-825266/"
     },
     {
@@ -689,6 +657,14 @@
       "url": "https://ucbcomedy.com/show/wildly-appropriate-an-all-ages-improv-show-857211/"
     },
     {
+      "title": "Saturday Night Sketch: Smokeshow Escape From Earth",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-12-05T00:00:00Z",
+      "time": "7:00 PM",
+      "description": "Saturday, December 5, 2026 @ 7:00 PMLA - FRANKLINLivestreamSketchSaturday Night Sketch: Smokeshow Escape From EarthSmokeshow takes to the stars in an Earth-shattering sketch comedy event featuring UCB mainstays and LA’s top talent!Buy Now",
+      "url": "https://ucbcomedy.com/show/saturday-night-sketch-smokeshow-escape-from-earth-861925/"
+    },
+    {
       "title": "Follow Up Questions",
       "venue": "UCB FRANKLIN",
       "date": "2026-12-05T00:00:00Z",
@@ -703,10 +679,18 @@
       "time": "8:30 PM",
       "description": "Saturday, December 5, 2026 @ 8:30 PMLA - FRANKLINLivestreamImprovASSSSCAT LAUCB’s signature improv juggernaut, featuring comedians you know from SNL, Dropout, and the world of Film & Television!Buy Now",
       "url": "https://ucbcomedy.com/show/asssscat-la-853921/"
+    },
+    {
+      "title": "ASSSSCAT LA",
+      "venue": "UCB FRANKLIN",
+      "date": "2026-12-06T00:00:00Z",
+      "time": "6:00 PM",
+      "description": "Sunday, December 6, 2026 @ 6:00 PMLA - FRANKLINLivestreamImprovASSSSCAT LAUCB’s signature improv juggernaut, featuring comedians you know from SNL, Dropout, and the world of Film & Television!Buy Now",
+      "url": "https://ucbcomedy.com/show/asssscat-la-857159/"
     }
   ],
-  "lastUpdated": "2026-11-02T14:30:04.758782Z",
-  "totalShows": 88,
+  "lastUpdated": "2026-11-03T13:33:07.761274Z",
+  "totalShows": 86,
   "sources": [
     "DoLA",
     "UCB FRANKLIN",
