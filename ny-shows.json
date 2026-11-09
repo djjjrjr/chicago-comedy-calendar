@@ -1,310 +1,6 @@
 {
   "shows": [
     {
-      "title": "Charlie Flynn: Live at Union Hall",
-      "venue": "Union Hall",
-      "date": "2026-11-07T00:00:00.000Z",
-      "time": null,
-      "description": "Charlie Flynn: Live at Union Hall",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Honey Pluton and Spike Einbinder present: Changes",
-      "venue": "Union Hall",
-      "date": "2026-11-07T00:00:00.000Z",
-      "time": null,
-      "description": "Honey Pluton and Spike Einbinder present: Changes",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Tessa and Freddie do Comedy at Union Hall",
-      "venue": "Union Hall",
-      "date": "2026-11-07T00:00:00.000Z",
-      "time": null,
-      "description": "Tessa and Freddie do Comedy at Union Hall",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Young Adult Friction: an indie + alt dance party",
-      "venue": "Union Hall",
-      "date": "2026-11-07T00:00:00.000Z",
-      "time": null,
-      "description": "Young Adult Friction: an indie + alt dance party",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-11-07T00:00:00.000Z",
-      "time": "10:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-11-07T00:00:00.000Z",
-      "time": "10:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-11-07T00:00:00.000Z",
-      "time": "11:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-11-07T00:00:00.000Z",
-      "time": "11:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-11-07T00:00:00.000Z",
-      "time": "11:55 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-11-07T00:00:00.000Z",
-      "time": "12:30 am",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-11-07T00:00:00.000Z",
-      "time": "12:55 am",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-11-07T00:00:00.000Z",
-      "time": "6:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-11-07T00:00:00.000Z",
-      "time": "6:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-11-07T00:00:00.000Z",
-      "time": "7:01 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-11-07T00:00:00.000Z",
-      "time": "7:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-11-07T00:00:00.000Z",
-      "time": "8:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-11-07T00:00:00.000Z",
-      "time": "8:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-11-07T00:00:00.000Z",
-      "time": "9:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-11-07T00:00:00.000Z",
-      "time": "9:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Gag Reflex: a sketch show",
-      "venue": "Union Hall",
-      "date": "2026-11-08T00:00:00.000Z",
-      "time": null,
-      "description": "Gag Reflex: a sketch show",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Gabrielle Kennedy Presents Costume Party",
-      "venue": "Union Hall",
-      "date": "2026-11-08T00:00:00.000Z",
-      "time": null,
-      "description": "Gabrielle Kennedy Presents Costume Party",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-11-08T00:00:00.000Z",
-      "time": "10:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-11-08T00:00:00.000Z",
-      "time": "10:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-11-08T00:00:00.000Z",
-      "time": "11:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-11-08T00:00:00.000Z",
-      "time": "1:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "HOMEWARD BOUND: A KOREAN ADOPTEE EXPLORING THE LONGING FOR BELONGING",
-      "venue": "Caveat",
-      "date": "2026-11-08T00:00:00.000Z",
-      "time": "2:30 PM",
-      "description": "In-person",
-      "url": "https://caveat.nyc/events/homeward-bound-a-korean-adoptee-exploring-the-longing-for-belonging-2026-11-08"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar",
-      "date": "2026-11-08T00:00:00.000Z",
-      "time": "4:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "THE LAST PALESTINIAN",
-      "venue": "Caveat",
-      "date": "2026-11-08T00:00:00.000Z",
-      "time": "5:00 PM",
-      "description": "In-person & Livestream",
-      "url": "https://caveat.nyc/events/the-last-palestinian-2026-11-08"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar",
-      "date": "2026-11-08T00:00:00.000Z",
-      "time": "5:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-11-08T00:00:00.000Z",
-      "time": "6:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-11-08T00:00:00.000Z",
-      "time": "6:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-11-08T00:00:00.000Z",
-      "time": "7:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "COMEDIANS INTERVIEW EXPERTS: THRIVING WITH ANXIETY WITH BARON VAUGHN AND DR. APRIL TOURE",
-      "venue": "Caveat",
-      "date": "2026-11-08T00:00:00.000Z",
-      "time": "7:30 PM",
-      "description": "In-person",
-      "url": "https://caveat.nyc/events/comedians-interview-experts-2026-11-08"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-11-08T00:00:00.000Z",
-      "time": "7:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-11-08T00:00:00.000Z",
-      "time": "8:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-11-08T00:00:00.000Z",
-      "time": "8:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-11-08T00:00:00.000Z",
-      "time": "9:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-11-08T00:00:00.000Z",
-      "time": "9:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
       "title": "Peyton Dix and Friends",
       "venue": "Union Hall",
       "date": "2026-11-09T00:00:00.000Z",
@@ -335,14 +31,6 @@
       "time": "11:30 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "FUN BY DESIGN",
-      "venue": "Caveat",
-      "date": "2026-11-09T00:00:00.000Z",
-      "time": "7:00 PM",
-      "description": "In-person & Livestream",
-      "url": "https://caveat.nyc/events/fun-by-design-2026-11-09"
     },
     {
       "title": "Comedy Showcase",
@@ -377,12 +65,12 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
-      "title": "WRONG: A F*CKED-UP GAME SHOW (NYCF)",
-      "venue": "Caveat",
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Fat Black Pussycat",
       "date": "2026-11-09T00:00:00.000Z",
-      "time": "9:30 PM",
-      "description": "In-person & Livestream",
-      "url": "https://caveat.nyc/events/wrong-a-fcked-up-game-show-nycf-2026-11-09"
+      "time": "8:30 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
       "title": "Comedy Showcase",
@@ -429,6 +117,14 @@
       "venue": "Comedy Cellar - Village Underground",
       "date": "2026-11-10T00:00:00.000Z",
       "time": "10:00 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Fat Black Pussycat",
+      "date": "2026-11-10T00:00:00.000Z",
+      "time": "10:30 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
@@ -937,12 +633,28 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
-      "title": "Comedy Showcase",
+      "title": "AND SCENE",
+      "venue": "Caveat",
+      "date": "2026-11-16T00:00:00.000Z",
+      "time": "7:00 PM",
+      "description": "In-person & Livestream",
+      "url": "https://caveat.nyc/events/and-scene-2026-11-16"
+    },
+    {
+      "title": "An Hour with Keith Robinson Show",
       "venue": "Comedy Cellar",
       "date": "2026-11-16T00:00:00.000Z",
       "time": "7:00 pm",
-      "description": "Lineup to be announced",
+      "description": "An Hour with Keith Robinson Show: Final Fat",
       "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "JO MARCH MADNESS",
+      "venue": "Caveat",
+      "date": "2026-11-16T00:00:00.000Z",
+      "time": "9:30 PM",
+      "description": "In-person",
+      "url": "https://caveat.nyc/events/jo-march-madness-2026-11-16"
     },
     {
       "title": "Frankenstein's Baby",
@@ -969,12 +681,28 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
+      "title": "JEWISH DATING GAME",
+      "venue": "Caveat",
+      "date": "2026-11-17T00:00:00.000Z",
+      "time": "7:00 PM",
+      "description": "In-person",
+      "url": "https://caveat.nyc/events/jewish-dating-game-2026-11-17"
+    },
+    {
       "title": "Comedy Showcase",
       "venue": "Comedy Cellar",
       "date": "2026-11-17T00:00:00.000Z",
       "time": "7:00 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "STORY-OKE: SING AND TELL",
+      "venue": "Caveat",
+      "date": "2026-11-17T00:00:00.000Z",
+      "time": "9:30 PM",
+      "description": "In-person",
+      "url": "https://caveat.nyc/events/story-oke-sing-and-tell-2026-11-17"
     },
     {
       "title": "Hotel Art Thief",
@@ -993,6 +721,14 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
+      "title": "PITCH ROAST LIVE",
+      "venue": "Caveat",
+      "date": "2026-11-18T00:00:00.000Z",
+      "time": "7:00 PM",
+      "description": "In-person",
+      "url": "https://caveat.nyc/events/pitch-roast-live-2026-11-18"
+    },
+    {
       "title": "Comedy Showcase",
       "venue": "Comedy Cellar",
       "date": "2026-11-18T00:00:00.000Z",
@@ -1009,12 +745,28 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
+      "title": "SORRY WE'RE HERE: A SKETCH VARIETY SHOW",
+      "venue": "Caveat",
+      "date": "2026-11-18T00:00:00.000Z",
+      "time": "9:30 PM",
+      "description": "In-person & Livestream",
+      "url": "https://caveat.nyc/events/sorry-were-here-2026-11-18"
+    },
+    {
       "title": "DELIADELIA! CURSED!",
       "venue": "Union Hall",
       "date": "2026-11-19T00:00:00.000Z",
       "time": null,
       "description": "DELIADELIA! CURSED!",
       "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "FACTS MACHINE: SCIENCE COMEDY & TRIVIA!",
+      "venue": "Caveat",
+      "date": "2026-11-19T00:00:00.000Z",
+      "time": "7:00 PM",
+      "description": "In-person & Livestream",
+      "url": "https://caveat.nyc/events/facts-machine-science-comedy-trivia-2026-11-19"
     },
     {
       "title": "Opey Olagbaju",
@@ -1273,6 +1025,22 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar",
+      "date": "2026-12-06T00:00:00.000Z",
+      "time": "4:00 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar",
+      "date": "2026-12-06T00:00:00.000Z",
+      "time": "6:00 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
       "title": "Gavin Matts: profound",
       "venue": "Union Hall",
       "date": "2026-12-09T00:00:00.000Z",
@@ -1449,39 +1217,23 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "DRUNK BLACK HISTORY - NEW YORK COMEDY FESTIVAL EDITION",
+      "title": "FUN BY DESIGN",
       "venue": "Caveat",
-      "date": "2027-11-07T00:00:00.000Z",
-      "time": "1:30 PM",
-      "description": "In-person & Livestream",
-      "url": "https://caveat.nyc/events/drunk-black-history-new-york-comedy-festival-edition-2026-11-07"
-    },
-    {
-      "title": "MOMS AGAINST SKETCH COMEDY",
-      "venue": "Caveat",
-      "date": "2027-11-07T00:00:00.000Z",
-      "time": "4:00 PM",
-      "description": "In-person",
-      "url": "https://caveat.nyc/events/moms-against-sketch-comedy-2026-11-07"
-    },
-    {
-      "title": "TOM D'S BIG NEW YORK SHOW (NYCF)",
-      "venue": "Caveat",
-      "date": "2027-11-07T00:00:00.000Z",
+      "date": "2027-11-09T00:00:00.000Z",
       "time": "7:00 PM",
       "description": "In-person & Livestream",
-      "url": "https://caveat.nyc/events/tom-ds-big-new-york-show-2026-11-07"
+      "url": "https://caveat.nyc/events/fun-by-design-2026-11-09"
     },
     {
-      "title": "THE FANTASY TAVERN",
+      "title": "WRONG: A F*CKED-UP GAME SHOW (NYCF)",
       "venue": "Caveat",
-      "date": "2027-11-07T00:00:00.000Z",
+      "date": "2027-11-09T00:00:00.000Z",
       "time": "9:30 PM",
-      "description": "In-person",
-      "url": "https://caveat.nyc/events/the-fantasy-tavern-11-7-2026"
+      "description": "In-person & Livestream",
+      "url": "https://caveat.nyc/events/wrong-a-fcked-up-game-show-nycf-2026-11-09"
     }
   ],
-  "lastUpdated": "2026-11-07T12:22:34.120278Z",
+  "lastUpdated": "2026-11-09T14:59:10.381564Z",
   "sources": [
     "DoNYC",
     "Caveat",
@@ -1491,5 +1243,5 @@
     "UCB Theatre",
     "The Bell House"
   ],
-  "totalShows": 185
+  "totalShows": 154
 }
