@@ -1,94 +1,6 @@
 {
   "shows": [
     {
-      "title": "Peyton Dix and Friends",
-      "venue": "Union Hall",
-      "date": "2026-11-09T00:00:00.000Z",
-      "time": null,
-      "description": "Peyton Dix and Friends",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Critical Grace Theory",
-      "venue": "Union Hall",
-      "date": "2026-11-09T00:00:00.000Z",
-      "time": null,
-      "description": "Critical Grace Theory",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-11-09T00:00:00.000Z",
-      "time": "10:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-11-09T00:00:00.000Z",
-      "time": "11:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar",
-      "date": "2026-11-09T00:00:00.000Z",
-      "time": "7:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-11-09T00:00:00.000Z",
-      "time": "7:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-11-09T00:00:00.000Z",
-      "time": "7:35 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-11-09T00:00:00.000Z",
-      "time": "8:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat",
-      "date": "2026-11-09T00:00:00.000Z",
-      "time": "8:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-11-09T00:00:00.000Z",
-      "time": "9:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-11-09T00:00:00.000Z",
-      "time": "9:35 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
       "title": "Ilana Glazer: Run Through",
       "venue": "Union Hall",
       "date": "2026-11-10T00:00:00.000Z",
@@ -137,14 +49,6 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
-      "title": "HELLO, PUZZLERS! GAME NIGHT",
-      "venue": "Caveat",
-      "date": "2026-11-10T00:00:00.000Z",
-      "time": "7:00 PM",
-      "description": "In-person",
-      "url": "https://caveat.nyc/events/hello-puzzlers-live-2026-11-10"
-    },
-    {
       "title": "Comedy Showcase",
       "venue": "Comedy Cellar",
       "date": "2026-11-10T00:00:00.000Z",
@@ -183,14 +87,6 @@
       "time": "8:30 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "HOLLYWOOD CRIME SCENE",
-      "venue": "Caveat",
-      "date": "2026-11-10T00:00:00.000Z",
-      "time": "9:30 PM",
-      "description": "In-person",
-      "url": "https://caveat.nyc/events/hollywood-crime-scene-2026-11-10"
     },
     {
       "title": "Comedy Showcase",
@@ -593,14 +489,6 @@
       "url": "https://caveat.nyc/events/funny-money-2026-11-15"
     },
     {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar",
-      "date": "2026-11-15T00:00:00.000Z",
-      "time": "5:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
       "title": "COMEDIANS INTERVIEW EXPERTS: CREATIVITY IN SCIENCE WITH SARAH ADELMAN AND ITAI YANAI",
       "venue": "Caveat",
       "date": "2026-11-15T00:00:00.000Z",
@@ -705,6 +593,14 @@
       "url": "https://caveat.nyc/events/story-oke-sing-and-tell-2026-11-17"
     },
     {
+      "title": "Invisible Architecture: An Evening of Comedy with Charlie Flynn",
+      "venue": "Union Hall",
+      "date": "2026-11-18T00:00:00.000Z",
+      "time": null,
+      "description": "Invisible Architecture: An Evening of Comedy with Charlie Flynn",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
       "title": "Hotel Art Thief",
       "venue": "Union Hall",
       "date": "2026-11-18T00:00:00.000Z",
@@ -769,6 +665,14 @@
       "url": "https://caveat.nyc/events/facts-machine-science-comedy-trivia-2026-11-19"
     },
     {
+      "title": "DO IT LIVE W/ CHIKA",
+      "venue": "Caveat",
+      "date": "2026-11-19T00:00:00.000Z",
+      "time": "9:30 PM",
+      "description": "In-person & Livestream",
+      "url": "https://caveat.nyc/events/do-it-live-w-chika-11-19-2026"
+    },
+    {
       "title": "Opey Olagbaju",
       "venue": "Union Hall",
       "date": "2026-11-20T00:00:00.000Z",
@@ -791,6 +695,14 @@
       "time": null,
       "description": "KARAOKE TREMENDOUS",
       "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "OUR FINDINGS SHOW",
+      "venue": "Caveat",
+      "date": "2026-11-20T00:00:00.000Z",
+      "time": "7:00 PM",
+      "description": "In-person & Livestream",
+      "url": "https://caveat.nyc/events/our-findings-show-11-20-2026"
     },
     {
       "title": "Avery McClure & Friends",
@@ -1097,6 +1009,14 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "Untitled New Miss Claus Musical (second show added)",
+      "venue": "Union Hall",
+      "date": "2026-12-14T00:00:00.000Z",
+      "time": null,
+      "description": "Untitled New Miss Claus Musical (second show added)",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
       "title": "Charlie Bardey Presents THE PROMISE OF THE HEARTH Part III",
       "venue": "Union Hall",
       "date": "2026-12-15T00:00:00.000Z",
@@ -1217,23 +1137,23 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "FUN BY DESIGN",
+      "title": "HELLO, PUZZLERS! GAME NIGHT",
       "venue": "Caveat",
-      "date": "2027-11-09T00:00:00.000Z",
+      "date": "2027-11-10T00:00:00.000Z",
       "time": "7:00 PM",
-      "description": "In-person & Livestream",
-      "url": "https://caveat.nyc/events/fun-by-design-2026-11-09"
+      "description": "In-person",
+      "url": "https://caveat.nyc/events/hello-puzzlers-live-2026-11-10"
     },
     {
-      "title": "WRONG: A F*CKED-UP GAME SHOW (NYCF)",
+      "title": "HOLLYWOOD CRIME SCENE",
       "venue": "Caveat",
-      "date": "2027-11-09T00:00:00.000Z",
+      "date": "2027-11-10T00:00:00.000Z",
       "time": "9:30 PM",
-      "description": "In-person & Livestream",
-      "url": "https://caveat.nyc/events/wrong-a-fcked-up-game-show-nycf-2026-11-09"
+      "description": "In-person",
+      "url": "https://caveat.nyc/events/hollywood-crime-scene-2026-11-10"
     }
   ],
-  "lastUpdated": "2026-11-09T14:59:10.381564Z",
+  "lastUpdated": "2026-11-10T14:14:06.799684Z",
   "sources": [
     "DoNYC",
     "Caveat",
@@ -1243,5 +1163,5 @@
     "UCB Theatre",
     "The Bell House"
   ],
-  "totalShows": 154
+  "totalShows": 144
 }
