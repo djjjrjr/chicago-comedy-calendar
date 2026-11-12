@@ -1,110 +1,6 @@
 {
   "shows": [
     {
-      "title": "Maddy Kelly",
-      "venue": "Union Hall",
-      "date": "2026-11-11T00:00:00.000Z",
-      "time": null,
-      "description": "Maddy Kelly",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Eddie Pepitone Headlining Union Hall",
-      "venue": "Union Hall",
-      "date": "2026-11-11T00:00:00.000Z",
-      "time": null,
-      "description": "Eddie Pepitone Headlining Union Hall",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-11-11T00:00:00.000Z",
-      "time": "10:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-11-11T00:00:00.000Z",
-      "time": "10:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-11-11T00:00:00.000Z",
-      "time": "11:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar",
-      "date": "2026-11-11T00:00:00.000Z",
-      "time": "6:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar",
-      "date": "2026-11-11T00:00:00.000Z",
-      "time": "7:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-11-11T00:00:00.000Z",
-      "time": "7:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-11-11T00:00:00.000Z",
-      "time": "7:35 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-11-11T00:00:00.000Z",
-      "time": "8:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-11-11T00:00:00.000Z",
-      "time": "8:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-11-11T00:00:00.000Z",
-      "time": "9:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-11-11T00:00:00.000Z",
-      "time": "9:35 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
       "title": "Sienna Hubert-Ross & Friends",
       "venue": "Union Hall",
       "date": "2026-11-12T00:00:00.000Z",
@@ -161,14 +57,6 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
-      "title": "LECTURES ON TAP - \"COMMON PITFALLS IN STATISTICAL REASONING\"",
-      "venue": "Caveat",
-      "date": "2026-11-12T00:00:00.000Z",
-      "time": "7:00 PM",
-      "description": "In-person",
-      "url": "https://caveat.nyc/events/lectures-on-tap-common-pitfalls-in-statistical-reasoning-2026-11-12"
-    },
-    {
       "title": "Comedy Showcase",
       "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
       "date": "2026-11-12T00:00:00.000Z",
@@ -207,14 +95,6 @@
       "time": "9:00 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "LOOKING FOR LAUGHS (NYCF)",
-      "venue": "Caveat",
-      "date": "2026-11-12T00:00:00.000Z",
-      "time": "9:30 PM",
-      "description": "In-person",
-      "url": "https://caveat.nyc/events/looking-for-laughs-nycf-2026-11-12"
     },
     {
       "title": "Comedy Showcase",
@@ -1225,12 +1105,36 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "The Roundup with DJ Cowboy",
+      "venue": "Union Hall",
+      "date": "2026-11-21T00:00:00.000Z",
+      "time": null,
+      "description": "The Roundup with DJ Cowboy",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
       "title": "IS THIS PROBLEMATIC? CLIMATE 101",
       "venue": "Caveat",
       "date": "2026-11-21T00:00:00.000Z",
       "time": "1:30 PM",
       "description": "In-person",
       "url": "https://caveat.nyc/events/is-this-problematic-climate-101-2026-11-21"
+    },
+    {
+      "title": "THE LOVE SEAT",
+      "venue": "Caveat",
+      "date": "2026-11-21T00:00:00.000Z",
+      "time": "4:00 PM",
+      "description": "In-person & Livestream",
+      "url": "https://caveat.nyc/events/the-love-seat-2026-11-21"
+    },
+    {
+      "title": "LECTURES ON TAP - \"THE STORY OF LITHIUM: FROM THE BIG BANG TO YOUR BRAIN\"",
+      "venue": "Caveat",
+      "date": "2026-11-21T00:00:00.000Z",
+      "time": "7:00 PM",
+      "description": "In-person",
+      "url": "https://caveat.nyc/events/lectures-on-tap-the-story-of-lithium-from-the-big-bang-to-your-brain-2026-11-21"
     },
     {
       "title": "(CLASS) Intro to Public Speaking with Tyrone Thornhill",
@@ -1393,6 +1297,14 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "KARAOKE TREMENDOUS",
+      "venue": "Union Hall",
+      "date": "2026-12-04T00:00:00.000Z",
+      "time": null,
+      "description": "KARAOKE TREMENDOUS",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
       "title": "Liam Dalton Live",
       "venue": "Union Hall",
       "date": "2026-12-05T00:00:00.000Z",
@@ -1457,11 +1369,35 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
+      "title": "PRETTY MAJOR Hosted by Jay Jurden",
+      "venue": "Union Hall",
+      "date": "2026-12-08T00:00:00.000Z",
+      "time": null,
+      "description": "PRETTY MAJOR Hosted by Jay Jurden",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
       "title": "Gavin Matts: profound",
       "venue": "Union Hall",
       "date": "2026-12-09T00:00:00.000Z",
       "time": null,
       "description": "Gavin Matts: profound",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar",
+      "date": "2026-12-09T00:00:00.000Z",
+      "time": "8:00 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "KARAOKE TREMENDOUS",
+      "venue": "Union Hall",
+      "date": "2026-12-11T00:00:00.000Z",
+      "time": null,
+      "description": "KARAOKE TREMENDOUS",
       "url": "https://unionhallny.com/calendar"
     },
     {
@@ -1537,6 +1473,14 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "KARAOKE TREMENDOUS",
+      "venue": "Union Hall",
+      "date": "2026-12-18T00:00:00.000Z",
+      "time": null,
+      "description": "KARAOKE TREMENDOUS",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
       "title": "Good God",
       "venue": "Union Hall",
       "date": "2026-12-20T00:00:00.000Z",
@@ -1553,11 +1497,27 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "KARAOKE TREMENDOUS",
+      "venue": "Union Hall",
+      "date": "2026-12-25T00:00:00.000Z",
+      "time": null,
+      "description": "KARAOKE TREMENDOUS",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
       "title": "Famous Last Words",
       "venue": "Union Hall",
       "date": "2026-12-28T00:00:00.000Z",
       "time": null,
       "description": "Famous Last Words",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "PRETTY MAJOR Hosted by Jay Jurden",
+      "venue": "Union Hall",
+      "date": "2026-12-29T00:00:00.000Z",
+      "time": null,
+      "description": "PRETTY MAJOR Hosted by Jay Jurden",
       "url": "https://unionhallny.com/calendar"
     },
     {
@@ -1590,6 +1550,14 @@
       "date": "2027-01-16T00:00:00.000Z",
       "time": null,
       "description": "Jamie Wolf: Psycho",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "The Liva Experiment",
+      "venue": "Union Hall",
+      "date": "2027-01-21T00:00:00.000Z",
+      "time": null,
+      "description": "The Liva Experiment",
       "url": "https://unionhallny.com/calendar"
     },
     {
@@ -1657,23 +1625,23 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "PEER REVUE",
+      "title": "LECTURES ON TAP - \"COMMON PITFALLS IN STATISTICAL REASONING\"",
       "venue": "Caveat",
-      "date": "2027-11-11T00:00:00.000Z",
+      "date": "2027-11-12T00:00:00.000Z",
       "time": "7:00 PM",
-      "description": "In-person & Livestream",
-      "url": "https://caveat.nyc/events/peer-revue-11-11-2026"
+      "description": "In-person",
+      "url": "https://caveat.nyc/events/lectures-on-tap-common-pitfalls-in-statistical-reasoning-2026-11-12"
     },
     {
-      "title": "SAGEMATCH (NYCF)",
+      "title": "LOOKING FOR LAUGHS (NYCF)",
       "venue": "Caveat",
-      "date": "2027-11-11T00:00:00.000Z",
+      "date": "2027-11-12T00:00:00.000Z",
       "time": "9:30 PM",
       "description": "In-person",
-      "url": "https://caveat.nyc/events/sagematch-nycf-2026-11-11"
+      "url": "https://caveat.nyc/events/looking-for-laughs-nycf-2026-11-12"
     }
   ],
-  "lastUpdated": "2026-11-11T13:29:32.625844Z",
+  "lastUpdated": "2026-11-12T14:32:48.627805Z",
   "sources": [
     "DoNYC",
     "Caveat",
@@ -1683,5 +1651,5 @@
     "UCB Theatre",
     "The Bell House"
   ],
-  "totalShows": 209
+  "totalShows": 205
 }
