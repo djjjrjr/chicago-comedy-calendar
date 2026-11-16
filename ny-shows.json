@@ -1,302 +1,6 @@
 {
   "shows": [
     {
-      "title": "Lukas McCrary",
-      "venue": "Union Hall",
-      "date": "2026-11-14T00:00:00.000Z",
-      "time": null,
-      "description": "Lukas McCrary",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Sureni Does an Hour of Comedy",
-      "venue": "Union Hall",
-      "date": "2026-11-14T00:00:00.000Z",
-      "time": null,
-      "description": "Sureni Does an Hour of Comedy",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Business Casual: Sicko Psycho Mode Reunion",
-      "venue": "Union Hall",
-      "date": "2026-11-14T00:00:00.000Z",
-      "time": null,
-      "description": "Business Casual: Sicko Psycho Mode Reunion",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Business Casual DJ Set From Hell",
-      "venue": "Union Hall",
-      "date": "2026-11-14T00:00:00.000Z",
-      "time": null,
-      "description": "Business Casual DJ Set From Hell",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-11-14T00:00:00.000Z",
-      "time": "10:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-11-14T00:00:00.000Z",
-      "time": "10:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-11-14T00:00:00.000Z",
-      "time": "11:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-11-14T00:00:00.000Z",
-      "time": "11:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-11-14T00:00:00.000Z",
-      "time": "11:55 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-11-14T00:00:00.000Z",
-      "time": "12:30 am",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-11-14T00:00:00.000Z",
-      "time": "12:55 am",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "5",
-      "venue": "Comedy Cellar",
-      "date": "2026-11-14T00:00:00.000Z",
-      "time": "5:30 pm",
-      "description": "5:30pm Eric Neumann: Neu Material",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-11-14T00:00:00.000Z",
-      "time": "6:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-11-14T00:00:00.000Z",
-      "time": "6:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-11-14T00:00:00.000Z",
-      "time": "7:01 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-11-14T00:00:00.000Z",
-      "time": "7:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-11-14T00:00:00.000Z",
-      "time": "8:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-11-14T00:00:00.000Z",
-      "time": "8:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-11-14T00:00:00.000Z",
-      "time": "9:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-11-14T00:00:00.000Z",
-      "time": "9:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "MESS",
-      "venue": "Union Hall",
-      "date": "2026-11-15T00:00:00.000Z",
-      "time": null,
-      "description": "MESS",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Kel Cripe: Easily Swindled",
-      "venue": "Union Hall",
-      "date": "2026-11-15T00:00:00.000Z",
-      "time": null,
-      "description": "Kel Cripe: Easily Swindled",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-11-15T00:00:00.000Z",
-      "time": "10:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-11-15T00:00:00.000Z",
-      "time": "10:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-11-15T00:00:00.000Z",
-      "time": "11:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-11-15T00:00:00.000Z",
-      "time": "1:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "ALIEN ANCHORS VOL. II",
-      "venue": "Caveat",
-      "date": "2026-11-15T00:00:00.000Z",
-      "time": "2:30 PM",
-      "description": "In-person & Livestream",
-      "url": "https://caveat.nyc/events/alien-anchors-vol-ii-2026-11-15"
-    },
-    {
-      "title": "FUNNY MONEY",
-      "venue": "Caveat",
-      "date": "2026-11-15T00:00:00.000Z",
-      "time": "5:00 PM",
-      "description": "In-person & Livestream",
-      "url": "https://caveat.nyc/events/funny-money-2026-11-15"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-11-15T00:00:00.000Z",
-      "time": "6:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-11-15T00:00:00.000Z",
-      "time": "6:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-11-15T00:00:00.000Z",
-      "time": "7:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "COMEDIANS INTERVIEW EXPERTS: CREATIVITY IN SCIENCE WITH SARAH ADELMAN AND ITAI YANAI",
-      "venue": "Caveat",
-      "date": "2026-11-15T00:00:00.000Z",
-      "time": "7:30 PM",
-      "description": "In-person",
-      "url": "https://caveat.nyc/events/comedians-interview-experts-creativity-in-science-with-sarah-adelman-and-itai-yanai-2026-11-15"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-11-15T00:00:00.000Z",
-      "time": "7:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-11-15T00:00:00.000Z",
-      "time": "8:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-11-15T00:00:00.000Z",
-      "time": "8:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-11-15T00:00:00.000Z",
-      "time": "9:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-11-15T00:00:00.000Z",
-      "time": "9:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
       "title": "Sean Patton: Eros",
       "venue": "Union Hall",
       "date": "2026-11-16T00:00:00.000Z",
@@ -337,14 +41,6 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
-      "title": "AND SCENE",
-      "venue": "Caveat",
-      "date": "2026-11-16T00:00:00.000Z",
-      "time": "7:00 PM",
-      "description": "In-person & Livestream",
-      "url": "https://caveat.nyc/events/and-scene-2026-11-16"
-    },
-    {
       "title": "An Hour with Keith Robinson Show",
       "venue": "Comedy Cellar",
       "date": "2026-11-16T00:00:00.000Z",
@@ -377,12 +73,12 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
-      "title": "JO MARCH MADNESS",
-      "venue": "Caveat",
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Fat Black Pussycat",
       "date": "2026-11-16T00:00:00.000Z",
-      "time": "9:30 PM",
-      "description": "In-person",
-      "url": "https://caveat.nyc/events/jo-march-madness-2026-11-16"
+      "time": "8:30 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
       "title": "Comedy Showcase",
@@ -421,6 +117,14 @@
       "venue": "Comedy Cellar - Village Underground",
       "date": "2026-11-17T00:00:00.000Z",
       "time": "10:00 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Fat Black Pussycat",
+      "date": "2026-11-17T00:00:00.000Z",
+      "time": "10:30 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
@@ -785,6 +489,14 @@
       "url": "https://caveat.nyc/events/laughmasters-2026-11-20"
     },
     {
+      "title": "Josh Mandl",
+      "venue": "Union Hall",
+      "date": "2026-11-21T00:00:00.000Z",
+      "time": null,
+      "description": "Josh Mandl",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
       "title": "Avery McClure & Friends",
       "venue": "Union Hall",
       "date": "2026-11-21T00:00:00.000Z",
@@ -807,6 +519,14 @@
       "time": null,
       "description": "Beyoncé, Doechii, and everything in btwn with DJ Mariko",
       "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "IS THIS PROBLEMATIC? CLIMATE 101",
+      "venue": "Caveat",
+      "date": "2026-11-21T00:00:00.000Z",
+      "time": "1:30 PM",
+      "description": "In-person",
+      "url": "https://caveat.nyc/events/is-this-problematic-climate-101-2026-11-21"
     },
     {
       "title": "THE LOVE SEAT",
@@ -846,6 +566,14 @@
       "date": "2026-11-22T00:00:00.000Z",
       "time": null,
       "description": "LOOK AT ME: Technology That Matters",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Good God",
+      "venue": "Union Hall",
+      "date": "2026-11-22T00:00:00.000Z",
+      "time": null,
+      "description": "Good God",
       "url": "https://unionhallny.com/calendar"
     },
     {
@@ -913,6 +641,14 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "SCIENCE TONIGHT! - OOOPS ALL REPORTER SKETCHES",
+      "venue": "Caveat",
+      "date": "2026-11-24T00:00:00.000Z",
+      "time": "7:00 PM",
+      "description": "In-person & Livestream",
+      "url": "https://caveat.nyc/events/science-tonight-ooops-all-reporter-sketches-2026-11-24"
+    },
+    {
       "title": "Comedy Showcase",
       "venue": "Comedy Cellar",
       "date": "2026-11-24T00:00:00.000Z",
@@ -927,6 +663,14 @@
       "time": null,
       "description": "Pizzazz with Gary Gulman",
       "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "LECTURES ON TAP - \"WHEN ART WAS DANGEROUS: SURREALISM DURING WORLD WAR II\"",
+      "venue": "Caveat",
+      "date": "2026-11-25T00:00:00.000Z",
+      "time": "7:00 PM",
+      "description": "In-person",
+      "url": "https://caveat.nyc/events/lectures-on-tap-when-art-was-dangerous-surrealism-during-world-war-ii-2026-11-25"
     },
     {
       "title": "Girl Church hosted by Amelia Ritthaler",
@@ -953,6 +697,14 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "Devon Walker: PLEASE DON'T MAKE ME FAMOUS II",
+      "venue": "Union Hall",
+      "date": "2026-11-28T00:00:00.000Z",
+      "time": null,
+      "description": "Devon Walker: PLEASE DON'T MAKE ME FAMOUS II",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
       "title": "The Roundup with DJ Cowboy",
       "venue": "Union Hall",
       "date": "2026-11-28T00:00:00.000Z",
@@ -961,12 +713,44 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "GARBAGE DAY - WORST THINGS ON THE INTERNET 2026",
+      "venue": "Caveat",
+      "date": "2026-11-28T00:00:00.000Z",
+      "time": "7:00 PM",
+      "description": "In-person",
+      "url": "https://caveat.nyc/events/garbage-day-worst-things-on-the-internet-2026-2026-11-28"
+    },
+    {
+      "title": "CELEBRITY DEBATE CLUB",
+      "venue": "Caveat",
+      "date": "2026-11-28T00:00:00.000Z",
+      "time": "9:30 PM",
+      "description": "In-person",
+      "url": "https://caveat.nyc/events/celebrity-debate-club-2026-11-28"
+    },
+    {
       "title": "Gone Fishing with Wally Baram and Vikrant Sunderlal",
       "venue": "Union Hall",
       "date": "2026-11-29T00:00:00.000Z",
       "time": null,
       "description": "Gone Fishing with Wally Baram and Vikrant Sunderlal",
       "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "IMPOSSIBLE NEW YORK STORIES",
+      "venue": "Caveat",
+      "date": "2026-11-29T00:00:00.000Z",
+      "time": "2:30 PM",
+      "description": "In-person & Livestream",
+      "url": "https://caveat.nyc/events/impossible-new-york-stories-2026-11-29"
+    },
+    {
+      "title": "THE BRONTË SISTERZ' CRAPPY HOLIDAYS",
+      "venue": "Caveat",
+      "date": "2026-11-29T00:00:00.000Z",
+      "time": "5:00 PM",
+      "description": "In-person",
+      "url": "https://caveat.nyc/events/the-bront-sisterz-crappy-holidays-2026-11-29"
     },
     {
       "title": "Comedy Showcase",
@@ -983,6 +767,14 @@
       "time": null,
       "description": "Charlie Bardey Presents THE PROMISE OF THE HEARTH - Part II: The Eave",
       "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar",
+      "date": "2026-11-30T00:00:00.000Z",
+      "time": "6:00 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
       "title": "Comedy Showcase",
@@ -1129,12 +921,28 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar",
+      "date": "2026-12-07T00:00:00.000Z",
+      "time": "6:00 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
       "title": "PRETTY MAJOR Hosted by Jay Jurden",
       "venue": "Union Hall",
       "date": "2026-12-08T00:00:00.000Z",
       "time": null,
       "description": "PRETTY MAJOR Hosted by Jay Jurden",
       "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Comedy Showcase",
+      "venue": "Comedy Cellar",
+      "date": "2026-12-08T00:00:00.000Z",
+      "time": "6:00 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
       "title": "Gavin Matts: (failure)",
@@ -1158,6 +966,14 @@
       "date": "2026-12-10T00:00:00.000Z",
       "time": null,
       "description": "Bodega Chat Live",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Nico Carney Live!",
+      "venue": "Union Hall",
+      "date": "2026-12-11T00:00:00.000Z",
+      "time": null,
+      "description": "Nico Carney Live!",
       "url": "https://unionhallny.com/calendar"
     },
     {
@@ -1199,6 +1015,14 @@
       "time": null,
       "description": "Jenny & Alex Try New Jokes",
       "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Eric Neumann",
+      "venue": "Comedy Cellar",
+      "date": "2026-12-13T00:00:00.000Z",
+      "time": "5:00 pm",
+      "description": "Eric Neumann: Neu Material",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
       "title": "Untitled New Miss Claus Musical",
@@ -1289,6 +1113,14 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "New Year's Eve Time Machine! *Tickets available at the door only.",
+      "venue": "Union Hall",
+      "date": "2026-12-31T00:00:00.000Z",
+      "time": null,
+      "description": "New Year's Eve Time Machine! *Tickets available at the door only.",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
       "title": "Cold Plunge with Kurt Braunohler",
       "venue": "Union Hall",
       "date": "2027-01-06T00:00:00.000Z",
@@ -1302,6 +1134,14 @@
       "date": "2027-01-09T00:00:00.000Z",
       "time": null,
       "description": "Hoodo Hersi: Extraordinary Alien (a pretty funny comedy show)",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "(CLASS) Intro to Storytelling with Moth StorySLAM Champ Adam Wade",
+      "venue": "Union Hall",
+      "date": "2027-01-10T00:00:00.000Z",
+      "time": null,
+      "description": "(CLASS) Intro to Storytelling with Moth StorySLAM Champ Adam Wade",
       "url": "https://unionhallny.com/calendar"
     },
     {
@@ -1334,6 +1174,14 @@
       "date": "2027-01-30T00:00:00.000Z",
       "time": null,
       "description": "Gary Simons & Friends",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "(CLASS) Become a Cemetery Explorer & Symbol Decoder",
+      "venue": "Union Hall",
+      "date": "2027-02-07T00:00:00.000Z",
+      "time": null,
+      "description": "(CLASS) Become a Cemetery Explorer & Symbol Decoder",
       "url": "https://unionhallny.com/calendar"
     },
     {
@@ -1393,39 +1241,23 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "GET WORK",
+      "title": "AND SCENE",
       "venue": "Caveat",
-      "date": "2027-11-14T00:00:00.000Z",
-      "time": "1:30 PM",
-      "description": "In-person",
-      "url": "https://caveat.nyc/events/get-work-2026-11-14"
-    },
-    {
-      "title": "MODERN WHITNEY",
-      "venue": "Caveat",
-      "date": "2027-11-14T00:00:00.000Z",
-      "time": "4:00 PM",
-      "description": "In-person",
-      "url": "https://caveat.nyc/events/modern-whitney-2026-11-14"
-    },
-    {
-      "title": "COLLEGE RADIO",
-      "venue": "Caveat",
-      "date": "2027-11-14T00:00:00.000Z",
+      "date": "2027-11-16T00:00:00.000Z",
       "time": "7:00 PM",
       "description": "In-person & Livestream",
-      "url": "https://caveat.nyc/events/college-radio-2026-11-14"
+      "url": "https://caveat.nyc/events/and-scene-2026-11-16"
     },
     {
-      "title": "FUN IN MODERATION (NYCF)",
+      "title": "JO MARCH MADNESS",
       "venue": "Caveat",
-      "date": "2027-11-14T00:00:00.000Z",
+      "date": "2027-11-16T00:00:00.000Z",
       "time": "9:30 PM",
-      "description": "In-person & Livestream",
-      "url": "https://caveat.nyc/events/fun-in-moderation-sketch-comedy-2026-11-14"
+      "description": "In-person",
+      "url": "https://caveat.nyc/events/jo-march-madness-2026-11-16"
     }
   ],
-  "lastUpdated": "2026-11-14T12:59:35.639616Z",
+  "lastUpdated": "2026-11-16T14:35:14.749547Z",
   "sources": [
     "DoNYC",
     "Caveat",
@@ -1435,5 +1267,5 @@
     "UCB Theatre",
     "The Bell House"
   ],
-  "totalShows": 178
+  "totalShows": 157
 }
