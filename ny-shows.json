@@ -1,102 +1,6 @@
 {
   "shows": [
     {
-      "title": "DELIADELIA! CURSED!",
-      "venue": "Union Hall",
-      "date": "2026-11-19T00:00:00.000Z",
-      "time": null,
-      "description": "DELIADELIA! CURSED!",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-11-19T00:00:00.000Z",
-      "time": "10:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-11-19T00:00:00.000Z",
-      "time": "10:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-11-19T00:00:00.000Z",
-      "time": "11:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-11-19T00:00:00.000Z",
-      "time": "11:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-11-19T00:00:00.000Z",
-      "time": "6:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-11-19T00:00:00.000Z",
-      "time": "7:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-11-19T00:00:00.000Z",
-      "time": "7:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-11-19T00:00:00.000Z",
-      "time": "8:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-11-19T00:00:00.000Z",
-      "time": "8:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-11-19T00:00:00.000Z",
-      "time": "9:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-11-19T00:00:00.000Z",
-      "time": "9:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
       "title": "Opey Olagbaju",
       "venue": "Union Hall",
       "date": "2026-11-20T00:00:00.000Z",
@@ -193,14 +97,6 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
-      "title": "OUR FINDINGS SHOW",
-      "venue": "Caveat",
-      "date": "2026-11-20T00:00:00.000Z",
-      "time": "7:00 PM",
-      "description": "In-person & Livestream",
-      "url": "https://caveat.nyc/events/our-findings-show-11-20-2026"
-    },
-    {
       "title": "Comedy Showcase",
       "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
       "date": "2026-11-20T00:00:00.000Z",
@@ -241,14 +137,6 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
-      "title": "LAUGHMASTERS",
-      "venue": "Caveat",
-      "date": "2026-11-20T00:00:00.000Z",
-      "time": "9:30 PM",
-      "description": "In-person & Livestream",
-      "url": "https://caveat.nyc/events/laughmasters-2026-11-20"
-    },
-    {
       "title": "Comedy Showcase",
       "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
       "date": "2026-11-20T00:00:00.000Z",
@@ -281,11 +169,11 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "Beyoncé, Doechii, and everything in btwn with DJ Mariko",
+      "title": "DJ Lord Easy Plays Songs You Like To Dance To",
       "venue": "Union Hall",
       "date": "2026-11-21T00:00:00.000Z",
       "time": null,
-      "description": "Beyoncé, Doechii, and everything in btwn with DJ Mariko",
+      "description": "DJ Lord Easy Plays Songs You Like To Dance To",
       "url": "https://unionhallny.com/calendar"
     },
     {
@@ -906,6 +794,14 @@
     },
     {
       "title": "Comedy Showcase",
+      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
+      "date": "2026-11-26T00:00:00.000Z",
+      "time": "11:00 pm",
+      "description": "Lineup to be announced",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Comedy Showcase",
       "venue": "Comedy Cellar - Village Underground",
       "date": "2026-11-26T00:00:00.000Z",
       "time": "11:30 pm",
@@ -1201,6 +1097,22 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "IMMIGRANT JAM",
+      "venue": "Caveat",
+      "date": "2026-12-04T00:00:00.000Z",
+      "time": "7:00 PM",
+      "description": "In-person",
+      "url": "https://caveat.nyc/events/immigrant-jam-2026-12-04"
+    },
+    {
+      "title": "ARGUMENTS AND GRIEVANCES",
+      "venue": "Caveat",
+      "date": "2026-12-04T00:00:00.000Z",
+      "time": "9:30 PM",
+      "description": "In-person",
+      "url": "https://caveat.nyc/events/arguments-and-grievances-2026-12-04"
+    },
+    {
       "title": "Liam Dalton Live",
       "venue": "Union Hall",
       "date": "2026-12-05T00:00:00.000Z",
@@ -1263,6 +1175,14 @@
       "time": "6:00 pm",
       "description": "Lineup to be announced",
       "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
+      "title": "Frankenstein's Baby",
+      "venue": "Union Hall",
+      "date": "2026-12-07T00:00:00.000Z",
+      "time": null,
+      "description": "Frankenstein's Baby",
+      "url": "https://unionhallny.com/calendar"
     },
     {
       "title": "Comedy Showcase",
@@ -1465,11 +1385,27 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "Martin Urbano @ Union Hall",
+      "venue": "Union Hall",
+      "date": "2026-12-19T00:00:00.000Z",
+      "time": null,
+      "description": "Martin Urbano @ Union Hall",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
       "title": "Good God",
       "venue": "Union Hall",
       "date": "2026-12-20T00:00:00.000Z",
       "time": null,
       "description": "Good God",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Frankenstein's Baby",
+      "venue": "Union Hall",
+      "date": "2026-12-21T00:00:00.000Z",
+      "time": null,
+      "description": "Frankenstein's Baby",
       "url": "https://unionhallny.com/calendar"
     },
     {
@@ -1585,6 +1521,22 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
+      "title": "Jonathan van Halem Special Taping (early show)",
+      "venue": "Union Hall",
+      "date": "2027-01-24T00:00:00.000Z",
+      "time": null,
+      "description": "Jonathan van Halem Special Taping (early show)",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "Jonathan van Halem Special Taping (late show)",
+      "venue": "Union Hall",
+      "date": "2027-01-24T00:00:00.000Z",
+      "time": null,
+      "description": "Jonathan van Halem Special Taping (late show)",
+      "url": "https://unionhallny.com/calendar"
+    },
+    {
       "title": "Gavin Matts: (failure)",
       "venue": "Union Hall",
       "date": "2027-01-28T00:00:00.000Z",
@@ -1665,23 +1617,23 @@
       "url": "https://unionhallny.com/calendar"
     },
     {
-      "title": "FACTS MACHINE: SCIENCE COMEDY & TRIVIA!",
+      "title": "OUR FINDINGS SHOW",
       "venue": "Caveat",
-      "date": "2027-11-19T00:00:00.000Z",
+      "date": "2027-11-20T00:00:00.000Z",
       "time": "7:00 PM",
       "description": "In-person & Livestream",
-      "url": "https://caveat.nyc/events/facts-machine-science-comedy-trivia-2026-11-19"
+      "url": "https://caveat.nyc/events/our-findings-show-11-20-2026"
     },
     {
-      "title": "DO IT LIVE W/ CHIKA",
+      "title": "LAUGHMASTERS",
       "venue": "Caveat",
-      "date": "2027-11-19T00:00:00.000Z",
+      "date": "2027-11-20T00:00:00.000Z",
       "time": "9:30 PM",
       "description": "In-person & Livestream",
-      "url": "https://caveat.nyc/events/do-it-live-w-chika-11-19-2026"
+      "url": "https://caveat.nyc/events/laughmasters-2026-11-20"
     }
   ],
-  "lastUpdated": "2026-11-19T15:12:09.025000Z",
+  "lastUpdated": "2026-11-20T14:52:49.300725Z",
   "sources": [
     "DoNYC",
     "Caveat",
@@ -1691,5 +1643,5 @@
     "UCB Theatre",
     "The Bell House"
   ],
-  "totalShows": 210
+  "totalShows": 204
 }
