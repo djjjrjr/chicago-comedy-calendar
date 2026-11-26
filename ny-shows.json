@@ -1,126 +1,6 @@
 {
   "shows": [
     {
-      "title": "Pizzazz with Gary Gulman",
-      "venue": "Union Hall",
-      "date": "2026-11-25T00:00:00.000Z",
-      "time": null,
-      "description": "Pizzazz with Gary Gulman",
-      "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-11-25T00:00:00.000Z",
-      "time": "10:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-11-25T00:00:00.000Z",
-      "time": "10:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-11-25T00:00:00.000Z",
-      "time": "11:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-11-25T00:00:00.000Z",
-      "time": "11:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-11-25T00:00:00.000Z",
-      "time": "11:55 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-11-25T00:00:00.000Z",
-      "time": "12:30 am",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-11-25T00:00:00.000Z",
-      "time": "6:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-11-25T00:00:00.000Z",
-      "time": "6:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-11-25T00:00:00.000Z",
-      "time": "7:01 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-11-25T00:00:00.000Z",
-      "time": "7:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Village Underground",
-      "date": "2026-11-25T00:00:00.000Z",
-      "time": "8:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - MacDougal Street",
-      "date": "2026-11-25T00:00:00.000Z",
-      "time": "8:45 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Lounge)",
-      "date": "2026-11-25T00:00:00.000Z",
-      "time": "9:00 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
-      "title": "Comedy Showcase",
-      "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
-      "date": "2026-11-25T00:00:00.000Z",
-      "time": "9:30 pm",
-      "description": "Lineup to be announced",
-      "url": "https://www.comedycellar.com/reservations-newyork/"
-    },
-    {
       "title": "Comedy Showcase",
       "venue": "Comedy Cellar - Fat Black Pussycat (Bar)",
       "date": "2026-11-26T00:00:00.000Z",
@@ -881,6 +761,14 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
+      "title": "Braver Angels Presents Generation Uncoupled",
+      "venue": "Comedy Cellar",
+      "date": "2026-12-02T00:00:00.000Z",
+      "time": "6:00 pm",
+      "description": "Braver Angels Presents Generation Uncoupled: The New Gender Divide",
+      "url": "https://www.comedycellar.com/reservations-newyork/"
+    },
+    {
       "title": "NEXT SLIDE PLEASE",
       "venue": "Caveat",
       "date": "2026-12-02T00:00:00.000Z",
@@ -1201,12 +1089,12 @@
       "url": "https://www.comedycellar.com/reservations-newyork/"
     },
     {
-      "title": "COMEDIANS INTERVIEW EXPERTS: MENTAL HEALTH WITH GIANMARCO SORESI AND DR. ISAIAH PICKENS",
+      "title": "COMEDIANS INTERVIEW EXPERTS: MENTAL HEALTH WITH JON RUDNITSKY AND DR. ISAIAH PICKENS",
       "venue": "Caveat",
       "date": "2026-12-06T00:00:00.000Z",
       "time": "7:30 PM",
       "description": "In-person",
-      "url": "https://caveat.nyc/events/comedians-interview-experts-mental-health-with-gianmarco-soresi-and-dr-isaiah-pickens-2026-12-06"
+      "url": "https://caveat.nyc/events/comedians-interview-experts-mental-health-with-jon-rudnitsky-and-dr-isaiah-pickens-2026-12-06"
     },
     {
       "title": "Frankenstein's Baby",
@@ -1327,6 +1215,14 @@
       "time": null,
       "description": "Bodega Chat Live",
       "url": "https://unionhallny.com/calendar"
+    },
+    {
+      "title": "LECTURES ON TAP - \"WHY TIME FLIES: THE NEUROSCIENCE OF TIME PERCEPTION\"",
+      "venue": "Caveat",
+      "date": "2026-12-10T00:00:00.000Z",
+      "time": "7:00 PM",
+      "description": "In-person",
+      "url": "https://caveat.nyc/events/lectures-on-tap-why-time-flies-the-neuroscience-of-time-perception-2026-12-10"
     },
     {
       "title": "Nico Carney Live!",
@@ -1719,17 +1615,9 @@
       "time": null,
       "description": "(CLASS) Developing an Off-Broadway Show with Alison Leiby",
       "url": "https://unionhallny.com/calendar"
-    },
-    {
-      "title": "LECTURES ON TAP - \"WHEN ART WAS DANGEROUS: SURREALISM DURING WORLD WAR II\"",
-      "venue": "Caveat",
-      "date": "2027-11-25T00:00:00.000Z",
-      "time": "7:00 PM",
-      "description": "In-person",
-      "url": "https://caveat.nyc/events/lectures-on-tap-when-art-was-dangerous-surrealism-during-world-war-ii-2026-11-25"
     }
   ],
-  "lastUpdated": "2026-11-25T16:44:20.450669Z",
+  "lastUpdated": "2026-11-26T16:17:27.344160Z",
   "sources": [
     "DoNYC",
     "Caveat",
@@ -1739,5 +1627,5 @@
     "UCB Theatre",
     "The Bell House"
   ],
-  "totalShows": 216
+  "totalShows": 202
 }
